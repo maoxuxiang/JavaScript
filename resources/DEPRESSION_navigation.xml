@@ -1,0 +1,35 @@
+<feed>
+	<category label="Selective serotonin re-uptake inhibitor" term="C0360105" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label="Citalopram" term="C0008845" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="Fluoxetine" term="C0016365" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="Sertraline" term="C0074393" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="Paroxetine" term="C0070122" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="Escitalopram" term="C1099456" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+	<category label="Serotonin/Norepinephrine re-uptake inhibitor" term="C1579361" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label="venlafaxine" term="C0078569" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="duloxetine" term="C0245561" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+	<category label="Atypical antidepressant" term="C0242905" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label="Mirtazapine" term="C0049506" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="Bupropion" term="C0085208" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+	<category label="Central stimulants" term="C0002763" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label="Dextroamphetamine" term="C0011812" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="modafinil" term="C0066677" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+	<category label="Mood stabilizing drug" term="C1276998" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label="Lithium" term="C0023870" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="lamotrigine" term="C0064636" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+	<category label="Thyroid product" term="C0040135" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label="Triiodothyronine" term="C0041014" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+	<category label="Antipsychotics" term="C0040615" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label="Risperidone" term="C0073393" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="Trazodone" term="C0040805" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="quetiapine" term="C0123091" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="olanzapine" term="C0171023" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label="aripiprazole" term="C0299792" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+</feed>

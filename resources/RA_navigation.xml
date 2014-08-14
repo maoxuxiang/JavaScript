@@ -1,0 +1,43 @@
+<feed>
+	<category count="16" label = "Biological Response Modifier Therapy" term="C0005527" scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="12" label = "abatacept" term="C1619966" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="4" label = "anakinra" term="C0245109" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+
+	<category count="151" label = "Disease-modifying antirheumatic drugs (DMARDs)" term="C0242708" scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="3" label = "azathioprine" term="C0004482" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="3" label = "cyclosporine" term="C0010592" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="9" label = "hydroxychloroquine" term="C0020336" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="15" label = "leflunomide" term="C0063041" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="96" label = "methotrexate" term="C0025677" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="10" label = "sulfasalazine" term="C0036078" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="12" label = "tofacitinib" term="C1609165" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+
+	<category count="17" label = "Glucocorticoids" term="C0017710" scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="2" label = "methylprednisolone" term="C0025815" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="0" label = "prednisolone" term="C0032950" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="4" label = "prednisone" term="C0032952" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+
+
+	<category count="14" label = "Nonsteroidal antiinflammatory drugs (NSAIDs)" term="C0003211" scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="1" label = "meloxicam" term="C0083381" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="2" label = "celecoxib" term="C0538927" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label = "rofecoxib" term="C0762662" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label = "valdecoxib" term="C0913246" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="2" label = "etoricoxib" term="C0972314" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label = "diclofenac" term="C0012091" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label = "ketoprofen" term="C0022635" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="0" label = "naproxen" term="C0027396" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="2" label = "etoricoxib" term="C0972314" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+
+	<category count="59" label = "Tumor necrosis factor (TNF) inhibitors" term="C0084892" scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="16" label = "adalimumab " term="C1122087" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="15" label = "etanercept " term="C0717758" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="10" label = "infliximab" term="C0666743" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="17" label = "rituximab" term="C0393022" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="12" label = "tocilizumab" term="C1609165" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+</feed>

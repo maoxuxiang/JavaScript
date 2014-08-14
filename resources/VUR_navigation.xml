@@ -1,0 +1,21 @@
+<feed>
+	<category term="C0003232" scheme="gov.nih.nlm.semanticType.antb" label="Antibiotics">
+		<category term="C0002556" scheme="gov.nih.nlm.semanticType.phsu" label="Aminoglycosides"/>
+		<category term="C0002645" scheme="gov.nih.nlm.semanticType.antb" label="Amoxicillin"/>
+		<category term="C0054066" scheme="gov.nih.nlm.semanticType.antb" label="Amoxicillin-Potassium Clavulanate Combination"/>
+		<category term="C0055003" scheme="gov.nih.nlm.semanticType.antb" label="cefepime"/>
+		<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="Cefixime"/>
+		<category term="C0007554" scheme="gov.nih.nlm.semanticType.antb" label="Cefotaxime"/>
+		<category term="C0007561" scheme="gov.nih.nlm.semanticType.antb" label="Ceftriaxone"/>
+		<category term="C0007716" scheme="gov.nih.nlm.semanticType.orch" label="Cephalexin"/>
+		<category term="C0008809" scheme="gov.nih.nlm.semanticType.phsu" label="Ciprofloxacin"/>
+		<category term="C0017436" scheme="gov.nih.nlm.semanticType.antb" label="Gentamicins"/>
+		<category term="C0041044" scheme="gov.nih.nlm.semanticType.orch" label="Trimethoprim-Sulfamethoxazole Combination"/>
+	</category>
+	<category term="" scheme="" label="Other">
+		<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+		<category term="C0282638" scheme="gov.nih.nlm.semanticType.topp" label="Antibiotic Prophylaxis"/>
+		<category term="C0543467" scheme="gov.nih.nlm.semanticType.topp" label="Operative Surgical Procedures"/>
+		<category term="C1517942" scheme="gov.nih.nlm.semanticType.hlca" label="Longterm Follow-up"/>
+	</category>
+</feed>

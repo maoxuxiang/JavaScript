@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Knowledge Summary - Treatment of Rheumatoid Arthritis</title>
+	<updated>2014-01-13-07:00</updated>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0011185" scheme="gov.nih.nlm.semanticType.phsu" label="dehydroepiandrosterone"/>
+	<category term="C0011185" scheme="gov.nih.nlm.semanticType.phsu" label="dehydroepiandrosterone"/>
+	<category term="C0011185" scheme="gov.nih.nlm.semanticType.horm" label="dehydroepiandrosterone"/>
+	<category term="C0011185" scheme="gov.nih.nlm.semanticType.phsu" label="dehydroepiandrosterone"/>
+	<category term="C0011185" scheme="gov.nih.nlm.semanticType.horm" label="dehydroepiandrosterone"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+	<entry>
+		<title>Cognitive behavioral therapy for depression in older people: a meta-analysis and meta-regression of randomized controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/23003115" title="Cognitive behavioral therapy for depression in older people: a meta-analysis and meta-regression of randomized controlled trials."/>
+		<id>23003115</id>
+		<updated>2012-10-12</updated>
+		<summary>CBT for depression in older people is more effective than waiting list or TAU, but greater efficacy than active controls or other treatment has not been demonstrated. More high-quality RCTs comparing CBT with active controls need to be conducted before firm conclusions can be drawn about the efficacy of CBT for depression in older people. Other treatment approaches that could be contrasted with or augment CBT (e.g., pharmacotherapy) also need to be explored further.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To review the effectiveness of cognitive behavioral therapy (CBT) for depression in older people, together with factors associated with its efficacy.</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>Online literature databases and registers were searched for randomized controlled trials (RCTs) of CBT for depression in older people. Random-effects meta-analysis and meta-regression were conducted.</fragment>
+			</section>
+			<section label="SETTING" id="METHODS">
+				<fragment>Studies involving participants from the community and inpatient and outpatient clinical settings were included in the meta-analysis.</fragment>
+			</section>
+			<section label="PARTICIPANTS" id="METHODS">
+				<fragment>Older people with major or minor depression, dysthymia, or depressive symptoms.</fragment>
+			</section>
+			<section label="MEASUREMENTS" id="METHODS">
+				<fragment>Evidence-based outcome measures of depression.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Four hundred eighty-five studies were identified, of which 23 were included. At the end of the intervention, CBT was significantly more effective at reducing depressive symptoms (irrespective of whether rated by clinicians or participants) than treatment as usual (TAU) or being on a waiting list but not than active controls. The same pattern of results was found for 6-month follow-up. At all other time-points, pooled effect sizes in favor of CBT were nonsignificant. Clinician-rated outcome measures resulted in larger effect sizes in favor of CBT than self-rated measures. No significant differences in efficacy were found between CBT and other treatment (pharmacotherapy and other psychotherapies). Meta-regression analyses revealed four factors that predicted effect sizes for comparisons between CBT and control conditions, including whether concurrent pharmacotherapy was allowed.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>CBT for depression in older people is more effective than waiting list or TAU, but greater efficacy than active controls or other treatment has not been demonstrated. More high-quality RCTs comparing CBT with active controls need to be conducted before firm conclusions can be drawn about the efficacy of CBT for depression in older people. Other treatment approaches that could be contrasted with or augment CBT (e.g., pharmacotherapy) also need to be explored further.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1532-5415.2012.04166.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.526099979877472" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Am Geriatr Soc"/>
+	</entry>
+	<entry>
+		<title>Effects of interventions on depression in heart failure: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22938627" title="Effects of interventions on depression in heart failure: a systematic review."/>
+		<id>22938627</id>
+		<summary>Evidence is strong that pharmacology and CAM may improve depression. Moderate evidence supports the use of exercise. A strong body of evidence indicates that disease management programs do not improve depression. This review does not support the development of guidelines for treatment of depression in persons with HF because evidence is insufficient and, at times, contradictory.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>We sought to conduct a systematic review to evaluate the effects of interventions on depression in adults with heart failure (HF).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Published, peer-reviewed, English-language, prospective interventional studies were identified in a search of Medline, CINAHL, PsychINFO, and the Cochrane Libraries of Systematic Reviews and Clinical Trials from 1996 through August 2011 and relevant bibliographies. Eligible studies included patients with New York Heart Association functional class II and III HF with experimental or quasiexperimental designs and preintervention and postintervention measures of depression. Ineligible studies were nonpharmacologic with a sample size &lt;50, and drug studies without a comparison group.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Twenty-three experimental and quasiexperimental studies that enrolled a total of 3564 persons with HF contributed evidence about 6 types of interventions: selective serotonin reuptake inhibitors (SSRIs), an erythropoiesis-stimulating agent, exercise, disease management programs, complementary and alternative medicine (CAM), and a multimodal intervention of cognitive behavioral therapy and exercise. Studies with SSRIs examined effects of sertraline, paroxetine, and citalopram. The CAM interventions included tai chi, progressive muscle relaxation therapy, and mindfulness-based stress reduction.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Evidence is strong that pharmacology and CAM may improve depression. Moderate evidence supports the use of exercise. A strong body of evidence indicates that disease management programs do not improve depression. This review does not support the development of guidelines for treatment of depression in persons with HF because evidence is insufficient and, at times, contradictory.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.hrtlng.2012.06.002" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.263200014829636" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Heart Lung"/>
+	</entry>
+	<entry>
+		<title>The clinical effectiveness and cost-effectiveness of low-intensity psychological interventions for the secondary prevention of relapse after depression: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22642789" title="The clinical effectiveness and cost-effectiveness of low-intensity psychological interventions for the secondary prevention of relapse after depression: a systematic review."/>
+		<id>22642789</id>
+		<updated>2012-05-30</updated>
+		<summary>Although any definition of 'brief' is likely to be somewhat arbitrary, an inclusion threshold of 6 hours contact per patient was used to select brief high-intensity intervention studies. Most excluded studies evaluated clearly resource-intensive interventions, though occasionally, studies were excluded on the basis of having only slightly more than 6 hours contact per patient.There is inadequate evidence to determine the clinical effectiveness or cost-effectiveness of low-intensity interventions for the prevention of relapse or recurrence of depression. A scoping review of brief high-intensity therapies indicates that some approaches have shown promise in some studies, but findings have not been consistent. Many uncertainties remain and further primary research is required. Careful consideration should be given to the scope of such research; it is important to evaluate the broader patient pathway accounting for the heterogeneous patient groups of interest. Future RCTs conducted in a UK primary care setting should include adult participants in remission or recovery from depression, and evaluate the quality of the intervention and consistency of delivery across practitioners where appropriate. The occurrence of relapse or recurrence should be measured using established methods, and functional outcomes as well as symptoms should be measured; data on quality of life using a generic instrument, such as the European Quality of Life-5 Dimensions (EQ-5D), should be collected.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Depression is the most common mental disorder in community settings and a major cause of disability across the world. The objective of treatment is to achieve remission or at least adequate control of depressive symptoms; however, even after successful treatment, the risk of relapse after remission is significant. Although the effectiveness of low-intensity interventions has been extensively evaluated to treat primary symptoms of psychological difficulties, there has been substantially less research examining the use of these interventions as a relapse prevention strategy.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To systematically review the clinical effectiveness and cost-effectiveness of low-intensity psychological or psychosocial interventions to prevent relapse or recurrence in patients with depression. As the broader definition of 'low-intensity' psychological intervention is somewhat contested, the review was conducted in two parts: A, a systematic review of all evaluations of 'low-intensity' interventions that were delivered by para-professionals, peer supporters or psychological well-being practitioners as defined by the Improving Access to Psychological Therapies programme; and B, a scoping review of relevant evaluations of interventions involving qualified mental health professionals (e.g. psychiatrists, clinical psychologists, cognitive behavioural therapists) involving &lt; 6 hours of contact per patient.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Comprehensive literature searches were developed; electronic databases were searched from inception until September 2010 (including MEDLINE, MEDLINE In-Process &amp; Other Non-Indexed Citations, PsycINFO, EMBASE, The Cochrane Library), internet resources were used to identify guidelines on the treatment of depression, and the bibliographies of relevant reviews, guidelines and included studies were scrutinised.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>Two reviewers independently screened titles and abstracts; data were extracted independently by one reviewer using a standardised data extraction form and checked by another. Discrepancies were resolved by consensus, with involvement of a third reviewer when necessary. The inclusion criteria were population - adults or adolescents who had received treatment for depression; intervention - part A, low-intensity interventions, specifically any unsupported psychological/psychosocial interventions or any supported interventions that did not involve highly qualified mental health professionals, and, part B, interventions carried out by qualified mental health professionals that involved &lt; 6 hours of contact per patient; comparator - any, including no treatment, placebo, psychological or pharmacological interventions; outcomes - relapse or recurrence, other outcomes (e.g. social function, quality of life) were recorded where reported; and study design - for clinical effectiveness, randomised, quasi-randomised and non-randomised studies with concurrent control patients. For cost-effectiveness, full economic evaluations that compared two or more treatment options and considered both costs and consequences. No studies met the main part A inclusion criteria.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>For the clinical effectiveness review, 17 studies (14 completed, three ongoing), reported in 27 publications, met the part B inclusion criteria. These studies were clinically and methodologically diverse, and reported differing degrees of efficacy for the evaluated interventions. One randomised controlled trial (RCT), which evaluated a collaborative care-type programme, was potentially relevant to part A; this study reported no difference between patients receiving the intervention and those receiving usual care in terms of relapse of depression over 12 months. For the cost-effectiveness review, two studies met the criteria for part B. One of these was an economic evaluation of the RCT above, which was potentially relevant to part A. This evaluation found that the intervention may be a cost-effective use of resources when compared with usual care; however, it was unclear how valid these estimates were for the NHS.</fragment>
+			</section>
+			<section label="LIMITATIONS" id="CONCLUSIONS">
+				<fragment>Although any definition of 'brief' is likely to be somewhat arbitrary, an inclusion threshold of 6 hours contact per patient was used to select brief high-intensity intervention studies. Most excluded studies evaluated clearly resource-intensive interventions, though occasionally, studies were excluded on the basis of having only slightly more than 6 hours contact per patient.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>There is inadequate evidence to determine the clinical effectiveness or cost-effectiveness of low-intensity interventions for the prevention of relapse or recurrence of depression. A scoping review of brief high-intensity therapies indicates that some approaches have shown promise in some studies, but findings have not been consistent. Many uncertainties remain and further primary research is required. Careful consideration should be given to the scope of such research; it is important to evaluate the broader patient pathway accounting for the heterogeneous patient groups of interest. Future RCTs conducted in a UK primary care setting should include adult participants in remission or recovery from depression, and evaluate the quality of the intervention and consistency of delivery across practitioners where appropriate. The occurrence of relapse or recurrence should be measured using established methods, and functional outcomes as well as symptoms should be measured; data on quality of life using a generic instrument, such as the European Quality of Life-5 Dimensions (EQ-5D), should be collected.</fragment>
+			</section>
+			<section label="FUNDING" id="BACKGROUND">
+				<fragment>The National Institute for Health Research Health Technology Assessment programme.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3310/hta16280" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.145199999213219" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>Effect of exercise training on depressive symptoms among patients with a chronic illness: a systematic review and meta-analysis of randomized controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22271118" title="Effect of exercise training on depressive symptoms among patients with a chronic illness: a systematic review and meta-analysis of randomized controlled trials."/>
+		<id>22271118</id>
+		<updated>2012-01-24</updated>
+		<summary>Exercise reduces depressive symptoms among patients with a chronic illness. Patients with depressive symptoms indicative of mild-to-moderate depression and for whom exercise training improves function-related outcomes achieve the largest antidepressant effects.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Physical inactivity and comorbid depressive symptoms are prevalent among patients with a chronic illness. To our knowledge, randomized controlled trials of the effects of exercise training on depressive symptoms among patients with a chronic illness have not been systematically reviewed. We estimated the population effect of exercise training on depressive symptoms and determined whether the effect varied according to patient characteristics and modifiable features of exercise exposure and clinical settings.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Articles published before June 1, 2011, were located using the Physical Activity Guidelines for Americans Scientific Database, Google Scholar, MEDLINE, PsycINFO, PubMed, and Web of Science. Ninety articles involving 10,534 sedentary patients with a chronic illness were selected. Included articles required (1) randomized allocation to an exercise intervention or nonexercise comparison condition and (2) a depression outcome assessed at baseline and at mid- and/or postintervention. Hedges d effect sizes were computed, study quality was evaluated, and random effects models were used to estimate sampling error and population variance of the observed effects.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Exercise training significantly reduced depressive symptoms by a heterogeneous mean effect size delta (Δ) of 0.30 (95% CI, 0.25-0.36). Larger antidepressant effects were obtained when (1) baseline depressive symptoms were higher, (2) patients met recommended physical activity levels, and (3) the trial primary outcome, predominantly function related, was significantly improved among patients having baseline depressive symptoms indicative of mild-to-moderate depression.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Exercise reduces depressive symptoms among patients with a chronic illness. Patients with depressive symptoms indicative of mild-to-moderate depression and for whom exercise training improves function-related outcomes achieve the largest antidepressant effects.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinternmed.2011.696" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.471399992704391" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>Smoking cessation interventions for patients with depression: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22038468" title="Smoking cessation interventions for patients with depression: a systematic review and meta-analysis."/>
+		<id>22038468</id>
+		<updated>2012-02-27</updated>
+		<summary>Few RCTs exist that test smoking cessation interventions among adults with depression. To make meaningful comparisons, we created broad intervention categories that contained heterogeneity.Few trials enrolled smokers with current depression. Most of data identified were from subgroup analyses of patients history-positive for depression. However, several promising interventions exist. Healthcare providers should consider encouraging their patients with significant depressive symptoms or depression histories to seek smoking cessation services that include NRT and behavioral mood management.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>We conducted a systematic literature review of smoking cessation interventions for patients with histories of depressive disorders or current significant depressive symptoms. We examined the comparative effectiveness of smoking cessation strategies on abstinence rates, differential effects of cessation strategies by depression status (i.e., history positive vs. current depression), and differential effects by gender.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Peer-reviewed literature in MEDLINE, Embase, PsycINFO, and Cochrane Library.</fragment>
+			</section>
+			<section label="STUDY ELIGIBILITY CRITERIA, PARTICIPANTS, AND INTERVENTIONS" id="METHODS">
+				<fragment>Randomized controlled trials or secondary analysis of RCT data comparing two or more smoking cessation interventions or intervention to control, and reporting cessation outcomes in adults with depression.</fragment>
+			</section>
+			<section label="STUDY APPRAISAL AND SYNTHESIS METHODS" id="METHODS">
+				<fragment>Two trained researchers screened articles for inclusion. When possible, we estimated pooled risk ratios with 95% confidence intervals by using a random effects model with the Mantel-Haenszel method. We synthesized other studies qualitatively. We classified each intervention as antidepressants, nicotine replacement therapy (NRT), brief smoking cessation counseling, smoking cessation behavioral counseling, or behavioral mood management.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>We identified 16 unique RCTs, of which, only three trials recruited participants with current depression. Meta-analysis demonstrated a small, positive effect of adding behavioral mood management (RR = 1.41, 95% CI 1.01-1.96). All included antidepressant trials showed small, positive effects, but risk ratio summary was not significant (RR = 1.31, 95% CI 0.73-2.34). Three NRT trials demonstrated small, positive effects on smoking cessation rates. We found insufficient evidence to examine gender and depression status moderator effects.</fragment>
+			</section>
+			<section label="LIMITATIONS" id="CONCLUSIONS">
+				<fragment>Few RCTs exist that test smoking cessation interventions among adults with depression. To make meaningful comparisons, we created broad intervention categories that contained heterogeneity.</fragment>
+			</section>
+			<section label="CONCLUSIONS AND IMPLICATIONS OF KEY FINDINGS" id="CONCLUSIONS">
+				<fragment>Few trials enrolled smokers with current depression. Most of data identified were from subgroup analyses of patients history-positive for depression. However, several promising interventions exist. Healthcare providers should consider encouraging their patients with significant depressive symptoms or depression histories to seek smoking cessation services that include NRT and behavioral mood management.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1007/s11606-011-1915-2" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3286553" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.121899999678135" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Gen Intern Med"/>
+	</entry>
+	<entry>
+		<title>Depression and risk of stroke: a meta-analysis of prospective studies.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22020036" title="Depression and risk of stroke: a meta-analysis of prospective studies."/>
+		<id>22020036</id>
+		<updated>2012-12-27</updated>
+		<summary>Depression significantly increased the risk of development of stroke, and this increase was probably independent of other risk factors, including hypertension and diabetes.</summary>
+		<content>
+			<section label="BACKGROUND AND PURPOSE" id="OBJECTIVE">
+				<fragment>A history of depression may be associated with an increased risk of stroke. We aimed to determine the association between depression and risk of stroke by performing a meta-analysis of prospective studies.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Relevant studies were identified by a PubMed database search through May 2011 without restrictions and by reviewing reference lists of obtained articles. Community-based or population-based prospective studies that reported relative risk estimates with 95% confidence intervals for the association between depression and stroke were selected. Studies that enrolled participants with preexisting stroke at baseline were excluded. A random-effects model was used to compute the pooled risk estimate.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Random-effects meta-analysis of 17 prospective studies involving 206 641 participants and 6086 cases demonstrated a significant positive association between depression and subsequent risk of stroke (pooled relative risk, 1.34; 95% confidence interval, 1.17-1.54) after adjustment for potential confounding factors. The associations were similar between men and women. Potential publication bias may exist, but correction for this bias using a formal statistical method did not materially alter the combined risk estimate.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Depression significantly increased the risk of development of stroke, and this increase was probably independent of other risk factors, including hypertension and diabetes.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1161/STROKEAHA.111.630871" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.450700014829636" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Stroke"/>
+	</entry>
+	<entry>
+		<title>Psychological morbidity and quality of life of ethnic minority patients with cancer: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21996168" title="Psychological morbidity and quality of life of ethnic minority patients with cancer: a systematic review and meta-analysis."/>
+		<id>21996168</id>
+		<updated>2011-11-29</updated>
+		<summary>Hispanic cancer patients in the USA, but not other ethnic minority groups, report significantly worse distress, depression, social HRQoL, and overall HRQoL than do majority patients, of which all but depression might be clinically important. Heterogeneous results might, however, have limited the interpretation. Data for other minority groups and for anxiety are scarce. More studies are needed from outside the USA. Future reports should more clearly describe their minority group samples and analyses should control for clinical and sociodemographic variables known to predict outcomes. Understanding of why outcomes are poor in US Hispanic patients is needed to inform the targeting of interventions.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Ethnic minority is associated with higher cancer incidence and poorer survival than is being in the majority group. We did a systematic review and meta-analysis to assess whether psychological morbidity and health-related quality of life (HRQoL) were affected by minority status.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched Medline, AMED, PsycINFO, Embase, CENTRAL, CINAHL, PubMed, Sociological Abstracts, and Web of Science for English-language articles published between Jan 1, 1995, and October, 2009. Articles were eligible if they reported original data on anxiety, depression, distress (for psychological morbidity), or HRQoL in minority and majority cancer patients or survivors. Minority status was defined as being an immigrant or having an ethnic, linguistic, or religious background different to the majority of the population in the country where the research was done. We excluded African Americans and indigenous groups. Eligible articles were rated for quality of reporting, external validity, internal validity, sample size, and power. Each quality criterion was rated independently by two reviewers until inter-rater reliability was achieved. In a meta-analysis we compared mean scores adjusted for socioeconomic status and other sociodemographic and clinical variables, where available. Effect sizes greater than 0·5 and 95% CI that included 0·5 or -0·5 were deemed clinically important, with negative values indicating worse outcomes in minority patients. We assessed publication bias by estimating the number of potential unpublished studies and the number of non-signficant studies with p=0·05 required to produce a non-significant overall result.</fragment>
+			</section>
+			<section label="FINDINGS" id="RESULTS">
+				<fragment>We identified 21 eligible articles that included 18 datasets collected in the USA and one in each of Canada, Romania, and the UK. Ethnic minority groups were Hispanic, Asian or Pacific Islander, or Hungarian (one dataset). Overall, we found minority versus majority groups to have significantly worse distress (mean difference -0·37, 95% CI -0·46 to -0·28; p&lt;0·0001), depression (-0·23, -0·36 to -0·11; p=0·0003), and overall HRQoL (-0·33, -0·58 to -0·07; p=0·013). Further analyses found disparities to be specific to Hispanic patients in the USA, in whom poorer outcomes were consistent with potentially clinically important differences for distress (effect size -0·37, 95% CI -0·54 to -0·20; p&lt;0·0001), social HRQoL (-0·45, -0·87 to -0·03; p=0·035), and overall HRQoL (-0·49, -0·78 to -0.20; p=0·0008). Results were significantly heterogeneous for overall HRQoL and all domains. Tests for interaction, for adjusted versus unadjusted and comparisons of high-quality, medium-quality, and low-quality articles, were generally non-significant, which suggests no bias. We found no evidence of any substantive publication bias.</fragment>
+			</section>
+			<section label="INTERPRETATION" id="CONCLUSIONS">
+				<fragment>Hispanic cancer patients in the USA, but not other ethnic minority groups, report significantly worse distress, depression, social HRQoL, and overall HRQoL than do majority patients, of which all but depression might be clinically important. Heterogeneous results might, however, have limited the interpretation. Data for other minority groups and for anxiety are scarce. More studies are needed from outside the USA. Future reports should more clearly describe their minority group samples and analyses should control for clinical and sociodemographic variables known to predict outcomes. Understanding of why outcomes are poor in US Hispanic patients is needed to inform the targeting of interventions.</fragment>
+			</section>
+			<section label="FUNDING" id="BACKGROUND">
+				<fragment>Prince of Wales Hospital, Sydney, Australia.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/S1470-2045(11)70212-1" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.107900001108646" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Lancet Oncol."/>
+	</entry>
+	<entry>
+		<title>Efficacy of mindfulness-based interventions on depressive symptoms among people with mental disorders: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21963234" title="Efficacy of mindfulness-based interventions on depressive symptoms among people with mental disorders: a meta-analysis."/>
+		<id>21963234</id>
+		<updated>2012-01-16</updated>
+		<summary>The mindfulness-based interventions are efficacious for alleviating depressive symptoms in adults with mental disorders. The interventions could be used in conjunction with other treatments in clinical settings.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>Depression, a common mental health problem, is projected to be the second leading cause of disability for adults by year 2020. Mindfulness-based interventions (MFIs) have been integrated into therapeutic work on depression, but limited systematic reviews reported their efficacy on heterogeneous groups of mental disorders. This meta-analysis aimed to examine the efficacy of the MFIs on depressive symptoms in people with various mental disorders.</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>A meta-analysis of experimental and quasi-experimental studies was undertaken.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Multiple search strategies were undertaken to identify published and unpublished studies conducted between 1995 and 2011. Electronic databases used were Scopus, CINAHL, PubMed, ScienceDirect, PsyINFO, Dissertation Abstract International, Web of Science Index, Controlled-trial.com, and clinicaltrails.gov.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>Data were extracted and appraised by two reviewers. For each study, the Quality Rating Index (QRI) and Code Sheet for Randomized Controlled Trials (CS-RCT) were used to assess methodological quality and extract relevant data respectively. Data were analysed and synthesized using PASW statistic 17.0 and Comprehensive Meta Analyses Software 2.0.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Thirty-nine studies conducted in ten countries were included and 105 effect sizes were calculated. Most studies utilised single group pretest-posttest quasi-experimental design, convenience sampling, and self-reported questionnaires. Between-group comparisons indicated that MFIs are superior to standard care in reducing depressive symptoms and preventing relapse with effect sizes ranging from 0.11 to 1.65. Exposure-based cognitive therapy (d=2.09) appeared to be the most efficacious intervention, followed by mindfulness-based stress reduction programme (d=1.92), acceptance-based behaviour therapy (d=1.33), and stress less with mindfulness (d=1.31). Effect sizes were significantly associated with the length of intervention sessions but not related to methodological quality of studies.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>The mindfulness-based interventions are efficacious for alleviating depressive symptoms in adults with mental disorders. The interventions could be used in conjunction with other treatments in clinical settings.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.ijnurstu.2011.08.014" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.483700007200241" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Int J Nurs Stud"/>
+	</entry>
+	<entry>
+		<title>Depression and risk of stroke morbidity and mortality: a meta-analysis and systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21934057" title="Depression and risk of stroke morbidity and mortality: a meta-analysis and systematic review."/>
+		<id>21934057</id>
+		<updated>2011-09-21</updated>
+		<summary>Depression is associated with a significantly increased risk of stroke morbidity and mortality.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Several studies have suggested that depression is associated with an increased risk of stroke; however, the results are inconsistent.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To conduct a systematic review and meta-analysis of prospective studies assessing the association between depression and risk of developing stroke in adults.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>A search of MEDLINE, EMBASE, and PsycINFO databases (to May 2011) was supplemented by manual searches of bibliographies of key retrieved articles and relevant reviews.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>We included prospective cohort studies that reported risk estimates of stroke morbidity or mortality by baseline or updated depression status assessed by self-reported scales or clinician diagnosis.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Two independent reviewers extracted data on depression status at baseline, risk estimates of stroke, study quality, and methods used to assess depression and stroke. Hazard ratios (HRs) were pooled using fixed-effect or random-effects models when appropriate. Associations were tested in subgroups representing different participant and study characteristics. Publication bias was evaluated with funnel plots and Begg test.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The search yielded 28 prospective cohort studies (comprising 317,540 participants) that reported 8478 stroke cases (morbidity and mortality) during a follow-up period ranging from 2 to 29 years. The pooled adjusted HRs were 1.45 (95% CI, 1.29-1.63; P for heterogeneity &lt;.001; random-effects model) for total stroke, 1.55 (95% CI, 1.25-1.93; P for heterogeneity = .31; fixed-effects model) for fatal stroke (8 studies), and 1.25 (95% CI, 1.11-1.40; P for heterogeneity = .34; fixed-effects model) for ischemic stroke (6 studies). The estimated absolute risk differences associated with depression were 106 cases for total stroke, 53 cases for ischemic stroke, and 22 cases for fatal stroke per 100,000 individuals per year. The increased risk of total stroke associated with depression was consistent across most subgroups.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Depression is associated with a significantly increased risk of stroke morbidity and mortality.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.2011.1282" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3242806" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="3" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.666999995708466" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>Self-efficacy and its influence on recovery of patients with stroke: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21645040" title="Self-efficacy and its influence on recovery of patients with stroke: a systematic review."/>
+		<id>21645040</id>
+		<updated>2011-08-10</updated>
+		<summary>Patients with high self-efficacy are functioning better in daily activities than patients with low self-efficacy. The evidence concerning the determinants influencing self-efficacy and the self-efficacy interventions makes clear how nurses can develop and tailor self-efficacy interventions for the clinical practice of people with stroke. Therefore, it is necessary to further emphasize the role of self-efficacy in the care for stroke patients in the nursing curriculum.</summary>
+		<content>
+			<section label="AIMS" id="OBJECTIVE">
+				<fragment>To provide an overview of the literature focusing on the influence of self-efficacy and self-efficacy enhancing interventions on mobility, activities of daily living, depression and quality of life of patients with stroke.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>There is growing evidence for the importance of self-efficacy in the care of people with enduring illness. Therefore, it is important to describe the association of self-efficacy and patient outcomes and the evidence for the effects of self-efficacy interventions for stroke patients.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Studies were retrieved from a systematic search of published studies over the period of 1996-2009, indexed in the Cumulative Index to Nursing and Allied Health Literature, Medline, Psychinfo and Embase and focusing on stroke, the influence of self-efficacy and self-efficacy enhancing interventions.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic review was carried out. Studies were critically appraised and important characteristics and outcomes were extracted and summarized.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Seventeen articles were included in the review. Self-efficacy was positively associated with mobility, activities of daily living and quality of life and negatively associated with depression. Four self-efficacy interventions were identified. The evidence for the effects of these interventions was inconclusive.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Patients with high self-efficacy are functioning better in daily activities than patients with low self-efficacy. The evidence concerning the determinants influencing self-efficacy and the self-efficacy interventions makes clear how nurses can develop and tailor self-efficacy interventions for the clinical practice of people with stroke. Therefore, it is necessary to further emphasize the role of self-efficacy in the care for stroke patients in the nursing curriculum.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1365-2648.2011.05659.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.178599998354912" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Adv Nurs"/>
+	</entry>
+	<entry>
+		<title>Antidepressants for the treatment of depression in neurological disorders: a systematic review and meta-analysis of randomised controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21558287" title="Antidepressants for the treatment of depression in neurological disorders: a systematic review and meta-analysis of randomised controlled trials."/>
+		<id>21558287</id>
+		<updated>2011-07-11</updated>
+		<summary>Antidepressants are effective for the treatment of depression in patients with neurological disorders but the evidence for the efficacy of antidepressants in improving quality of life, and functional and cognitive outcomes is inconclusive.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Despite the high prevalence of depression in people with neurological disorders, no previous study has sought to summarise existing evidence on the use of antidepressants in this population. A systematic review and meta-analysis was undertaken to determine whether antidepressants are more effective than placebo in the treatment of depression in neurological disorders, and whether any benefit is associated with improvement in function.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Embase, Pubmed, Psycinfo and Cochrane trial registers were searched for randomised controlled trials (RCTs) comparing the efficacy of antidepressant and placebo in the treatment of depression in adults with a neurological disorder.</fragment>
+			</section>
+			<section label="FINDINGS" id="RESULTS">
+				<fragment>20 RCTs were included in the review, including patients with Parkinson's disease, multiple sclerosis, brain injury, epilepsy and stroke. Outcomes were analysed at four time points: 4-5 weeks, 6-8 weeks, 9-18 weeks and &gt;18 weeks. The primary outcome was response to treatment at 6-8 weeks. The evidence favoured the use of antidepressants over placebo at all time points although pooled results were not statistically significant at all time points. At 6-8 weeks, antidepressant treatment was associated with a greater than twofold odds of remission (OR 2.23; 95% CI 1.54 to 3.23; number needed to treat=7). Fewer data were available for quality of life, and functional and cognitive outcomes, and there was little evidence of improvement with antidepressant treatment.</fragment>
+			</section>
+			<section label="INTERPRETATION" id="CONCLUSIONS">
+				<fragment>Antidepressants are effective for the treatment of depression in patients with neurological disorders but the evidence for the efficacy of antidepressants in improving quality of life, and functional and cognitive outcomes is inconclusive.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/jnnp.2010.230862" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.524100005626678" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<source type="J. Neurol. Neurosurg. Psychiatr."/>
+	</entry>
+	<entry>
+		<title>Depression and medication adherence in the treatment of chronic diseases in the United States: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21533823" title="Depression and medication adherence in the treatment of chronic diseases in the United States: a meta-analysis."/>
+		<id>21533823</id>
+		<updated>2011-09-28</updated>
+		<summary>The meta-analysis results are correlations limiting causal inferences, and there is some heterogeneity among the studies in participant characteristics, diseases studied, and methods used.This analysis provides evidence that depression is associated with poor adherence to medication across a range of chronic diseases, and we find a new potential effect of adherence measurement type on this relationship. Although this study cannot assess causality, it supports the importance that must be placed on depression in studies that assess adherence and attempt to improve it.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To conduct a meta-analysis of the association between depression and medication adherence among patients with chronic diseases. Poor medication adherence may result in worse outcomes and higher costs than if patients fully adhere to their medication regimens.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>We searched the PubMed and PsycINFO databases, conducted forward searches for articles that cited major review articles, and examined the reference lists of relevant articles.</fragment>
+			</section>
+			<section label="STUDY ELIGIBILITY CRITERIA, PARTICIPANTS, AND INTERVENTIONS" id="METHODS">
+				<fragment>We included studies on adults in the United States that reported bivariate relationships between depression and medication adherence. We excluded studies on special populations (e.g., substance abusers) that were not representative of the general adult population with chronic diseases, studies on certain diseases (e.g., HIV) that required special adherence protocols, and studies on interventions for medication adherence.</fragment>
+			</section>
+			<section label="STUDY APPRAISAL AND SYNTHESIS METHODS" id="METHODS">
+				<fragment>Data abstracted included the study population, the protocol, measures of depression and adherence, and the quantitative association between depression and medication adherence. Synthesis of the data followed established statistical procedures for meta-analysis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The estimated odds of a depressed patient being non-adherent are 1.76 times the odds of a non-depressed patient, across 31 studies and 18,245 participants. The association was similar across disease types but was not as strong among studies that used pharmacy records compared to self-report and electronic cap measures.</fragment>
+			</section>
+			<section label="LIMITATIONS" id="CONCLUSIONS">
+				<fragment>The meta-analysis results are correlations limiting causal inferences, and there is some heterogeneity among the studies in participant characteristics, diseases studied, and methods used.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>This analysis provides evidence that depression is associated with poor adherence to medication across a range of chronic diseases, and we find a new potential effect of adherence measurement type on this relationship. Although this study cannot assess causality, it supports the importance that must be placed on depression in studies that assess adherence and attempt to improve it.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1007/s11606-011-1704-y" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3181287" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.271699994802475" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Gen Intern Med"/>
+	</entry>
+	<entry>
+		<title>A systematic review and meta-analysis of placebo-controlled antidepressant studies in people with depression and dementia.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21453380" title="A systematic review and meta-analysis of placebo-controlled antidepressant studies in people with depression and dementia."/>
+		<id>21453380</id>
+		<updated>2011-04-15</updated>
+		<summary>The evidence for antidepressant treatment of people with depression and dementia, although suggestive, does not confirm efficacy. All of the trials were significantly underpowered to detect differences, resulting in inconclusive findings. Variable trial methods, comorbid conditions, and differences in antidepressants employed further confounded findings.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To determine the efficacy of antidepressants in people with depression and dementia.</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>A systematic review and meta-analysis based on a literature search of Medline and Cochrane Trials Registry for acute-phase, double-blind, placebo-controlled, parallel-design, random-assignment trials of antidepressants marketed in the United States.</fragment>
+			</section>
+			<section label="SETTING" id="METHODS">
+				<fragment>Outpatient clinics, inpatient units, residential settings.</fragment>
+			</section>
+			<section label="PARTICIPANTS" id="METHODS">
+				<fragment>People with criterion-based diagnoses of dementia and depression.</fragment>
+			</section>
+			<section label="MEASUREMENTS" id="METHODS">
+				<fragment>Numbers of participants randomized; baseline and end point depression scale scores; and response, remission, and discontinuation rates were extracted. Random-effects meta-analyses were performed for response and remission rates, change scores using standardized mean differences, and discontinuation rates. Sensitivity analyses were planned to examine effects of depression diagnosis, severity, and trial duration.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Seven trials with 330 participants met selection criteria. The odds ratio (OR) for six trials reporting response rates with antidepressant and placebo was 2.12 (95% confidence interval (CI)=0.95-4.70; Z=1.84, P=.07). The OR for five trials reporting remission rates was 1.97 (95% CI=0.85-4.55; Z=1.59, P=.11). Both analyses demonstrated heterogeneity. The standardized mean difference in trials was 0.29 (95% CI=0.02-0.60, Z=1.86, P=.06). This analysis did not demonstrate significant heterogeneity. Adverse event discontinuation rates (9.0%) were not significantly higher with drug than placebo (6.0%), and were low.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>The evidence for antidepressant treatment of people with depression and dementia, although suggestive, does not confirm efficacy. All of the trials were significantly underpowered to detect differences, resulting in inconclusive findings. Variable trial methods, comorbid conditions, and differences in antidepressants employed further confounded findings.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1532-5415.2011.03355.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.536400020122528" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<source type="J Am Geriatr Soc"/>
+	</entry>
+	<entry>
+		<title>Intentional weight loss and changes in symptoms of depression: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21343903" title="Intentional weight loss and changes in symptoms of depression: a systematic review and meta-analysis."/>
+		<id>21343903</id>
+		<updated>2011-11-15</updated>
+		<summary>On average, obese individuals in weight loss trials experienced reductions in symptoms of depression. Future studies should examine incidence and resolution of clinically significant depressive disorders with weight loss interventions.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>Obesity is related to increased risk of several health complications, including depression. Many studies have reported improvements in mood with weight loss, but results have been equivocal. The present meta-analysis examined changes in symptoms of depression that were reported in trials of weight loss interventions. Between-groups comparisons of different weight loss methods (for example, lifestyle modification, diet-alone and pharmacotherapy) were examined, as were within-group changes for each treatment type.</fragment>
+			</section>
+			<section label="METHOD" id="METHODS">
+				<fragment>MEDLINE was searched for articles published between 1950 and January 2009. Several obesity-related terms were intersected with terms related to depression. Results were filtered to return only studies of human subjects, published in English. Of 5971 articles, 394 were randomized controlled trials. Articles were excluded if they did not report mean changes in weight or symptoms of depression, included children or persons with psychiatric disorders (other than depression), or provided insufficient data for analysis. Thirty-one studies (n=7937) were included. Two authors independently extracted a description of each study treatment, sample characteristics, assessment methods and changes in weight and symptoms of depression. Treatments were categorized as lifestyle modification, non-dieting, dietary counseling, diet-alone, exercise-alone, pharmacotherapy, placebo or control interventions.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Random effects models found that lifestyle modification was superior to control and non-dieting interventions for reducing symptoms of depression, and marginally better than dietary counseling and exercise-alone programs. Exercise-alone programs were superior to controls. No differences were found for comparisons of pharmacologic agents and placebos. Within-group analyses found significant reductions in symptoms of depression for nearly all active interventions. A meta-regression found no relationship between changes in weight and changes in symptoms of depression in lifestyle modification interventions.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>On average, obese individuals in weight loss trials experienced reductions in symptoms of depression. Future studies should examine incidence and resolution of clinically significant depressive disorders with weight loss interventions.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1038/ijo.2011.2" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3139753" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.537599980831146" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Int J Obes (Lond)"/>
+	</entry>
+	<entry>
+		<title>Psychotherapy in dizziness: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21296898" title="Psychotherapy in dizziness: a systematic review."/>
+		<id>21296898</id>
+		<updated>2011-05-09</updated>
+		<summary>This systematic review provides some preliminary evidence that psychotherapy may be effective in patients with dizziness that is medically not sufficiently explained or due to a psychiatric disorder. The results should be replicated in larger samples and follow-up RCTs.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>About 30-50% of complex dizziness disorders are organically not sufficiently explained or related to a psychiatric disorder. Of patients with such dizziness disorders, 80% are severely impaired by dizziness in their daily and working lives; nevertheless, they are often not diagnosed or treated adequately.</fragment>
+			</section>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>This review aims to give a systematic overview of psychotherapeutic approaches and their efficacy regarding the treatment of dizziness that is medically not sufficiently explained or related to a psychiatric disorder.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic literature search was conducted in Medline, PSYNDEX and PsycINFO. Included in this systematic review were (randomised) controlled trials ((R)CTs) concerning psychotherapy in patients with dizziness, medically not sufficiently explained or associated with a psychiatric disorder. If possible, Hedges' g was used to express the effect sizes (ES) of the treatment. Heterogeneity was assessed using the Q statistic. In addition, the quality of the studies was rated.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Three (R)CTs were included. All studies used cognitive-behavioural treatment methods in combination with relaxation techniques or vestibular rehabilitation. All studies suggested that psychotherapy may provide improvement. The mean ES in the treatment groups was 0.46 (95% CI 0.05 to 0.88) for dizziness related outcome, 0.10 (-0.44 to 0.64) for anxiety and 0.17 (-0.24 to 0.58) for depression whereas in the control groups the mean dizziness related ES was -0.04 (-0.44 to 0.37), anxiety related ES was -0.03 (-0.43 to 0.38) and depression related ES was -0.02 (-0.42 to 0.38). The quality of the studies was average. Sample sizes were small, however, and there was a lack of long term studies.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>This systematic review provides some preliminary evidence that psychotherapy may be effective in patients with dizziness that is medically not sufficiently explained or due to a psychiatric disorder. The results should be replicated in larger samples and follow-up RCTs.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/jnnp.2010.237388" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.296400010585785" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Neurol. Neurosurg. Psychiatr."/>
+	</entry>
+	<entry>
+		<title>A systematic review of therapeutic interventions for poststroke depression and the role of nurses.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21083778" title="A systematic review of therapeutic interventions for poststroke depression and the role of nurses."/>
+		<id>21083778</id>
+		<updated>2010-11-18</updated>
+		<summary>Depression after stroke is an important problem with adverse effects on the patient's ability to participate in rehabilitation and on rehabilitation outcome. The interventions described can be implemented in nursing care of patients with poststroke depression. The variety of such interventions and the diversity of their nature and design are consistent with the practice of rehabilitation nursing.  The findings of this review enable nurses to intervene effectively to reduce the occurrence and severity of depression in patients with stroke.</summary>
+		<content>
+			<section label="AIMS AND OBJECTIVES" id="OBJECTIVE">
+				<fragment>This systematic review explores the nursing role in the management of poststroke depression and identifies effective non-pharmacological interventions that nurses can use in the daily care of patients with stroke.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Depression is a common complication poststroke and affects one-third of patients with stroke. It has a negative impact on functional recovery and social activities and is associated with increased morbidity and mortality. Detection and diagnosis of poststroke depression is inconsistent, and many depressed patients are under-treated. Although nurses recognise that observation and assessment are parts of their role in rehabilitation care, little is known about their role in assessing depression or the interventions they can use.</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>A systematic review was conducted using the Cochrane method.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Literature for the period 1993-2008 was searched in the electronic databases of CINAHL, Medline (PubMed), Nursing Journals (PubMed) and PsycINFO using the following keywords: cerebrovascular accident, stroke, depression, poststroke depression, treatment, therapy, treatment outcome, management.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Fifteen articles and one systematic review were identified. There was strong evidence that information provision reduces the severity of depression. Other interventions with positive effects on the occurrence or severity of poststroke depression were as follows: life review therapy, motivational interviewing, a specific nursing support programme and physical exercise.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Depression after stroke is an important problem with adverse effects on the patient's ability to participate in rehabilitation and on rehabilitation outcome. The interventions described can be implemented in nursing care of patients with poststroke depression. The variety of such interventions and the diversity of their nature and design are consistent with the practice of rehabilitation nursing.</fragment>
+			</section>
+			<section label="RELEVANCE TO CLINICAL PRACTICE" id="CONCLUSIONS">
+				<fragment>  The findings of this review enable nurses to intervene effectively to reduce the occurrence and severity of depression in patients with stroke.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1365-2702.2010.03402.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.224299997091293" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Clin Nurs"/>
+	</entry>
+	<entry>
+		<title>The influence of the therapist-patient relationship on treatment outcome in physical rehabilitation: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20576715" title="The influence of the therapist-patient relationship on treatment outcome in physical rehabilitation: a systematic review."/>
+		<id>20576715</id>
+		<updated>2010-08-02</updated>
+		<summary>Among homogenous studies, there were insufficient reported data to allow pooling of results.From this review, the alliance between therapist and patient appears to have a positive effect on treatment outcome in physical rehabilitation settings; however, more research is needed to determine the strength of this association.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>The working alliance, or collaborative bond, between client and psychotherapist has been found to be related to outcome in psychotherapy.</fragment>
+			</section>
+			<section label="PURPOSE" id="OBJECTIVE">
+				<fragment>The purpose of this study was to investigate whether the working alliance is related to outcome in physical rehabilitation settings.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>A sensitive search of 6 databases identified a total of 1,600 titles.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Prospective studies of patients undergoing physical rehabilitation were selected for this systematic review.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>For each included study, descriptive data regarding participants, interventions, and measures of alliance and outcome-as well as correlation data for alliance and outcomes-were extracted.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>Thirteen studies including patients with brain injury, musculoskeletal conditions, cardiac conditions, or multiple pathologies were retrieved. Various outcomes were measured, including pain, disability, quality of life, depression, adherence, and satisfaction with treatment. The alliance was most commonly measured with the Working Alliance Inventory, which was rated by both patient and therapist during the third or fourth treatment session. The results indicate that the alliance is positively associated with: (1) treatment adherence in patients with brain injury and patients with multiple pathologies seeking physical therapy, (2) depressive symptoms in patients with cardiac conditions and those with brain injury, (3) treatment satisfaction in patients with musculoskeletal conditions, and (4) physical function in geriatric patients and those with chronic low back pain.</fragment>
+			</section>
+			<section label="LIMITATIONS" id="CONCLUSIONS">
+				<fragment>Among homogenous studies, there were insufficient reported data to allow pooling of results.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>From this review, the alliance between therapist and patient appears to have a positive effect on treatment outcome in physical rehabilitation settings; however, more research is needed to determine the strength of this association.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.2522/ptj.20090245" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.263599991798401" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Phys Ther"/>
+	</entry>
+	<entry>
+		<title>Prenatal and postpartum depression in fathers and its association with maternal depression: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20483973" title="Prenatal and postpartum depression in fathers and its association with maternal depression: a meta-analysis."/>
+		<id>20483973</id>
+		<updated>2010-05-20</updated>
+		<summary>Prenatal and postpartum depression was evident in about 10% of men in the reviewed studies and was relatively higher in the 3- to 6-month postpartum period. Paternal depression also showed a moderate positive correlation with maternal depression.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>It is well established that maternal prenatal and postpartum depression is prevalent and has negative personal, family, and child developmental outcomes. Paternal depression during this period may have similar characteristics, but data are based on an emerging and currently inconsistent literature.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To describe point estimates and variability in rates of paternal prenatal and postpartum depression over time and its association with maternal depression.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Studies that documented depression in fathers between the first trimester and the first postpartum year were identified through MEDLINE, PsycINFO, EMBASE, Google Scholar, dissertation abstracts, and reference lists for the period between January 1980 and October 2009.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Studies that reported identified cases within the selected time frame were included, yielding a total of 43 studies involving 28 004 participants after duplicate reports and data were excluded.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Information on rates of paternal and maternal depression, as well as reported paternal-maternal depressive correlations, was extracted independently by 2 raters. Effect sizes were calculated using logits, which were back-transformed and reported as proportions. Random-effects models of event rates were used because of significant heterogeneity. Moderator analyses included timing, measurement method, and study location. Study quality ratings were calculated and used for sensitivity analysis. Publication bias was evaluated with funnel plots and the Egger method.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>Substantial heterogeneity was observed among rates of paternal depression, with a meta-estimate of 10.4% (95% confidence interval [CI], 8.5%-12.7%). Higher rates of depression were reported during the 3- to 6-month postpartum period (25.6%; 95% CI, 17.3%-36.1%). The correlation between paternal and maternal depression was positive and moderate in size (r = 0.308; 95% CI, 0.228-0.384). No evidence of significant publication bias was detected.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Prenatal and postpartum depression was evident in about 10% of men in the reviewed studies and was relatively higher in the 3- to 6-month postpartum period. Paternal depression also showed a moderate positive correlation with maternal depression.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.2010.605" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="2" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.259299993515015" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>Sexual abuse and lifetime diagnosis of psychiatric disorders: systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20458101" title="Sexual abuse and lifetime diagnosis of psychiatric disorders: systematic review and meta-analysis."/>
+		<id>20458101</id>
+		<updated>2010-07-01</updated>
+		<summary>A history of sexual abuse is associated with an increased risk of a lifetime diagnosis of multiple psychiatric disorders.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To systematically assess the evidence for an association between sexual abuse and a lifetime diagnosis of psychiatric disorders.</fragment>
+			</section>
+			<section label="PATIENTS AND METHODS" id="METHODS">
+				<fragment>We performed a comprehensive search (from January 1980-December 2008, all age groups, any language, any population) of 9 databases: MEDLINE, EMBASE, CINAHL, Current Contents, PsycINFO, ACP Journal Club, CCTR, CDSR, and DARE. Controlled vocabulary supplemented with keywords was used to define the concept areas of sexual abuse and psychiatric disorders and was limited to epidemiological studies. Six independent reviewers extracted descriptive, quality, and outcome data from eligible longitudinal studies. Odds ratios (ORs) and 95% confidence intervals (CIs) were pooled across studies by using the random-effects model. The I(2) statistic was used to assess heterogeneity.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The search yielded 37 eligible studies, 17 case-control and 20 cohort, with 3,162,318 participants. There was a statistically significant association between sexual abuse and a lifetime diagnosis of anxiety disorder (OR, 3.09; 95% CI, 2.43-3.94), depression (OR, 2.66; 95% CI, 2.14-3.30), eating disorders (OR, 2.72; 95% CI, 2.04-3.63), posttraumatic stress disorder (OR, 2.34; 95% CI, 1.59-3.43), sleep disorders (OR, 16.17; 95% CI, 2.06-126.76), and suicide attempts (OR, 4.14; 95% CI, 2.98-5.76). Associations persisted regardless of the victim's sex or the age at which abuse occurred. There was no statistically significant association between sexual abuse and a diagnosis of schizophrenia or somatoform disorders. No longitudinal studies that assessed bipolar disorder or obsessive-compulsive disorder were found. Associations between sexual abuse and depression, eating disorders, and posttraumatic stress disorder were strengthened by a history of rape.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>A history of sexual abuse is associated with an increased risk of a lifetime diagnosis of multiple psychiatric disorders.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.4065/mcp.2009.0583" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC2894717" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.138300001621246" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Mayo Clin. Proc."/>
+	</entry>
+	<entry>
+		<title>Antidepressant drug effects and depression severity: a patient-level meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20051569" title="Antidepressant drug effects and depression severity: a patient-level meta-analysis."/>
+		<id>20051569</id>
+		<updated>2010-01-06</updated>
+		<summary>The magnitude of benefit of antidepressant medication compared with placebo increases with severity of depression symptoms and may be minimal or nonexistent, on average, in patients with mild or moderate symptoms. For patients with very severe depression, the benefit of medications over placebo is substantial.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Antidepressant medications represent the best established treatment for major depressive disorder, but there is little evidence that they have a specific pharmacological effect relative to pill placebo for patients with less severe depression.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To estimate the relative benefit of medication vs placebo across a wide range of initial symptom severity in patients diagnosed with depression.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>PubMed, PsycINFO, and the Cochrane Library databases were searched from January 1980 through March 2009, along with references from meta-analyses and reviews.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Randomized placebo-controlled trials of antidepressants approved by the Food and Drug Administration in the treatment of major or minor depressive disorder were selected. Studies were included if their authors provided the requisite original data, they comprised adult outpatients, they included a medication vs placebo comparison for at least 6 weeks, they did not exclude patients on the basis of a placebo washout period, and they used the Hamilton Depression Rating Scale (HDRS). Data from 6 studies (718 patients) were included.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Individual patient-level data were obtained from study authors.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Medication vs placebo differences varied substantially as a function of baseline severity. Among patients with HDRS scores below 23, Cohen d effect sizes for the difference between medication and placebo were estimated to be less than 0.20 (a standard definition of a small effect). Estimates of the magnitude of the superiority of medication over placebo increased with increases in baseline depression severity and crossed the threshold defined by the National Institute for Clinical Excellence for a clinically significant difference at a baseline HDRS score of 25.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The magnitude of benefit of antidepressant medication compared with placebo increases with severity of depression symptoms and may be minimal or nonexistent, on average, in patients with mild or moderate symptoms. For patients with very severe depression, the benefit of medications over placebo is substantial.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.2009.1943" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="8" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.512600004673004" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>A systematic review and meta-analysis of randomized placebo-controlled trials of DHEA treatment effects on quality of life in women with adrenal insufficiency.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19773400" title="A systematic review and meta-analysis of randomized placebo-controlled trials of DHEA treatment effects on quality of life in women with adrenal insufficiency."/>
+		<id>19773400</id>
+		<updated>2009-10-07</updated>
+		<summary>DHEA may improve, in a small and perhaps trivial manner, HRQOL and depression in women with adrenal insufficiency. There was no significant effect of DHEA on anxiety and sexual well-being. The evidence appears insufficient to support the routine use of DHEA in women with adrenal insufficiency.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Women with primary or secondary adrenal insufficiency report a decreased health-related quality of life (HRQOL) despite traditional adrenal replacement therapy. Dehydroepiandrosterone (DHEA) has been studied as an agent to improve HRQOL in these patients.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>We sought to conduct a systematic review and meta-analysis of randomized controlled trials of DHEA effects on HRQOL in women with adrenal insufficiency.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>We searched electronic databases (MEDLINE, EMBASE, Cochrane CENTRAL, Web of Science, CINAHL, and PsycInfo) and reference lists of eligible studies through July 2008.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Eligible trials randomly assigned women with primary or secondary adrenal insufficiency to either DHEA or control and measured the effect of treatment on HRQOL.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Reviewers working independently and in duplicate assessed the methodological quality of trials and collected data on patient characteristics, interventions, and outcomes.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>We found 10 eligible trials that measured HRQOL and depression, anxiety, and sexual function. Random-effects meta-analysis showed a small improvement in HRQOL in women treated with DHEA compared with placebo [effect size of 0.21; 95% confidence interval, 0.08 to 0.33; inconsistency (I(2)) = 32%]. There was a small beneficial effect of DHEA on depression; effects on anxiety and sexual well-being were also small and not statistically significant.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>DHEA may improve, in a small and perhaps trivial manner, HRQOL and depression in women with adrenal insufficiency. There was no significant effect of DHEA on anxiety and sexual well-being. The evidence appears insufficient to support the routine use of DHEA in women with adrenal insufficiency.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1210/jc.2009-0672" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.42629998922348" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0011185" scheme="gov.nih.nlm.semanticType.phsu" label="dehydroepiandrosterone"/>
+		<category term="C0011185" scheme="gov.nih.nlm.semanticType.phsu" label="dehydroepiandrosterone"/>
+		<category term="C0011185" scheme="gov.nih.nlm.semanticType.horm" label="dehydroepiandrosterone"/>
+		<category term="C0011185" scheme="gov.nih.nlm.semanticType.phsu" label="dehydroepiandrosterone"/>
+		<category term="C0011185" scheme="gov.nih.nlm.semanticType.horm" label="dehydroepiandrosterone"/>
+		<source type="J. Clin. Endocrinol. Metab."/>
+	</entry>
+	<entry>
+		<title>Association of torture and other potentially traumatic events with mental health outcomes among populations exposed to mass conflict and displacement: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19654388" title="Association of torture and other potentially traumatic events with mental health outcomes among populations exposed to mass conflict and displacement: a systematic review and meta-analysis."/>
+		<id>19654388</id>
+		<updated>2009-08-05</updated>
+		<summary>Methodological factors and substantive population risk factors, such as exposure to torture and other PTEs, after adjusting for methodological factors account for higher rates of reported prevalence of PTSD and depression.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Uncertainties continue about the roles that methodological factors and key risk factors, particularly torture and other potentially traumatic events (PTEs), play in the variation of reported prevalence rates of posttraumatic stress disorder (PTSD) and depression across epidemiologic surveys among postconflict populations worldwide.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To undertake a systematic review and meta-regression of the prevalence rates of PTSD and depression in the refugee and postconflict mental health field.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>An initial pool of 5904 articles, identified through MEDLINE, PsycINFO and PILOTS, of surveys involving refugee, conflict-affected populations, or both, published in English-language journals between 1980 and May 2009.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Surveys were limited to those of adult populations (n &gt; or = 50) reporting PTSD prevalence, depression prevalence, or both. Excluded surveys comprised patients, war veterans, and civilian populations (nonrefugees/asylum seekers) from high-income countries exposed to terrorist attacks or involved in distal conflicts (&gt; or = 25 years).</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Methodological factors (response rate, sample size and design, diagnostic method) and substantive factors (sociodemographics, place of survey, torture and other PTEs, Political Terror Scale score, residency status, time since conflict).</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>A total of 161 articles reporting results of 181 surveys comprising 81,866 refugees and other conflict-affected persons from 40 countries were identified. Rates of reported PTSD and depression showed large intersurvey variability (0%-99% and 3%-85.5%, respectively). The unadjusted weighted prevalence rate reported across all surveys for PTSD was 30.6% (95% CI, 26.3%-35.2%) and for depression was 30.8% (95% CI, 26.3%-35.6%). Methodological factors accounted for 12.9% and 27.7% PTSD and depression, respectively. Nonrandom sampling, small sample sizes, and self-report questionnaires were associated with higher rates of mental disorder. Adjusting for methodological factors, reported torture (Delta total R(2) between base methodological model and base model + substantive factor [DeltaR(2)] = 23.6%; OR, 2.01; 95% CI, 1.52-2.65) emerged as the strongest factor associated with PTSD, followed by cumulative exposure to PTEs (DeltaR(2) = 10.8%; OR, 1.52; 95% CI, 1.21-1.91), time since conflict (DeltaR(2) = 10%; OR, 0.77; 95% CI, 0.66-0.91), and assessed level of political terror (DeltaR(2) = 3.5%; OR, 1.60; 95% CI, 1.03-2.50). For depression, significant factors were number of PTEs (DeltaR(2) = 22.0%; OR, 1.64; 95% CI, 1.39-1.93), time since conflict (DeltaR(2) = 21.9%; OR, 0.80; 95% CI, 0.69-0.93), reported torture (DeltaR(2) = 11.4%; OR, 1.48; 95% CI, 1.07-2.04), and residency status (DeltaR(2) = 5.0%; OR, 1.30; 95% CI, 1.07-1.57).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Methodological factors and substantive population risk factors, such as exposure to torture and other PTEs, after adjusting for methodological factors account for higher rates of reported prevalence of PTSD and depression.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.2009.1132" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.120700001716614" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>The ethics of randomized placebo-controlled trials of antidepressants with pregnant women: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19037048" title="The ethics of randomized placebo-controlled trials of antidepressants with pregnant women: a systematic review."/>
+		<id>19037048</id>
+		<updated>2008-12-08</updated>
+		<summary>Randomized placebo-controlled trials of antidepressant medications during pregnancy are ethically justified. Well-conducted and ethically justified trials of antidepressants should improve the quality of care provided to depressed pregnant women and thus address a major public health problem.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To determine whether placebo-controlled randomized clinical trials of antidepressant medications with pregnant participants are ethically justified.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>We searched PUBMED, PsychINFO, and Cochrane databases for articles related to the ethical justification of randomized placebo-controlled trials involving pregnant women and for all research articles for the treatment of depression during pregnancy, using the keys words depression, antidepressive agents, pregnancy, clinical trials, placebo, and ethics. We based our ethical framework on current literature on the ethics of maternal-fetal medicine and research and the requirements of argument-based ethics.</fragment>
+			</section>
+			<section label="METHODS OF STUDY SELECTION" id="METHODS">
+				<fragment>We selected studies in which maternal, fetal, and neonatal health outcomes associated with antidepressant exposure were reported.</fragment>
+			</section>
+			<section label="TABULATION, INTEGRATION, AND RESULTS" id="RESULTS">
+				<fragment>We integrated evidence-based reasoning and argument-based ethics to address four questions to determine whether what is known as normative equipoise (evidence-based reasoning requires uncertainty about which clinical management is superior) exists: 1) Is there evidence of efficacy of antidepressant use during pregnancy? 2) Is there documented causality of serious, far-reaching, and irreversible clinical harm to the fetal or neonatal patient? 3) Is there documented causality of serious, far-reaching, and irreversible harm to depressed pregnant women in a placebo arm? 4) Are there no or only rare documented occurrences of less serious injury to the fetal or neonatal patient? Evidence-based answers to these questions support the judgment that normative equipoise exists with respect to randomized placebo-controlled trials of antidepressants with pregnant participants.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Randomized placebo-controlled trials of antidepressant medications during pregnancy are ethically justified. Well-conducted and ethically justified trials of antidepressants should improve the quality of care provided to depressed pregnant women and thus address a major public health problem.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1097/AOG.0b013e31818c2a27" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.334600001573563" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<category term="C0003289" scheme="gov.nih.nlm.semanticType.phsu" label="Antidepressive Agents"/>
+		<source type="Obstet Gynecol"/>
+	</entry>
+	<entry>
+		<title>A systematic review of the efficacy of non-pharmacological treatments for depression on glycaemic control in type 2 diabetics.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18808619" title="A systematic review of the efficacy of non-pharmacological treatments for depression on glycaemic control in type 2 diabetics."/>
+		<id>18808619</id>
+		<updated>2008-09-23</updated>
+		<summary>The available evidence indicated that non-pharmacological treatment of depression had limited effect on glycaemic control in individuals with type 2 diabetes.The depression-focused interventions might not achieve optimal diabetes-related outcomes. The beneficial effect of psychological treatment for glycaemic control may be strengthened by employing treatments tailored to each individual's diabetes self-care needs in addition to depression management.</summary>
+		<content>
+			<section label="AIMS AND OBJECTIVES" id="OBJECTIVE">
+				<fragment>This paper reported a systematic review of three randomised controlled clinical trials evaluating the efficacy of non-pharmacological treatment of depression on glycaemic control in individuals with type 2 diabetes.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Depression is associated with poor adherence to self-care regimen in individuals with diabetes. A significant relationship between depression and poor glycaemic control has also been suggested. Hence, the management of depression becomes an important aspect of diabetes care.</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>Systematic review.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Cochrane library, Pubmed, MEDLINE, EBM review, ProQuest Medical Bundle and SCOPUS databases were searched using the following medical subject headings or key words - depression, mood disorder, depressive symptoms, diabetes mellitus, glycaemic control, glycated haemoglobin, glucose, psychological therapy, psychotherapy, non-pharmacological therapy and cognitive behaviour therapy. The publication date was limited from 1996-2007. Studies were selected if they used a randomised controlled trial design, were written in English, used non-pharmacological treatments for treating depression, included individuals with type 2 diabetes mellitus as participants and included depressive symptoms and glycaemic control (determined by haemoglobin A(1)C) as outcomes.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Non-pharmacological treatments of depression reduce depressive symptoms in diabetic patients. However, cognitive behaviour therapy did not improve glycaemic control. The treatment effect sizes for glycaemic control in the two collaborative-care programmes were also small.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The available evidence indicated that non-pharmacological treatment of depression had limited effect on glycaemic control in individuals with type 2 diabetes.</fragment>
+			</section>
+			<section label="RELEVANCE TO CLINICAL PRACTICE" id="CONCLUSIONS">
+				<fragment>The depression-focused interventions might not achieve optimal diabetes-related outcomes. The beneficial effect of psychological treatment for glycaemic control may be strengthened by employing treatments tailored to each individual's diabetes self-care needs in addition to depression management.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1365-2702.2008.02301.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.238999992609024" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Clin Nurs"/>
+	</entry>
+	<entry>
+		<title>Massage therapy for the treatment of depression: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18081800" title="Massage therapy for the treatment of depression: a systematic review."/>
+		<id>18081800</id>
+		<updated>2008-01-17</updated>
+		<summary>Despite previous research suggesting that MT may be an effective treatment for depression, there is currently a lack of evidence to support this assertion from RCTs that have selected participants for depression or SSD.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>People with depressive disorders or subsyndromal symptoms of depression (SSD) often use complementary and alternative therapies, including massage therapy (MT). This systematic review evaluates the evidence, from randomised clinical trials (RCTs), for the effectiveness of multiple sessions of classical European (Swedish) MT for the treatment of depression.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Eligible RCTs were identified via eight electronic databases and manual searches of references. Two reviewers independently selected trials, assessed trial quality and extracted data.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Four RCTs met our inclusion criteria. Three of these RCTs compared MT with relaxation therapies, but provided insufficient data and analyses to contribute meaningfully to the evaluation of MT for depression. The fourth included RCT used MT as a control condition to evaluate a depression-specific acupuncture treatment. This trial provided limited evidence that, in the early stages of treatment, MT is less effective than acupuncture for treating depression, a treatment which itself is not accepted for this condition.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Despite previous research suggesting that MT may be an effective treatment for depression, there is currently a lack of evidence to support this assertion from RCTs that have selected participants for depression or SSD.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1742-1241.2007.01553.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.224299997091293" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Int. J. Clin. Pract."/>
+	</entry>
+</feed>

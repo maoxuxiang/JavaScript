@@ -1,0 +1,41 @@
+<feed>
+	<category count="58" label="Anti-Arrhythmia Agents" term="C0003195" scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="1" label="Digoxin" term="C0012265" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="2" label="Disopyramide" term="C0012702" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="3" label="Quinidine" term="C0034414" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="11" label="Flecainide" term="C0016229" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="6" label="Propafenone" term="C0033429" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label="Encainide" term="C0085251" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="22" label="Amiodarone" term="C0002598" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="8" label="dofetilide" term="C0114771" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="11" label="dronedarone" term="C0766326" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label="Diltiazem" term="C0012373" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label="Verapamil" term="C0042523" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label="Bepridil" term="C0005116" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+	<category count="16" label="Adrenergic beta-Antagonists" term="C0001645"
+		scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="10" label="Sotalol" term="C0037707" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label="Bisoprolol" term="C0053799" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="2" label="landiolol" term="C0905464" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+	<category count="6" label="Antihypertensive Agents" term="C0003364" scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="1" label="Chlorthalidone" term="C0008294" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label="Ramipril " term="C0072973" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label="valsartan" term="C0216784" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label="irbesartan" term="C0288171" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="1" label="eplerenone" term="C0961485" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+	<category count="23" label="Oral anticoagulants" term="C0354604" scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="2" label="clopidogrel" term="C0070166" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="7" label="Aspirin" term="C0004057" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="18" label="Warfarin" term="C0043031" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="2" label="dabigatran etexilate " term="C1571583"
+			scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+	<category count="7" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors" term="C0360714"
+		scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="1" label="Pravastatin" term="C0085542" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category count="2" label="atorvastatin" term="C0286651" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+</feed>

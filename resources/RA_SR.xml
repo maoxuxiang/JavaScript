@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Knowledge Summary - Treatment of Rheumatoid Arthritis</title>
+	<updated>2013-10-24-06:00</updated>
+	<category term="C0001641" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic alpha-Antagonists"/>
+	<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+	<category term="C0004482" scheme="gov.nih.nlm.semanticType.orch" label="Azathioprine"/>
+	<category term="C0005522" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Products"/>
+	<category term="C0005525" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Response Modifiers"/>
+	<category term="C0010592" scheme="gov.nih.nlm.semanticType.aapp" label="Cyclosporine"/>
+	<category term="C0010592" scheme="gov.nih.nlm.semanticType.phsu" label="Cyclosporine"/>
+	<category term="C0012544" scheme="gov.nih.nlm.semanticType.phsu" label="Diphosphonates"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0025677" scheme="gov.nih.nlm.semanticType.orch" label="Methotrexate"/>
+	<category term="C0025677" scheme="gov.nih.nlm.semanticType.phsu" label="Methotrexate"/>
+	<category term="C0028978" scheme="gov.nih.nlm.semanticType.orch" label="Omeprazole"/>
+	<category term="C0031923" scheme="gov.nih.nlm.semanticType.phsu" label="Pilocarpine"/>
+	<category term="C0040616" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Anxiety Agents"/>
+	<category term="C0041044" scheme="gov.nih.nlm.semanticType.orch" label="Trimethoprim-Sulfamethoxazole Combination"/>
+	<category term="C0042866" scheme="gov.nih.nlm.semanticType.phsu" label="Vitamin D"/>
+	<category term="C0059865" scheme="gov.nih.nlm.semanticType.orch" label="Etodolac"/>
+	<category term="C0083381" scheme="gov.nih.nlm.semanticType.orch" label="meloxicam"/>
+	<category term="C0093437" scheme="gov.nih.nlm.semanticType.phsu" label="cevimeline"/>
+	<category term="C0210355" scheme="gov.nih.nlm.semanticType.orch" label="Arthrotec"/>
+	<category term="C0242708" scheme="gov.nih.nlm.semanticType.phsu" label="Antirheumatic Drugs, Disease-Modifying"/>
+	<category term="C0245109" scheme="gov.nih.nlm.semanticType.aapp" label="anakinra"/>
+	<category term="C0245109" scheme="gov.nih.nlm.semanticType.phsu" label="anakinra"/>
+	<category term="C0358591" scheme="gov.nih.nlm.semanticType.phsu" label="Proton Pump Inhibitors"/>
+	<category term="C0387583" scheme="gov.nih.nlm.semanticType.aapp" label="cyclooxygenase 2"/>
+	<category term="C0393022" scheme="gov.nih.nlm.semanticType.aapp" label="rituximab"/>
+	<category term="C0393022" scheme="gov.nih.nlm.semanticType.phsu" label="rituximab"/>
+	<category term="C0538927" scheme="gov.nih.nlm.semanticType.orch" label="celecoxib"/>
+	<category term="C0600251" scheme="gov.nih.nlm.semanticType.aapp" label="Interleukin-1 alpha"/>
+	<category term="C0666743" scheme="gov.nih.nlm.semanticType.aapp" label="infliximab"/>
+	<category term="C0666743" scheme="gov.nih.nlm.semanticType.phsu" label="infliximab"/>
+	<category term="C0717758" scheme="gov.nih.nlm.semanticType.aapp" label="Etanercept"/>
+	<category term="C0717758" scheme="gov.nih.nlm.semanticType.phsu" label="Etanercept"/>
+	<category term="C0762662" scheme="gov.nih.nlm.semanticType.orch" label="rofecoxib"/>
+	<category term="C0913246" scheme="gov.nih.nlm.semanticType.orch" label="valdecoxib"/>
+	<category term="C0972314" scheme="gov.nih.nlm.semanticType.orch" label="etoricoxib"/>
+	<category term="C1122087" scheme="gov.nih.nlm.semanticType.aapp" label="adalimumab"/>
+	<category term="C1122087" scheme="gov.nih.nlm.semanticType.phsu" label="adalimumab"/>
+	<category term="C1527378" scheme="gov.nih.nlm.semanticType.phsu" label="Alternative medicine preparation"/>
+	<category term="C1609165" scheme="gov.nih.nlm.semanticType.aapp" label="tocilizumab"/>
+	<category term="C1609165" scheme="gov.nih.nlm.semanticType.phsu" label="tocilizumab"/>
+	<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+	<entry>
+		<title>Impact of total shoulder arthroplasty on generic and shoulder-specific health-related quality-of-life measures: a systematic literature review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22992856" title="Impact of total shoulder arthroplasty on generic and shoulder-specific health-related quality-of-life measures: a systematic literature review and meta-analysis."/>
+		<id>22992856</id>
+		<updated>2012-09-20</updated>
+		<summary>Total shoulder arthroplasty leads to significant improvements in scores for function and pain. Shoulder-specific measures of function consistently showed the greatest degree of improvement, with large effect sizes. Total shoulder arthroplasty also leads to significant improvements in overall physical well-being, with a moderate-to-large effect size.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Total shoulder arthroplasty is increasingly used in the treatment of arthritis. However, the effect of total shoulder arthroplasty on health-related quality of life has not been fully established. The goal of this systematic review and meta-analysis was to characterize the change in generic and shoulder-specific health-related quality-of-life measures resulting from total shoulder arthroplasty.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We identified published studies reporting preoperative and postoperative health-related quality-of-life outcomes for patients receiving total shoulder arthroplasty. Health-related quality-of-life measures were identified, and meta-analysis was used to calculate standardized mean differences (SMDs, reflective of the effect size) and 95% confidence intervals for each scale.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Twenty studies (1576 total shoulder replacements) met the inclusion criteria. Outcome measures were analyzed after an average postoperative follow-up duration of 3.7 ± 2.2 years. The Short Form-36 demonstrated significant improvement in physical component summary scores (SMD = 0.7, p &lt; 0.001) but not in mental component summary scores (SMD = 0.2, p = 0.37). Significant improvements were observed in the visual analog scale score for pain (SMD = -2.5, p &lt; 0.001) and scores on three shoulder-specific measures: the Constant score (SMD = 2.7, p &lt; 0.001), American Shoulder and Elbow Surgeons score (SMD = 2.9, p &lt; 0.001), and Simple Shoulder Test (SMD = 2.3, p &lt; 0.001).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Total shoulder arthroplasty leads to significant improvements in scores for function and pain. Shoulder-specific measures of function consistently showed the greatest degree of improvement, with large effect sizes. Total shoulder arthroplasty also leads to significant improvements in overall physical well-being, with a moderate-to-large effect size.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.2106/JBJS.K.00204" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.59689998626709" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Bone Joint Surg Am"/>
+	</entry>
+	<entry>
+		<title>Risk of malignancies in patients with rheumatoid arthritis treated with biologic therapy: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22948700" title="Risk of malignancies in patients with rheumatoid arthritis treated with biologic therapy: a meta-analysis."/>
+		<id>22948700</id>
+		<updated>2012-09-05</updated>
+		<summary>The use of BRMs among patients with RA included in RCTs of at least 6 months' duration was not significantly associated with an increased risk of malignancy compared with other disease-modifying antirheumatic drugs or with placebo.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Concerns exist regarding the potential development of malignancies in patients with rheumatoid arthritis (RA) who are receiving biologic response modifiers (BRMs).</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To assess the risk of malignancy in patients with RA enrolled in randomized controlled trials (RCTs) of BRMs.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Electronic databases, conference proceedings, and websites of regulatory agencies were searched for RCTs evaluating abatacept, adalimumab, anakinra, certolizumab, etanercept, golimumab, infliximab, rituximab, and tocilizumab in RA from inception through July 9, 2012.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Independent selection of studies included RCTs that compared the safety of any BRMs used in RA patients with placebo and/or any traditional disease-modifying antirheumatic drugs with a minimum of 24 weeks of follow-up.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Independent reviewers selected studies and extracted data on quality and outcomes. Pooled estimates and 95% confidence intervals were calculated for each BRM.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Sixty-three RCTs with 29,423 patients were analyzed. No statistically significant increased risk of developing malignancy was observed. Of the 29,423 patients, 211 developed a malignancy during the trial (118 solid tumors, 48 skin cancers, 14 lymphomas, 5 hematologic nonlymphomas, and 26 not specified). The incidence rate for any malignancy during the first year of therapy was very low in the BRM plus methotrexate group (0.77%; 95% CI, 0.65%-0.92%), the BRM monotherapy group (0.64%; 95% CI, 0.42%-0.95%), and the controls (0.66%; 95% CI, 0.52%-0.84%). Anakinra plus methotrexate showed lower odds compared with methotrexate alone (Peto odds ratio, 0.11; 95% CI, 0.03-0.45). No statistically significant risk was observed for specific cancer sites, although the Peto odds ratio for lymphoma was 2.1 (95% CI, 0.55-8.4) in patients receiving tumor necrosis factor inhibitors compared with controls.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>The use of BRMs among patients with RA included in RCTs of at least 6 months' duration was not significantly associated with an increased risk of malignancy compared with other disease-modifying antirheumatic drugs or with placebo.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/2012.jama.10857" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.54229998588562" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0025677" scheme="gov.nih.nlm.semanticType.orch" label="Methotrexate"/>
+		<category term="C0005525" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Response Modifiers"/>
+		<category term="C0005525" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Response Modifiers"/>
+		<category term="C0666743" scheme="gov.nih.nlm.semanticType.aapp" label="infliximab"/>
+		<category term="C0005525" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Response Modifiers"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.aapp" label="rituximab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.aapp" label="tocilizumab"/>
+		<category term="C0005525" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Response Modifiers"/>
+		<category term="C0242708" scheme="gov.nih.nlm.semanticType.phsu" label="Antirheumatic Drugs, Disease-Modifying"/>
+		<category term="C0005525" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Response Modifiers"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>The efficacy of biologic agents in patients with rheumatoid arthritis and an inadequate response to tumour necrosis factor inhibitors: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22942404" title="The efficacy of biologic agents in patients with rheumatoid arthritis and an inadequate response to tumour necrosis factor inhibitors: a systematic review."/>
+		<id>22942404</id>
+		<updated>2012-12-03</updated>
+		<summary>RA patients with an inadequate response to one or more TNF inhibitors derive significant clinical benefit from subsequent therapy with an alternative TNF inhibitor or with rituximab or abatacept. Prospective randomized controlled trials are needed to help physicians in the best choice of further therapy for their patients.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To assess the relative efficacy of subsequent biologic therapies in patients with RA who have had an inadequate response to prior therapy with a TNF-α inhibitor.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic review was conducted using the MEDLINE, Embase and Cochrane Library databases and abstract lists from the European League Against Rheumatism, American College of Rheumatology and British Society of Rheumatology congresses. Searches covered the period from May 2009 (August 2009 for MEDLINE) to January 2011. Therapies considered were abatacept, adalimumab, etanercept, infliximab and rituximab, used at European licensed standard dose regimens.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Four full publications and 41 congress abstracts met the criteria for inclusion. Significant improvements in RA signs and symptoms were reported for TNF inhibitors (individual agents or groups of agents, depending on the study) and for abatacept and rituximab. Rituximab was also associated with significantly improved radiographic outcomes. No head-to-head randomized controlled trials directly comparing different agents were published during the search period. Comparative data from registries and other observational studies suggest that rituximab is at least as effective as an alternative TNF inhibitor, and in some studies significantly more effective, in TNF inadequate responders.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>RA patients with an inadequate response to one or more TNF inhibitors derive significant clinical benefit from subsequent therapy with an alternative TNF inhibitor or with rituximab or abatacept. Prospective randomized controlled trials are needed to help physicians in the best choice of further therapy for their patients.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/kes217" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.252600014209747" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0005522" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Products"/>
+		<category term="C0005522" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Products"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.aapp" label="rituximab"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.aapp" label="rituximab"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.aapp" label="rituximab"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>A systematic review of evidence for the effectiveness of practitioner-based complementary and alternative therapies in the management of rheumatic diseases: rheumatoid arthritis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22661556" title="A systematic review of evidence for the effectiveness of practitioner-based complementary and alternative therapies in the management of rheumatic diseases: rheumatoid arthritis."/>
+		<id>22661556</id>
+		<updated>2012-08-15</updated>
+		<summary/>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To critically review the evidence on the effectiveness of complementary therapies for patients with RA.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Randomized controlled trials, published in English up to May 2011, were identified using systematic searches of bibliographic databases and searching of reference lists. Information was extracted on outcomes and statistical significance in comparison with alternative treatments and reported side effects. The methodological quality of the identified studies was determined using the Jadad scoring system. All outcomes were considered but with a focus on patient global assessment and pain reporting.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eleven eligible trials were identified covering seven therapies. Three trials that compared acupuncture with sham acupuncture reported no significant difference in pain reduction between the groups but one out of two reported an improvement in patient global assessment. Except for reduction in physician's global assessment of treatment and disease activity reported in one trial, no other comparative benefit of acupuncture was seen. There were two studies on meditation and one each on autogenic training, healing therapy, progressive muscle relaxation, static magnets and tai chi. None of these trials reported positive comparative effects on pain but some positive effects on patient global assessment were noted at individual time points in the healing therapy and magnet therapy studies. A small number of other outcomes showed comparative improvement in individual trials. There were no reports of major adverse events. Conclusion: The very limited evidence available indicates that for none of the practitioner-based complementary therapies considered here is there good evidence of efficacy or effectiveness in the management of RA.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/kes133" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.165900006890297" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Efficacy of resistance exercises in rheumatoid arthritis: meta-analysis of randomized controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22120463" title="Efficacy of resistance exercises in rheumatoid arthritis: meta-analysis of randomized controlled trials."/>
+		<id>22120463</id>
+		<updated>2012-02-20</updated>
+		<summary>Resistance exercise in RA is safe, and the improvement in most outcomes was statistically significant and possibly clinically relevant for RA disability.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To evaluate the efficacy of resistance exercises in RA patients.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic literature search was done using Pubmed, Embase and Cochrane databases through November 2009 and in abstracts presented at rheumatology scientific meetings over the past 3 years. Randomized controlled trials (RCTs) comparing resistance exercise based therapy with interventions without resistance exercise for the treatment of RA patients were included. Outcomes studied were post-intervention disability on the HAQ, functional capacity assessed by walking speed, pain on the visual analogue scale (VAS), joint count, isometric, isokinetic and grip strength. Efficacy was assessed by weighted mean differences (WMDs) and tolerance was assessed by relative risk (RR). Data were pooled using the inverse of variance model, and heterogeneity was tested.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Ten RCTs, including 547 patients, met the study inclusion criteria. The mean (S.D.) Jadad score was 2.3 (0.6). Resistance exercises significantly improved isokinetic strength (WMD = 23.7%, P &lt; 0.001), isometric strength (WMD = 35.8%, P &lt; 0.001), grip strength (WMD = 26.4%, P &lt; 0.001) and HAQ (WMD = -0.22, P &lt; 0.001). Exercise also had a positive impact on the 50-foot walking test (WMD = -1.90 s, P &lt; 0.001) and ESR (WMD = -5.17, P = 0.005). Withdrawals [RR = 0.95, 95% confidence interval (CI) 0.61, 1.48] and adverse events (RR = 1.08, 95% CI 0.72, 1.63) were well balanced in both groups. Patient and exercise characteristics did not influence the results. Subgroup analysis revealed a trend towards higher efficacy associated with high-intensity programmes.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Resistance exercise in RA is safe, and the improvement in most outcomes was statistically significant and possibly clinically relevant for RA disability.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/ker330" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.671899974346161" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Vascular function and morphology in rheumatoid arthritis: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21926155" title="Vascular function and morphology in rheumatoid arthritis: a systematic review."/>
+		<id>21926155</id>
+		<updated>2011-10-24</updated>
+		<summary>The link between systemic inflammation and vascular function and morphology is not wholly supported by the available literature. Long-term studies examining specific predictors (including CVD risk factors) on the vasculature in RA are needed.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>RA associates with significantly increased morbidity and mortality from cardiovascular disease (CVD). This may be due to complex interactions between traditional CVD risk factors, systemic rheumatoid inflammation and the vasculature. We reviewed the current literature to answer: (i) whether there is sufficient evidence that patients with RA have altered vascular function and morphology compared with normal controls; (ii) whether there is sufficient evidence to determine if such changes relate predominantly to systemic inflammation; and (iii) whether any changes of vascular function and morphology in RA can be modified with therapy.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>The MEDLINE database was searched to identify publications from 1974 to 1 November 2010 pertaining to vascular function and morphology in RA. The total number of articles included in the present review was 93. This included 57 cross-sectional studies, 27 longitudinal studies without randomization and 9 longitudinal studies with randomization.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Vascular function and morphology was impaired in RA relative to healthy controls. The majority of studies reported no associations between systemic inflammation and vascular function. Treatment with anti-inflammatory medication resulted in both transient and long-term improvements in the vasculature, but only a few studies reported associations between change in inflammation and change in vascular function and morphology.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>The link between systemic inflammation and vascular function and morphology is not wholly supported by the available literature. Long-term studies examining specific predictors (including CVD risk factors) on the vasculature in RA are needed.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/ker275" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.176499992609024" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Rheumatoid arthritis disease severity indices in administrative databases: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21921094" title="Rheumatoid arthritis disease severity indices in administrative databases: a systematic review."/>
+		<id>21921094</id>
+		<updated>2011-11-02</updated>
+		<summary>Two claims-based indices of RA severity were identified but have some limitations for routine use. A concerted effort from experts in the field is needed to define, develop, and validate a widely applicable measure of RA disease severity for administrative database research.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>We aimed to systematically review rheumatoid arthritis (RA) disease severity indices for use in administrative healthcare databases. We also provide an overview of alternative methods to control for RA disease severity in administrative database research.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We conducted a systematic review of studies that developed/validated an index for RA disease severity using variables in administrative databases, and compared the convergent validity/reliability of the index with a standard measure of RA severity.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>After reviewing 539 articles, 2 studies were included. The claims-based index for RA severity (CIRAS) was developed in one study. Components of the CIRAS included tests for inflammatory markers, number of chemistry panels/platelet counts ordered, rheumatoid factor test, number of rehabilitation and rheumatology visits, and Felty's syndrome. The CIRAS correlated moderately well with a previously validated RA medical records-based index of severity. The second study assessed whether current and lifetime treatment with disease-modifying antirheumatic drugs and/or biologics accurately predicted RA severity, as measured by the patient-reported Patient Activity Scale (PAS). Treatment variables did not fully distinguish patients in the highest and lowest quartiles of PAS scores (67.2% correctly classified).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Two claims-based indices of RA severity were identified but have some limitations for routine use. A concerted effort from experts in the field is needed to define, develop, and validate a widely applicable measure of RA disease severity for administrative database research.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3899/jrheum.110587" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.150999993085861" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Rheumatol."/>
+	</entry>
+	<entry>
+		<title>Quality appraisal of clinical practice guidelines on the use of physiotherapy in rheumatoid arthritis: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21743086" title="Quality appraisal of clinical practice guidelines on the use of physiotherapy in rheumatoid arthritis: a systematic review."/>
+		<id>21743086</id>
+		<updated>2011-09-21</updated>
+		<summary>Six of eight clinical practice guidelines addressing physiotherapy interventions were recommended or strongly recommended according to the AGREE instrument. In general, guideline recommendations on physiotherapy intervention, from both the recommended guidelines as well as from the not recommended guidelines, lacked detail concerning mode of delivery, intensity, frequency and duration.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To assess the quality of guidelines published in peer-reviewed literature concerning the role of physiotherapy in the management of patients with RA.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic literature search for clinical practice guidelines that included physiotherapy interventions was performed in four electronic databases. We assessed the quality of the selected guidelines using the appraisal of guidelines for research and evaluation (AGREE) instrument. In addition, the recommendations of guidelines with the highest quality scores were summarized.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eight clinical practice guidelines fulfilled the inclusion criteria. Scope/purpose was the most often adequately addressed AGREE domain (in seven of the eight guidelines) and applicability the least (in two of the eight guidelines). Based on the AGREE domain scores, six guidelines could be recommended or strongly recommended for clinical use. Five out of these six (strongly) recommended guidelines included a recommendation on exercise therapy and/or patient education, with these interventions being recommended in every case. Transcutaneous electrical nerve stimulation and thermotherapy were recommended in four of these six guidelines. US, thermotherapy, low-level laser therapy, massage, passive mobilization and balneotherapy were addressed in one or two of these six guidelines.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Six of eight clinical practice guidelines addressing physiotherapy interventions were recommended or strongly recommended according to the AGREE instrument. In general, guideline recommendations on physiotherapy intervention, from both the recommended guidelines as well as from the not recommended guidelines, lacked detail concerning mode of delivery, intensity, frequency and duration.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/ker195" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.41729998588562" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Early postoperative mortality following joint arthroplasty: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21724724" title="Early postoperative mortality following joint arthroplasty: a systematic review."/>
+		<id>21724724</id>
+		<updated>2011-07-04</updated>
+		<summary>Several demographic and surgical factors were associated with higher 30-day mortality rates following knee and hip arthroplasties. More studies are needed to examine the effect of body mass index, comorbidities, and other modifiable factors, in order to identify interventions to lower mortality rates following arthroplasty procedures.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To perform a systematic review of 30- and 90-day mortality rates in patients undergoing hip or knee arthroplasties.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Five databases were searched for English-language studies of mortality in hip or knee arthroplasties and the following data were extracted: patient characteristics (age, sex, ethnicity), arthroplasty characteristics (unilateral vs bilateral, hip vs knee), system factors (hospital volume and surgeon volume), year of study, etc. Mortality rates were compared across variable categories; proportions were compared using relative risk ratios and 95% confidence intervals.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Out of 650 titles and abstracts, 80 studies qualified for analysis. Of these, 35%, 34%, and 31% of studies provided 30-, 90-, and &gt; 90-day mortality rates. Overall 30-day mortality rates across all types of arthroplasties were 0.3%; 90-day, 0.7%. For those reports with specific rates, 30-day mortality was significantly higher in men than women [1.8% vs 0.4%, respectively; relative risk (RR) 3.93, 95% CI 3.30-4.68] and in bilateral versus unilateral procedures (0.5% vs 0.3%; RR 1.6, 95% CI 1.49-1.72), but no differences were noted by the underlying diagnosis of osteoarthritis (OA) versus rheumatoid arthritis (0.4% vs 0.3%; RR 0.77, 95% CI 0.48-1.24). 90-day mortality showed nonsignificant trends favoring women, OA as the underlying diagnosis, and unilateral procedures.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Several demographic and surgical factors were associated with higher 30-day mortality rates following knee and hip arthroplasties. More studies are needed to examine the effect of body mass index, comorbidities, and other modifiable factors, in order to identify interventions to lower mortality rates following arthroplasty procedures.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3899/jrheum.110280" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.186199992895126" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Rheumatol."/>
+	</entry>
+	<entry>
+		<title>Safety of anti-tumour necrosis factor agents in patients with chronic hepatitis C infection: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21690185" title="Safety of anti-tumour necrosis factor agents in patients with chronic hepatitis C infection: a systematic review."/>
+		<id>21690185</id>
+		<updated>2011-08-19</updated>
+		<summary>The safety profile of anti-TNF-α agents in the setting of HCV infection seems to be acceptable, even if differences in the hepatotoxic profile are apparent between different agents. In the absence of long-term and large, controlled clinical trials a definitive statement on the safety of anti-TNF-α therapies in the setting of chronic HCV infection cannot be made.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To identify all of the patients affected by chronic hepatitis C infection treated with TNF-α blockers (adalimumab, certolizumab pegol, etanercept, golimumab and infliximab) in order to evaluate the safety profile.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic review of the literature from January 1990 to October 2010.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>In total, 37 publications with data on 153 patients who were treated with anti-TNF-α agents in the setting of HCV infection were found. The mean anti-TNF-α treatment duration was 11.9 months. Ninety-one patients had RA, 22 had psoriasis, 6 had Crohn's disease and 14 patients had other chronic inflammatory diseases. To date, etanercept is the biological agent that has been most extensively used in the patients with HCV infection, with only one definitely confirmed case of HCV hepatitis worsening and five suspected cases (elevation of transaminases not associated with an increase in the HCV viral load and vice versa) in 110 treated patients. Treatment with this agent resulted in stable levels of liver transaminases and a stable viral load in 74 patients, with an improvement in HCV chronic liver disease in combination with IFN-ribavirin therapy in 29 patients.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The safety profile of anti-TNF-α agents in the setting of HCV infection seems to be acceptable, even if differences in the hepatotoxic profile are apparent between different agents. In the absence of long-term and large, controlled clinical trials a definitive statement on the safety of anti-TNF-α therapies in the setting of chronic HCV infection cannot be made.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/ker190" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.263200014829636" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0040616" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Anxiety Agents"/>
+		<category term="C0040616" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Anxiety Agents"/>
+		<category term="C0005522" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Products"/>
+		<category term="C0005522" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Products"/>
+		<category term="C0040616" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Anxiety Agents"/>
+		<category term="C0717758" scheme="gov.nih.nlm.semanticType.phsu" label="Etanercept"/>
+		<category term="C0717758" scheme="gov.nih.nlm.semanticType.aapp" label="Etanercept"/>
+		<category term="C0717758" scheme="gov.nih.nlm.semanticType.aapp" label="Etanercept"/>
+		<category term="C0001641" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic alpha-Antagonists"/>
+		<category term="C0001641" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic alpha-Antagonists"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Evidence for the efficacy of complementary and alternative medicines in the management of rheumatoid arthritis: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21652584" title="Evidence for the efficacy of complementary and alternative medicines in the management of rheumatoid arthritis: a systematic review."/>
+		<id>21652584</id>
+		<updated>2011-08-19</updated>
+		<summary>The major limitation in reviewing the evidence for CAMs is the paucity of RCTs in the area. The available evidence does not support their current use in the management of RA.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To critically evaluate the evidence regarding complementary and alternative medicine (CAM) taken orally or applied topically (excluding fish oil) in the treatment of RA.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Randomized controlled trials (RCTs) of RA using CAMs, in comparison with other treatments or placebo, published in English up to August 2010, were eligible for inclusion. They were identified using systematic searches of bibliographic databases and manual searching of reference lists. Information was extracted on outcomes and statistical significance, in comparison with alternative treatments, and reported side effects. The methodological quality of the primary studies was determined using the Jadad scoring system.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Reported RCTs were available for 18 CAMs in the management of RA. There was no consistent evidence available for any of the reviewed substances to suggest that they were efficacious as complementary medicines to standard treatment. Nevertheless, the studies conducted on borage seed oil (n = 2) and thunder god vine (n = 3) have been positive and may warrant further investigation. Not all CAM compounds studied were free of major adverse effects.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>The major limitation in reviewing the evidence for CAMs is the paucity of RCTs in the area. The available evidence does not support their current use in the management of RA.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/ker119" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.564400017261505" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C1527378" scheme="gov.nih.nlm.semanticType.phsu" label="Alternative medicine preparation"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Effect of biotherapies on fatigue in rheumatoid arthritis: a systematic review of the literature and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21515629" title="Effect of biotherapies on fatigue in rheumatoid arthritis: a systematic review of the literature and meta-analysis."/>
+		<id>21515629</id>
+		<updated>2012-12-22</updated>
+		<summary>Few studies reported the impact of biotherapies on fatigue. The effect of biotherapies on fatigue in RA is small.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To assess the effect of biotherapies vs placebo on fatigue in two situations: inadequate response to conventional treatments (IR-DMARD) and inadequate response to anti-TNF (IR-anti-TNF) in RA.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic review of the literature and meta-analysis were performed. We included randomized controlled trials (RCTs) assessing the effect of biotherapies vs placebo on fatigue, in combination with DMARDs. Fatigue was measured using the functional assessment of chronic illness therapy-fatigue (FACIT-F) or short-form 36 (SF-36) vitality scores at baseline and at Week 24. The results were in effect size (ES) for each biotherapy (or class of biotherapy) vs placebo. An ES of &lt;0.5 was considered as small, between 0.5 and 0.8 as moderate and &gt;0.8 as important.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>From the 763 published studies, 10 RCTs were included in the analysis: seven involved IR-DMARD RA and three IR-anti-TNF. Among the 3837 included patients with established RA, 1227 patients were treated with an anti-TNF, 420 with rituximab, 258 with abatacept, 205 with tocilizumab and 1727 received placebo. The overall ESs of all biotherapies vs placebo on fatigue were small (ES = 0.45; 95% CI 0.31, 0.58) as well as for anti-TNFs (ES = 0.36; 95% CI 0.21, 0.51). The ESs were small in IR-DMARD RA (ES = 0.38; 95% CI 0.30, 0.46), similar between anti-TNF and non-anti-TNF agents and moderate in IR-anti-TNF RA (ES = 0.57; 95% CI 0.27, 0.86).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Few studies reported the impact of biotherapies on fatigue. The effect of biotherapies on fatigue in RA is small.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/ker162" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.821900010108948" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.aapp" label="rituximab"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.aapp" label="tocilizumab"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Adalimumab, etanercept, infliximab, rituximab and abatacept for the treatment of rheumatoid arthritis after the failure of a tumour necrosis factor inhibitor: a systematic review and economic evaluation.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21439251" title="Adalimumab, etanercept, infliximab, rituximab and abatacept for the treatment of rheumatoid arthritis after the failure of a tumour necrosis factor inhibitor: a systematic review and economic evaluation."/>
+		<id>21439251</id>
+		<updated>2011-03-28</updated>
+		<summary>Paucity of evidence from RCTs for assessing the clinical effectiveness of TNF inhibitors and an absence of head-to-head trials comparing the five technologies.Evidence from RCTs suggests that RTX and ABT are more effective than supportive care. Data from observational studies suggest that the use of an alternative TNF inhibitor in patients who exhibit an inadequate response to a first TNF inhibitor may offer some benefit, but there remain uncertainties with regard to the magnitude of treatment effects and their cost-effectiveness. Future research should include head-to-head trials comparing the clinical effectiveness and cost-effectiveness of the technologies against each other and emerging biologics.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Rheumatoid arthritis (RA) is an inflammatory condition that typically causes a symmetrical chronic arthritis. Timely use of disease-modifying antirheumatic drugs (DMARDs) is an essential aspect of disease management, but many patients may not respond even when conventional agents are used optimally.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To assess the clinical effectiveness and cost-effectiveness of adalimumab (ADA), etanercept (ETN), infliximab (IFX), rituximab (RTX) and abatacept (ABT) when used in patients with RA who have tried conventional agents and have failed to improve after trying a first tumour necrosis factor (TNF) inhibitor.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>A systematic review of primary studies was undertaken. Databases searched included the Cochrane Library, MEDLINE (Ovid) and EMBASE up to July 2009.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Two reviewers assessed titles and abstracts of studies identified by the search strategy, obtained the full text of relevant papers and screened them against inclusion criteria.</fragment>
+			</section>
+			<section label="STUDY APPRAISAL" id="UNASSIGNED">
+				<fragment>Data from included studies were extracted by one reviewer and checked by a second. The quality of included studies was assessed independently by two reviewers, with any disagreements resolved by discussion and consultation with a third reviewer if necessary.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Thirty-five studies were included in the systematic review: five randomised controlled trials (RCTs), one comparative study, one controlled study and 28 uncontrolled studies. One RCT (REFLEX) demonstrated the effectiveness of RTX. At 6 months significantly more patients treated with RTX achieved American College of Rheumatology (ACR) 20 [relative risk (RR) = 2.85, 95% confidence interval (CI) 2.08 to 3.91] and ACR70 (RR = 12.14, 95% CI 2.96 to 49.86) compared with those treated with the placebo. Differences between groups in favour of RTX were observed at 6 months for mean change from baseline in Disease Activity Score 28 (DAS28) (mean difference -1.50, 95% CI -1.74 to -1.26) and mean change from baseline in Health Assessment Questionnaire (HAQ) score (mean difference -0.30, 95% CI -0.40 to -0.20). One RCT (ATTAIN) demonstrated the effectiveness of ABT. At 6 months significantly more patients treated with ABT achieved ACR20 (RR = 2.56, 95% CI 1.77 to 3.69) and ACR70 (RR = 6.70, 95% CI 1.62 to 27.80) compared with those treated with placebo. Significant differences between groups in favour of ABT were observed at 6 months for mean change from baseline in DAS28 score (mean difference -1.27, 95% CI -1.62 to -0.93) and mean change from baseline in HAQ score (mean difference -0.34). Twenty-eight uncontrolled studies observed improvement of effectiveness compared with before switching, in patients who switched to ADA, ETN or IFX after discontinued previous TNF inhibitor(s). Four studies were included in the systematic review of cost-effectiveness. Independent economic evaluation undertaken by the assessment group showed that compared with DMARDs, the incremental cost-effectiveness ratios (ICERs) were £34,300 [per quality-adjusted life-year (QALY)] for ADA, £38,800 for ETN, £36,200 for IFX, £21,200 for RTX and £38,600 for ABT. RTX dominates the TNF inhibitors and the ICER for ABT compared with RTX is over £100,000 (per QALY).</fragment>
+			</section>
+			<section label="LIMITATIONS" id="CONCLUSIONS">
+				<fragment>Paucity of evidence from RCTs for assessing the clinical effectiveness of TNF inhibitors and an absence of head-to-head trials comparing the five technologies.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Evidence from RCTs suggests that RTX and ABT are more effective than supportive care. Data from observational studies suggest that the use of an alternative TNF inhibitor in patients who exhibit an inadequate response to a first TNF inhibitor may offer some benefit, but there remain uncertainties with regard to the magnitude of treatment effects and their cost-effectiveness. Future research should include head-to-head trials comparing the clinical effectiveness and cost-effectiveness of the technologies against each other and emerging biologics.</fragment>
+			</section>
+			<section label="FUNDING" id="BACKGROUND">
+				<fragment>This study was funded by the Health Technology Assessment programme of the National Institute for Health Research.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3310/hta15140" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.108999997377396" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.phsu" label="rituximab"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.phsu" label="rituximab"/>
+		<category term="C0666743" scheme="gov.nih.nlm.semanticType.phsu" label="infliximab"/>
+		<category term="C0666743" scheme="gov.nih.nlm.semanticType.phsu" label="infliximab"/>
+		<category term="C0666743" scheme="gov.nih.nlm.semanticType.phsu" label="infliximab"/>
+		<category term="C0717758" scheme="gov.nih.nlm.semanticType.phsu" label="Etanercept"/>
+		<category term="C0717758" scheme="gov.nih.nlm.semanticType.phsu" label="Etanercept"/>
+		<category term="C0717758" scheme="gov.nih.nlm.semanticType.phsu" label="Etanercept"/>
+		<category term="C0666743" scheme="gov.nih.nlm.semanticType.aapp" label="infliximab"/>
+		<category term="C0717758" scheme="gov.nih.nlm.semanticType.aapp" label="Etanercept"/>
+		<category term="C1122087" scheme="gov.nih.nlm.semanticType.phsu" label="adalimumab"/>
+		<category term="C1122087" scheme="gov.nih.nlm.semanticType.phsu" label="adalimumab"/>
+		<category term="C1122087" scheme="gov.nih.nlm.semanticType.phsu" label="adalimumab"/>
+		<category term="C1122087" scheme="gov.nih.nlm.semanticType.aapp" label="adalimumab"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.phsu" label="rituximab"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.phsu" label="rituximab"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.aapp" label="rituximab"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.aapp" label="rituximab"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C0393022" scheme="gov.nih.nlm.semanticType.aapp" label="rituximab"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>The effectiveness of nurse-led care in people with rheumatoid arthritis: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21392764" title="The effectiveness of nurse-led care in people with rheumatoid arthritis: a systematic review."/>
+		<id>21392764</id>
+		<updated>2011-05-09</updated>
+		<summary>The estimates of the primary outcome and most secondary outcomes showed no significant difference between nurse-led care and the usual care. While few outcomes favoured nurse-led care, there is insufficient evidence to conclude whether this is the case. More good quality RCTs of nurse-led care effectiveness in rheumatoid arthritis are required.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The objective of this systematic review was to determine the effectiveness of nurse-led care in rheumatoid arthritis.</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>Systematic review of effectiveness.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Electronic databases (AMED, CENTRAL, CINAHL, EMBASE, HMIC, HTA, MEDLINE, NHEED, Ovid Nursing and PsycINFO) were searched from 1988 to January 2010 with no language restrictions. Inclusion criteria were: randomised controlled trials, nurse-led care being part of the intervention and including patients with RA.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>Data were extracted by one reviewer and checked by a second reviewer. Quality assessment was conducted independently by two reviewers using the Cochrane Collaboration's Risk of Bias Tool. For each outcome measure, the effect size was assessed using risk ratio or ratio of means (RoM) with corresponding 95% confidence intervals (CI) as appropriate. Where possible, data from similar outcomes were pooled in a meta-analysis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Seven records representing 4 RCTs with an overall low risk of bias (good quality) were included in the review. They included 431 patients and the interventions (nurse-led care vs usual care) lasted for 1-2years. Most effect sizes of disease activity measures were inconclusive (DAS28 RoM=0.96, 95%CI [0.90-1.02], P=0.16; plasma viscosity RoM=1 95%CI [0.8-1.26], p=0.99) except the Ritchie Articular Index (RoM=0.89, 95%CI [0.84-0.95], P&lt;0.001) which favoured nurse-led care. Results from some secondary outcomes (functional status, stiffness and coping with arthritis) were also inconclusive. Other outcomes (satisfaction and pain) displayed mixed results when assessed using different tools making them also inconclusive. Significant effects of nurse-led care were seen in quality of life (RAQoL RoM=0.83, 95%CI [0.75-0.92], P&lt;0.001), patient knowledge (PKQ RoM=4.39, 95%CI [3.35-5.72], P&lt;0.001) and fatigue (median difference=-330, P=0.02).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The estimates of the primary outcome and most secondary outcomes showed no significant difference between nurse-led care and the usual care. While few outcomes favoured nurse-led care, there is insufficient evidence to conclude whether this is the case. More good quality RCTs of nurse-led care effectiveness in rheumatoid arthritis are required.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.ijnurstu.2011.02.007" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.0729999989271164" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Int J Nurs Stud"/>
+	</entry>
+	<entry>
+		<title>Comparison between closed suction drainage and nondrainage in total knee arthroplasty: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21371856" title="Comparison between closed suction drainage and nondrainage in total knee arthroplasty: a meta-analysis."/>
+		<id>21371856</id>
+		<updated>2011-11-14</updated>
+		<summary/>
+		<content>
+			<section>
+				<fragment>From individual randomized studies, it is not clear whether a closed suction drainage should be used after total knee arthroplasty. Our meta-analysis compares the clinical outcomes of closed suction drainage with nondrainage after total knee arthroplasty in randomized controlled trials reported between January 1966 and May 2010. Fifteen eligible trials involving 1361 knee incisions (686 knees with closed suction drainage and 675 knees without drainage) satisfied the inclusion criteria for our meta-analysis. The result of the meta-analysis indicates that closed suction drainage reduces the incidence of soft tissue ecchymosis and requirement for dressing reinforcement, but increases the rate of homologous blood transfusion. No significant difference between drainage and nondrainage was observed in the incidence of infection, deep venous thrombosis, or postoperative range of motion.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.arth.2011.02.005" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.354499995708466" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Arthroplasty"/>
+	</entry>
+	<entry>
+		<title>Comparison of the efficacy of sonography, magnetic resonance imaging and conventional radiography for the detection of bone erosions in rheumatoid arthritis patients: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21278073" title="Comparison of the efficacy of sonography, magnetic resonance imaging and conventional radiography for the detection of bone erosions in rheumatoid arthritis patients: a systematic review and meta-analysis."/>
+		<id>21278073</id>
+		<updated>2011-05-16</updated>
+		<summary>US is more effective for erosion detection than CR and has a comparable efficacy to MRI with good reproducibility.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To evaluate the reproducibility of US and to compare its efficacy with that of MRI and conventional radiography (CR) for the detection of bone erosion in RA patients.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic literature search was performed in the Medline, Embase and Cochrane databases up to August 2009. Trials evaluating the reproducibility of US for bone erosion detection or comparing the number of erosions detected by the three imaging methods at patient and/or joint level were included. This last parameter was assessed using the odds ratio (OR) and 95% CI with the Mantel-Haenszel method (OR &lt; 1 favours US). We explored the heterogeneity between the studies by subgroup analysis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Twenty-one studies including 913 patients were included in this meta-analysis. Intraobserver and interobserver reproducibility of US for erosion detection was good. US and MRI efficacies were comparable at both joint (OR = 1.19, P = 0.45; seven studies, 869 joints) and patient (OR = 1.76, P = 0.22; nine studies, 338 patients) levels. US detected significantly more erosion than CR at both joint (OR = 0.30, P &lt; 0.00001; 4047 joints studied) and patient (OR = 0.31, P &lt; 0.00001; 592 studied patients) levels. The number of patients to screen in order to detect an additional patient with an erosion in comparison with CR was 4, 95% CI (2.4, 5.9).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>US is more effective for erosion detection than CR and has a comparable efficacy to MRI with good reproducibility.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/keq437" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.174300000071526" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Risk of adverse events including serious infections in rheumatoid arthritis patients treated with tocilizumab: a systematic literature review and meta-analysis of randomized controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21078627" title="Risk of adverse events including serious infections in rheumatoid arthritis patients treated with tocilizumab: a systematic literature review and meta-analysis of randomized controlled trials."/>
+		<id>21078627</id>
+		<updated>2011-02-22</updated>
+		<summary>Tocilizumab in combination with MTX as a treatment for RA is associated with a small but significantly increased risk of AEs, which is comparable with that of other biologics. Vigilance for untoward effects is, therefore, imperative in any patient treated with these immuno-suppressive agents.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To assess the risk of adverse events (AEs) in patients with RA treated with tocilizumab, an IL-6 receptor antibody, in published randomized controlled trials (RCTs).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic literature search was conducted using the Cochrane library, PUBMED and EMBASE for all RCTs (of the use of tocilizumab for RA) until September 2009. Fixed effect meta-analyses were conducted to compare the incidence of AEs after treatment with tocilizumab 8 and 4 mg/kg in combination with MTX, and 8 mg/kg tocilizumab monotherapy, with controls. Pooled summary odds ratios (ORs) were calculated using the Mantel-Haenszel method.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Six trials were analysed (four trials included 8 mg/kg tocilizumab and MTX combination therapy, three of which also assessed the 4 mg/kg dose). Three studies assessed tocilizumab monotherapy at 8 mg/kg. Pooled ORs revealed statistical significance for an increased risk of AEs in the 8 mg/kg combination group compared with controls (OR = 1.53; 95% CI 1.26, 1.86). The risk of infection was significantly higher in the 8 mg/kg combination group compared with controls (OR = 1.30; 95% CI 1.07, 1.58). No increased incidence of malignancy, tuberculosis reactivation or hepatitis was seen.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Tocilizumab in combination with MTX as a treatment for RA is associated with a small but significantly increased risk of AEs, which is comparable with that of other biologics. Vigilance for untoward effects is, therefore, imperative in any patient treated with these immuno-suppressive agents.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/keq343" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.55129998922348" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.phsu" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.phsu" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.phsu" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.phsu" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.aapp" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.phsu" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.phsu" label="tocilizumab"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Tocilizumab for rheumatoid arthritis: a Cochrane systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20952462" title="Tocilizumab for rheumatoid arthritis: a Cochrane systematic review."/>
+		<id>20952462</id>
+		<updated>2011-01-03</updated>
+		<summary>at the approved dose of 8 mg/kg every 4 weeks, tocilizumab in combination with methotrexate/DMARD is beneficial in decreasing RA disease activity and improving function. Tocilizumab treatment was associated with a significant increase in cholesterol levels and occurrence of any adverse event, but not serious adverse events. Larger safety studies are needed to address these safety concerns.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>to compare the benefit and safety of tocilizumab to placebo in patients with rheumatoid arthritis (RA).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>we searched multiple databases for published randomized or controlled clinical trials comparing benefit and safety of tocilizumab to placebo, disease-modifying antirheumatic drugs (DMARD), or other biologics. For dichotomous outcomes, we calculated the relative risk, and for continuous outcomes, the mean difference.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>eight randomized controlled trials were included in this systematic review, with 3334 participants, 2233 treated with tocilizumab and 1101 controls. The US and Canadian approved dose of tocilizumab, 8 mg/kg every 4 weeks, was given to 1561 participants. In patients taking concomitant methotrexate, compared to placebo, patients treated with approved dose of tocilizumab were substantially and statistically significantly more likely than placebo to achieve the American College of Rheumatology 50 (absolute percentage, 38.8% vs 9.6%, respectively; RR 3.2, 95% CI 2.7, 3.7); Disease Activity Score remission (30.5% vs 2.7%; RR 8.7, 95% CI 6.3, 11.8); and a clinically meaningful decrease in Health Assessment Questionnaire (HAQ)/Modified HAQ scores (60.5% vs 34%; RR 1.8, 95% CI 1.6, 1.9). There were no substantive statistically significant differences in serious adverse effects (0.8% vs 0.7%; RR 1.2, 95% CI 0.8, 1.6) or withdrawals due to adverse events (4.9% vs 3.7%; RR 1.4, 95% CI 0.9, 2.1); however, tocilizumab-treated patients were significantly more likely to have any adverse event (74% vs 65%; RR 1.05, 95% CI 1.03, 1.07); elevation in the ratio of low-density lipoprotein to high-density lipoprotein cholesterol (HDL; 20% vs 12%; RR 1.7, 95% CI 1.2, 2.2); and increase in the ratio of total to HDL cholesterol (12% vs 7%; RR 1.7, 95% CI 1.2, 2.6); and they were less likely to withdraw from treatment for any reason (8.1% vs 14.9%; RR 0.6, 95% CI 0.5, 0.8).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>at the approved dose of 8 mg/kg every 4 weeks, tocilizumab in combination with methotrexate/DMARD is beneficial in decreasing RA disease activity and improving function. Tocilizumab treatment was associated with a significant increase in cholesterol levels and occurrence of any adverse event, but not serious adverse events. Larger safety studies are needed to address these safety concerns.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3899/jrheum.100717" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.345800012350082" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0025677" scheme="gov.nih.nlm.semanticType.orch" label="Methotrexate"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.phsu" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.phsu" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.phsu" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.aapp" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.aapp" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.aapp" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.aapp" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.phsu" label="tocilizumab"/>
+		<category term="C1609165" scheme="gov.nih.nlm.semanticType.aapp" label="tocilizumab"/>
+		<source type="J. Rheumatol."/>
+	</entry>
+	<entry>
+		<title>Meta-analysis of tight control strategies in rheumatoid arthritis: protocolized treatment has additional value with respect to the clinical outcome.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20671022" title="Meta-analysis of tight control strategies in rheumatoid arthritis: protocolized treatment has additional value with respect to the clinical outcome."/>
+		<id>20671022</id>
+		<updated>2010-10-15</updated>
+		<summary>Tight control in RA resulted in significantly better clinical outcomes than usual care. It is suggested but not proved that tight control with protocolized treatment adjustments is more beneficial than if no such protocol is used.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>Tight control studies including regular assessments of disease activity have shown that this approach has beneficial effects on disease activity, disability and joint damage in treating RA patients. Some of these studies included tight control with protocolized treatment, while others applied tight control without protocolized treatment. The aim of this study was to compare the effects of tight control with usual care and to compare the effects of tight control studies with and without protocolized treatment adjustments.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic literature search was performed to identify clinical trials in RA that evaluated tight control strategies in comparison with usual care. Two types of study were compared: (i) those using disease activity monitoring with protocolized treatment adjustments, and (ii) those using disease activity monitoring without protocolized treatment adjustments. The databases PubMed and Cochrane were searched from 1995 up to 2009. Primary outcome measure was the mean change in the 28-joint DAS (DAS-28), which was used in a random-effects meta-analysis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Six controlled trials regarding tight control in RA patients were included in the meta-analysis. In all trials, patients treated in the tight control arms had significantly higher DAS-28 responses than patients treated according to usual care [weighted mean difference (WMD) = 0.59, P &lt; 0.001]. Moreover, tight control was significantly more effective (P &lt; 0.001) by means of protocolized treatment adjustments (WMD = 0.97) compared with non-protocolized monitoring of disease activity (WMD = 0.25).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Tight control in RA resulted in significantly better clinical outcomes than usual care. It is suggested but not proved that tight control with protocolized treatment adjustments is more beneficial than if no such protocol is used.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/keq195" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.538600027561188" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Treatment of primary Sjögren syndrome: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20664046" title="Treatment of primary Sjögren syndrome: a systematic review."/>
+		<id>20664046</id>
+		<updated>2010-07-28</updated>
+		<summary>In primary Sjögren syndrome, evidence from controlled trials suggests benefits for pilocarpine and cevimeline for sicca features and topical cyclosporine for moderate or severe dry eye. Anti-tumor necrosis factor agents have not shown clinical efficacy, and larger controlled trials are needed to establish the efficacy of rituximab.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>A variety of topical and systemic drugs are available to treat primary Sjögren syndrome, although no evidence-based therapeutic guidelines are currently available.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To summarize evidence on primary Sjögren syndrome drug therapy from randomized controlled trials.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>We searched MEDLINE and EMBASE for articles on drug therapy for primary Sjögren syndrome published between January 1, 1986, and April 30, 2010.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Controlled trials of topical and systemic drugs including adult patients with primary Sjögren syndrome were selected as the primary information source.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The search strategy yielded 37 trials. A placebo-controlled trial found significant improvement in the Schirmer and corneal staining scores, blurred vision, and artificial tear use in patients treated with topical ocular 0.05% cyclosporine. Three placebo-controlled trials found that pilocarpine was associated with improvements in dry mouth (61%-70% vs 24%-31% in the placebo group) and dry eye (42%-53% vs 26%). Two placebo-controlled trials found that cevimeline was associated with improvement in dry mouth (66%-76% vs 35%-37% in the placebo group) and dry eye (39%-72% vs 24%-30%). Small trials (&lt;20 patients) found no significant improvement in sicca outcomes for oral prednisone or hydroxychloroquine and limited benefits for immunosuppressive agents (azathioprine and cyclosporine). A large trial found limited benefits for oral interferon alfa-2a. Two placebo-controlled trials of infliximab and etanercept did not achieve the primary outcome (a composite visual analog scale measuring joint pain, fatigue, and dryness); neither did 2 small trials (&lt;30 patients) testing rituximab, although significant results were observed in some secondary outcomes and improvement compared with baseline.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>In primary Sjögren syndrome, evidence from controlled trials suggests benefits for pilocarpine and cevimeline for sicca features and topical cyclosporine for moderate or severe dry eye. Anti-tumor necrosis factor agents have not shown clinical efficacy, and larger controlled trials are needed to establish the efficacy of rituximab.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.2010.1014" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.224299997091293" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0004482" scheme="gov.nih.nlm.semanticType.orch" label="Azathioprine"/>
+		<category term="C0010592" scheme="gov.nih.nlm.semanticType.phsu" label="Cyclosporine"/>
+		<category term="C0010592" scheme="gov.nih.nlm.semanticType.aapp" label="Cyclosporine"/>
+		<category term="C0031923" scheme="gov.nih.nlm.semanticType.phsu" label="Pilocarpine"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0093437" scheme="gov.nih.nlm.semanticType.phsu" label="cevimeline"/>
+		<category term="C0010592" scheme="gov.nih.nlm.semanticType.phsu" label="Cyclosporine"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>The effectiveness of anti-TNF-alpha therapies when used sequentially in rheumatoid arthritis patients: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20566736" title="The effectiveness of anti-TNF-alpha therapies when used sequentially in rheumatoid arthritis patients: a systematic review and meta-analysis."/>
+		<id>20566736</id>
+		<updated>2010-11-15</updated>
+		<summary>Sequential TNF-α inhibitor use is likely to lead to treatment benefit in terms of the signs and symptoms of disease and physical function. There is also some evidence to suggest that the probability of achieving a response is lower, and the average magnitude of response is lower than the first use. Further evidence from randomized controlled trials is required to confirm and further quantify the role specific anti-TNF-α agents have when used sequentially.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To systematically review and meta-analyse evidence on the effectiveness of the TNF-α inhibitors when used sequentially.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Systematic review of comparative and single-arm observational studies. Data were synthesized using random-effects meta-analysis. Treatment effects were estimated using four outcome measures from the included studies: European League Against Rheumatism (EULAR) and ACR20 response rates and mean improvement in disease activity score-28 (DAS-20) and HAQ. The effect of other factors was explored via meta-regression and sub-group analyses.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Twenty studies comprising 2705 patients were included in the analysis. All studies were observational and most had no control group. Therefore, our primary analysis considered patient changes from baseline. The mean percentage of ACR20 responders was 60.8% (95% CI 53.8, 67.4), EULAR responders 70.5% (95% CI 63.7, 76.6), mean overall improvement in DAS-28 scores was 1.53 (95% CI 1.25, 1.80) and in HAQ scores was 0.25 (95% CI 0.11, 0.40). Four studies made comparisons with patients who received TNF-α inhibitors for the first time. Response rates associated with sequential TNF-α inhibitor treatment were lower than for first-time use.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Sequential TNF-α inhibitor use is likely to lead to treatment benefit in terms of the signs and symptoms of disease and physical function. There is also some evidence to suggest that the probability of achieving a response is lower, and the average magnitude of response is lower than the first use. Further evidence from randomized controlled trials is required to confirm and further quantify the role specific anti-TNF-α agents have when used sequentially.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/keq169" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC2982750" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.440100014209747" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Golimumab for rheumatoid arthritis: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20436075" title="Golimumab for rheumatoid arthritis: a systematic review."/>
+		<id>20436075</id>
+		<updated>2010-06-02</updated>
+		<summary>At the approved dosage, in patients with active RA taking background MTX, golimumab is significantly more beneficial than placebo. The short-term safety profile is reasonable. Longterm surveillance studies are needed for safety assessment.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To perform a Cochrane systematic review of benefit (American College of Rheumatology 50% improvement criteria; ACR50) and safety (adverse events and withdrawals) of golimumab in patients with rheumatoid arthritis (RA).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched the Cochrane Central Register of Controlled Trials (CENTRAL), OVID Medline, CINAHL, Embase, Science Citation Index (Web of Science), and Current Controlled Trials databases for randomized or controlled clinical trials of golimumab compared to placebo or disease-modifying antirheumatic drug in adults with RA. Two authors independently selected appropriate studies and abstracted study characteristics and safety and efficacy data and performed risk-of-bias assessment. We calculated mean differences for continuous measures, and relative risks for categorical measures.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Four randomized controlled trials with 1231 golimumab-treated and 483 placebo-treated patients were included. Of these, 436 were treated with golimumab at 50 mg every 4 weeks [a dosage approved by the US Food and Drug Administration (FDA)]. At an average of 4-6 months, compared to patients treated with placebo and methotrexate (MTX), patients treated with the FDA-approved dosage of golimumab and MTX were 2.6 times more likely to reach ACR50 (p = 0.005, 95% CI 1.3, 4.9; absolute percentage, 38% vs 15%) and 0.5 times as likely to have overall withdrawals (p = 0.005, 95% CI 0.3, 0.8; absolute percentage, 5% vs 10%). Golimumab-treated patients were significantly more likely than those taking placebo to achieve remission (22% vs 4%; p &lt; 0.00001), and to have improvement in functional ability on the Health Assessment questionnaire [0.2 points lower (p &lt; 0.00001, 95% CI 0.25, 0.15); absolute risk difference, -20% (95% CI -25% to -15%); relative percentage difference, -11% (95% CI -14% to -8.3%)]. The studies were too small and short to be powered sufficiently for safety outcomes, but no substantive statistically significant differences were noted between golimumab and placebo regarding adverse events, serious adverse events, infections, serious infections, lung infections, tuberculosis, cancer, withdrawals due to adverse events, and withdrawals due to inefficacy and deaths.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>At the approved dosage, in patients with active RA taking background MTX, golimumab is significantly more beneficial than placebo. The short-term safety profile is reasonable. Longterm surveillance studies are needed for safety assessment.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3899/jrheum.091466" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.450500011444092" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0025677" scheme="gov.nih.nlm.semanticType.phsu" label="Methotrexate"/>
+		<category term="C0025677" scheme="gov.nih.nlm.semanticType.orch" label="Methotrexate"/>
+		<category term="C0025677" scheme="gov.nih.nlm.semanticType.orch" label="Methotrexate"/>
+		<category term="C0242708" scheme="gov.nih.nlm.semanticType.phsu" label="Antirheumatic Drugs, Disease-Modifying"/>
+		<category term="C0242708" scheme="gov.nih.nlm.semanticType.phsu" label="Antirheumatic Drugs, Disease-Modifying"/>
+		<source type="J. Rheumatol."/>
+	</entry>
+	<entry>
+		<title>Methotrexate drug interactions in the treatment of rheumatoid arthritis: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20436072" title="Methotrexate drug interactions in the treatment of rheumatoid arthritis: a systematic review."/>
+		<id>20436072</id>
+		<updated>2010-07-02</updated>
+		<summary>Based on the published literature, MTX has limited drug interactions, with the exception of TMP-SMX and high-dose ASA, which can exacerbate toxicity of MTX. The clinical significance of these interactions has not been substantiated by extensive clinical observations.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>Patients with rheumatoid arthritis (RA) often have comorbidities that require multiple medications. Several of these medications may alter the efficacy or increase the toxicity of methotrexate (MTX). The purpose of our study was to determine which drugs used in combination with MTX (excluding disease modifying antirheumatic drugs, folic and folinic acid, corticosteroids, and biologic agents) enhance side effects or toxicity of MTX or lower its efficacy.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic literature search was performed with Medline, Embase, Cochrane Register and Database, and abstracts from the 2006/2007 annual congresses of the American College of Rheumatology and the European League Against Rheumatism. A manual search of the citation lists of retrieved publications was performed.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Of the 1172 articles identified, 67 were included: 21 pharmacokinetics studies, 5 observational studies, and 78 case reports. Most medications do not significantly affect the pharmacokinetics profile of MTX. Among the clinical studies, cytopenia and elevation of liver enzymes were the main reported toxicities. The use of trimethoprim-sulfamethoxazole (TMP-SMX) was mentioned as a risk factor for developing cytopenia in one observational study and in 17 case reports. Thirty case reports of cytopenia were attributed to the use of concomitant nonsteroidal antiinflammatory drugs, including acetylsalicylic acid. Two studies described mild abnormalities of liver enzymes with the use of isoniazid, and one study with the use of high-dose ASA.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Based on the published literature, MTX has limited drug interactions, with the exception of TMP-SMX and high-dose ASA, which can exacerbate toxicity of MTX. The clinical significance of these interactions has not been substantiated by extensive clinical observations.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3899/jrheum.090153" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.108400002121925" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0025677" scheme="gov.nih.nlm.semanticType.orch" label="Methotrexate"/>
+		<category term="C0041044" scheme="gov.nih.nlm.semanticType.orch" label="Trimethoprim-Sulfamethoxazole Combination"/>
+		<category term="C0025677" scheme="gov.nih.nlm.semanticType.orch" label="Methotrexate"/>
+		<category term="C0041044" scheme="gov.nih.nlm.semanticType.orch" label="Trimethoprim-Sulfamethoxazole Combination"/>
+		<source type="J. Rheumatol."/>
+	</entry>
+	<entry>
+		<title>Meta-analysis of the efficacy and safety of adalimumab, etanercept, and infliximab for the treatment of rheumatoid arthritis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20334454" title="Meta-analysis of the efficacy and safety of adalimumab, etanercept, and infliximab for the treatment of rheumatoid arthritis."/>
+		<id>20334454</id>
+		<updated>2010-03-25</updated>
+		<summary>With short-term treatment, etanercept and adalimumab had higher efficacy results; with long-term treatment, adalimumab appeared to be the most effective. Clinicians should be aware that each of the three drugs has different rates of efficacy and different safety considerations that must be taken into account when selecting the best treatment for an individual with rheumatoid arthritis.</summary>
+		<content>
+			<section label="STUDY OBJECTIVE" id="OBJECTIVE">
+				<fragment>To evaluate the efficacy and safety of using the anti-tumor necrosis factor-alpha (anti-TNF-alpha) drugs adalimumab, etanercept, and infliximab for the treatment of rheumatoid arthritis.</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>Systematic review and meta-analysis of 21 randomized, placebo-controlled trials (eight adalimumab, seven infliximab, six etanercept).</fragment>
+			</section>
+			<section label="PATIENTS" id="METHODS">
+				<fragment>Adults with rheumatoid arthritis who received adalimumab (1524 patients), infliximab (1116 patients), etanercept (1029 patients), or placebo (2834 patients) with or without concomitant methotrexate in all groups.</fragment>
+			</section>
+			<section label="MEASUREMENTS AND MAIN RESULTS" id="RESULTS">
+				<fragment>A literature search of several databases from January 1995-December 2008 was performed. There were no restrictions based on language or date of publication, and low-quality studies (based on Jadad score) were excluded. American College of Rheumatology (ACR) 20% improvement criteria (ACR20), 50% improvement criteria (ACR50), and 70% improvement criteria (ACR70) were used to compare treatment efficacy. Safety was compared based on frequency of serious adverse events, serious infections, malignancy, and death. Withdrawals due to adverse events and lack of efficacy were also evaluated. With short-term treatment (12-30 wks), etanercept demonstrated the highest risk ratios (RRs) for reaching ACR20 and ACR50: 2.94 (95% confidence interval [CI] 2.27-3.81) and 5.28 (95% CI 3.12-8.92), respectively. Adalimumab demonstrated the highest RR for achieving ACR70 (5.36, 95% CI 3.76- 7.64). Over a long-term treatment course (1-3 yrs), adalimumab demonstrated the highest RRs (95% CIs) for these parameters: 1.85 (1.07-3.19), 2.80 (1.16-6.77), and 3.23 (1.37-7.61) for ACR20, ACR50, and ACR70, respectively. No statistically significant differences were noted in the safety of any of the three drugs compared with placebo. Infliximab had the highest RRs for withdrawing from the study due to lack of efficacy (2.05, 95% CI 1.33-3.16) and adverse events (0.41, 95% CI 0.18-0.95).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>With short-term treatment, etanercept and adalimumab had higher efficacy results; with long-term treatment, adalimumab appeared to be the most effective. Clinicians should be aware that each of the three drugs has different rates of efficacy and different safety considerations that must be taken into account when selecting the best treatment for an individual with rheumatoid arthritis.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1592/phco.30.4.339" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.593500018119812" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0666743" scheme="gov.nih.nlm.semanticType.phsu" label="infliximab"/>
+		<category term="C0666743" scheme="gov.nih.nlm.semanticType.phsu" label="infliximab"/>
+		<category term="C0717758" scheme="gov.nih.nlm.semanticType.phsu" label="Etanercept"/>
+		<category term="C0717758" scheme="gov.nih.nlm.semanticType.phsu" label="Etanercept"/>
+		<category term="C1122087" scheme="gov.nih.nlm.semanticType.phsu" label="adalimumab"/>
+		<category term="C1122087" scheme="gov.nih.nlm.semanticType.phsu" label="adalimumab"/>
+		<category term="C1122087" scheme="gov.nih.nlm.semanticType.aapp" label="adalimumab"/>
+		<category term="C1122087" scheme="gov.nih.nlm.semanticType.phsu" label="adalimumab"/>
+		<source type="Pharmacotherapy"/>
+	</entry>
+	<entry>
+		<title>Abatacept for rheumatoid arthritis: a Cochrane systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20080922" title="Abatacept for rheumatoid arthritis: a Cochrane systematic review."/>
+		<id>20080922</id>
+		<updated>2010-02-11</updated>
+		<summary>Abatacept seems to be efficacious and safe in the treatment of RA. Abatacept should not be used in combination with other biologics to treat RA. Further longterm studies and postmarketing surveillance are required to assess for longer-term harms and sustained efficacy.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To perform a systematic review of efficacy and safety of abatacept in patients with rheumatoid arthritis (RA).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched the Cochrane Library, MEDLINE, EMBASE, ACP Journal Club, and Biosis Previews for randomized controlled trials (RCT) comparing abatacept alone or in combination with disease modifying antirheumatic drugs (DMARD)/biologics to placebo or other DMARD/biologics in patients with RA. Two reviewers independently assessed search results, risk of bias, and extracted data.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Seven trials with 2908 patients were included. Compared with placebo, patients with RA treated with abatacept were 2.2 times more likely to achieve an American College of Rheumatology 50% response (ACR50) at one year (relative risk 2.21, 95% CI 1.73, 2.82) with a 21% (95% CI 16%, 27%) absolute risk difference between groups. The number needed to treat to achieve an ACR50 response was 5 (95% CI 4, 7). Significantly greater improvements in physical function, disease activity, pain, and radiographic progression were noted in abatacept-treated patients compared to placebo. Total adverse events (AE) were greater in the abatacept group (RR 1.05, 95% CI 1.01, 1.08). Other harm outcomes were not significant, with the exception of serious infections at 12 months, which were more common in the abatacept group versus control group (Peto odds ratio 1.91, 95% CI 1.07, 3.42). Serious AE were more numerous in the abatacept + etanercept group versus the placebo + etanercept group (RR 2.30, 95% CI 1.15, 4.62).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Abatacept seems to be efficacious and safe in the treatment of RA. Abatacept should not be used in combination with other biologics to treat RA. Further longterm studies and postmarketing surveillance are required to assess for longer-term harms and sustained efficacy.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3899/jrheum.091066" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.224299997091293" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0005522" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Products"/>
+		<category term="C0005522" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Products"/>
+		<category term="C0005522" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Products"/>
+		<category term="C0005522" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Products"/>
+		<category term="C0005522" scheme="gov.nih.nlm.semanticType.phsu" label="Biological Products"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<category term="C1619966" scheme="gov.nih.nlm.semanticType.aapp" label="abatacept"/>
+		<source type="J. Rheumatol."/>
+	</entry>
+	<entry>
+		<title>Association between transforming growth factor-beta1 T869C polymorphism and rheumatoid arthritis: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20047981" title="Association between transforming growth factor-beta1 T869C polymorphism and rheumatoid arthritis: a meta-analysis."/>
+		<id>20047981</id>
+		<updated>2010-03-16</updated>
+		<summary>There was heterogeneity between studies, and no clear evidence of an association on a worldwide population was observed. Subgroup analysis results suggest that TGF-beta1 T869C might play a role in RA susceptibility for Asians but not for non-Asians. Further studies are required for definite conclusions.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>The results of studies on association between TGF-beta1 T869C polymorphism and susceptibility to RA are controversial. The absence of a replication of linkage might be due to different ethnicities. The aim of this study was to perform a preliminary investigation on the effect size of TGF-beta1 T869C polymorphism on RA susceptibility through a meta-analysis.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Case-control studies on the association of TGF-beta1 T869C with RA were searched up to March 2009, and the genotype frequencies in the control group were found to be consistent with the Hardy-Weinberg equilibrium. The effect summary odds ratio (OR) and 95% CIs were obtained. Publication bias was tested by funnel plot with Egger's regression test, and heterogeneity was assessed.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Seven studies comprising 1122 cases and 1132 controls were included. Heterogeneity was observed (chi(2 )= 17.16; P = 0.009). Under the random effects model, the common OR was 1.38 (95% CI 0.95, 2.01; P = 0.09). In the subgroup meta-analysis, there was an association between TGF-beta1 T869C polymorphism and RA in the people of Asian descent (OR = 1.93; 95% CI 1.42, 2.62; P &lt; 0.0001), but not in the people of non-Asian descent (OR = 0.88; 95% CI 0.65, 1.19; P = 0.41). There was no evidence of publication bias according to Funnel plot and Egger's regression test (a = 4.778; P = 0.14).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>There was heterogeneity between studies, and no clear evidence of an association on a worldwide population was observed. Subgroup analysis results suggest that TGF-beta1 T869C might play a role in RA susceptibility for Asians but not for non-Asians. Further studies are required for definite conclusions.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/kep417" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.111900001764297" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Systematic review and metaanalysis of patient self-report versus trained assessor joint counts in rheumatoid arthritis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19918045" title="Systematic review and metaanalysis of patient self-report versus trained assessor joint counts in rheumatoid arthritis."/>
+		<id>19918045</id>
+		<updated>2009-12-07</updated>
+		<summary>A self-report tender joint count has moderate to marked correlation with those performed by a trained assessor. In contrast, swollen joint counts demonstrate lower levels of correlation. Future research should explore whether integrating self-report tender joint counts into routine care can improve efficiency and quality of care, while directly involving patients in assessment of RA disease activity.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>Patient self-report outcomes and physician-performed joint counts are important measures of disease activity and treatment response. This metaanalysis examines the degree of concordance in joint counts between trained assessors and patients with rheumatoid arthritis (RA).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Studies eligible for inclusion met the following criteria: English language; compared patient with trained assessor joint counts; peer-reviewed; and RA diagnosis determined by board-certified or board-eligible specialist or met 1987 American College of Rheumatology criteria. We searched PubMed and Embase to identify articles between 1966 and January 1, 2008. We compared measures of correlation between patients and assessors for either tender/painful or swollen joint counts. We used metaanalysis methods to calculate summary correlation estimates.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>We retrieved 462 articles and 18 were included. Self-report joint counts were obtained by a text and/or mannequin (picture) format. The summary estimates for the Pearson correlation coefficients for tender joint counts were 0.61 (0.47 lower, 0.75 upper) and for swollen joint counts 0.44 (0.15, 0.73). Summary results for the Spearman correlation coefficients were 0.60 (0.30, 0.90) for tender joint counts and 0.54 (0.35, 0.73) for swollen joint counts.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>A self-report tender joint count has moderate to marked correlation with those performed by a trained assessor. In contrast, swollen joint counts demonstrate lower levels of correlation. Future research should explore whether integrating self-report tender joint counts into routine care can improve efficiency and quality of care, while directly involving patients in assessment of RA disease activity.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3899/jrheum.090569" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC2874463" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.157000005245209" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Rheumatol."/>
+	</entry>
+	<entry>
+		<title>Trends in cardiovascular mortality in patients with rheumatoid arthritis over 50 years: a systematic review and meta-analysis of cohort studies.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19696061" title="Trends in cardiovascular mortality in patients with rheumatoid arthritis over 50 years: a systematic review and meta-analysis of cohort studies."/>
+		<id>19696061</id>
+		<updated>2009-09-16</updated>
+		<summary>Our results show that RA is associated with a 60% increase in risk of CV death compared with general population. Despite changes in RA course over the past decades, SMR for CV death has not changed. This suggests that targeting a reduction in CV mortality should still be considered as a major issue in RA.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>RA is known to be associated with a high cardiovascular (CV) risk. Longitudinal data suggest that RA disease course may have become milder over the past decades. Thus, we set out to estimate the magnitude of the overall increase in CV mortality associated with RA and to determine whether it has decreased over the past 50 years.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We performed a systematic review and a meta-analysis of literature in MEDLINE and EMBASE databases from January 1960 to November 2008. All cohort studies reporting CV mortality risk were included. We then calculated pooled standardized mortality ratios (SMRs) of CV mortality, and determined their evolution with time using meta-regression analysis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Seventeen studies were analysed, corresponding to a total of 91 916 patients. The overall pooled SMR was 1.6 (95% CI 1.5, 1.8; I(2) = 93%; P(het) &lt; 0.0001). Mid-cohort year ranged from 1945 to 1995 (&lt;1980, seven studies; 1980-90, five studies; &gt;1990, five studies). Meta-regression analyses revealed neither any trend in SMR over time (P = 0.784) nor any relation with disease duration at the time of inclusion (P = 0.513).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Our results show that RA is associated with a 60% increase in risk of CV death compared with general population. Despite changes in RA course over the past decades, SMR for CV death has not changed. This suggests that targeting a reduction in CV mortality should still be considered as a major issue in RA.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/kep252" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.651400029659271" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>A systematic review of the psychometric properties of the Constant-Murley score.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19559630" title="A systematic review of the psychometric properties of the Constant-Murley score."/>
+		<id>19559630</id>
+		<updated>2010-12-16</updated>
+		<summary>This systematic review provides evidence to support the use of the Constant-Murley score for specific clinical and research applications but underscores the need for greater standardization and precaution when interpreting scores. Methods to improve standardization and measurement precision are needed. Responsiveness has been shown to be excellent, but some properties still need be evaluated, particularly those related to the absolute errors of measurement and minimal clinically important difference.Given the widespread acceptance for usage of the Constant-Murley score in clinical studies and early indications that the measure is responsive, studies defining more rigid standardization of the tools/procedures are needed.</summary>
+		<content>
+			<section label="HYPOTHESIS" id="OBJECTIVE">
+				<fragment>The purpose of this study was to conduct a systematic review of the psychometric evidence relating to Constant-Murley score.</fragment>
+			</section>
+			<section label="MATERIALS AND METHODS" id="METHODS">
+				<fragment>A search of 3 databases (Medline, CINAHL, and EMBASE) and a manual search yielded 35 relevant publications. Pairs of raters used structured tools to analyze these articles, through critical appraisal and data extraction. A descriptive synthesis of the psychometric evidence was then performed.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Quality ratings of 23% of the studies reviewed reached a level of 75% or higher. Studies evaluating the content validity of the Constant-Murley score suggest that the description in the original publication is insufficient to accomplish standardization between centers and evaluators. Despite this limitation, the Constant-Murley score correlates strongly (&gt;or= 0.70) with shoulder-specific questionnaires, reaches acceptable benchmarks (rho &gt; 0.80) for its reliability coefficients, and is responsive (effect sizes and standardized response mean &gt; 0.80) for detecting improvement after intervention in a variety of shoulder pathologies.</fragment>
+			</section>
+			<section label="DISCUSSION" id="CONCLUSIONS">
+				<fragment>This systematic review provides evidence to support the use of the Constant-Murley score for specific clinical and research applications but underscores the need for greater standardization and precaution when interpreting scores. Methods to improve standardization and measurement precision are needed. Responsiveness has been shown to be excellent, but some properties still need be evaluated, particularly those related to the absolute errors of measurement and minimal clinically important difference.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Given the widespread acceptance for usage of the Constant-Murley score in clinical studies and early indications that the measure is responsive, studies defining more rigid standardization of the tools/procedures are needed.</fragment>
+			</section>
+			<section label="LEVEL OF EVIDENCE" id="METHODS">
+				<fragment>Level 1.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jse.2009.04.008" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.123499996960163" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Shoulder Elbow Surg"/>
+	</entry>
+	<entry>
+		<title>Anakinra for rheumatoid arthritis: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19447938" title="Anakinra for rheumatoid arthritis: a systematic review."/>
+		<id>19447938</id>
+		<updated>2009-06-10</updated>
+		<summary>Anakinra is a relatively safe and modestly efficacious biologic therapy for RA. More studies are needed to evaluate safety and efficacy, especially in comparison to other therapies, and adverse event data for the longterm use of anakinra have yet to be assessed.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To perform a systematic review of clinical effectiveness and safety of anakinra in rheumatoid arthritis (RA).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, and the reference lists of included articles for randomized controlled trials comparing anakinra to placebo in adults with RA.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Five trials involving 2846 patients, 781 randomized to placebo and 2065 to anakinra, were included. There was a significant improvement in the number of participants achieving American College of Rheumatology (ACR)20 (38% vs 23%) treated with anakinra 50-150 mg daily versus placebo after 24 weeks. ACR50 (18% vs 7%), ACR70 (7% vs 2%), Health Assessment Questionnaire, visual analog scale for pain, Larsen radiographic scores, and erythrocyte sedimentation rate all demonstrated significant improvement with anakinra versus placebo as well. There were no statistically significant differences noted in the number of withdrawals, deaths, adverse events (total and serious), and infections (total and serious). An increase in incidence of serious infections in anakinra versus the placebo group (1.8% vs 0.6%) was noted that may be clinically significant. Injection site reactions were significantly increased, occurring in 71% of anakinra versus 28% of placebo group.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Anakinra is a relatively safe and modestly efficacious biologic therapy for RA. More studies are needed to evaluate safety and efficacy, especially in comparison to other therapies, and adverse event data for the longterm use of anakinra have yet to be assessed.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3899/jrheum.090074" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.284599989652634" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0245109" scheme="gov.nih.nlm.semanticType.aapp" label="anakinra"/>
+		<category term="C0245109" scheme="gov.nih.nlm.semanticType.phsu" label="anakinra"/>
+		<category term="C0245109" scheme="gov.nih.nlm.semanticType.phsu" label="anakinra"/>
+		<category term="C0245109" scheme="gov.nih.nlm.semanticType.phsu" label="anakinra"/>
+		<category term="C0245109" scheme="gov.nih.nlm.semanticType.aapp" label="anakinra"/>
+		<category term="C0245109" scheme="gov.nih.nlm.semanticType.aapp" label="anakinra"/>
+		<category term="C0245109" scheme="gov.nih.nlm.semanticType.phsu" label="anakinra"/>
+		<source type="J. Rheumatol."/>
+	</entry>
+	<entry>
+		<title>Safety of medium- to long-term glucocorticoid therapy in rheumatoid arthritis: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19447767" title="Safety of medium- to long-term glucocorticoid therapy in rheumatoid arthritis: a meta-analysis."/>
+		<id>19447767</id>
+		<updated>2009-06-16</updated>
+		<summary>Medium- to long-term glucocorticoid therapy in RA is associated with limited toxicity compared to placebo.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>Several randomized controlled trials (RCTs) and meta-analyses have confirmed clinical efficacy of glucocorticoids in RA. Concerns regarding safety associated with medium- to long-term use in RA have limited their use in clinical practice. In this meta-analysis, we assessed the toxicity related to medium- to long-term (defined as 1 year or longer) glucocorticoid therapy in RA.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>MEDLINE, EMBASE and CINAHL databases were searched for RCTs of glucocorticoids in RA. RCTs fulfilling the following criteria were included: double-blinded, placebo-controlled, lasted 1 year or longer, used prednisolone (or equivalent) and in English. Toxicity was assessed by number of the patients withdrawn for adverse events (AEs), and the numbers of serious adverse events (SAEs) and AEs. RCTs were compared by meta-analysis using odd ratios (OR) with 95% CIs.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Six RCTs with total of 689 patients met the inclusion criteria. All RCTs lasted &gt;or=2 years. All studies allowed concomitant use of NSAIDs and DMARDs. Toxicity of glucocorticoid therapy based on number of patients withdrawn was limited (OR = 1.09; 95% CI 0.52, 2.25). Using number of AEs per patient-year (OR = 1.19; 95% CI 0.91, 1.57) and SAEs (OR = 1.06; 95% CI 0.67, 1.67) produced similar results. Efficacy/toxicity ratio was good for glucocorticoid therapy (number needed to harm/number needed to treat = 0.25).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Medium- to long-term glucocorticoid therapy in RA is associated with limited toxicity compared to placebo.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/kep096" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.811999976634979" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Interleukin-1 promoter region polymorphism role in rheumatoid arthritis: a meta-analysis of IL-1B-511A/G variant reveals association with rheumatoid arthritis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18838388" title="Interleukin-1 promoter region polymorphism role in rheumatoid arthritis: a meta-analysis of IL-1B-511A/G variant reveals association with rheumatoid arthritis."/>
+		<id>18838388</id>
+		<updated>2008-11-12</updated>
+		<summary>There may be a protective effect in RA from the IL-1B (-1464 C/G) G variant. No direct association between the polymorphisms studied and clinical severity characteristics were observed. Further meta-analysis revealed IL-1B (-511 A/G) to be associated with increased susceptibility to RA.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>IL-1 has a central role mediating inflammation and joint destruction in RA. Single nucleotide polymorphisms (SNPs) and haplotype structure in the promoter region can modulate IL-1 function. This study examined the effects of four common promoter SNPs in the IL-1 region on susceptibility and clinical characteristics of RA in British Caucasian patients and assessed the risk of RA by meta-analysis of published studies.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Using PCR-based methods, 756 RA patients and 625 healthy controls (HCs) were genotyped for IL-1A (-889 C/A, rs17561), IL-1B (-511 A/G, rs16944), IL-1B (-1464 C/G, rs1143623) and IL-1B (-3737 G/A, rs4848306) SNPs. Further meta-analysis was performed for IL-1B (-511 A/G) incorporating 3712 RA patients and 2331 HC from six association studies.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The IL-1B (-1464 C/G) G allele was found to be less common in the RA group [P = 0.01; odds ratio (OR) 1.24; 95% CI 1.04, 1.48]. There was no association between IL-1 SNPs and the presence of HLA-DRB1 shared epitope, RF or clinical characteristics. Meta-analysis revealed statistically significant association between IL-1B (-511 A/G) and RA (P = 0.02; pooled OR 1.13; 95% CI 1.02, 1.26).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>There may be a protective effect in RA from the IL-1B (-1464 C/G) G variant. No direct association between the polymorphisms studied and clinical severity characteristics were observed. Further meta-analysis revealed IL-1B (-511 A/G) to be associated with increased susceptibility to RA.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/ken374" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.15090000629425" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0600251" scheme="gov.nih.nlm.semanticType.aapp" label="Interleukin-1 alpha"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>A systematic review of total wrist arthroplasty compared with total wrist arthrodesis for rheumatoid arthritis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18766045" title="A systematic review of total wrist arthroplasty compared with total wrist arthrodesis for rheumatoid arthritis."/>
+		<id>18766045</id>
+		<updated>2008-09-03</updated>
+		<summary>In this systematic review, outcomes for total wrist fusion were comparable and possibly better than those for total wrist arthroplasty in rheumatoid patients. In this era of cost-conscious medical care, expensive interventions must demonstrate superior outcomes. Existing data do not support widespread application of total wrist arthroplasty for the rheumatoid arthritis wrist.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Management of the end-stage rheumatoid wrist is controversial. The most common treatment is total wrist fusion. Total wrist arthroplasty offers a motion-preserving alternative. Comparison of outcomes for total wrist arthroplasty and total wrist fusion is necessary for evidence-based decision making. The purpose of this systematic review was to scientifically evaluate the existing literature for outcomes of both procedures in rheumatoid arthritis.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A MEDLINE database review was performed. Search included "wrist and arthroplasty," "wrist and arthrodesis," and "wrist and fusion." Silicone arthroplasty was excluded. Data extraction included demographic information, surgical technique, pain, and active arc of motion. Complications and satisfaction were recorded.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Literature review identified 1750 citations that were screened for inclusion criteria. Formal review identified 18 total wrist arthroplasty studies representing approximately 500 procedures. Data from 20 total wrist fusion studies represented over 800 procedures. Comparison of outcomes showed that total wrist fusion provides more reliable relief than total wrist arthroplasty. Complication and revision rates were higher for total wrist arthroplasty. Satisfaction was high in both groups. Postoperative motion was reviewed to evaluate whether arthroplasty provides a functional active arc of motion. Of 14 studies reporting appropriate data, three showed average active arc of motion within the functional range.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>In this systematic review, outcomes for total wrist fusion were comparable and possibly better than those for total wrist arthroplasty in rheumatoid patients. In this era of cost-conscious medical care, expensive interventions must demonstrate superior outcomes. Existing data do not support widespread application of total wrist arthroplasty for the rheumatoid arthritis wrist.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1097/PRS.0b013e318180ece3" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.195700004696846" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Plast. Reconstr. Surg."/>
+	</entry>
+	<entry>
+		<title>Acupuncture for rheumatoid arthritis: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18710899" title="Acupuncture for rheumatoid arthritis: a systematic review."/>
+		<id>18710899</id>
+		<updated>2008-11-12</updated>
+		<summary/>
+		<content>
+			<section>
+				<fragment>The aim of this systematic review is to evaluate the available evidence, from randomized clinical trials (RCTs), of acupuncture for treating patients with RA. Systematic searches were conducted on 17 databases up to April 2008 without the language restriction. All RCTs of acupuncture, with or without electrical stimulation or moxibustion, for patients with RA were considered for inclusion. A total of 236 potentially relevant studies were identified and eight RCTs were included. Four RCTs compared the effects of manual or electro-acupuncture with penetrating or non-penetrating sham acupuncture and failed to show specific effects of acupuncture on pain [n = 88; weighted mean differences (WMD), 10 cm VAS -0.46; 95% CI -1.70, 0.77; P = 0.46; heterogeneity: tau(2) = 0.19; chi(2) = 2.38; P = 0.30; I (2) = 16%] or other outcome measures. One RCT compared manual acupuncture with indomethacin and suggested favourable effects of acupuncture in terms of total response rate. Three RCTs tested acupuncture combined with moxibustion, vs conventional drugs and failed to show that acupuncture plus moxibustion was superior to conventional drugs in terms of response rate (n = 345; RR 1.12; 95% CI 0.99, 1.28; P = 0.08; heterogeneity: tau(2) = 0.00; chi(2) = 1.34; P = 0.51; I(2) = 0%), pain reduction (n = 105; WMD, 10 cm VAS 1.53; 95% CI -0.57, 3.63; P = 0.15; heterogeneity: tau(2) = 1.18; chi(2) = 1.81; P = 0.18; I(2) = 45%) or joint swelling index (n = 105; WMD, 10 cm VAS 0.25; 95% CI -1.31, 1.82; P = 0.75; heterogeneity: tau(2) = 0.18;chi(2) = 1.14; P = 0.28; I(2) = 13%). In conclusion, penetrating or non-penetrating sham-controlled RCTs failed to show specific effects of acupuncture for pain control in patients with RA. More rigorous research seems to be warranted.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/ken330" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.246199995279312" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+	<entry>
+		<title>Cyclooxygenase-2 selective non-steroidal anti-inflammatory drugs (etodolac, meloxicam, celecoxib, rofecoxib, etoricoxib, valdecoxib and lumiracoxib) for osteoarthritis and rheumatoid arthritis: a systematic review and economic evaluation.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18405470" title="Cyclooxygenase-2 selective non-steroidal anti-inflammatory drugs (etodolac, meloxicam, celecoxib, rofecoxib, etoricoxib, valdecoxib and lumiracoxib) for osteoarthritis and rheumatoid arthritis: a systematic review and economic evaluation."/>
+		<id>18405470</id>
+		<updated>2008-04-14</updated>
+		<summary>The COX-2 selective NSAIDs examined were found to be similar to non-selective NSAIDs for the symptomatic relief of RA and OA and to provide superior GI tolerability (the majority of evidence is in patients with OA). Although COX-2 selective NSAIDs offer protection against serious GI events, the amount of evidence for this protective effect varied considerably across individual drugs. The volume of trial evidence with regard to cardiovascular safety also varied substantially between COX-2 selective NSAIDs. Increased risk of MI compared to non-selective NSAIDs was observed among those drugs with greater volume of evidence in terms of exposure in patient-years. Economic modelling shows a wide range of possible costs per QALY gained in patients with OA and RA. Costs per QALY also varied if individual drugs were used in 'standard' or 'high'-risk patients, the choice of non-selective NSAID comparator and whether that NSAID was combined with a PPI. With reduced costs of PPIs, future primary research needs to compare the effectiveness and cost-effectiveness of COX-2 selective NSAIDs relative to non-selective NSAIDs with a PPI. Direct comparisons of different COX-2 selective NSAIDs, using equivalent doses, that compare GI and MI risk are needed. Pragmatic studies that include a wider range of people, including the older age groups with a greater burden of arthritis, are also necessary to inform clinical practice.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To review the clinical effectiveness and cost-effectiveness of cyclooxygenase-2 (COX-2) selective non-steroidal anti-inflammatory drugs (NSAIDs) (etodolac, meloxicam, celecoxib, rofecoxib, etoricoxib, valdecoxib and lumiracoxib) for osteoarthritis (OA) and rheumatoid arthritis (RA).</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Electronic databases were searched up to November 2003. Industry submissions to the National Institute for Health and Clinical Excellence (NICE) in 2003 were also reviewed.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>Systematic reviews of randomised controlled trials (RCTs) and a model-based economic evaluation were undertaken. Meta-analyses were undertaken for each COX-2 selective NSAID compared with placebo and non-selective NSAIDs. The model was designed to run in two forms: the 'full Assessment Group Model (AGM)', which includes an initial drug switching cycle, and the 'simpler AGM', where there is no initial cycle and no opportunity for the patient to switch NSAID.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Compared with non-selective NSAIDs, the COX-2 selective NSAIDs were found to be equally as efficacious as the non-selective NSAIDs (although meloxicam was found to be of inferior or equivalent efficacy) and also to be associated with significantly fewer clinical upper gastrointestinal (UGI) events (although relatively small numbers of clinical gastrointestinal (GI) and myocardial infarction (MI) events were reported across trials). Subgroup analyses of clinical and complicated UGI events and MI events in relation to aspirin use, steroid use, prior GI history and Helicobacter pylori status were based on relatively small numbers and were inconclusive. In the RCTs that included direct COX-2 comparisons, the drugs were equally tolerated and of equal efficacy. Trials were of insufficient size and duration to allow comparison of risk of clinical UGI events, complicated UGI events and MIs. One RCT compared COX-2 (celecoxib) with a non-selective NSAID combined with a gastroprotective agent (diclofenac combined with omeprazole); this included arthritis patients who had recently suffered a GI haemorrhage. Although no significant difference in clinical GI events was reported, the number of events was small and more such studies, where patients genuinely need NSAIDs, are required to confirm these data. A second trial showed that rofecoxib was associated with fewer diarrhoea events than a combination of diclofenac and misoprostol (Arthrotec). Previously published cost-effectiveness analyses indicated a wide of range of possible incremental cost per quality-adjusted life-year (QALY) gained estimates. Using the simpler AGM, with ibuprofen or diclofenac alone as the comparator, all of the COX-2 products are associated with higher costs (i.e. positive incremental costs) and small increases in effectiveness (i.e. positive incremental effectiveness), measured in terms of QALYs. The magnitude of the incremental costs and the incremental effects, and therefore the incremental cost-effectiveness ratios, vary considerably across all COX-2 selective NSAIDs. The base-case incremental cost per QALY results for COX-2 selective NSAIDs compared with diclofenac for the simpler model are: celecoxib (low dose) 68,400 pounds; celecoxib (high dose) 151,000 pounds; etodolac (branded) 42,400 pounds; etodolac (generic) 17,700 pounds; etoricoxib 31,300 pounds; lumiracoxib 70,400 pounds; meloxicam (low dose) 10,300 pounds; meloxicam (high dose) 17,800 pounds; rofecoxib 97,400 pounds; and valdecoxib 35,500 pounds. When the simpler AGM was run using ibuprofen or diclofenac combined with proton pump inhibitor (PPI) as the comparator, the results change substantially, with the COX-2 selective NSAIDs looking generally unattractive from a cost-effectiveness point of view (COX-2 selective NSAIDs were dominated by ibuprofen or diclofenac combined with PPI in most cases). This applies both to 'standard' and 'high-risk' arthritis patients defined in terms of previous GI ulcers. The full AGM produced results broadly in line with the simpler model.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The COX-2 selective NSAIDs examined were found to be similar to non-selective NSAIDs for the symptomatic relief of RA and OA and to provide superior GI tolerability (the majority of evidence is in patients with OA). Although COX-2 selective NSAIDs offer protection against serious GI events, the amount of evidence for this protective effect varied considerably across individual drugs. The volume of trial evidence with regard to cardiovascular safety also varied substantially between COX-2 selective NSAIDs. Increased risk of MI compared to non-selective NSAIDs was observed among those drugs with greater volume of evidence in terms of exposure in patient-years. Economic modelling shows a wide range of possible costs per QALY gained in patients with OA and RA. Costs per QALY also varied if individual drugs were used in 'standard' or 'high'-risk patients, the choice of non-selective NSAID comparator and whether that NSAID was combined with a PPI. With reduced costs of PPIs, future primary research needs to compare the effectiveness and cost-effectiveness of COX-2 selective NSAIDs relative to non-selective NSAIDs with a PPI. Direct comparisons of different COX-2 selective NSAIDs, using equivalent doses, that compare GI and MI risk are needed. Pragmatic studies that include a wider range of people, including the older age groups with a greater burden of arthritis, are also necessary to inform clinical practice.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.374300003051758" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+		<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+		<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+		<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+		<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+		<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+		<category term="C0059865" scheme="gov.nih.nlm.semanticType.orch" label="Etodolac"/>
+		<category term="C0059865" scheme="gov.nih.nlm.semanticType.orch" label="Etodolac"/>
+		<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+		<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+		<category term="C0083381" scheme="gov.nih.nlm.semanticType.orch" label="meloxicam"/>
+		<category term="C0083381" scheme="gov.nih.nlm.semanticType.orch" label="meloxicam"/>
+		<category term="C0059865" scheme="gov.nih.nlm.semanticType.orch" label="Etodolac"/>
+		<category term="C0059865" scheme="gov.nih.nlm.semanticType.orch" label="Etodolac"/>
+		<category term="C0059865" scheme="gov.nih.nlm.semanticType.orch" label="Etodolac"/>
+		<category term="C0059865" scheme="gov.nih.nlm.semanticType.orch" label="Etodolac"/>
+		<category term="C0210355" scheme="gov.nih.nlm.semanticType.orch" label="Arthrotec"/>
+		<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+		<category term="C0083381" scheme="gov.nih.nlm.semanticType.orch" label="meloxicam"/>
+		<category term="C0083381" scheme="gov.nih.nlm.semanticType.orch" label="meloxicam"/>
+		<category term="C0083381" scheme="gov.nih.nlm.semanticType.orch" label="meloxicam"/>
+		<category term="C0083381" scheme="gov.nih.nlm.semanticType.orch" label="meloxicam"/>
+		<category term="C0210355" scheme="gov.nih.nlm.semanticType.orch" label="Arthrotec"/>
+		<category term="C0538927" scheme="gov.nih.nlm.semanticType.orch" label="celecoxib"/>
+		<category term="C0538927" scheme="gov.nih.nlm.semanticType.orch" label="celecoxib"/>
+		<category term="C0762662" scheme="gov.nih.nlm.semanticType.orch" label="rofecoxib"/>
+		<category term="C0762662" scheme="gov.nih.nlm.semanticType.orch" label="rofecoxib"/>
+		<category term="C0538927" scheme="gov.nih.nlm.semanticType.orch" label="celecoxib"/>
+		<category term="C0762662" scheme="gov.nih.nlm.semanticType.orch" label="rofecoxib"/>
+		<category term="C0762662" scheme="gov.nih.nlm.semanticType.orch" label="rofecoxib"/>
+		<category term="C0538927" scheme="gov.nih.nlm.semanticType.orch" label="celecoxib"/>
+		<category term="C0538927" scheme="gov.nih.nlm.semanticType.orch" label="celecoxib"/>
+		<category term="C0538927" scheme="gov.nih.nlm.semanticType.orch" label="celecoxib"/>
+		<category term="C0538927" scheme="gov.nih.nlm.semanticType.orch" label="celecoxib"/>
+		<category term="C0762662" scheme="gov.nih.nlm.semanticType.orch" label="rofecoxib"/>
+		<category term="C0762662" scheme="gov.nih.nlm.semanticType.orch" label="rofecoxib"/>
+		<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+		<category term="C0972314" scheme="gov.nih.nlm.semanticType.orch" label="etoricoxib"/>
+		<category term="C0972314" scheme="gov.nih.nlm.semanticType.orch" label="etoricoxib"/>
+		<category term="C0358591" scheme="gov.nih.nlm.semanticType.phsu" label="Proton Pump Inhibitors"/>
+		<category term="C0913246" scheme="gov.nih.nlm.semanticType.orch" label="valdecoxib"/>
+		<category term="C0913246" scheme="gov.nih.nlm.semanticType.orch" label="valdecoxib"/>
+		<category term="C0913246" scheme="gov.nih.nlm.semanticType.orch" label="valdecoxib"/>
+		<category term="C0913246" scheme="gov.nih.nlm.semanticType.orch" label="valdecoxib"/>
+		<category term="C0003211" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Inflammatory Agents, Non-Steroidal"/>
+		<category term="C0972314" scheme="gov.nih.nlm.semanticType.orch" label="etoricoxib"/>
+		<category term="C0972314" scheme="gov.nih.nlm.semanticType.orch" label="etoricoxib"/>
+		<category term="C0972314" scheme="gov.nih.nlm.semanticType.orch" label="etoricoxib"/>
+		<category term="C0972314" scheme="gov.nih.nlm.semanticType.orch" label="etoricoxib"/>
+		<category term="C0913246" scheme="gov.nih.nlm.semanticType.orch" label="valdecoxib"/>
+		<category term="C0913246" scheme="gov.nih.nlm.semanticType.orch" label="valdecoxib"/>
+		<category term="C0028978" scheme="gov.nih.nlm.semanticType.orch" label="Omeprazole"/>
+		<category term="C0762662" scheme="gov.nih.nlm.semanticType.orch" label="rofecoxib"/>
+		<category term="C0762662" scheme="gov.nih.nlm.semanticType.orch" label="rofecoxib"/>
+		<category term="C0762662" scheme="gov.nih.nlm.semanticType.orch" label="rofecoxib"/>
+		<category term="C0762662" scheme="gov.nih.nlm.semanticType.orch" label="rofecoxib"/>
+		<category term="C0387583" scheme="gov.nih.nlm.semanticType.aapp" label="cyclooxygenase 2"/>
+		<category term="C0358591" scheme="gov.nih.nlm.semanticType.phsu" label="Proton Pump Inhibitors"/>
+		<category term="C0358591" scheme="gov.nih.nlm.semanticType.phsu" label="Proton Pump Inhibitors"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>Meta-analysis of mandibular distraction osteogenesis: clinical applications and functional outcomes.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18317087" title="Meta-analysis of mandibular distraction osteogenesis: clinical applications and functional outcomes."/>
+		<id>18317087</id>
+		<updated>2008-03-04</updated>
+		<summary>Mandibular distraction osteogenesis is effective in treating craniofacial deformities, but further clinical trials are required to assess the long-term stability and to compare the treatment with conventional treatment methods, especially in cases of obstructive sleep apnea or class II mandibular hypoplasia.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Mandibular distraction osteogenesis has been used effectively to treat syndromic craniofacial deformities. In recent years, its scope of application has widened to include treatment of airway obstruction in adults and children and nonsyndromic class II mandibular hypoplasia. So far, there has been no evidence-based review of mandibular distraction osteogenesis for mandibular lengthening.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Two rounds of searches were performed by two independent assessors. The first-round PubMed search used the keywords "mandible" and "distraction osteogenesis." In the second-round search, the reference lists of the articles were retrieved. For both rounds, abstracts and then full articles were reviewed and selected on the basis of a set of inclusion and exclusion criteria.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The 178 retrieved articles yielded 1185 mandibular distraction osteogenesis patients: 539 received unilateral mandibular distraction osteogenesis and 646 received bilateral mandibular distraction osteogenesis. Mandibular distraction osteogenesis was reported to improve facial asymmetry and retrognathia (50.1 percent), correct the slanted lip commissure (24.7 percent), and improve or level the mandibular occlusal plane (11.1 percent) in unilateral asymmetry cases, whereas bilateral mandibular distraction osteogenesis was shown to be effective in preventing tracheostomies for 91.3 percent of neonates or infants with respiratory distress, and in relieving symptoms of obstructive sleep apnea for 97.0 percent of children and 100 percent of adult patients.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Mandibular distraction osteogenesis is effective in treating craniofacial deformities, but further clinical trials are required to assess the long-term stability and to compare the treatment with conventional treatment methods, especially in cases of obstructive sleep apnea or class II mandibular hypoplasia.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1097/01.prs.0000299285.97379.35" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.427700012922287" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Plast. Reconstr. Surg."/>
+	</entry>
+	<entry>
+		<title>Rheumatoid arthritis, cardiovascular disease and physical exercise: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18045810" title="Rheumatoid arthritis, cardiovascular disease and physical exercise: a systematic review."/>
+		<id>18045810</id>
+		<updated>2008-02-15</updated>
+		<summary/>
+		<content>
+			<section>
+				<fragment>This systematic review investigates the effectiveness of exercise interventions in improving disease-related characteristics in patients with rheumatoid arthritis (RA). It also provides suggestions for exercise programmes suitable for improving the cardiovascular profile of RA patients and proposes areas for future research in the field. Six databases (Medline, Cochrane Library, CINAHL, Google Scholar, EMBASE and PEDro) were searched to identify publications from 1974 to December 2006 regarding RA and exercise interventions. The quality of the studies included was determined by using the Jadad scale. Initial searches identified 1342 articles from which 40 met the inclusion criteria. No studies were found investigating exercise interventions in relation to cardiovascular disease in RA. There is strong evidence suggesting that exercise from low to high intensity of various modes is effective in improving disease-related characteristics and functional ability in RA patients. Future studies are required to investigate the effects of exercise in improving the cardiovascular status of this patient population.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/rheumatology/kem260" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.191300004720688" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Rheumatology (Oxford)"/>
+	</entry>
+</feed>

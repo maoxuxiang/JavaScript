@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Knowledge Summary - Treatment of Rheumatoid Arthritis</title>
+	<updated>2014-01-21-07:00</updated>
+	<category term="C0001645" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic beta-Antagonists"/>
+	<category term="C0002598" scheme="gov.nih.nlm.semanticType.orch" label="Amiodarone"/>
+	<category term="C0002598" scheme="gov.nih.nlm.semanticType.phsu" label="Amiodarone"/>
+	<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+	<category term="C0003195" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Arrhythmia Agents"/>
+	<category term="C0003364" scheme="gov.nih.nlm.semanticType.phsu" label="Antihypertensive Agents"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0015689" scheme="gov.nih.nlm.semanticType.phsu" label="Fatty Acids, Omega-3"/>
+	<category term="C0024480" scheme="gov.nih.nlm.semanticType.phsu" label="Magnesium Sulfate"/>
+	<category term="C0037707" scheme="gov.nih.nlm.semanticType.phsu" label="Sotalol"/>
+	<category term="C0043031" scheme="gov.nih.nlm.semanticType.phsu" label="Warfarin"/>
+	<category term="C0085826" scheme="gov.nih.nlm.semanticType.phsu" label="Antiplatelet Agents"/>
+	<category term="C0286651" scheme="gov.nih.nlm.semanticType.orch" label="atorvastatin"/>
+	<category term="C0354604" scheme="gov.nih.nlm.semanticType.orch" label="Oral anticoagulants"/>
+	<category term="C0354604" scheme="gov.nih.nlm.semanticType.phsu" label="Oral anticoagulants"/>
+	<category term="C0360714" scheme="gov.nih.nlm.semanticType.orch" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+	<category term="C0360714" scheme="gov.nih.nlm.semanticType.phsu" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>	<entry>
+		<title>Nonvitamin-K-antagonist oral anticoagulants in patients with atrial fibrillation and previous stroke or transient ischemic attack: a systematic review and meta-analysis of randomized controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/23150654" title="Nonvitamin-K-antagonist oral anticoagulants in patients with atrial fibrillation and previous stroke or transient ischemic attack: a systematic review and meta-analysis of randomized controlled trials."/>
+		<id>23150654</id>
+		<updated>2012-11-27</updated>
+		<summary>In the context of the significant limitations of combining the results of disparate trials of different agents, non-VKAs seem to be associated with a significant reduction in rates of stroke or systemic embolism, hemorrhagic stroke, and major bleeding when compared with warfarin in patients with previous stroke or transient ischemic attack.</summary>
+		<content>
+			<section label="BACKGROUND AND PURPOSE" id="OBJECTIVE">
+				<fragment>To assess whether the combined analysis of all phase III trials of nonvitamin-K-antagonist (non-VKA) oral anticoagulants in patients with atrial fibrillation and previous stroke or transient ischemic attack shows a significant difference in efficacy or safety compared with warfarin.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched PubMed until May 31, 2012, for randomized clinical trials using the following search items: atrial fibrillation, anticoagulation, warfarin, and previous stroke or transient ischemic attack. Studies had to be phase III trials in atrial fibrillation patients comparing warfarin with a non-VKA currently on the market or with the intention to be brought to the market in North America or Europe. Analysis was performed on intention-to-treat basis. A fixed-effects model was used as more appropriate than a random-effects model when combining a small number of studies.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Among 47 potentially eligible articles, 3 were included in the meta-analysis. In 14 527 patients, non-VKAs were associated with a significant reduction of stroke/systemic embolism (odds ratios, 0.85 [95% CI, 074-0.99]; relative risk reduction, 14%; absolute risk reduction, 0.7%; number needed to treat, 134 over 1.8-2.0 years) compared with warfarin. Non-VKAs were also associated with a significant reduction of major bleeding compared with warfarin (odds ratios, 0.86 [95% CI, 075-0.99]; relative risk reduction, 13%; absolute risk reduction, 0.8%; number needed to treat, 125), mainly driven by the significant reduction of hemorrhagic stroke (odds ratios, 0.44 [95% CI, 032-0.62]; relative risk reduction, 57.9%; absolute risk reduction, 0.7%; number needed to treat, 139).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>In the context of the significant limitations of combining the results of disparate trials of different agents, non-VKAs seem to be associated with a significant reduction in rates of stroke or systemic embolism, hemorrhagic stroke, and major bleeding when compared with warfarin in patients with previous stroke or transient ischemic attack.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1161/STROKEAHA.112.673558" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.59579998254776" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0354604" scheme="gov.nih.nlm.semanticType.phsu" label="Oral anticoagulants"/>
+		<category term="C0354604" scheme="gov.nih.nlm.semanticType.phsu" label="Oral anticoagulants"/>
+		<category term="C0043031" scheme="gov.nih.nlm.semanticType.phsu" label="Warfarin"/>
+		<category term="C0043031" scheme="gov.nih.nlm.semanticType.phsu" label="Warfarin"/>
+		<category term="C0354604" scheme="gov.nih.nlm.semanticType.phsu" label="Oral anticoagulants"/>
+		<category term="C0354604" scheme="gov.nih.nlm.semanticType.phsu" label="Oral anticoagulants"/>
+		<category term="C0354604" scheme="gov.nih.nlm.semanticType.phsu" label="Oral anticoagulants"/>
+		<category term="C0354604" scheme="gov.nih.nlm.semanticType.orch" label="Oral anticoagulants"/>
+		<source type="Stroke"/>
+	</entry>
+	<entry>
+		<title>Cardiac disease and cognitive impairment: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22689718" title="Cardiac disease and cognitive impairment: a systematic review."/>
+		<id>22689718</id>
+		<updated>2012-08-20</updated>
+		<summary/>
+		<content>
+			<section>
+				<fragment>Cognitive impairment in cardiac patients may interfere with disease management. This review describes studies examining specific cognitive impairments in cardiac patients and studies that investigate the link between echocardiographic and cognitive measures. Executive function impairments were frequently reported in different patient groups. Also, lower cardiac output and worse left ventricular diastolic function are linked to executive function deficits. In cardiac patients, special attention should be paid to these executive function impairments in view of their role in disease management and independent living. Interventions that stimulate executive function should be encouraged and integrated in cardiac treatment protocols.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/heartjnl-2012-301682" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.224299997091293" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Heart"/>
+	</entry>
+	<entry>
+		<title>Percutaneous atrial appendage occlusion for stroke prevention in patients with atrial fibrillation: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22511532" title="Percutaneous atrial appendage occlusion for stroke prevention in patients with atrial fibrillation: a systematic review."/>
+		<id>22511532</id>
+		<updated>2012-05-25</updated>
+		<summary/>
+		<content>
+			<section>
+				<fragment>This review aims to evaluate systematically the safety and efficacy of percutaneous left atrial appendage occlusion (PLAAO) in stroke prevention for patients with atrial fibrillation (AF). A systematic review of peer-reviewed journals on PLAAO before June 2011 was performed on three electronic databases. Fourteen studies were identified for evaluation. Overall, implantation was successful in 93% of all cases. Periprocedural mortality and stroke rates were 1.1% and 0.6%, respectively. The incidences of pericardial effusion/cardiac tamponade and device embolisation were 4% and 0.7%, respectively. At the time of the latest follow-up (up to 40 months), the overall incidence of stroke among all studies was 1.4% per annum. Existing evidence suggests that PLAAO is a relatively safe treatment for patients with AF. However, there is a need for further evaluation of its efficacy in the form of large and well-designed randomised controlled trials.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/heartjnl-2011-301256" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.263200014829636" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Heart"/>
+	</entry>
+	<entry>
+		<title>Current trial-associated outcomes with warfarin in prevention of stroke in patients with nonvalvular atrial fibrillation: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22450212" title="Current trial-associated outcomes with warfarin in prevention of stroke in patients with nonvalvular atrial fibrillation: a meta-analysis."/>
+		<id>22450212</id>
+		<updated>2012-04-24</updated>
+		<summary>Current use of warfarin as a stroke prevention agent in patients with AF is associated with a low rate of residual stroke or systemic embolism estimated to be 1.66% per year. Compared with a previous meta-analysis, there has been significant improvement in the proportion of time spent in therapeutic anticoagulation, with a resultant decline in observed stroke rates.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Although several new antithrombotic agents have been developed for stroke prevention in patients with nonvalvular atrial fibrillation (AF), many patients will continue to be treated with warfarin worldwide. We performed a meta-analysis of safety and efficacy outcomes in patients with AF treated with warfarin for stroke prevention in large contemporary randomized controlled trials (RCTs).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched the MEDLINE, EMBASE, and Cochrane databases for relevant studies; RCTs comparing warfarin with an alternative thromboprophylaxis strategy with at least 400 patients in the warfarin arm and reporting stroke as an efficacy outcome were included.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eight RCTs with 55,789 patient-years of warfarin therapy follow-up were included. Overall time spent in the therapeutic range was 55% to 68%. The annual incidence of stroke or systemic embolism in patients with AF taking warfarin was estimated to be 1.66% (95% CI, 1.41%-1.91%). Major bleeding rates varied from 1.40% to 3.40% per year across the studies. The risk of stroke per year was significantly higher in elderly patients (2.27%), female patients (2.12%), patients with a history of stroke (2.64%), and patients reporting no previous exposure to vitamin K antagonists (1.96%). There was a significant increase in the annual incidence of stroke with progressively increasing CHADS(2) (congestive heart failure, hypertension, age, diabetes, and prior stroke) scores.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Current use of warfarin as a stroke prevention agent in patients with AF is associated with a low rate of residual stroke or systemic embolism estimated to be 1.66% per year. Compared with a previous meta-analysis, there has been significant improvement in the proportion of time spent in therapeutic anticoagulation, with a resultant decline in observed stroke rates.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinternmed.2012.121" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.284200012683868" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0043031" scheme="gov.nih.nlm.semanticType.phsu" label="Warfarin"/>
+		<category term="C0043031" scheme="gov.nih.nlm.semanticType.phsu" label="Warfarin"/>
+		<category term="C0043031" scheme="gov.nih.nlm.semanticType.phsu" label="Warfarin"/>
+		<category term="C0043031" scheme="gov.nih.nlm.semanticType.phsu" label="Warfarin"/>
+		<category term="C0043031" scheme="gov.nih.nlm.semanticType.phsu" label="Warfarin"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>Effect of perioperative statins on death, myocardial infarction, atrial fibrillation, and length of stay: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22351917" title="Effect of perioperative statins on death, myocardial infarction, atrial fibrillation, and length of stay: a systematic review and meta-analysis."/>
+		<id>22351917</id>
+		<updated>2012-02-21</updated>
+		<summary>Perioperative statin treatment in statin-naive patients reduces atrial fibrillation, myocardial infarction, and duration of hospital stay. Wider use of statins to improve cardiac outcomes in patients undergoing high-risk procedures seems warranted.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To assess the influence of perioperative statin treatment on the risk of death, myocardial infarction, atrial fibrillation, and hospital and intensive care unit length of stay in statin-naive patients undergoing cardiac or noncardiac surgery.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>MEDLINE via PubMed, EMBASE, Biosis, and the Cochrane Central Register of Controlled Trials via Ovid. Additional studies were identified through hand searches of bibliographies, trial Web sites, and clinical experts. Randomized controlled trials reporting the effect of perioperative statins in statin-naive patients undergoing cardiac and noncardiac surgery were included.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Two investigators independently selected eligible studies from original research published in any language studying the effects of statin use on perioperative outcomes of interest.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Two investigators performed independent article abstraction and quality assessment.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>Fifteen randomized controlled studies involving 2292 patients met the eligibility criteria. Random-effects meta-analyses of unadjusted and adjusted data were performed according to the method described by DerSimonian and Laird. Perioperative statin treatment decreased the risk of atrial fibrillation in patients undergoing cardiac surgery (relative risk [RR], 0.56; 95% CI, 0.45 to 0.69; number needed to treat [NNT], 6). In cardiac and noncardiac surgery, perioperative statin treatment reduced the risk of myocardial infarction (RR, 0.53; 95% CI, 0.38 to 0.74; NNT, 23) but not the risk of death (RR, 0.62; 95% CI, 0.34 to 1.14). Statin treatment reduced mean length of hospital stay (standardized mean difference, -0.32; 95% CI, -0.53 to -0.11) but had no effect on length of intensive care unit stay (standardized mean difference, -0.08; 95% CI, -0.25 to 0.10).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Perioperative statin treatment in statin-naive patients reduces atrial fibrillation, myocardial infarction, and duration of hospital stay. Wider use of statins to improve cardiac outcomes in patients undergoing high-risk procedures seems warranted.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archsurg.2011.897" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="2" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.538399994373322" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.orch" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.orch" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.orch" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<source type="Arch Surg"/>
+	</entry>
+	<entry>
+		<title>Role of AV nodal ablation in cardiac resynchronization in patients with coexistent atrial fibrillation and heart failure a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22340263" title="Role of AV nodal ablation in cardiac resynchronization in patients with coexistent atrial fibrillation and heart failure a systematic review."/>
+		<id>22340263</id>
+		<updated>2012-02-20</updated>
+		<summary>AV nodal ablation was associated with a substantial reduction in all-cause mortality and cardiovascular mortality and with improvements in New York Heart Association functional class compared with medical therapy in CRT-AF patients. Randomized controlled trials are warranted to confirm the efficacy and safety of AV nodal ablation in this patient population.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The aim of this study was to systematically review the medical literature to evaluate the impact of AV nodal ablation in patients with heart failure and coexistent atrial fibrillation (AF) receiving cardiac resynchronization therapy (CRT).</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>CRT has a substantial evidence base in patients in sinus rhythm with significant systolic dysfunction, symptomatic heart failure, and prolonged QRS duration. The role of CRT is less well established in AF patients with coexistent heart failure. AV nodal ablation has recently been suggested to improve outcomes in this group.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Electronic databases and reference lists through September 15, 2010, were searched. Two reviewers independently evaluated citation titles, abstracts, and articles. Studies reporting the outcomes after AV nodal ablation in patients with AF undergoing CRT for symptomatic heart failure and left ventricular dyssynchrony were selected. Data were extracted from 6 studies, including 768 CRT-AF patients, composed of 339 patients who underwent AV nodal ablation and 429 treated with medical therapy aimed at rate control alone.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>AV nodal ablation in CRT-AF patients was associated with significant reductions in all-cause mortality (risk ratio: 0.42 [95% confidence interval: 0.26 to 0.68]), cardiovascular mortality (risk ratio: 0.44 [95% confidence interval: 0.24 to 0.81]), and improvement in mean New York Heart Association functional class (risk ratio: -0.52 [95% confidence interval: -0.87 to -0.17]).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>AV nodal ablation was associated with a substantial reduction in all-cause mortality and cardiovascular mortality and with improvements in New York Heart Association functional class compared with medical therapy in CRT-AF patients. Randomized controlled trials are warranted to confirm the efficacy and safety of AV nodal ablation in this patient population.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2011.10.891" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="2" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.210500001907349" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Statin therapy for the prevention of atrial fibrillation: a meta-analysis of randomized controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22026393" title="Statin therapy for the prevention of atrial fibrillation: a meta-analysis of randomized controlled trials."/>
+		<id>22026393</id>
+		<updated>2011-10-26</updated>
+		<summary>This meta-analysis suggests that statin therapy is useful for the prevention of atrial fibrillation. The benefit of statins in secondary prevention was significant but not superior to primary prevention. Atorvastatin was more effective than pravastatin, and its effects were dose related, with lower doses being more effective. The number of trials focusing on individual drugs is still insufficient, and more randomized controlled trials are necessary to further support these conclusions.</summary>
+		<content>
+			<section label="STUDY OBJECTIVES" id="OBJECTIVE">
+				<fragment>To assess the efficacy of 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitors (statins) for primary and secondary prevention of atrial fibrillation, and to evaluate the efficacy of individual statins and their dosages.</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>Meta-analysis of 20 randomized controlled trials.</fragment>
+			</section>
+			<section label="PATIENTS" id="METHODS">
+				<fragment>A total of 32,311 patients who received either a statin (16,203 patients) or a placebo or active control regimen (16,108 patients) for either primary or secondary prevention of atrial fibrillation as part of a research study.</fragment>
+			</section>
+			<section label="MEASUREMENTS AND MAIN RESULTS" id="RESULTS">
+				<fragment>A systemic literature search of MEDLINE, EMBASE, and the Cochrane Controlled Trials Register was performed to identify randomized controlled trials involving the prevention of atrial fibrillation with statin therapy. Effect size was expressed as odds ratio (OR) with 95% confidence interval (CI). Subgroup analysis was performed to explore the reasons for heterogeneity. Of the 20 trials, atorvastatin was studied in 11, pravastatin in five, rosuvastatin in three, and simvastatin in one. Overall, among the 32,311 patients in these trials, the risk of atrial fibrillation was significantly reduced by statins (OR 0.59, 95% CI 0.45-0.76), and the drugs were effective for both primary prevention (OR 0.67, 95% CI 0.51-0.88) and secondary prevention (OR 0.40, 95% CI 0.20-0.83). Secondary prevention was not superior to primary prevention, however. A significant benefit was observed in the atorvastatin-treated subgroup (OR 0.43, 95% CI 0.27-0.66), especially in the dose range of 10-40 mg/day (OR 0.29, 95% CI 0.19-0.45). No protective effect was observed in the pravastatin subgroup (OR 1.03, 95% CI 0.77-1.37).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>This meta-analysis suggests that statin therapy is useful for the prevention of atrial fibrillation. The benefit of statins in secondary prevention was significant but not superior to primary prevention. Atorvastatin was more effective than pravastatin, and its effects were dose related, with lower doses being more effective. The number of trials focusing on individual drugs is still insufficient, and more randomized controlled trials are necessary to further support these conclusions.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1592/phco.31.11.1051" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.511099994182587" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0286651" scheme="gov.nih.nlm.semanticType.orch" label="atorvastatin"/>
+		<category term="C0286651" scheme="gov.nih.nlm.semanticType.orch" label="atorvastatin"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<source type="Pharmacotherapy"/>
+	</entry>
+	<entry>
+		<title>Prevention of atrial fibrillation with omega-3 fatty acids: a meta-analysis of randomised clinical trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21478384" title="Prevention of atrial fibrillation with omega-3 fatty acids: a meta-analysis of randomised clinical trials."/>
+		<id>21478384</id>
+		<updated>2011-06-06</updated>
+		<summary>No significant effects of n-3 PUFA supplementation on AF prevention were observed in this meta-analysis. A large-scale trial with higher doses and longer follow-up might be required to rule out the possibility of any treatment benefit.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Previous randomised controlled trials (RCT) regarding n-3 PUFA supplementation for atrial fibrillation (AF) prevention have yielded conflicting results.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>A systematic review and meta-analysis of RCT was conducted to examine the role of n-3 PUFA in AF prevention.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>MEDLINE, Web of Science and Cochrane clinical trials database were searched until November 2010.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Of 127 initially identified studies, 10 RCT with 1955 patients were finally analysed.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Two blinded reviewers extracted data independently to a predefined form. Disagreements were resolved through discussion and consensus.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>n-3 PUFA had no significant effect on the prevention of AF (OR 0.81, 95% CI 0.57 to 1.15; p=0.24). There was significant heterogeneity among the studies (p=0.002, I(2)=65.0%). Subgroup analysis showed no significant beneficial effect of fish oils in any subset of population.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>No significant effects of n-3 PUFA supplementation on AF prevention were observed in this meta-analysis. A large-scale trial with higher doses and longer follow-up might be required to rule out the possibility of any treatment benefit.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/hrt.2010.215350" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.615599989891052" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0015689" scheme="gov.nih.nlm.semanticType.phsu" label="Fatty Acids, Omega-3"/>
+		<source type="Heart"/>
+	</entry>
+	<entry>
+		<title>Atrial fibrillation and incidence of dementia: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21383328" title="Atrial fibrillation and incidence of dementia: a systematic review and meta-analysis."/>
+		<id>21383328</id>
+		<updated>2011-03-08</updated>
+		<summary>There is consistent evidence supporting an association between AF and increased incidence of dementia in patients with stroke whereas there remains considerable uncertainty about any link in the broader population. The potential association between AF and incident dementia in mild cognitive impairment merits further investigation.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Previous systematic reviews that examined whether atrial fibrillation (AF) is associated with dementia have relied on different study designs (including retrospective ones) and did not evaluate risk using meta-analysis.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched Medline, Embase, and PsychINFO in September 2010 for published prospective studies reporting on the association between baseline AF and incident dementia. Pooled odds ratios for AF and dementia were calculated using the random effects model, with heterogeneity assessed using I(2).</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>We identified 15 relevant studies covering 46,637 participants, mean age 71.7 years. One study that reported no significant difference in Mini-Mental State Examination scores between patients with or without AF could not be pooled. Meta-analysis of the remaining 14 studies showed that AF was associated with a significant increase in dementia overall (odds ratio [OR] 2.0, 95% confidence interval [CI] 1.4 to 2.7, p &lt; 0.0001), with substantial heterogeneity (I(2) = 75%). When stratified by participants, the association was significant (with little heterogeneity) in studies focusing solely on patients with stroke (7 studies, OR 2.4, 95% CI 1.7 to 3.5, p &lt; 0.001, I(2) = 10%), and of borderline significance (with substantial heterogeneity) for studies in broader populations (7 studies, OR 1.6, 95% CI 1.0 to 2.7, p = 0.05, I(2) = 87%). For conversion of mild cognitive impairment to dementia, one study showed a significant association with AF (OR 4.6, 95% CI 1.7 to 12.5).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>There is consistent evidence supporting an association between AF and increased incidence of dementia in patients with stroke whereas there remains considerable uncertainty about any link in the broader population. The potential association between AF and incident dementia in mild cognitive impairment merits further investigation.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1212/WNL.0b013e31820f2e38" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.379000008106232" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Neurology"/>
+	</entry>
+	<entry>
+		<title>Alcohol consumption and risk of atrial fibrillation: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21251583" title="Alcohol consumption and risk of atrial fibrillation: a meta-analysis."/>
+		<id>21251583</id>
+		<updated>2011-01-21</updated>
+		<summary>Results of this meta-analysis suggest that not consuming alcohol is most favorable in terms of AF risk reduction.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The purpose of this meta-analysis is to summarize the estimated risk of atrial fibrillation (AF) related to alcohol consumption.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Results from observational studies examining the relationship between alcohol consumption and AF are inconsistent.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic electronic search of Medline (January 1966 to December 2009) and Embase (January 1974 to December 2009) databases was conducted for studies using key words related to alcohol and AF. Studies were included if data on effect measures for AF associated with habitual alcohol intake were reported or could be calculated. The effect measures for AF for the highest versus lowest alcohol intake in individual studies were pooled with a variance-based method. Linear and spline regression analyses were conducted to quantify the relationship between alcohol intake and AF risk.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Fourteen eligible studies were included in this meta-analysis. The pooled estimate of AF for the highest versus the lowest alcohol intake was 1.51 (95% confidence interval: 1.31 to 1.74). A linear regression model showed that the pooled estimate for an increment of 10 g per day alcohol intake was 1.08 (95% confidence interval: 1.05 to 1.10; R(2) = 0.43, p &lt; 0.001). A spline regression model also indicated that the AF risk increased with increasing levels of alcohol consumption.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Results of this meta-analysis suggest that not consuming alcohol is most favorable in terms of AF risk reduction.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2010.08.641" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.181199997663498" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Short- and long-term mortality associated with new-onset atrial fibrillation after coronary artery bypass grafting: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21247589" title="Short- and long-term mortality associated with new-onset atrial fibrillation after coronary artery bypass grafting: a systematic review and meta-analysis."/>
+		<id>21247589</id>
+		<updated>2011-04-18</updated>
+		<summary>New-onset atrial fibrillation after coronary artery bypass grafting appears to increase short- and long-term mortality. Preoperative use of ß-blockers, avoidance of angiotensin-converting enzyme inhibitors, and shorter cardiopulmonary bypass and aortic clamp times potentially reduce occurrence of new-onset atrial fibrillation.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>Our objectives were to evaluate short- and long-term mortality associated with new-onset atrial fibrillation after coronary artery bypass grafting and to identify preoperative and intraoperative patient characteristics associated with new-onset atrial fibrillation.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Three independent investigators comprehensively reviewed the literature using Medline from 1960, Web of Science from 1980, and Scopus from 1960. All searches were done through December 2009. Selected cohort studies were used to evaluate associations between new-onset atrial fibrillation after coronary artery bypass grafting or coronary bypass plus valve and short-term mortality (defined as 30-day or in-hospital mortality) and long-term mortality (defined as mortality ≥ 6 months). We excluded studies involving atrial flutter, off-pump coronary bypass, and isolated valve surgery. Heterogeneity among studies was accounted for by meta-analysis with random-effects models.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eleven studies (n = 40,112) met our inclusion criteria. New-onset atrial fibrillation was associated with higher short-term mortality (3.6% vs 1.9%; odds ratio [OR], 2.29; 95% confidence interval [CI], 1.74-3.01; P &lt; .00001; heterogeneity of effects, P = .002). Mortality risks at 1 year and 4 years were 2.56 (95% CI, 2.14-3.08) and 2.19 (95% CI, 1.97-2.45; P &lt; .0001), respectively. Older age, lower ejection fraction, history of hypertension, heart failure, prior stroke, peripheral arterial disease, and longer cardiopulmonary bypass and aortic clamp times were associated with new-onset atrial fibrillation. Preoperative use of ß-blockers reduced occurrence of new-onset atrial fibrillation (OR, 0.94 [95% CI, 0.88-1.01; P = .08]), whereas angiotensin-converting enzyme inhibitors increased it (OR, 1.20 [95% CI, 1.11-1.29], P &lt; .00001).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>New-onset atrial fibrillation after coronary artery bypass grafting appears to increase short- and long-term mortality. Preoperative use of ß-blockers, avoidance of angiotensin-converting enzyme inhibitors, and shorter cardiopulmonary bypass and aortic clamp times potentially reduce occurrence of new-onset atrial fibrillation.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jtcvs.2010.10.040" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.4442999958992" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0001645" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic beta-Antagonists"/>
+		<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+		<source type="J. Thorac. Cardiovasc. Surg."/>
+	</entry>
+	<entry>
+		<title>Evidence of pre-procedural statin therapy a meta-analysis of randomized trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20825761" title="Evidence of pre-procedural statin therapy a meta-analysis of randomized trials."/>
+		<id>20825761</id>
+		<updated>2010-09-24</updated>
+		<summary>Statins administered before invasive procedures significantly reduce the hazard of post-procedural MI. Additionally, statins reduce the risk of atrial fibrillation after CABG. The routine use of statins before invasive procedures should be considered.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The purpose of this study was to summarize the evidence of pre-procedural statin therapy to reduce periprocedure cardiovascular events.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Invasive procedures can result in adverse cardiovascular events, such as myocardial infarction (MI) and death. We hypothesized that statins might improve clinical outcomes when used before invasive procedures.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched the MEDLINE, Cochrane, and clinicaltrials.gov databases from inception to February 2010 for randomized, controlled trials that examined statin therapy before invasive procedures. Invasive procedures were defined as percutaneous coronary intervention, coronary artery bypass grafting (CABG), and noncardiac surgery. We required that studies initiated statins before the procedure and reported clinical outcomes. A DerSimonian-Laird model was used to construct random-effects summary risk ratios.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eight percent of the screened trials (21 of 270) met our selection criteria, which included 4,805 patients. The use of pre-procedural statins significantly reduced post-procedural MI (risk ratio [RR]: 0.57, 95% confidence interval [CI]: 0.46 to 0.70, p &lt; 0.0001). This benefit was seen after both percutaneous coronary intervention (p &lt; 0.0001) and noncardiac surgical procedures (p = 0.004), but not CABG (p = 0.40). All-cause mortality was nonsignificantly reduced by statin therapy (RR: 0.66, 95% CI: 0.37 to 1.17, p = 0.15). Pre-procedural statins also reduced post-CABG atrial fibrillation (RR: 0.54, 95% CI: 0.43 to 0.68, p &lt; 0.0001).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Statins administered before invasive procedures significantly reduce the hazard of post-procedural MI. Additionally, statins reduce the risk of atrial fibrillation after CABG. The routine use of statins before invasive procedures should be considered.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2010.04.023" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.444099992513657" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.phsu" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.phsu" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Blood pressure variability and risk of new-onset atrial fibrillation: a systematic review of randomized trials of antihypertensive drugs.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20651263" title="Blood pressure variability and risk of new-onset atrial fibrillation: a systematic review of randomized trials of antihypertensive drugs."/>
+		<id>20651263</id>
+		<updated>2010-08-31</updated>
+		<summary>Effects of randomized treatment on variability in BP are unrelated to risk of new-onset AF, suggesting that other mechanisms account for the link between variability and stroke risk. However, a lower incidence of AF in patients randomized to angiotensin receptor blockers may explain reductions in stroke risk in some trials.</summary>
+		<content>
+			<section label="BACKGROUND AND PURPOSE" id="OBJECTIVE">
+				<fragment>Increased visit-to-visit variability in blood pressure (BP) is a powerful risk factor for stroke, but the mechanism is uncertain. We hypothesized that BP variability might affect the risk of new atrial fibrillation (AF).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We did a systematic review of large randomized controlled trials reporting new-onset AF by treatment allocation, excluding studies in heart failure and acute myocardial infarction. Estimates of the risk of new AF by treatment allocation were related to effects of treatment on group variability in BP.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Of 94 eligible randomized controlled trials, 14 reported rates of new AF. Although there was considerable heterogeneity between trials in effects of treatment on variance ratio (P&lt;0.0001), lower variance ratio was unrelated to new-onset AF either on meta-analysis (OR=1.02; 95% CI 0.90 to 1.15; 125 878 patients; 13 comparisons) or on metaregression (log OR versus log variance ratio of systolic blood pressure r(2)=0.109, P=0.270). Angiotensin receptor blockers tended to reduce new-onset AF (OR 0.85; 95% CI 0.71 to 1.01; P=0.067; 4 trials; 47 482 patients) with significant reductions in 2 individual trials but had no consistent reduction on variability in BP.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Effects of randomized treatment on variability in BP are unrelated to risk of new-onset AF, suggesting that other mechanisms account for the link between variability and stroke risk. However, a lower incidence of AF in patients randomized to angiotensin receptor blockers may explain reductions in stroke risk in some trials.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1161/STROKEAHA.110.589531" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.246299996972084" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003364" scheme="gov.nih.nlm.semanticType.phsu" label="Antihypertensive Agents"/>
+		<source type="Stroke"/>
+	</entry>
+	<entry>
+		<title>Systematic review and cost-effectiveness evaluation of 'pill-in-the-pocket' strategy for paroxysmal atrial fibrillation compared to episodic in-hospital treatment or continuous antiarrhythmic drug therapy.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20569652" title="Systematic review and cost-effectiveness evaluation of &apos;pill-in-the-pocket&apos; strategy for paroxysmal atrial fibrillation compared to episodic in-hospital treatment or continuous antiarrhythmic drug therapy."/>
+		<id>20569652</id>
+		<updated>2010-06-23</updated>
+		<summary>Most of the data used to populate the model have been taken from studies with populations that do not match the patient population specified in the decision problem. Populating the model in this way was unavoidable as there was a paucity of published clinical effectiveness and cost-effectiveness data describing a PiP strategy for this highly specific group of patients.Overall, a PiP strategy seems to be slightly less effective (i.e. fewer QALYs gained) than AAD and IHT, but is associated with cost savings. A PiP strategy seems to be more efficacious and cost-effective than an AAD strategy in men over 65 years and women over 70 years, but this is principally due to a very slight difference in QALY gained by the PiP strategy. A change in clinical practice that includes the introduction of PiP may save costs, but also involves a reduction in clinical effectiveness compared to existing approaches used to treat patients with PAF. Uncertainty in the available clinical data means there was insufficient evidence to support a recommendation for the use of PiP strategy in patients with PAF. Further research should identify outcomes of interest such as adverse events and recurrent AF episodes in an RCT setting because the only clinical study addressing these issues, even partially, is not an RCT but a descriptive analysis. Patient preferences also need to be considered in any future research designs.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Atrial fibrillation (AF) is a tachyarrhythmia characterised by uncoordinated atrial activation with consequent deterioration of impairment of atrial function and a rapid, irregular heartbeat. The annual incidence rate of paroxysmal AF (PAF) has been estimated at 1.0 per 1000 person-years (95% confidence interval 0.9 to 1.1), and reported prevalence rates show wide variations depending on age and country. Conventional treatment strategies for PAF focus on the suppression of paroxysms of AF and return to normal sinus rhythm.</fragment>
+			</section>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To summarise the results of the rapid reviews of the clinical effectiveness and cost-effectiveness literature describing the pill-in-the-pocket (PiP) approach for the treatment of patients with PAF; and to develop an economic model to assess the cost-effectiveness of PiP compared with in-hospital treatment (IHT) or continuous antiarrhythmic drugs (AADs) for the treatment of patients with PAF.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Ovid MEDLINE and Ovid OLDMEDLINE 1950 to present with Daily Update were searched. The following electronic databases were searched for ongoing trials: Health Services Research Projects in Progress, ClinicalTrials.gov, metaRegister of Current Controlled Trials, BioMed Central, World Health Organization International Clinical Trials Registry Platform, ClinicalStudyResults.org and the National Library of Medicine Gateway.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>Inclusion criteria, which included patients suffering from PAF, were independently applied to all identified references by two reviewers (JH and CMS). Electronic searches were conducted to identify clinical effectiveness and cost-effectiveness evidence describing the use of a PiP strategy for the treatment of PAF, published since the release of the Royal College of Physicians' national guidelines on AF in June 2006. A Markov model was constructed to examine differences between three PAF strategies (PiP, AAD and IHT) in terms of cost per quality-adjusted life-year (QALY). A Markov model structure was chosen because it is assumed that PAF is a condition that causes patients to move between a limited number of relevant health states during their lives.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The search strategies for clinical studies identified 201 randomised controlled trials (RCTs). Of the 201 RCTs identified, 12 were deemed to be relevant to the decision problem as they included drugs used to treat PAF; summary data were abstracted from these studies in order to inform the development of the economic model only. The model results indicate that the PiP strategy is slightly less effective than the other two strategies, but also less costly (incremental cost-effectiveness ratio of 45,916 pounds per QALY when compared to AAD, and 12,424 pounds per QALY when compared to IHT). The one-way sensitivity analyses performed do not show substantial changes in relative cost-effectiveness except in relation to the age of patients, where PiP dominates AAD in men over 65 years and in women over 70 years. At a threshold of 25,000 pounds per QALY, IHT has the maximum probability of being cost-effective at this threshold. For threshold values between 0 pounds and 9266 pounds per QALY, PiP is the option exhibiting the maximum probability of being cost-effective. The AAD strategy has a very poor probability of being cost-effective under any threshold. However, none of the strategies considered has more than a 40% probability of being cost-effective at a threshold of 25,000 pounds per QALY at any threshold level. This demonstrates the uncertainty around the parameters and its effect on the decision to choose any one strategy over the others.</fragment>
+			</section>
+			<section label="LIMITATIONS" id="CONCLUSIONS">
+				<fragment>Most of the data used to populate the model have been taken from studies with populations that do not match the patient population specified in the decision problem. Populating the model in this way was unavoidable as there was a paucity of published clinical effectiveness and cost-effectiveness data describing a PiP strategy for this highly specific group of patients.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Overall, a PiP strategy seems to be slightly less effective (i.e. fewer QALYs gained) than AAD and IHT, but is associated with cost savings. A PiP strategy seems to be more efficacious and cost-effective than an AAD strategy in men over 65 years and women over 70 years, but this is principally due to a very slight difference in QALY gained by the PiP strategy. A change in clinical practice that includes the introduction of PiP may save costs, but also involves a reduction in clinical effectiveness compared to existing approaches used to treat patients with PAF. Uncertainty in the available clinical data means there was insufficient evidence to support a recommendation for the use of PiP strategy in patients with PAF. Further research should identify outcomes of interest such as adverse events and recurrent AF episodes in an RCT setting because the only clinical study addressing these issues, even partially, is not an RCT but a descriptive analysis. Patient preferences also need to be considered in any future research designs.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3310/hta14310" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.1216000020504" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003195" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Arrhythmia Agents"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>Prevention of atrial fibrillation by Renin-Angiotensin system inhibition a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20488299" title="Prevention of atrial fibrillation by Renin-Angiotensin system inhibition a meta-analysis."/>
+		<id>20488299</id>
+		<updated>2010-05-21</updated>
+		<summary>This analysis supports the concept of RAS inhibition as an emerging treatment for the primary and secondary prevention of AF but acknowledges the fact that some of the primary prevention trials were post-hoc analyses. Further areas of uncertainty include potential differences among specific RAS inhibitors and possible interactions or synergistic effects with antiarrhythmic drugs.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The authors reviewed published clinical trial data on the effects of renin-angiotensin system (RAS) inhibition for the prevention of atrial fibrillation (AF), aiming to define when RAS inhibition is most effective.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Individual studies examining the effects of RAS inhibition on AF prevention have reported controversial results.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>All published randomized controlled trials reporting the effects of treatment with angiotensin-converting enzyme inhibitors or angiotensin receptor blockers in the primary or secondary prevention of AF were included.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>A total of 23 randomized controlled trials with 87,048 patients were analyzed. In primary prevention, 6 trials in hypertension, 2 trials in myocardial infarction, and 3 trials in heart failure were included (some being post-hoc analyses of randomized controlled trials). In secondary prevention, 8 trials after cardioversion and 4 trials assessing the medical prevention of recurrence were included. Overall, RAS inhibition reduced the odds ratio for AF by 33% (p &lt; 0.00001), but there was substantial heterogeneity among trials. In primary prevention, RAS inhibition was effective in patients with heart failure and those with hypertension and left ventricular hypertrophy but not in post-myocardial infarction patients overall. In secondary prevention, RAS inhibition was often administered in addition to antiarrhythmic drugs, including amiodarone, further reducing the odds for AF recurrence after cardioversion by 45% (p = 0.01) and in patients on medical therapy by 63% (p &lt; 0.00001).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>This analysis supports the concept of RAS inhibition as an emerging treatment for the primary and secondary prevention of AF but acknowledges the fact that some of the primary prevention trials were post-hoc analyses. Further areas of uncertainty include potential differences among specific RAS inhibitors and possible interactions or synergistic effects with antiarrhythmic drugs.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2010.01.043" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.230599999427795" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0002598" scheme="gov.nih.nlm.semanticType.phsu" label="Amiodarone"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Effect of statins on atrial fibrillation after cardiac surgery: a duration- and dose-response meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20381820" title="Effect of statins on atrial fibrillation after cardiac surgery: a duration- and dose-response meta-analysis."/>
+		<id>20381820</id>
+		<updated>2010-07-19</updated>
+		<summary>Evidence suggests that statins are associated with reduced risk of postoperative atrial fibrillation and shorter hospital stay after cardiac surgery and that earlier therapy results in more profound benefit.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>This meta-analysis of randomized, controlled trials evaluated effects of statins on postoperative atrial fibrillation risk after cardiac surgery.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Randomized, controlled trials evaluating statins in cardiac surgery were selected from MEDLINE (1996-August 2009), Cochrane CENTRAL Register, and manual review of references without any language restrictions. End points examined included postoperative atrial fibrillation, intensive care unit stay, and total hospital stay. Meta-regression analyses were conducted to determine whether statins' effects were duration or dose dependent. A random-effects model was used in all instances.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eight trials (n = 774) were identified and subjected to meta-analysis. Statins reduced postoperative atrial fibrillation risk (relative risk 0.57, 95% confidence interval 0.45-0.72, P &lt; .0001, risk difference -0.14, 95% confidence interval -0.20 to -0.08, P &lt; .0001, number needed to treat 8) and total hospital stay (weighted mean difference -0.66 days, 95% confidence interval -1.01 to -0.30 days, P = .0004) relative to placebo. Intensive care unit stay was also reduced (weighted mean difference -0.17 days, 95% confidence interval -0.37 to 0.03 days, P = .09) but did not meet prespecified criteria for statistical significance. Metaregression analysis revealed association between duration of preoperative statin prophylaxis and postoperative atrial fibrillation risk reduction (3% reduction per day, P = .008). No association was found between statin dose used and risk reduction (P = .47).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Evidence suggests that statins are associated with reduced risk of postoperative atrial fibrillation and shorter hospital stay after cardiac surgery and that earlier therapy results in more profound benefit.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jtcvs.2010.02.042" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.691299974918365" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.phsu" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.orch" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.orch" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.orch" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<source type="J. Thorac. Cardiovasc. Surg."/>
+	</entry>
+	<entry>
+		<title>Meta-analysis of randomized trials on the efficacy of posterior pericardiotomy in preventing atrial fibrillation after coronary artery bypass surgery.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19691996" title="Meta-analysis of randomized trials on the efficacy of posterior pericardiotomy in preventing atrial fibrillation after coronary artery bypass surgery."/>
+		<id>19691996</id>
+		<updated>2010-04-23</updated>
+		<summary>Posterior pericardiotomy seems to significantly reduce the incidence of postoperative atrial fibrillation and supraventricular arrhythmias after coronary artery bypass grafting. The marked reduction of postoperative pericardial effusion after posterior pericardiotomy suggests that pericardial effusion is one of the main triggers involved in the development of atrial fibrillation after cardiac surgery.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>Posterior pericardiotomy is considered a method to reduce the incidence of atrial fibrillation after cardiac surgery. Its efficacy in preventing atrial fibrillation and supraventricular arrhythmias after coronary artery bypass surgery has been evaluated in the present meta-analysis.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>This meta-analysis was performed in accordance with the Cochrane Handbook for Systematic Reviews.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The search yielded 6 prospective, randomized studies reporting on postoperative atrial fibrillation in 763 patients after coronary artery bypass grafting. The cumulative incidence of atrial fibrillation was 10.8% in the posterior pericardiotomy group (PP group) and 28.1% in the control group (I(2) 68%, random effect: P = .003; odds ratio [OR], 0.33; 95% confidence interval [CI], 0.16-0.69). Supraventricular arrhythmias occurred in 13.8% of patients in the PP group and 35.4% in the control group (I(2) 70%, random effect: P = .002; OR, 0.31; 95% CI, 0.15-0.65). Early pericardial effusion (6.9% vs 46.2%; I(2) 67%; random effect: P &lt; .0001; OR, 0.10; 95% CI, 0.04-0.28) and late pericardial effusion (0% vs 11.3%; I(2) 0%; fixed effect: P = .0001; OR, 0.04; 95% CI, 0.01-0.21) were significantly less frequent in the PP group. Pleural effusion (5 studies included: 22.2% vs 17.1%; I(2) 0%; fixed effect: P = .10; OR, 1.40; 95% CI, 0.94-2.08) and pulmonary complications were only slightly more frequent in the PP group (4 studies included: 3.6% vs 2.5%; I(2) 0%; fixed effect: P = .46; OR, 1.45; 95% CI, 0.54-3.86).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Posterior pericardiotomy seems to significantly reduce the incidence of postoperative atrial fibrillation and supraventricular arrhythmias after coronary artery bypass grafting. The marked reduction of postoperative pericardial effusion after posterior pericardiotomy suggests that pericardial effusion is one of the main triggers involved in the development of atrial fibrillation after cardiac surgery.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jtcvs.2009.07.012" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.374199986457825" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Thorac. Cardiovasc. Surg."/>
+	</entry>
+	<entry>
+		<title>Benefits and risks of long-term amiodarone therapy for persistent atrial fibrillation: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19252110" title="Benefits and risks of long-term amiodarone therapy for persistent atrial fibrillation: a meta-analysis."/>
+		<id>19252110</id>
+		<updated>2009-03-02</updated>
+		<summary>Amiodarone, as part of a strategy to achieve and maintain sinus rhythm, appears to be safe and effective in patients with persistent AF. However, some patients may not tolerate the adverse effects of this agent.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To assess whether amiodarone, as part of a strategy to achieve sinus rhythm, is safe and effective compared with a placebo or rate control drug in patients with persistent atrial fibrillation (AF) of more than 30 days' duration.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Randomized controlled trials comparing amiodarone with a placebo or rate control drug were identified through the EMBASE (January 1, 1988, to October 18, 2008), MEDLINE (January 1, 1966, to October 18, 2008), and Cochrane Controlled Trials Register (second issue 2008) databases with no language restrictions.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Twelve randomized controlled trials that involved a total of 5060 patients with persistent AF were considered. Amiodarone was more effective than a placebo or rate control drug in achieving sinus rhythm (21.3 vs 9.2 per 100 patient-years in sinus rhythm; relative risk [RR], 3.2; 95% confidence interval [CI], 1.9-5.5), and its use was not associated with an increased risk of long-term mortality (4.7 vs 3.9 per 100 patient-years; RR, 0.95; 95% CI, 0.8-1.1; P=.51; I2=0%). Cessation of amiodarone therapy because of intolerable adverse effects was more common compared with a placebo or rate control drug (10.7 vs 1.9 per 100 patient-years; RR, 3.0; 95% CI, 1.4-6.2; P&lt;.001; I2=70%), but amiodarone was not associated with an increased incidence of hospitalizations (RR, 1.1; 95% CI, 0.6-2.1; P=.77; I2=90%).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Amiodarone, as part of a strategy to achieve and maintain sinus rhythm, appears to be safe and effective in patients with persistent AF. However, some patients may not tolerate the adverse effects of this agent.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/S0025-6196(11)61140-3" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC2664595" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.67960000038147" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0002598" scheme="gov.nih.nlm.semanticType.orch" label="Amiodarone"/>
+		<category term="C0002598" scheme="gov.nih.nlm.semanticType.phsu" label="Amiodarone"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0002598" scheme="gov.nih.nlm.semanticType.orch" label="Amiodarone"/>
+		<category term="C0002598" scheme="gov.nih.nlm.semanticType.orch" label="Amiodarone"/>
+		<category term="C0002598" scheme="gov.nih.nlm.semanticType.orch" label="Amiodarone"/>
+		<category term="C0002598" scheme="gov.nih.nlm.semanticType.orch" label="Amiodarone"/>
+		<category term="C0002598" scheme="gov.nih.nlm.semanticType.orch" label="Amiodarone"/>
+		<source type="Mayo Clin. Proc."/>
+	</entry>
+	<entry>
+		<title>Curative catheter ablation in atrial fibrillation and typical atrial flutter: systematic review and economic evaluation.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19036232" title="Curative catheter ablation in atrial fibrillation and typical atrial flutter: systematic review and economic evaluation."/>
+		<id>19036232</id>
+		<updated>2008-11-27</updated>
+		<summary>RFCA is a relatively safe and efficacious procedure for the therapeutic treatment of AF and typical atrial flutter. There is some randomised evidence to suggest that RFCA is superior to AADs in patients with drug-refractory paroxysmal AF in terms of freedom from arrhythmia at 12 months. RFCA appears to be cost-effective if the observed quality of life benefits are assumed to continue over a patient's lifetime. However, there remain uncertainties around longer-term effects of the intervention and the extent to which published effectiveness findings can be generalised to 'typical' UK practice. All catheter ablation procedures for the treatment of AF or atrial flutter undertaken in the UK should be recorded prospectively and centrally and measures to increase compliance in recording RFCA procedures may be needed. This would be of particular value in establishing the long-term benefits of RFCA and the true incidence and impact of any complications. Collection of appropriate quality of life data within any such registry would also be of value to future clinical and cost-effectiveness research in this area. Any planned multicentre RCTs comparing RFCA against best medical therapy for the treatment of AF and/or atrial flutter should be conducted among 'non-pioneering' centres using the techniques and equipment typically employed in UK practice and should measure relevant outcomes.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To determine the safety, clinical effectiveness and cost-effectiveness of radio frequency catheter ablation (RCFA) for the curative treatment of atrial fibrillation (AF) and typical atrial flutter.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>For the systematic reviews of clinical studies 25 bibliographic databases and internet sources were searched in July 2006, with subsequent update searches for controlled trials conducted in April 2007. For the review of cost-effectiveness a broad range of studies was considered, including economic evaluations conducted alongside trials, modelling studies and analyses of administrative databases.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>Systematic reviews of clinical studies and economic evaluations of catheter ablation for AF and typical atrial flutter were conducted. The quality of the included studies was assessed using standard methods. A decision model was developed to evaluate a strategy of RFCA compared with long-term antiarrhythmic drug (AAD) treatment alone in adults with paroxysmal AF. This was used to estimate the cost-effectiveness of RFCA in terms of cost per quality-adjusted life-year (QALY) under a range of assumptions. Decision uncertainty associated with this analysis was presented and used to inform future research priorities using the value of information analysis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>A total of 4858 studies were retrieved for the review of clinical effectiveness. Of these, eight controlled studies and 53 case series of AF were included. Two controlled studies and 23 case series of typical atrial flutter were included. For atrial fibrillation, freedom from arrhythmia at 12 months in case series ranged from 28% to 85.3% with a weighted mean of 76%. Three RCTs suggested that RFCA is more effective than long-term AAD therapy in patients with drug-refractory paroxysmal AF. Single RCTs also suggested superiority of RFCA over electrical cardioversion followed by long-term AAD therapy and of RFCA plus AAD therapy over AAD maintenance therapy alone in drug-refractory patients. The available RCTs provided insufficient evidence to determine the effectiveness of RFCA beyond 12 months or in patients with persistent or permanent AF. Adverse events and complications were generally rare. Mortality rates were low in both RCTs and case series. Cardiac tamponade and pulmonary vein stenosis were the most frequently recorded complications. For atrial flutter, freedom from arrhythmia at 12 months in case series ranged from 85% to 92% with a weighted mean of 88%. Neither of the atrial flutter RCTs reported freedom from arrhythmia at 12 months. One RCT found a statistically significant benefit favouring ablation over AADs in terms of freedom from arrhythmia at a mean follow-up of 22 months. A second RCT reported a more modest effect favouring ablation in terms of freedom from atrial flutter at follow-up in older patients (mean age 78 years) after their first episode of flutter. In the atrial flutter case series, mortality was rare and the most frequent complications were atrioventricular block and haematomas. Complications in the RCTs were similar, except for those events likely to have been caused by AAD therapy (e.g. thyroid dysfunction). The review of cost-effectiveness evidence found one relevant study, which from a UK NHS perspective had a number of important limitations. The base-case analysis in the decision model demonstrated that if the quality of life benefits of RFCA are maintained over the remaining lifetime of the patient then the cost-effectiveness of RFCA appears clear. These findings were robust over a wide range of alternative assumptions, being between 7763 and 7910 pounds per additional QALY with very little uncertainty. If the quality of life benefits of RFCA are assumed to be maintained for no more than 5 years, cost-effectiveness of RFCA is dependent on a number of factors. Estimates of cost-effectiveness that explored the influence of these factors ranged from 23,000 to 38,000 pounds per QALY.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>RFCA is a relatively safe and efficacious procedure for the therapeutic treatment of AF and typical atrial flutter. There is some randomised evidence to suggest that RFCA is superior to AADs in patients with drug-refractory paroxysmal AF in terms of freedom from arrhythmia at 12 months. RFCA appears to be cost-effective if the observed quality of life benefits are assumed to continue over a patient's lifetime. However, there remain uncertainties around longer-term effects of the intervention and the extent to which published effectiveness findings can be generalised to 'typical' UK practice. All catheter ablation procedures for the treatment of AF or atrial flutter undertaken in the UK should be recorded prospectively and centrally and measures to increase compliance in recording RFCA procedures may be needed. This would be of particular value in establishing the long-term benefits of RFCA and the true incidence and impact of any complications. Collection of appropriate quality of life data within any such registry would also be of value to future clinical and cost-effectiveness research in this area. Any planned multicentre RCTs comparing RFCA against best medical therapy for the treatment of AF and/or atrial flutter should be conducted among 'non-pioneering' centres using the techniques and equipment typically employed in UK practice and should measure relevant outcomes.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.419200003147125" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>Cardiac resynchronization in patients with atrial fibrillation: a meta-analysis of prospective cohort studies.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18926327" title="Cardiac resynchronization in patients with atrial fibrillation: a meta-analysis of prospective cohort studies."/>
+		<id>18926327</id>
+		<updated>2008-10-17</updated>
+		<summary>Patients in AF show significant improvement after CRT, with similar or improved ejection fraction as SR patients, but smaller benefits in regard to functional outcomes.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>This study is a meta-analysis of prospective cohort studies comparing the impact of cardiac resynchronization therapy (CRT) for patients in atrial fibrillation (AF) and sinus rhythm (SR).</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Although close to one-third of advanced heart failure patients exhibit AF, the impact of CRT in this group remains unclear.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Prospective cohort studies comparing patients in normal SR and chronic AF treated with CRT were included. All studies reported death, New York Heart Association functional class, ejection fraction, 6-min walk test, and the Minnesota score or its equivalent as outcomes. Data sources included Ovid MEDLINE In-Process &amp; Other Non-Indexed Citations, the Cochrane Central Register of Controlled Trials, the Database of Abstracts of Reviews of Effects, and the American College of Physicians Journal Club.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Of 2,487 reports identified, 5 studies following a total of 1,164 patients were included. Both AF and SR patients benefited significantly from CRT. Mortality was not significantly different at 1 year (relative risk ratio: 1.57, 95% confidence interval [CI]: 0.87 to 2.81). The New York Heart Association functional class improved similarly for both groups (-0.90 for SR patients, -0.84 for AF patients). SR patients showed greater relative improvement in the 6-min walk test (11.6 m greater, 95% CI: 10.4 to 12.8 m) and the Minnesota score (3.9 points less, 95% CI: 3.4 to 4.5 points) than AF patients. AF patients, however, achieved a small but statistically significant greater change in ejection fraction (0.39% greater change in ejection fraction, 95% CI: 0.22% to 0.55%).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Patients in AF show significant improvement after CRT, with similar or improved ejection fraction as SR patients, but smaller benefits in regard to functional outcomes.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2008.06.043" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.434199988842011" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Intravenous magnesium sulphate and sotalol for prevention of atrial fibrillation after coronary artery bypass surgery: a systematic review and economic evaluation.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18547499" title="Intravenous magnesium sulphate and sotalol for prevention of atrial fibrillation after coronary artery bypass surgery: a systematic review and economic evaluation."/>
+		<id>18547499</id>
+		<updated>2008-06-12</updated>
+		<summary>No RCTs were identified that specifically aimed to compare intravenous magnesium with sotalol as prophylaxis for AF in patients undergoing CABG. Intravenous magnesium, compared with placebo or control, is effective in preventing postoperative AF, as confirmed by a statistically significant intervention effect based on pooled analysis of 15 RCTs. It was also found that AF was less likely to occur when a longer duration of prophylaxis was used, and the earlier that prophylaxis is started; however, this finding was associated with two RCTs that had more favourable results than the other trials. No clear relationship between dose and AF was observed, although a lower constant dose rate was associated with the lowest odds of AF. Further research should investigate the relationship between dose, dose rate, duration of prophylaxis, timing of initiation of therapy and patient characteristics, such as degree of risk for AF. This will provide stronger evidence for the optimum delivery of intravenous magnesium in patients undergoing CABG. In the base-case analysis in the economic model, magnesium sulphate prophylaxis reduced the number of postoperative AF cases at a modest increase in cost. The results of the economic analysis are highly sensitive to variation in certain key parameters. Prophylaxis is less likely to be a cost-effective option if it requires changes in admission routines that result in longer preoperative stays than would be the case without prophylaxis.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To assess the clinical and cost-effectiveness of magnesium sulphate compared with sotalol, and to assess the clinical effectiveness of magnesium sulphate compared with placebo in the prevention of atrial fibrillation (AF) in patients who have had a coronary artery bypass graft (CABG).</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Major electronic databases were searched from December 2003 to May 2007.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>Selected studies were assessed, subjected to data extraction using a standard template and quality assessment using published criteria. A simple short-term economic model was developed, informed by a systematic review of economic evaluations and populated with data from a review of costing/resource-use studies and other published studies. The cost-effectiveness of magnesium sulphate as prophylaxis was estimated for a set of base-case assumptions and the robustness of these results was assessed using deterministic and probabilistic sensitivity analysis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Twenty-two papers met the inclusion criteria reporting 15 trials which all compared magnesium sulphate with placebo or control. They ranged in size from 15 to 176 patients randomised, and were conducted in Europe, the USA and Canada. The standard of reporting was generally poor, with details of key methodological attributes difficult to elucidate. No trials were identified that specifically aimed to compare magnesium sulphate with sotalol. Of 1070 patients in the pooled magnesium group, 230 (21%) developed postoperative AF, compared with 307 of 1031 (30%) patients in the placebo or (control) group. Meta-analysis using a fixed-effects model generated a pooled odds ratio (OR) that was significantly less than 1.0 [OR=0.65, 95% confidence interval (CI) 0.53 to 0.79, test for overall effect p&lt;0.0001], but with statistically significant heterogeneity (I2=63.4%, p=0.0005). Two randomised controlled trials (RCTs) were notable as they had relatively lower ORs in favour of magnesium sulphate. When these were removed from the analyses the pooled OR remained statistically significant, but heterogeneity no longer remained significant. These two studies tended to impart a highly significant reduction in the odds of AF to whichever subgroup they were analysed in. When studies were ordered by total duration of prophylaxis, an apparent relationship between duration and odds of AF was evident, with decreasing odds of AF as duration of prophylaxis increased. This was confirmed by linear regression analysis (R2=0.743, p&lt;0.001). When the data were grouped into three classes according to duration, a statistically significant intervention effect was only present for the longest duration (OR=0.12, 95% CI 0.06 to 0.23, p=0.00001). Statistically significant intervention effects were associated with the initiation of prophylaxis 12 hours or more before surgery (OR 0.26; 95% CI 0.16 to 0.44, test for overall effect p=0.00001, fixed-effects model) and less than 12 hours before surgery or during the surgery itself (OR=0.73, 95% CI 0.56 to 0.97, test for overall effect p = 0.03, fixed-effects model), but not when prophylaxis was initiated at the end of surgery or postsurgery (OR=0.85, 95% CI 0.59 to 1.22, p=0.37, fixed-effects model). When studies were ordered by total dose of intravenous magnesium sulphate (&lt;25 g), the odds of AF were independent of the dose. A notable exception was that for a total dose of 9 g magnesium sulphate; here the odds of AF were significantly reduced relative to the control group, although this may be explained by the fact that these studies had excluded patients who were on antiarrhythmic drugs and so may have been at higher risk of AF. Sixty-three potentially relevant references about cost-effectiveness were identified, but no economic evaluations of intravenous magnesium alone as prophylaxis against AF following CABG, compared with sotalol as prophylaxis or no prophylaxis, were identified. Studies reporting resource use by patients with AF following CABG suggest that while AF significantly increased inpatient stays, by up to 2.3 days in the intensive care unit (ICU) and 3.4 days on the ward, differences in length of stay and costs between patients receiving prophylaxis and those not receiving prophylaxis were not statistically significant. In the base-case analysis, magnesium sulphate prophylaxis resulted in 0.081 fewer cases of AF at an incremental cost of 2.55 pounds sterling. The incremental cost-effectiveness ratio (ICER) was 32 pounds sterling per AF case avoided. The estimated difference in average length of stay between the prophylaxis and no-prophylaxis strategies was only 0.24 days, despite a large assumed difference of 3 days for patients experiencing AF in each group (1 extra day in the ICU and 2 extra days on the ward). In a deterministic sensitivity analysis the greatest variation in ICERs was observed for input parameters relating to the baseline risk of AF following CABG and the effectiveness of prophylaxis, cost of prophylaxis and the resource consequences of postoperative AF. The largest ICER (2092 pounds sterling) in the sensitivity analysis was associated with increasing the length of patients' preoperative stay. In the base case it was assumed that admission routines would be identical under both strategies. However, patients receiving prophylaxis by intravenous infusion may have longer preoperative stays. In a probabilistic analysis the majority of the simulations were associated with improved outcomes (in this case fewer cases of AF), but also higher costs. Prophylaxis was the dominant strategy (better outcome at lower cost) in about 41% of the simulations using the base-case assumptions. Under an alternative scenario where patients receiving prophylaxis are admitted for longer before their operation, to receive their initial infusion, the proportion of simulations where prophylaxis dominates fell to around 5%. The probability of being cost-effective was 99% at a willingness to pay (WTP) threshold of 2000 pounds sterling per AF case avoided and 100% at a WTP threshold of 5000 pounds sterling per AF case avoided under the base-case assumptions. Under the alternative scenario of longer preoperative stays the probability of being cost-effective at these two threshold values fell to 48% and 93%, respectively. It is unclear what the appropriate decision threshold should be, given that this model used intermediate rather than final outcomes.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>No RCTs were identified that specifically aimed to compare intravenous magnesium with sotalol as prophylaxis for AF in patients undergoing CABG. Intravenous magnesium, compared with placebo or control, is effective in preventing postoperative AF, as confirmed by a statistically significant intervention effect based on pooled analysis of 15 RCTs. It was also found that AF was less likely to occur when a longer duration of prophylaxis was used, and the earlier that prophylaxis is started; however, this finding was associated with two RCTs that had more favourable results than the other trials. No clear relationship between dose and AF was observed, although a lower constant dose rate was associated with the lowest odds of AF. Further research should investigate the relationship between dose, dose rate, duration of prophylaxis, timing of initiation of therapy and patient characteristics, such as degree of risk for AF. This will provide stronger evidence for the optimum delivery of intravenous magnesium in patients undergoing CABG. In the base-case analysis in the economic model, magnesium sulphate prophylaxis reduced the number of postoperative AF cases at a modest increase in cost. The results of the economic analysis are highly sensitive to variation in certain key parameters. Prophylaxis is less likely to be a cost-effective option if it requires changes in admission routines that result in longer preoperative stays than would be the case without prophylaxis.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.171200007200241" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0037707" scheme="gov.nih.nlm.semanticType.phsu" label="Sotalol"/>
+		<category term="C0024480" scheme="gov.nih.nlm.semanticType.phsu" label="Magnesium Sulfate"/>
+		<category term="C0024480" scheme="gov.nih.nlm.semanticType.phsu" label="Magnesium Sulfate"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>Catheter ablation vs antiarrhythmic drug therapy for atrial fibrillation: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18362249" title="Catheter ablation vs antiarrhythmic drug therapy for atrial fibrillation: a systematic review."/>
+		<id>18362249</id>
+		<updated>2008-03-25</updated>
+		<summary>We observed statistically significantly better AT recurrence-free survival with CPVA than with ADT. These results highlight the need for larger trials to determine the appropriate role for CPVA in the management of AF. Ongoing clinical trials may provide further guidance on these treatment options for AF.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Circumferential pulmonary vein ablation (CPVA) has become common therapy for atrial fibrillation (AF), but results of large randomized controlled trials comparing this procedure with antiarrhythmic drug therapy (ADT) have not been published to date. We conducted a systematic literature review to assess whether CPVA is superior to ADT for the management of AF.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched PubMed, EMBASE, and the Cochrane Central Register of Controlled Trials for relevant randomized controlled trials. Data were abstracted to construct a 2 x 2 table for each trial. Recurrence of any atrial tachyarrhythmia (AT) was considered the primary end point of the trials. The estimate and confidence interval for the pooled risk ratio of AT recurrence-free survival in the CPVA group vs the ADT group were obtained using the random-effects model.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Four trials qualified for the meta-analysis. In total, 162 of 214 patients (75.7%) in the CPVA group had AT recurrence-free survival vs 41 of 218 patients (18.8%) in the ADT group. The random-effects pooled risk ratio for AT recurrence-free survival was 3.73 (95% confidence interval, 2.47-5.63). In addition, fewer adverse events were reported in the CPVA group compared with that in the ADT group.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>We observed statistically significantly better AT recurrence-free survival with CPVA than with ADT. These results highlight the need for larger trials to determine the appropriate role for CPVA in the management of AF. Ongoing clinical trials may provide further guidance on these treatment options for AF.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinte.168.6.581" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.463499993085861" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003195" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Arrhythmia Agents"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>Antiarrhythmic effect of statin therapy and atrial fibrillation a meta-analysis of randomized controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18294568" title="Antiarrhythmic effect of statin therapy and atrial fibrillation a meta-analysis of randomized controlled trials."/>
+		<id>18294568</id>
+		<updated>2008-02-25</updated>
+		<summary>Use of statins was significantly associated with a decreased risk of incidence or recurrence of AF in patients in sinus rhythm with a history of previous AF or undergoing cardiac surgery or after acute coronary syndrome.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To improve the evaluation of the possible antiarrhythmic effect of statins, we performed a meta-analysis of randomized trials with statins on the end point of incidence or recurrence of atrial fibrillation (AF).</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>The use of statins had been suggested to protect against AF in some clinical observational and experimental studies but has remained inadequately explored.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic review of controlled trials with statins was performed. Eligible studies had to have been randomized controlled parallel-design human trials with use of statins that collected data on incidence or recurrence of AF.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Six studies with 3,557 patients in sinus rhythm were included in the analysis. Three studies investigated the use of statins in patients with a history of paroxysmal AF (n = 1) or persistent AF undergoing electrical cardioversion (n = 2), and 3 investigated the use of statins in primary prevention of AF in patients undergoing cardiac surgery or after acute coronary syndrome. Incidence or recurrence of AF occurred in 386 patients. Overall, the use of statins was significantly associated with a decreased risk of AF compared with control (odds ratio [OR] 0.39, 95% confidence interval [CI] 0.18 to 0.85, p = 0.02). Benefit of statin therapy seemed more marked in secondary prevention of AF (OR 0.33, 95% CI 0.10 to 1.03, p = 0.06) than for new-onset or postoperative AF (OR 0.60, 95% CI 0.27 to 1.37, p = 0.23).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Use of statins was significantly associated with a decreased risk of incidence or recurrence of AF in patients in sinus rhythm with a history of previous AF or undergoing cardiac surgery or after acute coronary syndrome.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2007.09.063" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.479900002479553" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.phsu" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.phsu" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.phsu" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<category term="C0003195" scheme="gov.nih.nlm.semanticType.phsu" label="Anti-Arrhythmia Agents"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Warfarin for the prevention of systemic embolism in patients with non-valvular atrial fibrillation: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18208828" title="Warfarin for the prevention of systemic embolism in patients with non-valvular atrial fibrillation: a meta-analysis."/>
+		<id>18208828</id>
+		<updated>2008-11-17</updated>
+		<summary>Warfarin not only reduces the risk of stroke but is also better than placebo and antiplatelet agents in prevention of systemic embolism in patients with non-valvular AF. Warfarin increases the risk of major bleeding compared with placebo but not compared with antiplatelet agents.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Warfarin for stroke prevention in patients with atrial fibrillation (AF) is well documented. However, it has not been examined in the prevention of systemic embolism.</fragment>
+			</section>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To evaluate the efficacy of warfarin in preventing systemic embolism (embolism to limbs or viscera) in patients with AF.</fragment>
+			</section>
+			<section label="METHODS AND RESULTS" id="RESULTS">
+				<fragment>A combined Medline, Embase, Cochrane Library and SveMed+ search were made. Fifteen studies were included. Warfarin was better than antiplatelet agents for preventing systemic embolism with a 50% reduction of risk (odds ratio (OR) = 0.50, 95% CI 0.33 to 0.75) without increasing the risk of major bleeding (OR = 1.07; 95% CI 0.85 to 1.34). Warfarin compared with placebo resulted in a risk reduction of 71% (OR = 0.29; 95% CI 0.08 to 1.07) with higher risk of major bleeding with warfarin (OR = 3.01; 95% CI 1.31 to 6.92). Results of a comparison of warfarin with low-dose warfarin (OR = 1.52; 95% CI 0.40 to 5.81) or low-dose warfarin with aspirin (OR = 1.00; 95% CI 0.17 to 5.81) were inconclusive.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Warfarin not only reduces the risk of stroke but is also better than placebo and antiplatelet agents in prevention of systemic embolism in patients with non-valvular AF. Warfarin increases the risk of major bleeding compared with placebo but not compared with antiplatelet agents.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/hrt.2007.135657" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.329600006341934" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0043031" scheme="gov.nih.nlm.semanticType.phsu" label="Warfarin"/>
+		<category term="C0043031" scheme="gov.nih.nlm.semanticType.phsu" label="Warfarin"/>
+		<category term="C0043031" scheme="gov.nih.nlm.semanticType.phsu" label="Warfarin"/>
+		<category term="C0085826" scheme="gov.nih.nlm.semanticType.phsu" label="Antiplatelet Agents"/>
+		<category term="C0085826" scheme="gov.nih.nlm.semanticType.phsu" label="Antiplatelet Agents"/>
+		<source type="Heart"/>
+	</entry>
+</feed>

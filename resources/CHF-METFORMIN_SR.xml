@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Knowledge Summary - Treatment of Rheumatoid Arthritis</title>
+	<updated>2014-01-13-07:00</updated>
+	<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+	<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+	<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+	<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+	<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+	<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+	<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+	<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+	<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+	<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+	<category term="C0016157" scheme="gov.nih.nlm.semanticType.phsu" label="Fish Oils"/>
+	<category term="C0016157" scheme="gov.nih.nlm.semanticType.phsu" label="Fish Oils"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0001645" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic beta-Antagonists"/>
+	<category term="C0001645" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic beta-Antagonists"/>
+	<category term="C0304229" scheme="gov.nih.nlm.semanticType.phsu" label="Experimental drug"/>
+	<category term="C0054015" scheme="gov.nih.nlm.semanticType.phsu" label="Brain natriuretic peptide"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0126174" scheme="gov.nih.nlm.semanticType.orch" label="Losartan"/>
+	<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+	<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+	<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+	<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+	<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+	<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+	<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.orch" label="candesartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.orch" label="candesartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.orch" label="candesartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.orch" label="candesartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.orch" label="candesartan"/>
+	<category term="C0126174" scheme="gov.nih.nlm.semanticType.orch" label="Losartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+	<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+	<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+	<category term="C0041037" scheme="gov.nih.nlm.semanticType.orch" label="Trimetazidine"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+	<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+	<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+	<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+	<category term="C0001645" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic beta-Antagonists"/>
+	<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+	<category term="C0012798" scheme="gov.nih.nlm.semanticType.phsu" label="Diuretics"/>
+	<category term="C0006684" scheme="gov.nih.nlm.semanticType.phsu" label="Calcium Channel Blockers"/>
+	<category term="C0006684" scheme="gov.nih.nlm.semanticType.phsu" label="Calcium Channel Blockers"/>
+	<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+	<category term="C0037982" scheme="gov.nih.nlm.semanticType.phsu" label="Spironolactone"/>
+	<category term="C0037982" scheme="gov.nih.nlm.semanticType.phsu" label="Spironolactone"/>
+	<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+	<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+	<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0037982" scheme="gov.nih.nlm.semanticType.phsu" label="Spironolactone"/>
+	<category term="C0037982" scheme="gov.nih.nlm.semanticType.phsu" label="Spironolactone"/>
+	<category term="C0037982" scheme="gov.nih.nlm.semanticType.phsu" label="Spironolactone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0006882" scheme="gov.nih.nlm.semanticType.phsu" label="Canrenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0006882" scheme="gov.nih.nlm.semanticType.strd" label="Canrenone"/>
+	<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+	<category term="C0001645" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic beta-Antagonists"/>
+	<category term="C0054015" scheme="gov.nih.nlm.semanticType.aapp" label="Brain natriuretic peptide"/>
+	<category term="C0014822" scheme="gov.nih.nlm.semanticType.horm" label="Erythropoietin"/>
+	<category term="C0014822" scheme="gov.nih.nlm.semanticType.horm" label="Erythropoietin"/>
+	<category term="C0003364" scheme="gov.nih.nlm.semanticType.phsu" label="Antihypertensive Agents"/>
+	<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+	<entry>
+		<title>A meta-analysis reporting effects of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers in patients without heart failure.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/23219304" title="A meta-analysis reporting effects of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers in patients without heart failure."/>
+		<id>23219304</id>
+		<updated>2013-12-31</updated>
+		<summary>In patients at high CV risk without HF, ACE-Is and ARBs reduced the risk of the composite outcome of CV death, MI, and stroke. ACE-Is also reduced the risk of all-cause death, new-onset HF, and new-onset DM. Thus, ARBs represent a valuable option to reduce CV mortality and morbidity in patients in whom ACE-Is cannot be used.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The goal of the study was to assess the effects of angiotensin-converting enzyme inhibitors (ACE-Is) and angiotensin receptor blockers (ARBs) on the composite of cardiovascular (CV) death, myocardial infarction (MI), and stroke, and on all-cause death, new-onset heart failure (HF), and new-onset diabetes mellitus (DM) in high-risk patients without HF.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>ACE-Is reduce CV events in high-risk patients without HF whereas the effects of ARBs are less certain.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Twenty-six randomized trials comparing ARBs or ACE-Is versus placebo in 108,212 patients without HF were collected in a meta-analysis and analyzed for the risk of the composite outcome, all-cause death, new-onset HF, and new-onset DM.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>ACE-Is significantly reduced the risk of the composite outcome (odds ratio [OR]: 0.830 [95% confidence interval (CI): 0.744 to 0.927]; p = 0.001), MI (OR: 0.811 [95% CI: 0.748 to 0.879]; p &lt; 0.001), stroke (OR: 0.796 [95% CI: 0.682 to 0.928]; p &lt; 0.004), all-cause death (OR: 0.908 [95% CI: 0.845 to 0.975]; p = 0.008), new-onset HF (OR: 0.789 [95% CI: 0.686 to 0.908]; p = 0.001), and new-onset DM (OR: 0.851 [95% CI: 0.749 to 0.965]; p &lt; 0.012). ARBs significantly reduced the risk of the composite outcome (OR: 0.920 [95% CI: 0.869 to 0.975], p = 0.005), stroke (OR: 0.900 [95% CI: 0.830 to 0.977], p = 0.011), and new-onset DM (OR: 0.855 [95% CI: 0.798 to 0.915]; p &lt; 0.001).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>In patients at high CV risk without HF, ACE-Is and ARBs reduced the risk of the composite outcome of CV death, MI, and stroke. ACE-Is also reduced the risk of all-cause death, new-onset HF, and new-onset DM. Thus, ARBs represent a valuable option to reduce CV mortality and morbidity in patients in whom ACE-Is cannot be used.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2012.10.011" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.388000011444092" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+		<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+		<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+		<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Prognostic value of cardiac troponin in chronic stable heart failure: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/23118345" title="Prognostic value of cardiac troponin in chronic stable heart failure: a systematic review."/>
+		<id>23118345</id>
+		<updated>2012-12-03</updated>
+		<summary>Elevated baseline cardiac troponin level identified chronic stable heart failure patients who are at a higher risk of mortality and combined adverse cardiovascular outcomes. There was no statistically significant difference between high- and low-sensitivity cardiac troponins.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Cardiac troponins have become the 'gold standard' for diagnosing myocardial infarction. Elevation of cardiac troponins is noted in patients with chronic stable heart failure, but comparative prognostic value of different assay types is not established.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To perform a systematic review for investigating the prognostic value of the different types of cardiac troponins (including low and high sensitivity) in chronic stable heart failure.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Search of three databases, PubMed, The Cochrane Library and Web of Science, was made in April 2012.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>All studies which provided information on prognosis based upon the baseline cardiac troponin elevation in chronic stable heart failure were included. Limits applied were adults, humans and English language.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Two authors individually reviewed all studies and extracted data on patient and study characteristics along with primary and secondary outcomes.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>16 of the 365 papers from three databases were finally included for data analysis. Elevated baseline cardiac troponin in patients with chronic stable heart failure was associated with a high risk of mortality (HR 2.85; 95% CI 2.02 to 4.03) and combined adverse cardiovascular outcome (HR 2.38; 95% CI 1.63 to 3.49). Although high-sensitivity assay detected cardiac troponin in higher proportion of patients compared with low-sensitivity assay, there was no statistically significant difference among both groups (p=0.54).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Elevated baseline cardiac troponin level identified chronic stable heart failure patients who are at a higher risk of mortality and combined adverse cardiovascular outcomes. There was no statistically significant difference between high- and low-sensitivity cardiac troponins.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/heartjnl-2012-301779" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.115699999034405" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Heart"/>
+	</entry>
+	<entry>
+		<title>Effects of interventions on depression in heart failure: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22938627" title="Effects of interventions on depression in heart failure: a systematic review."/>
+		<id>22938627</id>
+		<summary>Evidence is strong that pharmacology and CAM may improve depression. Moderate evidence supports the use of exercise. A strong body of evidence indicates that disease management programs do not improve depression. This review does not support the development of guidelines for treatment of depression in persons with HF because evidence is insufficient and, at times, contradictory.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>We sought to conduct a systematic review to evaluate the effects of interventions on depression in adults with heart failure (HF).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Published, peer-reviewed, English-language, prospective interventional studies were identified in a search of Medline, CINAHL, PsychINFO, and the Cochrane Libraries of Systematic Reviews and Clinical Trials from 1996 through August 2011 and relevant bibliographies. Eligible studies included patients with New York Heart Association functional class II and III HF with experimental or quasiexperimental designs and preintervention and postintervention measures of depression. Ineligible studies were nonpharmacologic with a sample size &lt;50, and drug studies without a comparison group.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Twenty-three experimental and quasiexperimental studies that enrolled a total of 3564 persons with HF contributed evidence about 6 types of interventions: selective serotonin reuptake inhibitors (SSRIs), an erythropoiesis-stimulating agent, exercise, disease management programs, complementary and alternative medicine (CAM), and a multimodal intervention of cognitive behavioral therapy and exercise. Studies with SSRIs examined effects of sertraline, paroxetine, and citalopram. The CAM interventions included tai chi, progressive muscle relaxation therapy, and mindfulness-based stress reduction.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Evidence is strong that pharmacology and CAM may improve depression. Moderate evidence supports the use of exercise. A strong body of evidence indicates that disease management programs do not improve depression. This review does not support the development of guidelines for treatment of depression in persons with HF because evidence is insufficient and, at times, contradictory.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.hrtlng.2012.06.002" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.263200014829636" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Heart Lung"/>
+	</entry>
+	<entry>
+		<title>Aldosterone antagonists improve ejection fraction and functional capacity independently of functional class: a meta-analysis of randomised controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22791658" title="Aldosterone antagonists improve ejection fraction and functional capacity independently of functional class: a meta-analysis of randomised controlled trials."/>
+		<id>22791658</id>
+		<updated>2012-11-15</updated>
+		<summary>The results of this meta-analysis suggest that AA is associated with significant improvements in EF and functional class independent of baseline functional capacity. This supports and expands on the recently published EMPHASIS-HF trial and suggests that the current restriction of AA use to patients with NYHA class III-IV symptoms should be reconsidered.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Current guidelines recommend the use of aldosterone antagonists (AA) in patients with moderately severe to severe symptoms [New York Heart Association (NYHA) class III to IV] and systolic heart failure.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To determine the efficacy of AA in improving ejection fraction (EF) and functional capacity and to assess whether this effect was influenced by baseline NYHA classification.</fragment>
+			</section>
+			<section label="STUDY DESIGN" id="METHODS">
+				<fragment>Meta-analysis of randomized controlled trials. Data extraction performed independently by two researchers.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>MEDLINE and the Cochrane Library.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Prospective randomized controlled trials using AA were included if there was a clear description of the baseline NYHA classification and change in EF in patients from study initiation to completion.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Data from 1,575 patients enrolled in fourteen studies were included. Overall, there was a weighted mean improvement in EF of 3.2% and in NYHA classification of 0.13 in subjects treated with AA when compared to controls (p&lt;0.001). A mixed effects meta-regression analysis revealed that baseline NYHA was not predictive of improvement in EF (p=0.67) nor NYHA status (p=0.18).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The results of this meta-analysis suggest that AA is associated with significant improvements in EF and functional class independent of baseline functional capacity. This supports and expands on the recently published EMPHASIS-HF trial and suggests that the current restriction of AA use to patients with NYHA class III-IV symptoms should be reconsidered.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/heartjnl-2012-302178" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.536400020122528" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+		<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+		<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+		<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+		<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+		<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+		<source type="Heart"/>
+	</entry>
+	<entry>
+		<title>Effects of fish oil supplementation on cardiac function in chronic heart failure: a meta-analysis of randomised controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22760864" title="Effects of fish oil supplementation on cardiac function in chronic heart failure: a meta-analysis of randomised controlled trials."/>
+		<id>22760864</id>
+		<updated>2012-10-31</updated>
+		<summary>Improvement in cardiac function, remodelling and functional capacity may be important mechanisms underlying the potential therapeutic role of fish oil for patients with CHF. These effects might be more remarkable in patients with non-ischaemic heart failure.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>The effects of fish oil on cardiac function, ventricular remodelling and functional capacity in patients with chronic heart failure (CHF) remain controversial.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>The aim of this meta-analysis was to evaluate effects of fish oil on cardiac function and related parameters in CHF patients.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Medline, Embase, the Cochrane Library and references cited in related reviews and studies.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Randomised controlled trials of fish oil supplementation on cardiac function in patients with CHF were identified.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Two investigators read all papers and extracted all relevant information. A fixed effect or, in the presence of heterogeneity, a random effect model, was used to estimate the combined effects.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>7 trials with 825 participants were included. Meta-analysis results showed that left ventricular ejection fraction was significantly increased (weighted mean difference (WMD) = 2.25%, 95% CI 0.66 to 3.83, p = 0.005) and left ventricular end-systolic volume was significantly decreased (WMD = 7.85 ml, 95% CI -15.57 to -0.12, p = 0.05) in the fish oil group compared with the placebo group, although left ventricular end-diastolic volume was not significantly affected. Meta-regression and subgroup analysis indicated that the improvement in left ventricular systolic function was more remarkable in patients with nonischaemic heart failure. Fish oil supplementation also improved the New York Heart Association functional classification and peak oxygen consumption in patients with non-ischaemic heart failure.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Improvement in cardiac function, remodelling and functional capacity may be important mechanisms underlying the potential therapeutic role of fish oil for patients with CHF. These effects might be more remarkable in patients with non-ischaemic heart failure.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/heartjnl-2012-302119" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.615599989891052" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0016157" scheme="gov.nih.nlm.semanticType.phsu" label="Fish Oils"/>
+		<category term="C0016157" scheme="gov.nih.nlm.semanticType.phsu" label="Fish Oils"/>
+		<source type="Heart"/>
+	</entry>
+	<entry>
+		<title>Additional use of trimetazidine in patients with chronic heart failure: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22381427" title="Additional use of trimetazidine in patients with chronic heart failure: a meta-analysis."/>
+		<id>22381427</id>
+		<updated>2012-03-02</updated>
+		<summary>Additional use of TMZ in CHF patients may decrease hospitalization for cardiac causes, improve clinical symptoms and cardiac function, and simultaneously ameliorate left ventricular remodeling.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The aim of this meta-analysis was to evaluate the effects of additional trimetazidine (TMZ) treatment on patients with chronic heart failure (CHF).</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Conflicting results currently exist on the clinical use of TMZ in CHF patients.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>PubMed, MEDLINE, EMBASE, and EBM Reviews databases were searched through November 2010 for randomized controlled trials (RCTs) assessing TMZ treatment in CHF patients. Data concerning the study design, patient characteristics, and outcomes were extracted. Risk ratio (RR) and weighted mean differences (WMD) were calculated using fixed or random effects models.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Sixteen RCTs involving 884 CHF patients were included. Hospitalization for cardiac causes (RR: 0.43, p = 0.03), but not all-cause mortality (RR: 0.47, p = 0.27), was reduced by TMZ treatment. Moreover, TMZ therapy was associated not only with the increase of left ventricular ejection fraction (WMD: 6.46%, p &lt; 0.0001) and total exercise time (WMD: 63.75 seconds, p &lt; 0.0001), but also with the decrease of New York Heart Association functional class (WMD: -0.57, p = 0.0003), left ventricular end-systolic diameter (WMD: -6.67 mm, p &lt; 0.0001), left ventricular end-diastolic diameter (WMD: -6.05 mm, p &lt; 0.0001), and B-type natriuretic peptide (WMD: -203.40 pg/ml, p = 0.0002).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Additional use of TMZ in CHF patients may decrease hospitalization for cardiac causes, improve clinical symptoms and cardiac function, and simultaneously ameliorate left ventricular remodeling.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2011.11.027" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.482499986886978" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Role of AV nodal ablation in cardiac resynchronization in patients with coexistent atrial fibrillation and heart failure a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22340263" title="Role of AV nodal ablation in cardiac resynchronization in patients with coexistent atrial fibrillation and heart failure a systematic review."/>
+		<id>22340263</id>
+		<updated>2012-02-20</updated>
+		<summary>AV nodal ablation was associated with a substantial reduction in all-cause mortality and cardiovascular mortality and with improvements in New York Heart Association functional class compared with medical therapy in CRT-AF patients. Randomized controlled trials are warranted to confirm the efficacy and safety of AV nodal ablation in this patient population.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The aim of this study was to systematically review the medical literature to evaluate the impact of AV nodal ablation in patients with heart failure and coexistent atrial fibrillation (AF) receiving cardiac resynchronization therapy (CRT).</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>CRT has a substantial evidence base in patients in sinus rhythm with significant systolic dysfunction, symptomatic heart failure, and prolonged QRS duration. The role of CRT is less well established in AF patients with coexistent heart failure. AV nodal ablation has recently been suggested to improve outcomes in this group.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Electronic databases and reference lists through September 15, 2010, were searched. Two reviewers independently evaluated citation titles, abstracts, and articles. Studies reporting the outcomes after AV nodal ablation in patients with AF undergoing CRT for symptomatic heart failure and left ventricular dyssynchrony were selected. Data were extracted from 6 studies, including 768 CRT-AF patients, composed of 339 patients who underwent AV nodal ablation and 429 treated with medical therapy aimed at rate control alone.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>AV nodal ablation in CRT-AF patients was associated with significant reductions in all-cause mortality (risk ratio: 0.42 [95% confidence interval: 0.26 to 0.68]), cardiovascular mortality (risk ratio: 0.44 [95% confidence interval: 0.24 to 0.81]), and improvement in mean New York Heart Association functional class (risk ratio: -0.52 [95% confidence interval: -0.87 to -0.17]).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>AV nodal ablation was associated with a substantial reduction in all-cause mortality and cardiovascular mortality and with improvements in New York Heart Association functional class compared with medical therapy in CRT-AF patients. Randomized controlled trials are warranted to confirm the efficacy and safety of AV nodal ablation in this patient population.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2011.10.891" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="2" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.210500001907349" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Effectiveness of heart failure management programmes with nurse-led discharge planning in reducing re-admissions: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22196054" title="Effectiveness of heart failure management programmes with nurse-led discharge planning in reducing re-admissions: a systematic review and meta-analysis."/>
+		<id>22196054</id>
+		<updated>2012-04-27</updated>
+		<summary>The results of the current meta-analysis highlight the potential of HF-MPs with nurse-driven pre-discharge interventions to reduce hospital re-admissions. Essential characteristics or components of a successful HF-MP are still to be determined; thus more studies are required to solve this issue.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Heart failure (HF) is a clinical condition with major socioeconomic burden. Scientists are trying to find effective solutions to eliminate the effects of the disease and the current innovations in research address the introduction of HF management programmes (HF-MPs).</fragment>
+			</section>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>A meta-analysis was undertaken to estimate the effect of HF-MP with a nurse-driven pre-discharge phase on the outcomes of HF and all-cause re-admission.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>A systematic search of PubMed, Cumulative Index to Nursing and Allied Health Literature (CINAHL) and Cochrane Library (reviews and clinical trials) was performed to locate randomised controlled trials (RCTs), published in English language, which implemented any HF-MP with discharge planning carried out by a nurse. Identified articles were further screened for additional studies.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Two reviewers independently screened relevant abstracts or titles using a standardised predefined check list. Pilot studies, studies additionally assessing other conditions and studies that evolved technology utilities or included medication management beyond optimisation of therapy, were excluded.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Selected articles were thoroughly screened and data of interest (characteristics and outcomes) were obtained. Quality assessment was done by two reviewers separately.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>Nineteen RCTs were selected for the meta-analysis. The overall pooled effect (relative risk, RR) of the intervention group compared with the control group was estimated by using a random effects analysis (95% confidence interval (CI)) for the outcomes of HF-related re-admission and all-cause re-admission. The overall RR of HF re-admissions was 0.68, 95% CI (0.53, 0.86), p&lt;0.05 and of all-cause re-admission was 0.85, 95% CI (0.76, 0.94), p&lt;0.05 favouring the intervention. Metaregression analysis was performed while trying to explain the observed heterogeneity but none of the factors (environment, duration of follow-up, origin and complexity) were significantly related with the RR. No significant publication bias was observed regarding both HF and all-cause re-admission.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The results of the current meta-analysis highlight the potential of HF-MPs with nurse-driven pre-discharge interventions to reduce hospital re-admissions. Essential characteristics or components of a successful HF-MP are still to be determined; thus more studies are required to solve this issue.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.ijnurstu.2011.11.002" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.483700007200241" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Int J Nurs Stud"/>
+	</entry>
+	<entry>
+		<title>Effects of beta-adrenergic antagonists in patients with chronic kidney disease: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21884954" title="Effects of beta-adrenergic antagonists in patients with chronic kidney disease: a systematic review and meta-analysis."/>
+		<id>21884954</id>
+		<updated>2011-09-02</updated>
+		<summary>Treatment with beta-blockers improved all-cause mortality in patients with CKD and chronic systolic heart failure. There is insufficient evidence to conclude whether people with CKD who are not known to have heart failure derive benefit from beta-blockers.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The aim of this systematic review was to study the benefits and risks of beta-adrenergic antagonists (beta-blockers) in patients with chronic kidney disease (CKD).</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>There is an excess burden of cardiovascular disease and death in people with CKD. Despite their potential benefits, the effects of beta-blockers in this population are uncertain.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>CENTRAL (Cochrane Central Register of Controlled Trials), Medline (Medical Literature Analysis and Retrieval System Online), and Embase (Excerpta Medical Database) were searched for randomized controlled trials with at least 3 months of follow-up in patients with CKD stages 3 to 5 that reported mortality outcomes. Summary estimates of effect were obtained using a random effects model.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eight trials met criteria for review: 6 placebo-controlled trials involving 5,972 participants with chronic systolic heart failure and 2 angiotensin-converting enzyme inhibitor-comparator trials involving 977 participants not known to have heart failure. In CKD patients with heart failure, compared with placebo, beta-blocker treatment reduced the risk of all-cause (risk ratio [RR]: 0.72, 95% confidence interval [CI]: 0.64 to 0.80) and cardiovascular mortality (RR: 0.66, 95% CI: 0.49 to 0.89), but increased the risk of bradycardia (RR: 4.92, 95% CI: 3.20 to 7.55) and hypotension (RR: 5.08, 95% CI: 3.48 to 7.41). Quantitative meta-analysis was not performed for the non-heart failure studies due to substantial clinical diversity or lack of informative data.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Treatment with beta-blockers improved all-cause mortality in patients with CKD and chronic systolic heart failure. There is insufficient evidence to conclude whether people with CKD who are not known to have heart failure derive benefit from beta-blockers.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2011.04.041" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.483700007200241" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0001645" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic beta-Antagonists"/>
+		<category term="C0001645" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic beta-Antagonists"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Cardiac resynchronization therapy in patients with minimal heart failure: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21851882" title="Cardiac resynchronization therapy in patients with minimal heart failure: a systematic review and meta-analysis."/>
+		<id>21851882</id>
+		<updated>2011-08-19</updated>
+		<summary>Cardiac resynchronization therapy decreases all-cause mortality, reduces HF hospitalizations, and improves LVEF in NYHA functional class I/II HF patients. Although there was a reduction in HF hospitalization with CRT for asymptomatic (NYHA functional class I) patients, risks versus benefits have to be carefully considered in this subgroup.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The purpose of this study was to perform a systematic review and meta-analysis of prospective randomized clinical trials of cardiac resynchronization therapy (CRT) versus implantable cardioverter-defibrillator (ICD) in patients with reduced ejection fraction (EF), prolonged QRS interval, and New York Heart Association (NYHA) functional class I to II heart failure (HF).</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>In patients with advanced HF, CRT improves left ventricular (LV) function and reduces mortality and hospitalizations. Recent data suggest that patients with milder HF also benefit from CRT.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A meta-analysis of 5 clinical trials including 4,317 patients with NYHA functional class I/II HF was performed.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Average age of patients was 65 years, and 80% were male. Frequency of all-cause mortality for CRT versus ICD was 8% versus 11.5% (risk ratio [RR]: 0.81; 95% confidence interval [CI]: 0.65 to 0.99, p = 0.04); for HF hospitalization, it was 11.6% versus 18.2% (RR: 0.68; 95% CI: 0.59 to 0.79, p &lt; 0.001). Patients assigned to CRT had a significantly greater improvement in LVEF (+5.9% vs. +2.2%, p &lt; 0.001) and LV volume than ICD patients. Among mildly symptomatic (NYHA functional class II) patients, CRT was associated with significantly lower mortality and HF hospitalization (RR: 0.73; 95% CI: 0.64 to 0.83), p &lt; 0.001). In asymptomatic (NYHA functional class I) patients, HF hospitalization risk was lower (RR: 0.57; 95% CI: 0.34 to 0.97, p = 0.04) with CRT; however, there was no difference in mortality. Twelve asymptomatic HF patients needed to be treated with CRT to prevent 1 hospitalization.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Cardiac resynchronization therapy decreases all-cause mortality, reduces HF hospitalizations, and improves LVEF in NYHA functional class I/II HF patients. Although there was a reduction in HF hospitalization with CRT for asymptomatic (NYHA functional class I) patients, risks versus benefits have to be carefully considered in this subgroup.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2011.05.022" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.393299996852875" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Impact of QRS duration on clinical event reduction with cardiac resynchronization therapy: meta-analysis of randomized controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21670335" title="Impact of QRS duration on clinical event reduction with cardiac resynchronization therapy: meta-analysis of randomized controlled trials."/>
+		<id>21670335</id>
+		<updated>2011-09-13</updated>
+		<summary>Cardiac resynchronization therapy was effective in reducing adverse clinical events in patients with heart failure and a baseline QRS interval of 150 milliseconds or greater, but CRT did not reduce events in patients with a QRS of less than 150 milliseconds. These findings have implications for the selection of patients for CRT.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Cardiac resynchronization therapy (CRT) is effective in reducing clinical events in patients with heart failure and prolonged QRS interval. Studies using surrogate measures and subgroup analysis of large trials suggest that only patients with severely prolonged QRS benefit from CRT. Our objective was to determine whether the effect of CRT on adverse clinical events (eg, death, hospitalizations) is different in patients with moderately (ie, 120 to 149 milliseconds) [corrected] vs severely (ie, ≥150 milliseconds) prolonged QRS duration.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Searches of MEDLINE, SCOPUS, and Cochrane databases were conducted for randomized controlled CRT trials. Trials reporting clinical events according to different QRS ranges were identified. Five randomized trials fulfilling the inclusion criteria (total patients, n = 5813) were included in the meta-analysis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>In patients with severely prolonged QRS, there was a reduction in composite clinical events with CRT (risk ratio, 0.60; 95% confidence interval [CI], 0.53-0.67) (P &lt; .001). In contrast, there was no benefit of CRT in patients with moderately prolonged QRS (RR, 0.95; 95% CI, 0.82-1.10) (P = .49), resulting in a significantly different impact of CRT in the 2 QRS groups (P &lt; .001). There was a significant relationship between baseline QRS duration and risk ratio (P &lt; .001) with benefit of CRT appearing at a QRS of approximately 150 milliseconds and above. The differential response of the 2 QRS groups was evident for all New York Heart Association classes.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Cardiac resynchronization therapy was effective in reducing adverse clinical events in patients with heart failure and a baseline QRS interval of 150 milliseconds or greater, but CRT did not reduce events in patients with a QRS of less than 150 milliseconds. These findings have implications for the selection of patients for CRT.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinternmed.2011.247" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="5" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.466199994087219" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>Effects of treatment on exercise tolerance, cardiac function, and mortality in heart failure with preserved ejection fraction. A meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21492765" title="Effects of treatment on exercise tolerance, cardiac function, and mortality in heart failure with preserved ejection fraction. A meta-analysis."/>
+		<id>21492765</id>
+		<updated>2011-04-15</updated>
+		<summary>Pharmacotherapy of heart failure with preserved ejection fraction demonstrates a quantifiable improvement in exercise tolerance but not mortality.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>We sought to determine whether pharmacologic interventions changed exercise capacity, diastolic function, and mortality in a meta-analysis of trials in heart failure with preserved ejection fraction.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Treatment strategies for heart failure with preserved ejection fraction remain unproven despite several large-scale trials.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Trials were included in the systematic review where clear comparisons between trial drug and diuretic or placebo were available. Exercise tolerance was assessed by treadmill time, and changes in diastolic function were quantified by transmitral flow (E/A ratio). The primary outcome was all-cause mortality. Weighted mean differences (MDs) and relative risks (RRs), along with their corresponding 95% confidence intervals (CIs), were computed using random-effects models for continuous and dichotomous variables, respectively. The impact of potential covariates was assessed by meta-regression.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Data from 53,878 patients enrolled in 30 published reports were collated, including 18 randomized controlled trials (n = 11,253) and 12 observational studies (n = 42,625). In the randomized controlled trials, exercise tolerance was improved by combined therapy (n = 183; weighted MD = 51.5; 95% CI: 27.3 to 75.7; p &lt; 0.001), whereas E/A ratio was not (n = 472; weighted MD = -0.01, 95% CI: -0.02 to 0.02; p = 0.54) even after accounting for baseline E/A (p = 0.87). Over a mean follow-up of 18.6 months, all-cause mortality was not improved by therapy in randomized controlled trials (RR: 0.99, 95% CI: 0.92 to 1.06; p = 0.70), despite accounting for baseline ejection fraction (p = 0.72). In observational reports, there was a reduction in all-cause mortality with therapy in the unadjusted analyses (RR: 0.80, 95% CI: 0.66 to 0.97; p = 0.27), but not after adjustment for clinical and demographic data (RR: 0.93, 95% CI: 0.84 to 1.02; p = 0.10).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Pharmacotherapy of heart failure with preserved ejection fraction demonstrates a quantifiable improvement in exercise tolerance but not mortality.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2010.10.057" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.518400013446808" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0304229" scheme="gov.nih.nlm.semanticType.phsu" label="Experimental drug"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Quantifying the added value of BNP in suspected heart failure in general practice: an individual patient data meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21478382" title="Quantifying the added value of BNP in suspected heart failure in general practice: an individual patient data meta-analysis."/>
+		<id>21478382</id>
+		<updated>2011-05-18</updated>
+		<summary>BNP has considerable diagnostic value in addition to signs and symptoms in patients suspected of heart failure in primary care. However, using BNP alone with the currently recommended cut-off levels is not sufficient to make a reliable diagnosis of heart failure.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Diagnosing early stages of heart failure with mild symptoms is difficult. B-type natriuretic peptide (BNP) has promising biochemical test characteristics, but its diagnostic yield on top of readily available diagnostic knowledge has not been sufficiently quantified in early stages of heart failure.</fragment>
+			</section>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To quantify the added diagnostic value of BNP for the diagnosis of heart failure in a population relevant to GPs and validate the findings in an independent primary care patient population.</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>Individual patient data meta-analysis followed by external validation. The additional diagnostic yield of BNP above standard clinical information was compared with ECG and chest x-ray results.</fragment>
+			</section>
+			<section label="PATIENTS AND METHODS" id="METHODS">
+				<fragment>Derivation was performed on two existing datasets from Hillingdon (n=127) and Rotterdam (n=149) while the UK Natriuretic Peptide Study (n=306) served as validation dataset. Included were patients with suspected heart failure referred to a rapid-access diagnostic outpatient clinic. Case definition was according to the ESC guideline. Logistic regression was used to assess discrimination (with the c-statistic) and calibration.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Of the 276 patients in the derivation set, 30.8% had heart failure. The clinical model (encompassing age, gender, known coronary artery disease, diabetes, orthopnoea, elevated jugular venous pressure, crackles, pitting oedema and S3 gallop) had a c-statistic of 0.79. Adding, respectively, chest x-ray results, ECG results or BNP to the clinical model increased the c-statistic to 0.84, 0.85 and 0.92. Neither ECG nor chest x-ray added significantly to the 'clinical plus BNP' model. All models had adequate calibration. The 'clinical plus BNP' diagnostic model performed well in an independent cohort with comparable inclusion criteria (c-statistic=0.91 and adequate calibration). Using separate cut-off values for 'ruling in' (typically implying referral for echocardiography) and for 'ruling out' heart failure--creating a grey zone--resulted in insufficient proportions of patients with a correct diagnosis.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>BNP has considerable diagnostic value in addition to signs and symptoms in patients suspected of heart failure in primary care. However, using BNP alone with the currently recommended cut-off levels is not sufficient to make a reliable diagnosis of heart failure.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/hrt.2010.220426" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.646000027656555" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0054015" scheme="gov.nih.nlm.semanticType.phsu" label="Brain natriuretic peptide"/>
+		<source type="Heart"/>
+	</entry>
+	<entry>
+		<title>Antihypertensive treatment and secondary prevention of cardiovascular disease events among persons without hypertension: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21364140" title="Antihypertensive treatment and secondary prevention of cardiovascular disease events among persons without hypertension: a meta-analysis."/>
+		<id>21364140</id>
+		<updated>2011-03-02</updated>
+		<summary>Among patients with clinical history of CVD but without hypertension, antihypertensive treatment was associated with decreased risk of stroke, CHF, composite CVD events, and all-cause mortality. Additional randomized trial data are necessary to assess these outcomes in patients without CVD clinical recommendations.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Cardiovascular disease (CVD) risk increases beginning at systolic blood pressure levels of 115 mm Hg. Use of antihypertensive medications among patients with a history of CVD or diabetes and without hypertension has been debated.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To evaluate the effect of antihypertensive treatment on secondary prevention of CVD events and all-cause mortality among persons without clinically defined hypertension.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Meta-analysis with systematic search of MEDLINE (1950 to week 3 of January 2011), EMBASE, and the Cochrane Collaboration Central Register of Controlled Clinical Trials and manual examination of references in selected articles and studies.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>From 874 potentially relevant publications, 25 trials that fulfilled the predetermined inclusion and exclusion criteria were included in the meta-analysis.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Information on participant characteristics, trial design and duration, treatment drug, dose, control, and clinical events were extracted using a standardized protocol. Outcomes included stroke, myocardial infarction (MI), congestive heart failure (CHF), composite CVD outcomes, CVD mortality, and all-cause mortality.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Compared with controls, participants receiving antihypertensive medications had a pooled relative risk of 0.77 (95% confidence interval [CI], 0.61 to 0.98) for stroke, 0.80 (95% CI, 0.69 to 0.93) for MI, 0.71 (95% CI, 0.65 to 0.77) for CHF, 0.85 (95% CI, 0.80 to 0.90) for composite CVD events, 0.83 (95% CI, 0.69 to 0.99) for CVD mortality, and 0.87 (95% CI, 0.80 to 0.95) for all-cause mortality from random-effects models. The corresponding absolute risk reductions per 1000 persons were -7.7 (95% CI, -15.2 to -0.3) for stroke, -13.3 (95% CI, -28.4 to 1.7) for MI, -43.6 (95% CI, -65.2 to -22.0) for CHF events, -27.1 (95% CI, -40.3 to -13.9) for composite CVD events, -15.4 (95% CI, -32.5 to 1.7) for CVD mortality, and -13.7 (95% CI, -24.6 to -2.8) for all-cause mortality. Results did not differ according to trial characteristics or subgroups defined by clinical history.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Among patients with clinical history of CVD but without hypertension, antihypertensive treatment was associated with decreased risk of stroke, CHF, composite CVD events, and all-cause mortality. Additional randomized trial data are necessary to assess these outcomes in patients without CVD clinical recommendations.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.2011.250" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="4" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.450700014829636" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>Comparative clinical- and cost-effectiveness of candesartan and losartan in the management of hypertension and heart failure: a systematic review, meta- and cost-utility analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21284790" title="Comparative clinical- and cost-effectiveness of candesartan and losartan in the management of hypertension and heart failure: a systematic review, meta- and cost-utility analysis."/>
+		<id>21284790</id>
+		<updated>2011-02-14</updated>
+		<summary/>
+		<content>
+			<section>
+				<fragment>The UK National Health Service (NHS) currently spends in excess of £250 million per annum on angiotensin II receptor blockers (ARBs) for the treatment of hypertension and heart failure; with candesartan currently dominating the market. With the recent introduction of generic losartan, we set out to directly compare the branded market leader to its now cheaper alternative. The primary objectives were to compare the blood pressure (BP) lowering efficacy and cardiovascular outcomes of candesartan and losartan in the treatment of essential hypertension and chronic heart failure, respectively. The secondary objective was to model their comparative incremental cost-effectiveness in a UK NHS setting. The Cochrane Central Register of Controlled Trials (Cochrane Library 2009, issue 2), which contains the Hypertension and Heart Group's specialist register, Medline (1950-February 2010), and Embase (1980-February 2010) were included in the search strategy. Selection criteria were randomised studies of candesartan versus losartan in adults (&gt; 18 years). The main outcome measures were as follows: Hypertension: mean change from baseline in trough (24 h postdose) systolic and diastolic BP. Heart failure: composite of cardiovascular death and hospital admission for management of heart failure. Two reviewers applied inclusion criteria, assessed trial quality, and extracted data. Eight (three of which met inclusion criteria) and zero trials compared candesartan directly with losartan in the treatment of hypertension and heart failure, respectively. A between-treatment difference of -1.96 mmHg [95% confidence interval (CI) -2.40 to -1.51] for trough diastolic BP and -3.00 mmHg (95% CI -3.79 to -2.22) for trough systolic BP in favour of candesartan was observed. Based on this differential, a 10-year Markov model estimates the cost per quality-adjusted life-year gained to exceed £40,000 for using candesartan in place of generic losartan. Candesartan reduces BP to a slightly greater extent when compared with losartan, however, such difference is unlikely to be cost-effective based on current acquisition costs, perceived NHS affordability thresholds and use of combination regimens. We could find no robust evidence supporting the superiority of candesartan over losartan in the treatment of heart failure. We therefore recommend using generic losartan as the ARB of choice which could save the UK NHS approximately £200 million per annum in drug costs.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1742-1241.2011.02633.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="3" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.271699994802475" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0126174" scheme="gov.nih.nlm.semanticType.orch" label="Losartan"/>
+		<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+		<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+		<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+		<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+		<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+		<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+		<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.orch" label="candesartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.orch" label="candesartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.orch" label="candesartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.orch" label="candesartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.orch" label="candesartan"/>
+		<category term="C0126174" scheme="gov.nih.nlm.semanticType.orch" label="Losartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+		<category term="C0126174" scheme="gov.nih.nlm.semanticType.phsu" label="Losartan"/>
+		<category term="C0717550" scheme="gov.nih.nlm.semanticType.phsu" label="candesartan"/>
+		<source type="Int. J. Clin. Pract."/>
+	</entry>
+	<entry>
+		<title>Trimetazidine: a meta-analysis of randomised controlled trials in heart failure.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21134903" title="Trimetazidine: a meta-analysis of randomised controlled trials in heart failure."/>
+		<id>21134903</id>
+		<updated>2011-01-24</updated>
+		<summary>Trimetazidine might be an effective strategy for treating HF. More studies, especially larger multicentre RCT, are warranted to clarify the effect of trimetazidine on HF.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To explore whether trimetazidine could improve symptoms, cardiac functions and clinical outcomes in patients with heart failure (HF).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic literature search was conducted to identify randomised controlled trials (RCT) of trimetazidine for HF between 1966 and May 2010 in Pubmed, the Cochrane Central Registry of Clinical Trials and EMBASE. Reports of trials were sought that compared trimetazidine with placebo control for chronic HF in adults, with outcomes including all-cause mortality, hospitalisation, cardiovascular events, changes in cardiac function parameters and exercise capacity.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>17 trials with data for 955 patients were identified by the literature search. Trimetazidine therapy was associated with a significant improvement in left ventricular ejection fraction in patients with both ischaemic (weighted mean difference (WMD) with placebo 7.37%; 95% CI 6.05 to 8.70; p&lt;0.01) and non-ischaemic HF (WMD 8.72%; 95% CI 5.51 to 11.92; p&lt;0.01). With trimetazidine therapy, left ventricular end-systolic volume was significantly reduced (WMD 10.37 ml; 95% CI 15.46 to 5.29; p&lt;0.01) and New York Heart Association classification was improved (WMD 0.41; 95% CI 0.51 to 0.31; p&lt;0.01) as was exercise duration (WMD, 30.26 s; 95% CI 8.77 to 51.75; p&lt;0.01). More importantly, trimetazidine had a significant protective effect for all-cause mortality (RR 0.29; 95% CI 0.17 to 0.49; p&lt;0.00001) and cardiovascular events and hospitalisation (RR 0.42; 95% CI 0.30 to 0.58; p&lt;0.00001).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Trimetazidine might be an effective strategy for treating HF. More studies, especially larger multicentre RCT, are warranted to clarify the effect of trimetazidine on HF.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/hrt.2010.208751" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.512600004673004" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.phsu" label="Trimetazidine"/>
+		<category term="C0041037" scheme="gov.nih.nlm.semanticType.orch" label="Trimetazidine"/>
+		<source type="Heart"/>
+	</entry>
+	<entry>
+		<title>Antihypertensive treatment and development of heart failure in hypertension: a Bayesian network meta-analysis of studies in patients with hypertension and high cardiovascular risk.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21059964" title="Antihypertensive treatment and development of heart failure in hypertension: a Bayesian network meta-analysis of studies in patients with hypertension and high cardiovascular risk."/>
+		<id>21059964</id>
+		<updated>2011-03-15</updated>
+		<summary>Diuretics represented the most effective class of drugs in preventing heart failure, followed by renin-angiotensin system inhibitors. Thus, our findings support the use of these agents as first-line antihypertensive strategy to prevent heart failure in patients with hypertension at risk to develop heart failure. Calcium channel blockers and β-blockers were found to be less effective in heart failure prevention.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>It is still debated whether there are differences among the various antihypertensive strategies in heart failure prevention. We performed a network meta-analysis of recent trials in hypertension aimed at investigating this issue.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Randomized, controlled trials published from 1997 through 2009 in peer-reviewed journals indexed in the PubMed and EMBASE databases were selected. Selected trials included patients with hypertension or a high-risk population with a predominance of patients with hypertension.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>A total of 223,313 patients were enrolled in the selected studies. Network meta-analysis showed that diuretics (odds ratio [OR], 0.59; 95% credibility interval [CrI], 0.47-0.73), angiotensin-converting enzyme (ACE) inhibitors (OR, 0.71; 95% CrI, 0.59-0.85) and angiotensin II receptor blockers (ARBs) (OR, 0.76; 95% CrI, 0.62-0.90) represented the most efficient classes of drugs to reduce the heart failure onset compared with placebo. On the one hand, a diuretic-based therapy represented the best treatment because it was significantly more efficient than that based on ACE inhibitors (OR, 0.83; 95% CrI, 0.69-0.99) and ARBs (OR, 0.78; 95% CrI, 0.63-0.97). On the other hand, diuretics (OR, 0.71; 95% CrI, 0.60-0.86), ARBs (OR, 0.91; 95% CrI, 0.78-1.07), and ACE inhibitors (OR, 0.86; 95% CrI, 0.75-1.00) were superior to calcium channel blockers, which were among the least effective first-line agents in heart failure prevention, together with β-blockers and α-blockers.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Diuretics represented the most effective class of drugs in preventing heart failure, followed by renin-angiotensin system inhibitors. Thus, our findings support the use of these agents as first-line antihypertensive strategy to prevent heart failure in patients with hypertension at risk to develop heart failure. Calcium channel blockers and β-blockers were found to be less effective in heart failure prevention.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinternmed.2010.427" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="3" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.453599989414215" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+		<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+		<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+		<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+		<category term="C0001645" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic beta-Antagonists"/>
+		<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+		<category term="C0012798" scheme="gov.nih.nlm.semanticType.phsu" label="Diuretics"/>
+		<category term="C0006684" scheme="gov.nih.nlm.semanticType.phsu" label="Calcium Channel Blockers"/>
+		<category term="C0006684" scheme="gov.nih.nlm.semanticType.phsu" label="Calcium Channel Blockers"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>Diagnostic value of N-terminal pro-brain natriuretic peptide for pleural effusion due to heart failure: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20511623" title="Diagnostic value of N-terminal pro-brain natriuretic peptide for pleural effusion due to heart failure: a meta-analysis."/>
+		<id>20511623</id>
+		<updated>2010-07-19</updated>
+		<summary>NT-proBNP levels in pleural fluid showed a high diagnostic accuracy and may help accurately differentiate cardiac from non-cardiac conditions in patients presenting with pleural effusion.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>N-terminal pro-brain natriuretic peptide (NT-proBNP) is a biomarker useful in diagnosis of pleural effusion due to heart failure. Thus far, its overall diagnostic accuracy has not been systematically reviewed. The aim of the present meta-analysis was to establish the overall diagnostic accuracy of the measurement of pleural NT-proBNP for identifying pleural effusion due to heart failure.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>After a systematic review of English-language studies, sensitivity, specificity, and other measures of accuracy of NT-proBNP concentrations in pleural fluid in the diagnosis of pleural effusion resulting from heart failure were pooled using fixed-effects models. Summary receiver operating characteristic curves were used to summarise overall test performance.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eight publications met the inclusion criteria. The summary estimates for pleural NT-proBNP in the diagnosis of pleural effusion attributable to heart failure were: sensitivity 0.95 (95% CI 0.92 to 0.97), specificity 0.94 (0.92 to 0.96), positive likelihood ratio 14.12 (10.23 to 19.51), negative likelihood ratio 0.06 (0.04 to 0.09) and diagnostic OR 213.87 (122.50 to 373.40).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>NT-proBNP levels in pleural fluid showed a high diagnostic accuracy and may help accurately differentiate cardiac from non-cardiac conditions in patients presenting with pleural effusion.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/hrt.2009.188474" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.468699991703033" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Heart"/>
+	</entry>
+	<entry>
+		<title>A systematic review and economic evaluation of the clinical effectiveness and cost-effectiveness of aldosterone antagonists for postmyocardial infarction heart failure.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20492762" title="A systematic review and economic evaluation of the clinical effectiveness and cost-effectiveness of aldosterone antagonists for postmyocardial infarction heart failure."/>
+		<id>20492762</id>
+		<updated>2010-05-24</updated>
+		<summary>Exchangeability between trials was poor and there was a lack of robust data in RCTs.Only two good-quality trials of aldosterone inhibitors in the postMI HF population were found, but lack of exchangeability with respect to study populations, meant that a comparison between these drugs could not be done. It consistently emerged that, compared with usual care, use of an aldosterone antagonist appears to be a highly cost-effective strategy for the management of postMI HF patients in the NHS. An adequately powered, well-conducted RCT that directly compares spironolactone and eplerenone is required to provide more robust evidence on the optimal management of postMI HF patients.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Two aldosterone inhibitors are currently licensed for heart failure (HF) in the UK: spironolactone and eplerenone. Recent clinical guidelines recommend eplerenone after an acute myocardial infarction (MI) for patients with symptoms and/or signs of HF and left ventricular dysfunction.</fragment>
+			</section>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The primary objective was to evaluate relative clinical effectiveness and cost-effectiveness of spironolactone and eplerenone in patients with postMI HF and explore the possibility of conducting an indirect comparison of spironolactone and eplerenone. A second objective was to undertake value-of-information (VOI) analyses to determine the need for further research to identify research questions critical to decision-making and to help inform the design of future studies.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Relevant databases including MEDLINE, EMBASE and CENTRAL were searched between September and December 2008. Randomised controlled trials (RCTs) of spironolactone, eplerenone, canrenone or potassium canrenoate were included if conducted in a postMI HF population. Trials of general HF patients with a subgroup of postMI HF patients were considered if they had at least 100 ischaemic participants per arm and the authors provided subgroup data when contacted. Adverse events summary data were sought from recognised reference sources and RCTs or observational studies in any population that recruited more than 100 participants.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>The comparative clinical effectiveness and cost-effectiveness of spironolactone and eplerenone was derived using Bayesian meta-regression drawing on a wider 'network' of aldosterone trials to those considered in the main clinical effectiveness review. An alternative scenario was also considered assuming a 'class effect' for the aldosterone antagonists in terms of major clinical events, but allowing for potential differences in side effect profiles. Cost-effectiveness was assessed using incremental cost-effectiveness ratios (ICERs) where appropriate. Uncertainty in cost-effectiveness results was also presented and used to inform future research priorities using VOI analyses based on expected value of perfect information (EVPI). A probabilistic decision analytic model was developed to estimate cost-effectiveness of spironolactone, eplerenone and standard care for management of postMI HF, provide estimates relevant to the NHS and explore alternative approaches to an indirect comparison between spironolactone and eplerenone. The model incorporated a lifetime horizon to estimate outcomes in terms of quality-adjusted life-years (QALYs) and costs from the NHS persepctive. In the base-case analysis, 2-year treatment duration was assumed, consistent with the follow-up in the main RCTs. Other scenarios were explored to examine the robustness of alternative assumptions including impact of different treatment durations.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Searches yielded five RCTs: two spironolactone trials of poor methodological quality and three trials of which only one (of eplerenone) specifically examined postMI HF (Eplerenone Post-Acute Myocardial Infarction Heart Failure Efficacy and Survival Study, EPHESUS). One trial of spironolactone (Randomised Aldactone Evaluation Study, RALES) and one of canrenone (Antiremodelling Effect of Aldosterone receptors blockade with canrenone In mild Chronic Heart Failure, AREA IN-CHF) comprised general HF, but data were available for an ischaemic subgroup. Structural similarity of spironolactone and eplerenone suggests that they may be interchangeable, but formal indirect comparison between the three trials was severely limited by trial differences. Relative safety data were limited from RCTs and observational sources. Hyperkalaemia rates varied, but were generally higher than for placebo; data were insufficient to assess discontinuation because of hyperkalaemia.Gynaecomastia rates were higher with spironolactone. Adverse event data were sparse. Systematic review of economic evidence identified three main published studies but none used a UK perspective or attempted to compare cost-effectiveness in postMI HF. The new decision model indicated that eplerenone was the most cost-effective strategy for postMI HF (ICER of eplerenone compared with standard care was 4457 pounds per QALY, increasing to 7893 pounds per QALY if treatment continued over the patient's lifetime); in neither scenario did spironolactone appear cost-effective. The ICER of eplerenone was consistently under the 20,000-30,000 pounds per QALY threshold used to establish value for money in the NHS. Uncertainty resulted in EVPI estimates between 820M pounds (base-case) and 1265M pounds (lifetime treatment duration scenario). When class effect for mortality and hospitalisations was assumed spironolactone emerged as the most cost-effective treatment and EVPI estimates were negligible. If class effect is considered more plausible than the results of the evidence synthesis model then there would be limited value in additional research.</fragment>
+			</section>
+			<section label="LIMITATIONS" id="CONCLUSIONS">
+				<fragment>Exchangeability between trials was poor and there was a lack of robust data in RCTs.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Only two good-quality trials of aldosterone inhibitors in the postMI HF population were found, but lack of exchangeability with respect to study populations, meant that a comparison between these drugs could not be done. It consistently emerged that, compared with usual care, use of an aldosterone antagonist appears to be a highly cost-effective strategy for the management of postMI HF patients in the NHS. An adequately powered, well-conducted RCT that directly compares spironolactone and eplerenone is required to provide more robust evidence on the optimal management of postMI HF patients.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3310/hta14240" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.0513000003993511" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+		<category term="C0037982" scheme="gov.nih.nlm.semanticType.phsu" label="Spironolactone"/>
+		<category term="C0037982" scheme="gov.nih.nlm.semanticType.phsu" label="Spironolactone"/>
+		<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+		<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+		<category term="C0002007" scheme="gov.nih.nlm.semanticType.phsu" label="Aldosterone Antagonists"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0037982" scheme="gov.nih.nlm.semanticType.phsu" label="Spironolactone"/>
+		<category term="C0037982" scheme="gov.nih.nlm.semanticType.phsu" label="Spironolactone"/>
+		<category term="C0037982" scheme="gov.nih.nlm.semanticType.phsu" label="Spironolactone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0006882" scheme="gov.nih.nlm.semanticType.phsu" label="Canrenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<category term="C0006882" scheme="gov.nih.nlm.semanticType.strd" label="Canrenone"/>
+		<category term="C0961485" scheme="gov.nih.nlm.semanticType.phsu" label="eplerenone"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>Resistance training increases 6-minute walk distance in people with chronic heart failure: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20482475" title="Resistance training increases 6-minute walk distance in people with chronic heart failure: a systematic review."/>
+		<id>20482475</id>
+		<updated>2010-05-20</updated>
+		<summary>Resistance training increased 6-minute walk distance compared to no training, but had no other benefits on cardiac function, exercise capacity, or quality of life if used alone or as an adjunct to aerobic training in people with chronic heart failure. However, further high quality, large scale, randomised trials are needed.</summary>
+		<content>
+			<section label="QUESTION" id="OBJECTIVE">
+				<fragment>Does resistance training, either alone or as an adjunct to aerobic training, improve cardiac function, exercise capacity and quality of life in people with chronic heart failure?</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>Systematic review with meta-analysis of randomised trials.</fragment>
+			</section>
+			<section label="PARTICIPANTS" id="METHODS">
+				<fragment>Adults with stable chronic heart failure.</fragment>
+			</section>
+			<section label="INTERVENTION" id="METHODS">
+				<fragment>Progressive resistance exercise training, alone or as an adjunct to aerobic training.</fragment>
+			</section>
+			<section label="OUTCOME MEASURES" id="METHODS">
+				<fragment>Cardiac function, exercise capacity and quality of life.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>241 participants from eight trials performed 2 to 6 months of moderate-intensity resistance training (50-75% of 1RM). Most programs consisted of 5 to 6 exercises for large limb and trunk muscles with two sets of 8 to 12 repetitions, three times a week. Resistance training significantly increased 6-minute walk distance (WMD 52 m, 95% CI 19 to 85) but not peak oxygen consumption (WMD 1.4 ml/kg/min, 95% CI -0.3 to 3.1). When used as an adjunct to aerobic training, resistance training did not significantly alter left ventricular ejection fraction (WMD -0.5%, 95% CI -4.3 to 3.3), peak oxygen consumption (WMD -0.7 ml/kg/min, 95% CI -2.3 to 1.0), or Minnesota Living with Heart Failure Questionnaire scores (WMD -0.9, 95% CI -5.4 to 3.7), compared with aerobic training alone.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Resistance training increased 6-minute walk distance compared to no training, but had no other benefits on cardiac function, exercise capacity, or quality of life if used alone or as an adjunct to aerobic training in people with chronic heart failure. However, further high quality, large scale, randomised trials are needed.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.299699991941452" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Physiother"/>
+	</entry>
+	<entry>
+		<title>B-type natriuretic peptide-guided heart failure therapy: A meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20308637" title="B-type natriuretic peptide-guided heart failure therapy: A meta-analysis."/>
+		<id>20308637</id>
+		<updated>2010-03-23</updated>
+		<summary>B-type natriuretic peptide-guided therapy reduces all-cause mortality in patients with chronic HF compared with usual clinical care, especially in patients younger than 75 years. A component of this survival benefit may be due to increased use of agents proven to decrease mortality in chronic HF. However, there does not seem to be a reduction in all-cause hospitalization or an increase in survival free of hospitalization using this approach.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>The use of plasma levels of B-type natriuretic peptides (BNPs) to guide treatment of patients with chronic heart failure (HF) has been investigated in a number of randomized controlled trials (RCTs). However, the benefits of this treatment approach have been uncertain. We therefore performed a meta-analysis to examine the overall effect of BNP-guided drug therapy on cardiovascular outcomes in patients with chronic HF.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We identified RCTs by systematic search of manuscripts, abstracts, and databases. Eligible RCTs were those that enrolled more than 20 patients and involved comparison of BNP-guided drug therapy vs usual clinical care of the patient with chronic HF in an outpatient setting.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eight RCTs with a total of 1726 patients and with a mean duration of 16 months (range, 3-24 months) were included in the meta-analysis. Overall, there was a significantly lower risk of all-cause mortality (relative risk [RR], 0.76; 95% confidence interval [CI], 0.63-0.91; P = .003) in the BNP-guided therapy group compared with the control group. In the subgroup of patients younger than 75 years, all-cause mortality was also significantly lower in the BNP-guided group (RR, 0.52; 95% CI, 0.33-0.82; P = .005). However, there was no reduction in mortality with BNP-guided therapy in patients 75 years or older (RR, 0.94; 95% CI, 0.71-1.25; P = .70). The risk of all-cause hospitalization and survival free of any hospitalization was not significantly different between groups (RR, 0.82; 95% CI, 0.64-1.05; P = .12 and RR, 1.07; 95% CI, 0.85-1.34; P = .58, respectively). The additional percentage of patients achieving target doses of angiotensin-converting enzyme inhibitors and beta-blockers during the course of these trials averaged 21% and 22% in the BNP group and 11.7% and 12.5% in the control group, respectively.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>B-type natriuretic peptide-guided therapy reduces all-cause mortality in patients with chronic HF compared with usual clinical care, especially in patients younger than 75 years. A component of this survival benefit may be due to increased use of agents proven to decrease mortality in chronic HF. However, there does not seem to be a reduction in all-cause hospitalization or an increase in survival free of hospitalization using this approach.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinternmed.2010.35" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="5" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.503400027751923" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0001645" scheme="gov.nih.nlm.semanticType.phsu" label="Adrenergic beta-Antagonists"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>A meta-analysis of remote monitoring of heart failure patients.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19850208" title="A meta-analysis of remote monitoring of heart failure patients."/>
+		<id>19850208</id>
+		<updated>2009-10-23</updated>
+		<summary>RPM confers a significant protective clinical effect in patients with chronic HF compared with usual care.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The purpose of this study was to assess the effect of remote patient monitoring (RPM) on the outcome of chronic heart failure (HF) patients.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>RPM via regularly scheduled structured telephone contact between patients and health care providers or electronic transfer of physiological data using remote access technology via remote external, wearable, or implantable electronic devices is a growing modality to manage patients with chronic HF.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>After a review of the literature published between January 2000 and October 2008 on a multidisciplinary heart failure approach by either usual care (in-person visit) or RPM, 96 full-text articles were retrieved: 20 articles reporting randomized controlled trials (RCTs) and 12 reporting cohort studies qualified for a meta-analysis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Respectively, 6,258 patients and 2,354 patients were included in RCTs and cohort studies. Median follow-up duration was 6 months for RCTs and 12 months for cohort studies. Both RCTs and cohort studies showed that RPM was associated with a significantly lower number of deaths (RCTs: relative risk [RR]: 0.83, 95% confidence interval [CI]: 0.73 to 0.95, p = 0.006; cohort studies: RR: 0.53, 95% CI: 0.29 to 0.96, p &lt; 0.001) and hospitalizations (RCTs: RR: 0.93, 95% CI: 0.87 to 0.99, p = 0.030; cohort studies: RR: 0.52, 95% CI: 0.28 to 0.96, p &lt; 0.001). The decrease in events was greater in cohort studies than in RCTs.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>RPM confers a significant protective clinical effect in patients with chronic HF compared with usual care.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2009.08.017" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="2" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.363900005817413" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Effectiveness of implantable cardioverter-defibrillators for the primary prevention of sudden cardiac death in women with advanced heart failure: a meta-analysis of randomized controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19752408" title="Effectiveness of implantable cardioverter-defibrillators for the primary prevention of sudden cardiac death in women with advanced heart failure: a meta-analysis of randomized controlled trials."/>
+		<id>19752408</id>
+		<updated>2009-09-15</updated>
+		<summary>Implantable cardioverter-defibrillator therapy for the primary prevention of sudden cardiac death in women does not reduce all-cause mortality. Further studies are needed to investigate the reasons for this ob servation and to define the population of women who may benefit most from implantable cardioverter-defibrillator therapy.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Numerous clinical trials have established a role for implantable cardioverter-defibrillators in the prevention of sudden cardiac death in patients with heart failure. However, questions remain that regard the clinical benefit of these therapies in different patient subgroups. Specifically, the role of implantable cardioverter-defibrillators in women with heart failure for the primary prevention of sudden cardiac death has not been well established. Our objective is to determine whether implantable cardioverter-defibrillators reduce mortality in women with advanced heart failure.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched MEDLINE (1950-2008), EMBASE (1988-2008, week 24), the Cochrane Controlled Trials Register (third quarter, 2008), the National Institute of Health ClinicalTrials.gov database, the Food and Drug Administration Web site, and various reports presented at scientific meetings (1994-2007). Eligible studies were randomized controlled trials of implantable cardioverter/defibrillators for the primary prevention of sudden cardiac death in patients with heart failure that reported all-cause mortality as an outcome for the female population. Of the 2619 reports identified, 5 trials that enroll 934 women were included in the meta-analysis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Pooled data from the 5 trials revealed no statistically significant decrease in all-cause mortality in women with heart failure who receive implantable cardioverter-defibrillators (hazard ratio, 1.01; 95% confidence interval, 0.76-1.33).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Implantable cardioverter-defibrillator therapy for the primary prevention of sudden cardiac death in women does not reduce all-cause mortality. Further studies are needed to investigate the reasons for this ob servation and to define the population of women who may benefit most from implantable cardioverter-defibrillator therapy.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinternmed.2009.255" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.331099987030029" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>Systematic review and individual patient data meta-analysis of diagnosis of heart failure, with modelling of implications of different diagnostic strategies in primary care.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19586584" title="Systematic review and individual patient data meta-analysis of diagnosis of heart failure, with modelling of implications of different diagnostic strategies in primary care."/>
+		<id>19586584</id>
+		<updated>2009-07-09</updated>
+		<summary>The analysis suggests the need for important changes to the NICE recommendations. First, BNP (or NT-proBNP) should be recommended over ECG and, second, some patients should be referred straight for echocardiography without undergoing any preliminary investigation. Future work should include evaluation of the clinical rule described above in clinical practice.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To assess the accuracy in diagnosing heart failure of clinical features and potential primary care investigations, and to perform a decision analysis to test the impact of plausible diagnostic strategies on costs and diagnostic yield in the UK health-care setting.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>MEDLINE and CINAHL were searched from inception to 7 July 2006. 'Grey literature' databases and conference proceedings were searched and authors of relevant studies contacted for data that could not be extracted from the published papers.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>A systematic review of the clinical evidence was carried out according to standard methods. Individual patient data (IPD) analysis was performed on nine studies, and a logistic regression model to predict heart failure was developed on one of the data sets and validated on the other data sets. Cost-effectiveness modelling was based on a decision tree that compared different plausible investigation strategies.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Dyspnoea was the only symptom or sign with high sensitivity (89%), but it had poor specificity (51%). Clinical features with relatively high specificity included history of myocardial infarction (89%), orthopnoea (89%), oedema (72%), elevated jugular venous pressure (70%), cardiomegaly (85%), added heart sounds (99%), lung crepitations (81%) and hepatomegaly (97%). However, the sensitivity of these features was low, ranging from 11% (added heart sounds) to 53% (oedema). Electrocardiography (ECG), B-type natriuretic peptides (BNP) and N-terminal pro-B-type natriuretic peptides (NT-proBNP) all had high sensitivities (89%, 93% and 93% respectively). Chest X-ray was moderately specific (76-83%) but insensitive (67-68%). BNP was more accurate than ECG, with a relative diagnostic odds ratio of ECG/BNP of 0.32 (95% CI 0.12-0.87). There was no difference between the diagnostic accuracy of BNP and NT-proBNP. A model based upon simple clinical features and BNP derived from one data set was found to have good validity when applied to other data sets. A model substituting ECG for BNP was less predictive. From this a simple clinical rule was developed: in a patient presenting with symptoms such as breathlessness in whom heart failure is suspected, refer directly to echocardiography if the patient has a history of myocardial infarction or basal crepitations or is a male with ankle oedema; otherwise, carry out a BNP test and refer for echocardiography depending on the results of the test. On the basis of the cost-effectiveness analysis carried out, such a decision rule is likely to be considered cost-effective to the NHS in terms of cost per additional case detected. The cost-effectiveness analysis further suggested that, if likely benefit to the patient in terms of improved life expectancy is taken into account, the optimum strategy would be to refer all patients with symptoms suggestive of heart failure directly for echocardiography.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The analysis suggests the need for important changes to the NICE recommendations. First, BNP (or NT-proBNP) should be recommended over ECG and, second, some patients should be referred straight for echocardiography without undergoing any preliminary investigation. Future work should include evaluation of the clinical rule described above in clinical practice.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3310/hta13320" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.182799994945526" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0054015" scheme="gov.nih.nlm.semanticType.aapp" label="Brain natriuretic peptide"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>Enhanced external counterpulsation for the treatment of stable angina and heart failure: a systematic review and economic analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19409154" title="Enhanced external counterpulsation for the treatment of stable angina and heart failure: a systematic review and economic analysis."/>
+		<id>19409154</id>
+		<updated>2009-05-04</updated>
+		<summary>The results from a single randomised controlled trial (MUST-EECP) do not provide firm evidence of the clinical effectiveness of EECP in refractory stable angina or in heart failure. High-quality studies are required to investigate the benefits of EECP, whether these outweigh the common adverse effects and its long-term cost-effectiveness in terms of quality of life benefits.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To determine the clinical effectiveness and cost-effectiveness of enhanced external counterpulsation (EECP) compared with usual care and placebo for refractory stable angina and heart failure, and to undertake analyses of the expected value of information to assess the potential value of future research on EECP.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Major electronic databases were searched between November 2007 and March 2008.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>A systematic review of the literature was undertaken and a decision model developed to compare EECP treatment with no treatment in adults with chronic stable angina.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Five studies were included in the review. In the Multicenter Study of Enhanced External Counterpulsation (MUST-EECP), time to greater than or equal to 1-mm ST segment depression (exercise-induced ischaemia) was statistically significantly improved in the EECP group compared with the control group (sham EECP), mean difference (MD) 41 seconds [95% confidence interval (CI) 9.10-73.90]. However, there was no statistically significant difference between the EECP and control groups in the change in exercise duration from baseline to end of treatment, self-reported angina episodes or daily nitroglycerin use, and the clinical significance of the limited benefits was unclear. There was also a lack of data on long-term outcomes. There were more withdrawals due to adverse events in the EECP group than in the control group, as well as a greater proportion of patients with adverse events [relative risk (RR) 2.13, 95% CI 1.35-3.38]. The three non-randomised studies compared EECP with elective percutaneous coronary intervention (PCI) and usual care. There was a high risk of selection bias in all three studies and the results should be treated with considerable caution. The study comparing an EECP registry with a PCI registry reported similar 1-year all-cause mortality in both groups. In the Prospective Evaluation of EECP in Congestive Heart Failure (PEECH) trial, patients with heart failure were randomised to EECP or to usual care (pharmacotherapy only). At 6 months post treatment, the proportion of patients achieving at least a 60-second increase in exercise duration was higher in the EECP group (RR 1.39, 95% CI 0.89-2.16), but the proportion with an improvement in peak VO2 was similar in both groups. The clinical significance of this is unclear. The proportion of patients in the EECP group with an improvement in New York Heart Association classification was higher (RR 2.25, 95% CI 1.25-4.06) at 6 months, as was mean exercise duration, MD 34.6 (95% CI -4.86 to 74.06). There were more withdrawals in the EECP group than in the control group as a result of adverse events (RR 1.05, 95% CI 0.67-1.66). There were limitations in the generalisability of results of the trial and, again, a lack of data on long-term outcomes. The review of cost-effectiveness evidence found only one unpublished study but demonstrated that the long-term maintenance of quality of life benefits of EECP is central to the estimate of its cost-effectiveness. The incremental cost-effectiveness ratio of EECP was 18,643 pounds for each additional quality-adjusted life-year (QALY), with a probability of being cost-effective of 0.44 and 0.70 at cost-effectiveness thresholds of 20,000 pounds and 30,000 pounds per QALY gained respectively. Results were sensitive to the duration of health-related quality of life (HRQoL) benefits from treatment.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The results from a single randomised controlled trial (MUST-EECP) do not provide firm evidence of the clinical effectiveness of EECP in refractory stable angina or in heart failure. High-quality studies are required to investigate the benefits of EECP, whether these outweigh the common adverse effects and its long-term cost-effectiveness in terms of quality of life benefits.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3310/hta13240" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.152799993753433" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>A systematic review of outcomes and quality measures in adult patients cared for by hospitalists vs nonhospitalists.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19252112" title="A systematic review of outcomes and quality measures in adult patients cared for by hospitalists vs nonhospitalists."/>
+		<id>19252112</id>
+		<updated>2009-03-02</updated>
+		<summary/>
+		<content>
+			<section>
+				<fragment>A systematic review of English-language literature was undertaken to answer the question, "Are there differences in cost or quality of inpatient medical care provided to adults by hospitalists vs nonhospitalists?" A computerized search was performed, using hospitalist and either quality, outcome, or cost as search terms. References from relevant articles were searched by hand. A standard data-extraction tool was used, and articles were included on the basis of quality and relevance. The reports that were included (N=33) show general agreement that hospitalist care leads to shorter length of stay and lower cost per stay. Three reports show improvement in outcomes for orthopedic surgery patients who had hospitalist consultation or comanagement, 3 reports show improvement in markers of quality of care for patients with pneumonia, and 2 reports show improvement in aspects of heart failure management. Further research should seek to determine why differences in care exist, whether these improvements might be generalized to other physicians, and whether hospitalists provide demonstrable benefit in other areas of care.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/S0025-6196(11)61142-7" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC2664594" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.355300009250641" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Mayo Clin. Proc."/>
+	</entry>
+	<entry>
+		<title>Erythropoietin treatment in patients with chronic heart failure: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19168472" title="Erythropoietin treatment in patients with chronic heart failure: a meta-analysis."/>
+		<id>19168472</id>
+		<updated>2009-07-29</updated>
+		<summary>In chronic HF, treatment with ESPs is not associated with a higher mortality rate or more adverse events, whereas a beneficial effect on HF hospitalisation is seen. These outcomes are in contrast with studies in cancer and kidney disease, and support a large phase III morbidity and mortality trial of anaemia correction in patients with chronic HF.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Anaemia is common in patients with chronic heart failure (HF), and erythropoiesis stimulating proteins (ESPs) are frequently used for its treatment. However, recent studies in patients with malignancies and renal failure have raised concerns about the safety of these agents.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To determine whether treatment of anaemic patients with chronic HF with ESPs is associated with an effect on morbidity and mortality.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>A systematic literature search in Medline, the Cochrane Controlled Trials Register Database and ClinicalTrials.gov through July 2008 was performed. Study selection: Randomised clinical trials comparing the effect of ESP treatment with placebo or usual care in anaemic patients with HF were included.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Seven randomised controlled trials were identified that enrolled 650 patients, of whom 363 were treated with ESPs and 287 with placebo. ESP treatment had a significantly lower risk of HF hospitalisation (risk ratio (RR) = 0.59; 95% CI 0.41 to 0.86; p = 0.006).There was no significant difference in the mortality risk between the two groups (RR = 0.69; 95% CI 0.39 to 1.23; p = 0.21). No significant differences were observed in the occurrence of hypertension or venous thrombosis.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>In chronic HF, treatment with ESPs is not associated with a higher mortality rate or more adverse events, whereas a beneficial effect on HF hospitalisation is seen. These outcomes are in contrast with studies in cancer and kidney disease, and support a large phase III morbidity and mortality trial of anaemia correction in patients with chronic HF.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/hrt.2008.161091" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.435799986124039" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0014822" scheme="gov.nih.nlm.semanticType.horm" label="Erythropoietin"/>
+		<category term="C0014822" scheme="gov.nih.nlm.semanticType.horm" label="Erythropoietin"/>
+		<source type="Heart"/>
+	</entry>
+	<entry>
+		<title>Beta-blockers for primary prevention of heart failure in patients with hypertension insights from a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18848139" title="Beta-blockers for primary prevention of heart failure in patients with hypertension insights from a meta-analysis."/>
+		<id>18848139</id>
+		<updated>2008-10-13</updated>
+		<summary>In hypertensive patients, primary prevention of HF is strongly dependent on blood pressure reduction. When compared with other antihypertensive agents, there was similar but no incremental benefit of BBs for the prevention of HF. However, given the increased risk of stroke in the elderly, BBs should not be considered as first-line agents for prevention of HF.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>This study sought to evaluate the efficacy of beta-blockers (BBs) for primary prevention of heart failure (HF) in patients with hypertension.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>The American College of Cardiology/American Heart Association staging for HF classifies patients with hypertension as stage A HF, for which BBs are a treatment option. However, the evidence to support this is unknown.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We conducted a MEDLINE/EMBASE/CENTRAL search of randomized controlled trials that evaluated BB as first-line therapy for hypertension with follow-up for at least 1 year and with data on new-onset HF. The primary outcome was new-onset HF. Secondary outcomes were all-cause mortality, cardiovascular mortality, myocardial infarction, and stroke.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Among the 12 randomized controlled trials, which evaluated 112,177 patients with hypertension, BBs reduced blood pressure by 12.6/6.1 mm Hg when compared with placebo, resulting in a 23% (trend) reduction in HF risk (p = 0.055). When compared with other agents, the antihypertensive efficacy of BBs was comparable, which resulted in similar but no incremental benefit for HF risk reduction in the overall cohort (risk ratio: 1.00; 95% confidence interval: 0.92 to 1.08), in the elderly (&gt; or =60 years) or in the young (&lt;60 years). Analyses of secondary outcomes showed that BBs confirmed similar but no incremental benefit for the outcomes of all-cause mortality, cardiovascular mortality, and myocardial infarction but increased stroke risk by 19% in the elderly.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>In hypertensive patients, primary prevention of HF is strongly dependent on blood pressure reduction. When compared with other antihypertensive agents, there was similar but no incremental benefit of BBs for the prevention of HF. However, given the increased risk of stroke in the elderly, BBs should not be considered as first-line agents for prevention of HF.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2008.05.057" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.450700014829636" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003364" scheme="gov.nih.nlm.semanticType.phsu" label="Antihypertensive Agents"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>The effects of angiotensin-receptor blockers on mortality and morbidity in heart failure: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18793376" title="The effects of angiotensin-receptor blockers on mortality and morbidity in heart failure: a systematic review."/>
+		<id>18793376</id>
+		<updated>2008-09-16</updated>
+		<summary>Angiotensin II receptor blockers did not show any beneficial effect on mortality when used in combination with ACE-I or when compared with ACE-I alone. A 17% reduction in hospital admissions was observed.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Trials evaluating angiotensin-receptor blockers in heart failure (HF) have shown inconsistent results.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To evaluate the effect of angiotensin II (AII) receptor blockers in HF patients on total mortality and HF hospitalisations.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Systematic search of the literature through MEDLINE (1980-2007) and abstracts of major cardiovascular congresses from 2002 to 2007. Eligibility criteria: (i) randomised controlled trials with more than 500 patients and follow up &gt; 6 months, (ii) availability of total mortality and/or (iii) availability of hospital admission because of worsening HF. Data retrieved by two independent reviewers. DerSimonian random effects model was used.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Mortality data were available from 27,495 patients. When AII receptor blockers plus angiotensin-converting enzyme inhibitors (ACE-I) were compared with ACE-I in chronic HF trials, the relative risk (RR) for death was 0.98 (95% CI: 0.84-1.15). When AII receptor blockers were compared with ACE-I the RR for death was 1.06 (95% CI: 0.56-1.62). Similar results were found for postmyocardial infarction trials. The effects on hospital admission revealed a RR of 0.83 (95% CI: 0.71-0.97) and 1.09 (95% CI: 0.74-1.60) respectively.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Angiotensin II receptor blockers did not show any beneficial effect on mortality when used in combination with ACE-I or when compared with ACE-I alone. A 17% reduction in hospital admissions was observed.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1742-1241.2008.01806.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.486099988222122" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003015" scheme="gov.nih.nlm.semanticType.phsu" label="Angiotensin-Converting Enzyme Inhibitors"/>
+		<source type="Int. J. Clin. Pract."/>
+	</entry>
+	<entry>
+		<title>Anemia and mortality in heart failure patients a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18755344" title="Anemia and mortality in heart failure patients a systematic review and meta-analysis."/>
+		<id>18755344</id>
+		<updated>2008-08-29</updated>
+		<summary>Anemia is associated with an increased risk of mortality in both systolic and diastolic CHF. Anemia should, therefore, be considered as a useful prognosticator, and therapeutic strategies aimed to increase hemoglobin levels in CHF should be investigated.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The aim of this study was to assess the effect of anemia on mortality in chronic heart failure (CHF).</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Anemia is frequently observed in patients with CHF, and evidence suggests that anemia might be associated with an increased mortality.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic literature search in MEDLINE (through November 2007) for English language articles was performed. In addition, a manual search was performed. We included cohort studies and retrospective secondary analyses of randomized controlled trials whose primary objective was to analyze the association between anemia and mortality in CHF. Of a total of 1,327 initial studies, we included 34 studies, comprising 153,180 patients. Information on study design, patient characteristics, outcome, and potential confounders were extracted.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Anemia was defined by criteria used in the original articles. Of the 153,180 CHF patients, 37.2% were anemic. After a minimal follow-up of 6 months, 46.8% of anemic patients died compared with 29.5% of nonanemic patients. Crude mortality risk of anemia was odds ratio 1.96 (95% confidence interval: 1.74 to 2.21, p &lt; 0.001). Lower baseline hemoglobin values were associated with increased crude mortality rates (r = -0.396, p = 0.025). Adjusted hazard ratios showed an increased adjusted risk for anemia (hazard ratio 1.46 [95% confidence interval: 1.26 to 1.69, p &lt; 0.001]). Subgroup analysis showed no significant difference between mortality risk of anemia in diastolic or systolic CHF.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Anemia is associated with an increased risk of mortality in both systolic and diastolic CHF. Anemia should, therefore, be considered as a useful prognosticator, and therapeutic strategies aimed to increase hemoglobin levels in CHF should be investigated.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.jacc.2008.04.061" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.379299998283386" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Am. Coll. Cardiol."/>
+	</entry>
+	<entry>
+		<title>Statistical models and patient predictors of readmission for heart failure: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18625917" title="Statistical models and patient predictors of readmission for heart failure: a systematic review."/>
+		<id>18625917</id>
+		<updated>2008-07-15</updated>
+		<summary>Our systematic review identified no model designed to compare hospital rates of readmission, while models designed to predict patients' readmission risk used heterogeneous approaches and found substantial inconsistencies regarding which patient characteristics were predictive. Clinically, patient risk stratification is challenging. From a policy perspective, a validated risk-standardized statistical model to accurately profile hospitals using readmission rates is unavailable in the published English-language literature to date.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Readmission after heart failure (HF) hospitalization is an increasing focus for physicians and policy makers, but statistical models are needed to assess patient risk and to compare hospital performance. We performed a systematic review to describe models designed to compare hospital rates of readmission or to predict patients' risk of readmission, as well as to identify studies evaluating patient characteristics associated with hospital readmission, all among patients admitted for HF.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We identified relevant studies published between January 1, 1950, and November 19, 2007, by searching MEDLINE, Scopus, PsycINFO, and all 4 Ovid Evidence-Based Medicine Reviews. Eligible English-language publications reported on readmission after HF hospitalization among adult patients. We excluded experimental studies and publications without original data or quantitative outcomes.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>From 941 potentially relevant articles, 117 met inclusion criteria: none contained models to compare readmission rates among hospitals, 5 (4.3%) presented models to predict patients' risk of readmission, and 112 (95.7%) examined patient characteristics associated with readmission. Studies varied in case identification, used multiple types of data sources, found few patient characteristics consistently associated with readmission, and examined differing outcomes, often either readmission alone or a combined outcome of readmission or death, measured across varying periods (from 14 days to 4 years). Two articles reported model discriminations of patient readmission risk, both of which were modest (C statistic, 0.60 for both).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Our systematic review identified no model designed to compare hospital rates of readmission, while models designed to predict patients' readmission risk used heterogeneous approaches and found substantial inconsistencies regarding which patient characteristics were predictive. Clinically, patient risk stratification is challenging. From a policy perspective, a validated risk-standardized statistical model to accurately profile hospitals using readmission rates is unavailable in the published English-language literature to date.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinte.168.13.1371" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.170499995350838" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>Pharmacist care of patients with heart failure: a systematic review of randomized trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18413550" title="Pharmacist care of patients with heart failure: a systematic review of randomized trials."/>
+		<id>18413550</id>
+		<updated>2008-04-16</updated>
+		<summary>Pharmacist care in the treatment of patients with HF greatly reduces the risk of all-cause and HF hospitalizations. Since hospitalizations associated with HF are a major public health problem, the incorporation of pharmacists into HF care teams should be strongly considered.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>While the role of multidisciplinary teams in the treatment of patients with heart failure (HF) is well established, there is less evidence to characterize the role of individual team members. To clarify the role of pharmacists in the care of patients with HF, we performed a systematic review evaluating the effect of pharmacist care on patient outcomes in HF.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched PubMed, MEDLINE, EMBASE, International Pharmaceutical Abstracts, Web of Science, Scopus, Dissertation Abstracts, CINAHL, Pascal, and Cochrane Central Register of Controlled Trials for controlled studies from database inception to August 2007. We included randomized controlled trials that evaluated the impact of pharmacist care activities on patients with HF (in both inpatient and outpatient settings). Summary odds ratios (ORs) with 95% confidence intervals (CIs) were calculated using a random-effects model for rates of all-cause hospitalization, HF hospitalization, and mortality.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>A total of 12 randomized controlled trials (2060 patients) were identified. Extent of pharmacist involvement varied among studies, and each study intervention was categorized as pharmacist-directed care or pharmacist collaborative care using a priori definitions and feedback from primary study authors. Pharmacist care was associated with significant reductions in the rate of all-cause hospitalizations (11 studies [2026 patients]) (OR, 0.71; 95% CI, 0.54-0.94) and HF hospitalizations (11 studies [1977 patients]) (OR, 0.69; 95% CI, 0.51-0.94),and a nonsignificant reduction in mortality (12 studies [2060 patients])(OR, 0.84; 95% CI, 0.61-1.15). Pharmacist collaborative care led to greater reductions in the rate of HF hospitalizations (OR, 0.42; 95%CI, 0.24-0.74) than pharmacist-directed care (OR, 0.89; 95% CI, 0.68-1.17).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Pharmacist care in the treatment of patients with HF greatly reduces the risk of all-cause and HF hospitalizations. Since hospitalizations associated with HF are a major public health problem, the incorporation of pharmacists into HF care teams should be strongly considered.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinte.168.7.687" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.291900008916855" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>The clinical effectiveness and cost-effectiveness of cardiac resynchronisation (biventricular pacing) for heart failure: systematic review and economic model.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/17999842" title="The clinical effectiveness and cost-effectiveness of cardiac resynchronisation (biventricular pacing) for heart failure: systematic review and economic model."/>
+		<id>17999842</id>
+		<updated>2007-11-16</updated>
+		<summary>The study found that CRT-P and CRT-D devices reduce mortality and hospitalisations due to heart failure, improve quality of life and reduce SCD in people with heart failure NYHA classes III and IV, and evidence of dyssynchrony. When measured using a lifetime time horizon and compared with optimal medical therapy, the devices are estimated to be cost-effective at a WTP threshold of 30,000 British pounds per QALY; CRT-P is cost-effective at a WTP threshold of 20,000 British pounds per QALY. When the cost and effectiveness of all three treatment strategies are compared, the estimated net benefit from CRT-D is less than with the other two strategies, until the WTP threshold exceeds 40,160 British pounds/QALY. Further research is needed into the identification of those patients unlikely to benefit from this therapy, the appropriate use of CRT-D devices, the differences in mortality and heart failure hospitalisation for NYHA classes I and II, as well as the long-term implications of using this therapy.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To assess the clinical effectiveness and cost-effectiveness of cardiac resynchronisation therapy (CRT) for people with heart failure and evidence of dyssynchrony by comparing cardiac resynchronisation therapy devices, CRT-P and CRT with defibrillation (CRT-D), each with optimal pharmaceutical therapy (OPT), and with each other.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Electronic databases were searched up to June 2006. Manufacturer submissions to the National Institute for Health and Clinical Excellence (NICE) were also searched for additional evidence.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>Relevant data from selected studies were extracted, narrative reviews were undertaken and meta-analyses of the clinical trial data were conducted. A Markov model was developed. Incremental costs and quality-adjusted life-years (QALYs) were calculated. Extensive one-way sensitivity analyses, threshold analyses, probabilistic sensitivity analyses and value of information analyses were carried out.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Five randomised controlled trials met the inclusion criteria, recruiting 3434 participants. Quality was good to moderate. Meta-analyses showed that both CRT-P and CRT-D devices significantly reduced the mortality and level of heart failure hospitalisations and they improved health-related quality of life in people with New York Heart Association (NYHA) class III and IV heart failure and evidence of dyssynchrony (QRS interval &gt;120 ms) who were also receiving OPT. A single direct comparison indicated that the effects of CRT-P and CRT-D were similar, with the exception of an additional reduction in sudden cardiac death (SCD) associated with CRT-D. On average, implanting a CRT device in 13 people would result in the saving of one additional life over a 3-year period compared with OPT. The NHS device and procedure cost of implanting a new CRT-P system (pulse generator unit and required leads) was estimated to be 5074 British pounds and that of a CRT-D system 17,266 British pounds. The discounted lifetime costs of OPT, CRT-P and CRT-D were estimated as 9375 British pounds, 20,804 British pounds and 32,689 British pounds, respectively. The industry submissions to NICE contained four cost-effectiveness analyses, of which two were more appropriate as reference cases. One used a discrete event simulation model that gave estimated incremental cost-effectiveness ratios (ICERs) of CRT-P vs OPT of 15,645 British pounds per QALY. The other analysis was based on the results of the COMPANION trial and estimated an ICER of 2818 British pounds per QALY gained by CRT-P vs OPT and a cost per QALY gained of 22,384 British pounds for CRT-D vs OPT. Compared with OPT, the Markov model base case analysis estimated that CRT-P conferred an additional 0.70 QALYs for an additional 11,630 British pounds per person, giving an estimated ICER of 16,735 British pounds per QALY gained for a mixed age cohort (range 14,630-20,333 British pounds). CRT-D vs CRT-P conferred an additional 0.29 QALYs for an additional 11,689 British pounds per person, giving an ICER of 40,160 British pounds per QALY for a mixed age cohort (range 26,645-59,391 British pounds). The authors' ICERs are higher than those from the industry-submitted analysis. Probabilistic sensitivity analysis based on 1000 simulated trials showed that, at a willingness-to-pay (WTP) threshold of 30,000 British pounds per QALY, in CRT-P versus OPT, CRT-P was likely to be cost-effective in 91.3% of simulations and that CRT-P was negatively dominated in 0.4% of simulations. It also showed that in CRT-P versus CRT-D, CRT-D was likely to be cost-effective in 26.3% of simulations and that CRT-P dominated CRT-D in 7.8% of simulations. The relative risk for SCD when CRT-D is compared with OPT is 0.44 in the base case. This treatment becomes cost-ineffective at a WTP threshold of 30,000 British pounds when this value is greater than 0.65. When both CRT-P and CRT-D were considered as competing technologies with each other and OPT (three-way probabilistic analysis), and at the same WTP, there was a 68% probability that CRT-P provided the highest expected net benefit. The WTP threshold would need to be above 40,000 British pounds before CRT-D provided the highest expected net benefit.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The study found that CRT-P and CRT-D devices reduce mortality and hospitalisations due to heart failure, improve quality of life and reduce SCD in people with heart failure NYHA classes III and IV, and evidence of dyssynchrony. When measured using a lifetime time horizon and compared with optimal medical therapy, the devices are estimated to be cost-effective at a WTP threshold of 30,000 British pounds per QALY; CRT-P is cost-effective at a WTP threshold of 20,000 British pounds per QALY. When the cost and effectiveness of all three treatment strategies are compared, the estimated net benefit from CRT-D is less than with the other two strategies, until the WTP threshold exceeds 40,160 British pounds/QALY. Further research is needed into the identification of those patients unlikely to benefit from this therapy, the appropriate use of CRT-D devices, the differences in mortality and heart failure hospitalisation for NYHA classes I and II, as well as the long-term implications of using this therapy.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.536400020122528" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+</feed>

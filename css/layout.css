@@ -1,0 +1,245 @@
+/* main style of pages */
+
+body {
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	padding: 20px;	
+}
+
+ul {
+	margin: 0;
+	padding: 0;	
+}
+
+ul.circletype li {
+	list-style-type: square;
+	margin-left: 3%;	
+}
+
+ul li {
+	list-style-type: none;	
+}
+
+div {
+	display: block;	
+}
+
+div#main {
+	margin-top: 10px;
+	height: auto !important;	
+}
+
+div#launch {
+	width: 80%;	
+	margin: auto;
+}
+
+div#topTab {
+	padding: 10px;
+}
+
+div#topTab ul li {
+	display: inline;	
+	list-style-type: none;
+	padding: 10px;	
+}
+
+div#content {
+	margin-top: -2px;
+}
+
+div#frontliner {
+	height: 10%;
+}
+
+div#leftColumn {
+	padding: 10px;
+	width: 18%;
+	float: left;
+}
+
+div#vsep {
+	display: inline-block;
+	height: 900px;
+	border-left: 3px solid #d1d2d3	
+}
+
+div#problemList, div#medication {
+	border: 1px solid #d1d2d3;
+	display: block;
+	height: auto;
+	width: 90%;
+	margin-top: 10px;
+	padding: 10px;
+	overflow: auto;
+}
+
+div#medication div#default {
+	margin-top: 20px;	
+}
+
+div#medication div.content {
+	height: auto;
+	overflow: auto;	
+}
+
+div#problemList {
+	height: auto !important;
+	margin-top: 0px;
+}
+
+div#summary {
+	float: right;
+	min-height: 87%;
+	width: 77%;
+	margin-right: 1%;
+}
+
+div#patienthome, div#reference, div#fastcontent, div#flexcontent {
+	min-height: 900px;
+	width: 100%;	
+}
+
+div#flexcontent div#default {
+	margin-top : 20px;	
+}
+
+div#systematicReview {
+	display: block;
+	border: 1px solid #d1d2d3;
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-bottom: 50px;
+	padding: 10px;
+	width: 46%;
+	height: auto;
+	float: left;	
+}
+
+div#clinicalTrial {
+	display: block;
+	border: 1px solid #d1d2d3;
+	float: right;	
+	margin-right: 10px;
+	margin-top: 10px;
+	padding: 10px;
+	width: 46%;
+	height: auto;	
+}
+
+div.shown {
+	display: block;	
+}
+
+div.hidden {
+	display: none !important;	
+}
+
+div#clinicalTrial img {
+	height: 98%;
+	width: 100%;	
+}
+
+div#upToDate {
+	display: inline-block;
+	border: 1px solid #d1d2d3;
+	margin-top: 20px;
+	padding: 15px;
+	/*height: 300px;*/
+	width: 97.5%;
+}
+
+div#upToDate div.ksummary div.feedtitle {
+	margin-top: 5px;
+	text-align: left;
+	font-size: 1.3em;	
+}
+
+div#upToDate div.ksummary div.feed {
+	margin-top: 20px;	
+}
+
+div#upToDate div.ksummary div.feed div.feedcontent {
+	padding: 5px;	
+}
+
+div#upToDate div.ksummary div.feed div.feedcontent div.sentence {
+	padding: 10px;	
+	margin-left: 10px;
+}
+
+div#upToDate div.ksummary div.feed div.feedcontent div.sectiontitle {
+	padding: 10px;	
+	margin-bottom: -15px;
+	font-weight: bold;
+}
+
+div#upToDate div.ksummary div.feedtitle img {
+	width: 1.3%;
+	height: 1.3%;	
+	margin-right: 3px;
+}
+
+div#upToDate div.ksummary div.feed div.feedcontent div.sectiontitle img {
+	width: 5%;
+	height: 5%;	
+	margin-left: 5px;	
+}
+
+div#upToDate div.ksummary div.feed div.feedcontent div.sentence img {
+	background-image: url('../images/arrows.png');	
+	/*background-position: right -155px;*/
+	background-repeat: no-repeat;
+	background-color: transparent;
+	width: 10px;
+	height: 11px;
+	margin-left: 3px;
+}
+
+div#upToDate div.ksummary div.feed div.feedcontent div.sentence img.more, div#systematicReview div.ksummary span.relSentence img.more, div#clinicalTrial div.ksummary span.relSentence img.more {
+	background-position: right -185px;
+}
+
+div#clinicalTrial div.ksummary span.relSentence img {
+	height: 1px;
+	width: 1px;	
+}
+
+div#upToDate div.ksummary div.feed div.feedcontent div.sentence img.less, div#systematicReview div.ksummary span.relSentence img.less, div#clinicalTrial div.ksummary span.relSentence img.less {
+	background-position: right -155px;
+}
+
+div#upToDate div.ksummary div.feed dev.feedcontent ul li {
+	list-style-type: circle !important;
+}
+
+div.header {
+	height: 25px;
+/*	border-bottom: 2px solid #d1d2d3; */
+}
+
+div.ksummary {
+	height: 94%;
+	width: 100%;
+	padding-right: 5px;
+	margin-top: 2px;
+	overflow: auto;	
+}
+
+div.showfullscreen {
+	width: 98% !important;
+	height: 98% !important;
+}
+
+/* Table format */
+table#demotable {
+	width: 100%;	
+}
+
+table#demotable td {
+	padding: 10px;
+}

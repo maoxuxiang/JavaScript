@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Knowledge Summary - Treatment of Rheumatoid Arthritis</title>
+	<updated>2013-11-05-07:00</updated>
+	<category term="C0004057" scheme="gov.nih.nlm.semanticType.orch" label="Aspirin"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0017725" scheme="gov.nih.nlm.semanticType.phsu" label="Glucose"/>
+	<category term="C0017853" scheme="gov.nih.nlm.semanticType.aapp" label="Hemoglobin, Glycosylated"/>
+	<category term="C0021641" scheme="gov.nih.nlm.semanticType.aapp" label="Insulin"/>
+	<category term="C0021641" scheme="gov.nih.nlm.semanticType.horm" label="Insulin"/>
+	<category term="C0021641" scheme="gov.nih.nlm.semanticType.phsu" label="Insulin"/>
+	<category term="C0025598" scheme="gov.nih.nlm.semanticType.orch" label="Metformin"/>
+	<category term="C0071097" scheme="gov.nih.nlm.semanticType.orch" label="pioglitazone"/>
+	<category term="C0167117" scheme="gov.nih.nlm.semanticType.aapp" label="exenatide"/>
+	<category term="C0167117" scheme="gov.nih.nlm.semanticType.phsu" label="exenatide"/>
+	<category term="C0289313" scheme="gov.nih.nlm.semanticType.orch" label="rosiglitazone"/>
+	<category term="C0304870" scheme="gov.nih.nlm.semanticType.aapp" label="Insulin, Long-Acting"/>
+	<category term="C0304870" scheme="gov.nih.nlm.semanticType.phsu" label="Insulin, Long-Acting"/>
+	<category term="C0360714" scheme="gov.nih.nlm.semanticType.orch" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+	<category term="C0650607" scheme="gov.nih.nlm.semanticType.aapp" label="basal insulin"/>
+	<category term="C1257987" scheme="gov.nih.nlm.semanticType.orch" label="Thiazolidinediones"/>
+	<category term="C1257987" scheme="gov.nih.nlm.semanticType.phsu" label="Thiazolidinediones"/>
+	<category term="C1579433" scheme="gov.nih.nlm.semanticType.phsu" label="Insulins"/>	<entry>
+		<title>Non-pharmacological interventions to reduce the risk of diabetes in people with impaired glucose regulation: a systematic review and economic evaluation.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22935084" title="Non-pharmacological interventions to reduce the risk of diabetes in people with impaired glucose regulation: a systematic review and economic evaluation."/>
+		<id>22935084</id>
+		<updated>2012-08-31</updated>
+		<summary>Participants in the RCTs were volunteers and their results may have been better than in general populations. Even among the volunteers, many did not adhere. Some studies were not long enough to show whether the interventions reduced cardiovascular mortality as well as diabetes. The main problem is that we know what people should do to reduce progression, but not how to persuade most to do it.In people with IGT, dietary change to ensure weight loss, coupled with physical activity, is clinically effective and cost-effective in reducing progression to diabetes.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>The prevalence of type 2 diabetes mellitus (T2DM) is increasing in the UK and worldwide. Before the onset of T2DM, there are two conditions characterised by blood glucose levels that are above normal but below the threshold for diabetes. If screening for T2DM in introduced, many people with impaired glucose tolerance (IGT) will be found and it is necessary to consider how they should be treated. The number would depend on what screening test was used and what cut-offs were chosen.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To review the clinical effectiveness and cost-effectiveness of non-pharmacological interventions, including diet and physical activity, for the prevention of T2DM in people with intermediate hyperglycaemia.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Electronic databases, MEDLINE (1996-2011), EMBASE (1980-2011) and all sections of The Cochrane Library, were searched for systematic reviews, randomised controlled trials (RCTs) and other relevant literature on the effectiveness of diet and/or physical activity in preventing, or delaying, progression to T2DM.The databases were also searched for studies on the cost-effectiveness of interventions.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>The review of clinical effectiveness was based mainly on RCTs, which were critically appraised. Subjects were people with intermediate hyperglycaemia, mainly with IGT. Interventions could be diet alone, physical activity alone, or the combination. For cost-effectiveness analysis, we updated the Sheffield economic model of T2DM. Modelling based on RCTs may not reflect what happens in routine care so we created a 'real-life' modelling scenario wherein people would try lifestyle change but switch to metformin after 1 year if they failed.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Nine RCTs compared lifestyle interventions (predominantly dietary and physical activity advice, with regular reinforcement and frequent follow-up) with standard care. The primary outcome was progression to diabetes. In most trials, progression was reduced, by over half in some trials. The best effects were seen in participants who adhered best to the lifestyle changes; a scenario of a trial of lifestyle change but a switch to metformin after 1 year in those who did not adhere sufficiently appeared to be the most cost-effective option.</fragment>
+			</section>
+			<section label="LIMITATIONS" id="CONCLUSIONS">
+				<fragment>Participants in the RCTs were volunteers and their results may have been better than in general populations. Even among the volunteers, many did not adhere. Some studies were not long enough to show whether the interventions reduced cardiovascular mortality as well as diabetes. The main problem is that we know what people should do to reduce progression, but not how to persuade most to do it.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>In people with IGT, dietary change to ensure weight loss, coupled with physical activity, is clinically effective and cost-effective in reducing progression to diabetes.</fragment>
+			</section>
+			<section label="FUNDING" id="BACKGROUND">
+				<fragment>The National Institute for Health Research Health Technology Assessment programme.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3310/hta16330" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.0709000006318092" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0017725" scheme="gov.nih.nlm.semanticType.phsu" label="Glucose"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>Effectiveness of quality improvement strategies on the management of diabetes: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22683130" title="Effectiveness of quality improvement strategies on the management of diabetes: a systematic review and meta-analysis."/>
+		<id>22683130</id>
+		<updated>2012-06-18</updated>
+		<summary>Many trials of QI strategies showed improvements in diabetes care. Interventions targeting the system of chronic disease management along with patient-mediated QI strategies should be an important component of interventions aimed at improving diabetes management. Interventions solely targeting health-care professionals seem to be beneficial only if baseline HbA(1c) control is poor.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>The effectiveness of quality improvement (QI) strategies on diabetes care remains unclear. We aimed to assess the effects of QI strategies on glycated haemoglobin (HbA(1c)), vascular risk management, microvascular complication monitoring, and smoking cessation in patients with diabetes.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We identified studies through Medline, the Cochrane Effective Practice and Organisation of Care database (from inception to July 2010), and references of included randomised clinical trials. We included trials assessing 11 predefined QI strategies or financial incentives targeting health systems, health-care professionals, or patients to improve management of adult outpatients with diabetes. Two reviewers independently abstracted data and appraised risk of bias.</fragment>
+			</section>
+			<section label="FINDINGS" id="RESULTS">
+				<fragment>We reviewed 48 cluster randomised controlled trials, including 2538 clusters and 84,865 patients, and 94 patient randomised controlled trials, including 38,664 patients. In random effects meta-analysis, the QI strategies reduced HbA(1c) by a mean difference of 0·37% (95% CI 0·28-0·45; 120 trials), LDL cholesterol by 0·10 mmol/L (0·05-0.14; 47 trials), systolic blood pressure by 3·13 mm Hg (2·19-4·06, 65 trials), and diastolic blood pressure by 1·55 mm Hg (0·95-2·15, 61 trials) versus usual care. We noted larger effects when baseline concentrations were greater than 8·0% for HbA(1c), 2·59 mmol/L for LDL cholesterol, and 80 mm Hg for diastolic and 140 mm Hg for systolic blood pressure. The effectiveness of QI strategies varied depending on baseline HbA(1c) control. QI strategies increased the likelihood that patients received aspirin (11 trials; relative risk [RR] 1·33, 95% CI 1·21-1·45), antihypertensive drugs (ten trials; RR 1·17, 1·01-1·37), and screening for retinopathy (23 trials; RR 1·22, 1·13-1·32), renal function (14 trials; RR 128, 1·13-1·44), and foot abnormalities (22 trials; RR 1·27, 1·16-1·39). However, statin use (ten trials; RR 1·12, 0·99-1·28), hypertension control (18 trials; RR 1·01, 0·96-1·07), and smoking cessation (13 trials; RR 1·13, 0·99-1·29) were not significantly increased.</fragment>
+			</section>
+			<section label="INTERPRETATION" id="CONCLUSIONS">
+				<fragment>Many trials of QI strategies showed improvements in diabetes care. Interventions targeting the system of chronic disease management along with patient-mediated QI strategies should be an important component of interventions aimed at improving diabetes management. Interventions solely targeting health-care professionals seem to be beneficial only if baseline HbA(1c) control is poor.</fragment>
+			</section>
+			<section label="FUNDING" id="BACKGROUND">
+				<fragment>Ontario Ministry of Health and Long-term Care and the Alberta Heritage Foundation for Medical Research (now Alberta Innovates--Health Solutions).</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/S0140-6736(12)60480-2" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="2" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.391299992799759" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0004057" scheme="gov.nih.nlm.semanticType.orch" label="Aspirin"/>
+		<source type="Lancet"/>
+	</entry>
+	<entry>
+		<title>Role of intensive glucose control in development of renal end points in type 2 diabetes mellitus: systematic review and meta-analysis intensive glucose control in type 2 diabetes.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22636820" title="Role of intensive glucose control in development of renal end points in type 2 diabetes mellitus: systematic review and meta-analysis intensive glucose control in type 2 diabetes."/>
+		<id>22636820</id>
+		<updated>2012-05-28</updated>
+		<summary>Intensive glucose control reduces the risk for microalbuminuria and macroalbuminuria, but evidence is lacking that intensive glycemic control reduces the risk for significant clinical renal outcomes, such as doubling of the serum creatinine level, ESRD, or death from renal disease during the years of follow-up of the trials.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Aggressive glycemic control has been hypothesized to prevent renal disease in patients with type 2 diabetes mellitus. A systematic review was conducted to summarize the benefits of intensive vs conventional glucose control on kidney-related outcomes for adults with type 2 diabetes.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Three databases were systematically searched (January 1, 1950, to December 31, 2010) with no language restrictions to identify randomized trials that compared surrogate renal end points (microalbuminuria and macroalbuminuria) and clinical renal end points (doubling of the serum creatinine level, end-stage renal disease [ESRD], and death from renal disease) in patients with type 2 diabetes receiving intensive glucose control vs those receiving conventional glucose control.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>We evaluated 7 trials involving 28 065 adults who were monitored for 2 to 15 years. Compared with conventional control, intensive glucose control reduced the risk for microalbuminuria (risk ratio, 0.86 [95% CI, 0.76-0.96]) and macroalbuminuria (0.74 [0.65-0.85]), but not doubling of the serum creatinine level (1.06 [0.92-1.22]), ESRD (0.69 [0.46-1.05]), or death from renal disease (0.99 [0.55-1.79]). Meta-regression revealed that larger differences in hemoglobin A1c between intensive and conventional therapy at the study level were associated with greater benefit for both microalbuminuria and macroalbuminuria. The pooled cumulative incidence of doubling of the serum creatinine level, ESRD, and death from renal disease was low (&lt;4%, &lt;1.5%, and &lt;0.5%, respectively) compared with the surrogate renal end points of microalbuminuria (23%) and macroalbuminuria (5%).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Intensive glucose control reduces the risk for microalbuminuria and macroalbuminuria, but evidence is lacking that intensive glycemic control reduces the risk for significant clinical renal outcomes, such as doubling of the serum creatinine level, ESRD, or death from renal disease during the years of follow-up of the trials.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinternmed.2011.2230" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3688081" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="3" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.317799985408783" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>Metformin for liver cancer prevention in patients with type 2 diabetes: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22523334" title="Metformin for liver cancer prevention in patients with type 2 diabetes: a systematic review and meta-analysis."/>
+		<id>22523334</id>
+		<updated>2012-07-09</updated>
+		<summary>Metformin appears to be associated with a lower risk of liver cancer in patients with type 2 diabetes. Further investigation, including mechanistic studies, well-designed cohort studies, and possibly controlled trials, is needed.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Data on the potential effect of metformin on the risk of liver cancer are limited and inconsistent.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>The objective of this study was to review the evidence currently available to examine the potential role of metformin in chemoprevention for liver cancer in patients with type 2 diabetes.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>The data sources of the study included the PubMed and SciVerse Scopus databases.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Selection included studies that assessed the effect of metformin therapy on the risk of liver cancer in patients with type 2 diabetes.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Summary effect estimates were derived using a random-effects meta-analysis model.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>A database was developed on the basis of five studies consisting of approximately 105,495 patients with type 2 diabetes. In meta-analyses, metformin was associated with an estimated 62% reduction in the risk of liver cancer among patients with type 2 diabetes (odds ratio 0.38, 95% confidence interval 0.24, 0.59; P &lt; 0.001). The effect estimates were heterogeneous across the five included studies (P for heterogeneity = 0.001; I(2) = 78%). When restricting the analysis to the four studies related to hepatocellular carcinoma, metformin was again associated with a significantly lower cancer risk (odds ratio 0.30, 95% confidence interval 0.17, 0.52; P &lt; 0.001), and there was evidence of significant heterogeneity between these four studies (P for heterogeneity = 0.03; I(2) = 67%).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Metformin appears to be associated with a lower risk of liver cancer in patients with type 2 diabetes. Further investigation, including mechanistic studies, well-designed cohort studies, and possibly controlled trials, is needed.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1210/jc.2012-1267" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.483700007200241" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0025598" scheme="gov.nih.nlm.semanticType.orch" label="Metformin"/>
+		<source type="J. Clin. Endocrinol. Metab."/>
+	</entry>
+	<entry>
+		<title>Prediction models for the risk of cardiovascular disease in patients with type 2 diabetes: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22184101" title="Prediction models for the risk of cardiovascular disease in patients with type 2 diabetes: a systematic review."/>
+		<id>22184101</id>
+		<updated>2012-02-07</updated>
+		<summary>Many cardiovascular risk scores are available that can be applied to patients with type 2 diabetes. A minority of these risk scores has been validated and tested for its predictive accuracy, with only a few showing a discriminative value of ≥0.80. The impact of applying these risk scores in clinical practice is almost completely unknown, but their use is recommended in various national guidelines.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>A recent overview of all CVD models applicable to diabetes patients is not available.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To review the primary prevention studies that focused on the development, validation and impact assessment of a cardiovascular risk model, scores or rules that can be applied to patients with type 2 diabetes.</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>Systematic review.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Medline was searched from 1966 to 1 April 2011.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>A study was eligible when it described the development, validation or impact assessment of a model that was constructed to predict the occurrence of cardiovascular disease in people with type 2 diabetes, or when the model was designed for use in the general population but included diabetes as a predictor.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>A standardized form was sued to extract all data of the CVD models.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>45 prediction models were identified, of which 12 were specifically developed for patients with type 2 diabetes. Only 31% of the risk scores has been externally validated in a diabetes population, with an area under the curve ranging from 0.61 to 0.86 and 0.59 to 0.80 for models developed in a diabetes population and in the general population, respectively. Only one risk score has been studied for its effect on patient management and outcomes. 10% of the risk scores are advocated in national diabetes guidelines.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Many cardiovascular risk scores are available that can be applied to patients with type 2 diabetes. A minority of these risk scores has been validated and tested for its predictive accuracy, with only a few showing a discriminative value of ≥0.80. The impact of applying these risk scores in clinical practice is almost completely unknown, but their use is recommended in various national guidelines.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/heartjnl-2011-300734" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.0917999967932701" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Heart"/>
+	</entry>
+	<entry>
+		<title>Quantitative model of the relationship between dipeptidyl peptidase-4 (DPP-4) inhibition and response: meta-analysis of alogliptin, saxagliptin, sitagliptin, and vildagliptin efficacy results.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22162539" title="Quantitative model of the relationship between dipeptidyl peptidase-4 (DPP-4) inhibition and response: meta-analysis of alogliptin, saxagliptin, sitagliptin, and vildagliptin efficacy results."/>
+		<id>22162539</id>
+		<updated>2012-09-19</updated>
+		<summary/>
+		<content>
+			<section>
+				<fragment>Dipeptidyl peptidase-4 (DPP-4) inhibition is a well- characterized treatment for type 2 diabetes mellitus (T2DM). The objective of this model-based meta-analysis was to describe the time course of HbA1c response after dosing with alogliptin (ALOG), saxagliptin (SAXA), sitagliptin (SITA), or vildagliptin (VILD). Publicly available data involving late-stage or marketed DPP-4 inhibitors were leveraged for the analysis. Nonlinear mixed-effects modeling was performed to describe the relationship between DPP-4 inhibition and mean response over time. Plots of the relationship between metrics of DPP-4 inhibition (ie, weighted average inhibition [WAI], time above 80% inhibition, and trough inhibition) and response after 12 weeks of daily dosing were evaluated. The WAI was most closely related to outcome, although other metrics performed well. A model was constructed that included fixed effects for placebo and drug and random effects for intertrial variability and residual error. The relationship between WAI and outcome was nonlinear, with an increasing response up to 98% WAI. Response to DPP-4 inhibitors could be described with a single drug effect. The WAI appears to be a useful index of DPP-4 inhibition related to HbA1c. Biomarker to response relationships informed by model-based meta-analysis can be leveraged to support study designs including optimization of dose, duration of therapy, and patient population.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1177/0091270011420153" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.723599970340729" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Clin Pharmacol"/>
+	</entry>
+	<entry>
+		<title>Psychological resistance to insulin therapy in adults with type 2 diabetes: mixed-method systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22050365" title="Psychological resistance to insulin therapy in adults with type 2 diabetes: mixed-method systematic review."/>
+		<id>22050365</id>
+		<updated>2012-03-13</updated>
+		<summary>Psychological resistance to insulin therapy can result from a range of personal viewpoints involving cognitive appraisal and/or emotional reactions.</summary>
+		<content>
+			<section label="AIM" id="OBJECTIVE">
+				<fragment>This paper is a report of a review that aimed to describe the phenomenon of psychological resistance to insulin therapy from the perspective of adults with type 2 diabetes mellitus.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Although the benefits of insulin for people with diabetes who are poorly controlled by oral agents have been established, delay in transition to insulin treatment is common. An understanding of the barriers to insulin from the client's viewpoint provides information to facilitate appropriate and effective care.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Searches were carried out between 1999 and 2009 using computerized databases, three in English language and one in Chinese.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>Review design was a mixed-method systematic review, and data abstraction and synthesis were undertaken by thematic synthesis. Reviewed articles were restricted to adults with type 2 diabetes and published in English or Chinese.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Sixteen articles were included. For adults with type 2 diabetes, psychological resistance to insulin therapy could be explained by five themes. Three themes were categorized as cognitive appraisal, including 'people do not see the necessity for insulin and actively seek ways to control blood sugars without insulin', 'people have a holistic view of the consequences of insulin' and 'people see insulin therapy as less feasible'. Two themes were categorized as emotional reactions: 'people see insulin as a source of fear/anxiety', and 'the necessity to start insulin therapy has a very negative connotation for them and is associated with dysfunctional emotions'.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Psychological resistance to insulin therapy can result from a range of personal viewpoints involving cognitive appraisal and/or emotional reactions.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1365-2648.2011.05853.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.0710999965667725" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0021641" scheme="gov.nih.nlm.semanticType.aapp" label="Insulin"/>
+		<category term="C0021641" scheme="gov.nih.nlm.semanticType.phsu" label="Insulin"/>
+		<category term="C0021641" scheme="gov.nih.nlm.semanticType.phsu" label="Insulin"/>
+		<source type="J Adv Nurs"/>
+	</entry>
+	<entry>
+		<title>Depression and risk of stroke: a meta-analysis of prospective studies.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22020036" title="Depression and risk of stroke: a meta-analysis of prospective studies."/>
+		<id>22020036</id>
+		<updated>2012-12-27</updated>
+		<summary>Depression significantly increased the risk of development of stroke, and this increase was probably independent of other risk factors, including hypertension and diabetes.</summary>
+		<content>
+			<section label="BACKGROUND AND PURPOSE" id="OBJECTIVE">
+				<fragment>A history of depression may be associated with an increased risk of stroke. We aimed to determine the association between depression and risk of stroke by performing a meta-analysis of prospective studies.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Relevant studies were identified by a PubMed database search through May 2011 without restrictions and by reviewing reference lists of obtained articles. Community-based or population-based prospective studies that reported relative risk estimates with 95% confidence intervals for the association between depression and stroke were selected. Studies that enrolled participants with preexisting stroke at baseline were excluded. A random-effects model was used to compute the pooled risk estimate.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Random-effects meta-analysis of 17 prospective studies involving 206 641 participants and 6086 cases demonstrated a significant positive association between depression and subsequent risk of stroke (pooled relative risk, 1.34; 95% confidence interval, 1.17-1.54) after adjustment for potential confounding factors. The associations were similar between men and women. Potential publication bias may exist, but correction for this bias using a formal statistical method did not materially alter the combined risk estimate.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Depression significantly increased the risk of development of stroke, and this increase was probably independent of other risk factors, including hypertension and diabetes.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1161/STROKEAHA.111.630871" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.450700014829636" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Stroke"/>
+	</entry>
+	<entry>
+		<title>The efficacy of tailored interventions for self-management outcomes of type 2 diabetes, hypertension or heart disease: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22010971" title="The efficacy of tailored interventions for self-management outcomes of type 2 diabetes, hypertension or heart disease: a systematic review."/>
+		<id>22010971</id>
+		<updated>2012-02-10</updated>
+		<summary>When cost and resource utilization is taken into consideration, tailored interventions may not be more effective than standard interventions in improving self-management behaviours in individuals with long-term conditions. Future research should explore the effect of robust and resource-optimized tailored interventions on self-management outcomes for long-term conditions with high-quality trials.</summary>
+		<content>
+			<section label="AIM" id="OBJECTIVE">
+				<fragment>To evaluate the evidence on the effectiveness of tailored interventions on self-management behaviours in individuals with heart disease, hypertension or type 2 diabetes.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Tailored interventions are designed for individuals based on their unique characteristics, related to the outcome of interest, and derived from an individual assessment. Recognizing the differences between individuals and delivering interventions tailored to the individual could increase the likelihood of sustained self-management of long-term conditions. Review methods.  A review of randomized controlled trials published between 2001 and 2010 was undertaken using the following databases: Pubmed, WOS, CINAHL, ERIC, ASP, PsychInfo and SSA. The search terms included tailored intervention(s), and self-management of chronic diseases included in the aim. Reference lists from relevant articles were also examined for additional references.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Ten studies were included in the review. Tailored interventions had no impact on self-management activities such as medication adherence, self-monitoring, exercise, smoking, or diet control. However, tailored interventions were modestly successful in improving specific self-management behaviours of dietary fat intake, levels of physical activity or screening. Studies included in the review generally suffered from compromised methodological issues of inadequately powered sample size, non-blinding of data collection or intervention delivery and inadequate reporting of the randomization process.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>When cost and resource utilization is taken into consideration, tailored interventions may not be more effective than standard interventions in improving self-management behaviours in individuals with long-term conditions. Future research should explore the effect of robust and resource-optimized tailored interventions on self-management outcomes for long-term conditions with high-quality trials.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1365-2648.2011.05860.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.287999987602234" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Adv Nurs"/>
+	</entry>
+	<entry>
+		<title>Bariatric surgery as a novel treatment for type 2 diabetes mellitus: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21690453" title="Bariatric surgery as a novel treatment for type 2 diabetes mellitus: a systematic review."/>
+		<id>21690453</id>
+		<updated>2011-06-21</updated>
+		<summary>Bariatric surgery leads to marked and long-lasting weight reduction. A large proportion of patients undergoing bariatric surgery have DM2. In fact, the presence of diabetes mellitus is a compelling argument to perform bariatric surgery in those who are eligible according to international criteria. Glycemic control improves in the months after laparoscopic adjustable gastric banding, but it improves more rapidly and completely after laparoscopic Roux-en-Y gastric bypass surgery. Thus, both types of surgery are capable of improving or even curing DM2, but the mechanisms may differ.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To systematically review the literature pertaining to the reversal of type 2 diabetes mellitus (DM2) after Roux-en-Y gastric bypass and adjustable gastric banding.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>We conducted a review of the literature using PubMed and searched the reference lists of published studies to identify additional studies.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>We selected all published articles that were relevant with respect to bariatric surgery and its metabolic effects.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Only 9 original articles reporting on DM2 reversal rates after bariatric surgery were identified: 1 randomized controlled trial and 8 observational studies. Other referenced articles serve as background literature.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>Roux-en-Y gastric bypass leads to a reversal rate of DM2 of 83%. Adjustable gastric banding confers a reversal rate of 62%, and this effect is achieved later after surgery.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Bariatric surgery leads to marked and long-lasting weight reduction. A large proportion of patients undergoing bariatric surgery have DM2. In fact, the presence of diabetes mellitus is a compelling argument to perform bariatric surgery in those who are eligible according to international criteria. Glycemic control improves in the months after laparoscopic adjustable gastric banding, but it improves more rapidly and completely after laparoscopic Roux-en-Y gastric bypass surgery. Thus, both types of surgery are capable of improving or even curing DM2, but the mechanisms may differ.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archsurg.2011.134" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.281899988651276" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Arch Surg"/>
+	</entry>
+	<entry>
+		<title>Television viewing and risk of type 2 diabetes, cardiovascular disease, and all-cause mortality: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21673296" title="Television viewing and risk of type 2 diabetes, cardiovascular disease, and all-cause mortality: a meta-analysis."/>
+		<id>21673296</id>
+		<updated>2011-06-15</updated>
+		<summary>Prolonged TV viewing was associated with increased risk of type 2 diabetes, cardiovascular disease, and all-cause mortality.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Prolonged television (TV) viewing is the most prevalent and pervasive sedentary behavior in industrialized countries and has been associated with morbidity and mortality. However, a systematic and quantitative assessment of published studies is not available.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To perform a meta-analysis of all prospective cohort studies to determine the association between TV viewing and risk of type 2 diabetes, fatal or nonfatal cardiovascular disease, and all-cause mortality.</fragment>
+			</section>
+			<section label="DATA SOURCES AND STUDY SELECTION" id="METHODS">
+				<fragment>Relevant studies were identified by searches of the MEDLINE database from 1970 to March 2011 and the EMBASE database from 1974 to March 2011 without restrictions and by reviewing reference lists from retrieved articles. Cohort studies that reported relative risk estimates with 95% confidence intervals (CIs) for the associations of interest were included.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Data were extracted independently by each author and summary estimates of association were obtained using a random-effects model.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>Of the 8 studies included, 4 reported results on type 2 diabetes (175,938 individuals; 6428 incident cases during 1.1 million person-years of follow-up), 4 reported on fatal or nonfatal cardiovascular disease (34,253 individuals; 1052 incident cases), and 3 reported on all-cause mortality (26,509 individuals; 1879 deaths during 202,353 person-years of follow-up). The pooled relative risks per 2 hours of TV viewing per day were 1.20 (95% CI, 1.14-1.27) for type 2 diabetes, 1.15 (95% CI, 1.06-1.23) for fatal or nonfatal cardiovascular disease, and 1.13 (95% CI, 1.07-1.18) for all-cause mortality. While the associations between time spent viewing TV and risk of type 2 diabetes and cardiovascular disease were linear, the risk of all-cause mortality appeared to increase with TV viewing duration of greater than 3 hours per day. The estimated absolute risk differences per every 2 hours of TV viewing per day were 176 cases of type 2 diabetes per 100,000 individuals per year, 38 cases of fatal cardiovascular disease per 100,000 individuals per year, and 104 deaths for all-cause mortality per 100,000 individuals per year.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Prolonged TV viewing was associated with increased risk of type 2 diabetes, cardiovascular disease, and all-cause mortality.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.2011.812" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.679099977016449" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>Physical activity advice only or structured exercise training and association with HbA1c levels in type 2 diabetes: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21540423" title="Physical activity advice only or structured exercise training and association with HbA1c levels in type 2 diabetes: a systematic review and meta-analysis."/>
+		<id>21540423</id>
+		<updated>2011-05-04</updated>
+		<summary>Structured exercise training that consists of aerobic exercise, resistance training, or both combined is associated with HbA(1c) reduction in patients with type 2 diabetes. Structured exercise training of more than 150 minutes per week is associated with greater HbA(1c) declines than that of 150 minutes or less per week. Physical activity advice is associated with lower HbA(1c), but only when combined with dietary advice.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Regular exercise improves glucose control in diabetes, but the association of different exercise training interventions on glucose control is unclear.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To conduct a systematic review and meta-analysis of randomized controlled clinical trials (RCTs) assessing associations of structured exercise training regimens (aerobic, resistance, or both) and physical activity advice with or without dietary cointervention on change in hemoglobin A(1c) (HbA(1c)) in type 2 diabetes patients.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>MEDLINE, Cochrane-CENTRAL, EMBASE, ClinicalTrials.gov, LILACS, and SPORTDiscus databases were searched from January 1980 through February 2011.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>RCTs of at least 12 weeks' duration that evaluated the ability of structured exercise training or physical activity advice to lower HbA(1c) levels as compared with a control group in patients with type 2 diabetes.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Two independent reviewers extracted data and assessed quality of the included studies.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>Of 4191 articles retrieved, 47 RCTs (8538 patients) were included. Pooled mean differences in HbA(1c) levels between intervention and control groups were calculated using a random-effects model. Overall, structured exercise training (23 studies) was associated with a decline in HbA(1c) level (-0.67%; 95% confidence interval [CI], -0.84% to -0.49%; I(2), 91.3%) compared with control participants. In addition, structured aerobic exercise (-0.73%; 95% CI, -1.06% to -0.40%; I(2), 92.8%), structured resistance training (-0.57%; 95% CI, -1.14% to -0.01%; I(2), 92.5%), and both combined (-0.51%; 95% CI, -0.79% to -0.23%; I(2), 67.5%) were each associated with declines in HbA(1C) levels compared with control participants. Structured exercise durations of more than 150 minutes per week were associated with HbA(1c) reductions of 0.89%, while structured exercise durations of 150 minutes or less per week were associated with HbA(1C) reductions of 0.36%. Overall, interventions of physical activity advice (24 studies) were associated with lower HbA(1c) levels (-0.43%; 95% CI, -0.59% to -0.28%; I(2), 62.9%) compared with control participants. Combined physical activity advice and dietary advice was associated with decreased HbA(1c) (-0.58%; 95% CI, -0.74% to -0.43%; I(2), 57.5%) as compared with control participants. Physical activity advice alone was not associated with HbA(1c) changes.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Structured exercise training that consists of aerobic exercise, resistance training, or both combined is associated with HbA(1c) reduction in patients with type 2 diabetes. Structured exercise training of more than 150 minutes per week is associated with greater HbA(1c) declines than that of 150 minutes or less per week. Physical activity advice is associated with lower HbA(1c), but only when combined with dietary advice.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.2011.576" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="4" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.687600016593933" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>Relationship of baseline HbA1c, HbA1c change and HbA1c target of &lt; 7% with insulin analogues in type 2 diabetes: a meta-analysis of randomised controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21489084" title="Relationship of baseline HbA1c, HbA1c change and HbA1c target of &lt; 7% with insulin analogues in type 2 diabetes: a meta-analysis of randomised controlled trials."/>
+		<id>21489084</id>
+		<updated>2011-04-14</updated>
+		<summary>The strong positive relationship between baseline HbA1c and the magnitude of HbA1c change we found in RCTs using insulin analogues in type 2 diabetes should be considered when assessing the clinical efficacy of insulin therapies.</summary>
+		<content>
+			<section label="AIM" id="OBJECTIVE">
+				<fragment>We performed a meta-analysis of randomised controlled trials (RCTs) with insulin analogues in type 2 diabetes utilising a least-squared regression model in order to assess the relationship between baseline HbA1c, the magnitude of HbA1c decrease and attainment of HbA1c target of &lt; 7%.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Randomised controlled trials involving insulin regimens (basal, prandial, biphasic and basal-bolus) were identified through electronic searches (MEDLINE, EMBASE, CINAHL and The Cochrane Library) through September 2010. We included any study arm of RCTs if they were at least 12 weeks in duration; the number of patients in any arm was more than 30 and reported the baseline HbA1c and change from baseline HbA1c.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>We found 87 studies, with a total of 135 arms, and 38,803 patients. The weighted R(2) values for the overall analysis assessing the association between baseline HbA1c and absolute change in HbA1c or the proportion of patients at target were 0.485 (p &lt; 0.001) and 0.146 (p &lt; 0.001), respectively. Subanalyses of insulin regimens for the association between basal HbA1c and absolute decrease of HbA1c produced weighted R(2), which were significant for all insulin regimens with the highest association for basal-bolus (R(2) = 0.719, p &lt; 0.001).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The strong positive relationship between baseline HbA1c and the magnitude of HbA1c change we found in RCTs using insulin analogues in type 2 diabetes should be considered when assessing the clinical efficacy of insulin therapies.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1742-1241.2010.02619.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.536400020122528" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0021641" scheme="gov.nih.nlm.semanticType.aapp" label="Insulin"/>
+		<category term="C0021641" scheme="gov.nih.nlm.semanticType.aapp" label="Insulin"/>
+		<category term="C0021641" scheme="gov.nih.nlm.semanticType.aapp" label="Insulin"/>
+		<source type="Int. J. Clin. Pract."/>
+	</entry>
+	<entry>
+		<title>Long-term use of thiazolidinediones and the associated risk of pneumonia or lower respiratory tract infection: systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21325145" title="Long-term use of thiazolidinediones and the associated risk of pneumonia or lower respiratory tract infection: systematic review and meta-analysis."/>
+		<id>21325145</id>
+		<updated>2011-04-21</updated>
+		<summary>Long-term thiazolidinedione use is associated with a modestly increased risk of any pneumonia or lower respiratory tract infection and serious pneumonia or lower respiratory tract infection in patients with type 2 diabetes.</summary>
+		<content>
+			<section label="INTRODUCTION" id="BACKGROUND">
+				<fragment>The peroxisome proliferator-activated receptor-γ agonists rosiglitazone and pioglitazone activate glucocorticoid receptors and have an immunomodulatory effect. The authors aimed to systematically determine the risk of pneumonia or lower respiratory tract infections associated with thiazolidinediones.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Systematic searches of MEDLINE, EMBASE, regulatory documents and trial registries were carried out for randomised controlled trials of thiazolidinediones with no date restrictions through March 2010. The authors selected long-term (≥1 year) randomised controlled trials of thiazolidinediones versus a placebo, metformin or sulfonylurea control for prevention or treatment of type 2 diabetes that reported on pneumonia or lower respiratory tract infection adverse events or serious adverse events (hospitalisation, disability or death). Relative risks (RRs) were estimated using a fixed-effects meta-analysis, and statistical heterogeneity was assessed using the I(2) statistic.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Thirteen trials (n=17,627, including 8163 patients receiving thiazolidinediones and 9464 patients receiving control therapy) with a duration of follow-up of 1-5.5 years were included after a detailed screening of 58 studies. Thiazolidinediones were associated with a statistically significantly increased risk for any pneumonia or lower respiratory tract infection (n=130/8163 vs 100/9464; RR 1.40; 95% CI 1.08 to 1.82; p=0.01; I(2)=0%) and serious pneumonia or lower respiratory tract infection (n=111/7391 vs 87/8692; RR 1.39; 95% CI 1.05 to 1.83; p=0.02; I(2)=0%).</fragment>
+			</section>
+			<section label="INTERPRETATION" id="CONCLUSIONS">
+				<fragment>Long-term thiazolidinedione use is associated with a modestly increased risk of any pneumonia or lower respiratory tract infection and serious pneumonia or lower respiratory tract infection in patients with type 2 diabetes.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/thx.2010.152777" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.368800014257431" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C1257987" scheme="gov.nih.nlm.semanticType.orch" label="Thiazolidinediones"/>
+		<category term="C1257987" scheme="gov.nih.nlm.semanticType.orch" label="Thiazolidinediones"/>
+		<category term="C0071097" scheme="gov.nih.nlm.semanticType.orch" label="pioglitazone"/>
+		<category term="C0289313" scheme="gov.nih.nlm.semanticType.orch" label="rosiglitazone"/>
+		<category term="C1257987" scheme="gov.nih.nlm.semanticType.orch" label="Thiazolidinediones"/>
+		<category term="C1257987" scheme="gov.nih.nlm.semanticType.orch" label="Thiazolidinediones"/>
+		<category term="C1257987" scheme="gov.nih.nlm.semanticType.orch" label="Thiazolidinediones"/>
+		<category term="C1257987" scheme="gov.nih.nlm.semanticType.orch" label="Thiazolidinediones"/>
+		<source type="Thorax"/>
+	</entry>
+	<entry>
+		<title>Newer agents for blood glucose control in type 2 diabetes: systematic review and economic evaluation.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20646668" title="Newer agents for blood glucose control in type 2 diabetes: systematic review and economic evaluation."/>
+		<id>20646668</id>
+		<updated>2010-07-21</updated>
+		<summary>The UKPDS Outcomes Model does not directly address aspects of the treatments under consideration, for example the direct utility effects from weight loss or weight gain, severe hypoglycaemic events and the fear of severe hypoglycaemic events. Also, small differences in QALYs among the drugs lead to fluctuations in incremental cost-effectiveness ratios.Exenatide, the gliptins and detemir were all clinically effective. The long-acting insulin analogues glargine and detemir appeared to have only slight clinical advantages over NPH, but had much higher costs and did not appear to be cost-effective as first-line insulins for type 2 diabetes. Neither did exenatide appear to be cost-effective compared with NPH but, when used as third drug after failure of dual oral combination therapy, exenatide appeared cost-effective relative to glargine in this analysis. The gliptins are similar to the glitazones in glycaemic control and costs, and appeared to have fewer long-term side effects. Therefore, it appears, as supported by recent NICE guidelines, that NPH should be the preferred first-line insulin for the treatment of type 2 diabetes. More economic analysis is required to establish when it becomes cost-effective to switch from NPH to a long-acting analogue. Also, long-term follow-up studies of exenatide and the gliptins, and data on combined insulin and exenatide treatment, would be useful.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>In May 2008, the National Institute for Health and Clinical Excellence (NICE) issued an updated guideline [clinical guideline (CG) 66] for the management of all aspects of type 2 diabetes. This report aims to provide information on new drug developments to support a 'new drugs update' to the 2008 guideline.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To review the newer agents available for blood glucose control in type 2 diabetes from four classes: the glucagon-like peptide-1 (GLP-1) analogue exenatide; dipeptidyl peptidase-4 (DPP-4) inhibitors sitagliptin and vildagliptin; the long-acting insulin analogues, glargine and detemir; and to review concerns about the safety of the thiazolidinediones.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>The following databases were searched: MEDLINE (1990-April 2008), EMBASE (1990-April 2008), the Cochrane Library (all sections) Issue 2, 2008, and the Science Citation Index and ISI Proceedings (2000-April 2008). The websites of the American Diabetes Association, the European Association for the Study of Diabetes, the US Food and Drug Administration, the European Medicines Evaluation Agency and the Medicines and Healthcare Products Regulatory Agency were searched, as were manufacturers' websites.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>Data extraction was carried out by one person, and checked by a second. Studies were assessed for quality using standard methods for reviews of trials. Meta-analyses were carried out using the Cochrane Review Manager (RevMan) software. Inclusion and exclusion criteria were based on current standard clinical practice in the UK, as outlined in NICE CG 66. The outcomes for the GLP-1 analogues, DPP-4 inhibitors and the long-acting insulin analogues were: glycaemic control, reflected by glycated haemoglobin (HbA1c) level, hypoglycaemic episodes, changes in weight, adverse events, quality of life and costs. Modelling of the cost-effectiveness of the various regimes used the United Kingdom Prospective Diabetes Study (UKPDS) Outcomes Model.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Exenatide improved glycaemic control by around 1%, and had the added benefit of weight loss. The gliptins were effective in improving glycaemic control, reducing HbA1c level by about 0.8%. Glargine and detemir were equivalent to Neutral Protamine Hagedorn (NPH) (and to each other) in terms of glycaemic control but had modest advantages in terms of hypoglycaemia, especially nocturnal. Detemir, used only once daily, appeared to cause slightly less weight gain than glargine. The glitazones appeared to have similar effectiveness in controlling hyperglycaemia. Both can cause heart failure and fractures, but rosiglitazone appears to slightly increase the risk of cardiovascular events whereas pioglitazone reduces it. Eight trials examined the benefits of adding pioglitazone to an insulin regimen; in our meta-analysis, the mean reduction in HbA1c level was 0.54% [95% confidence interval (CI) -0.70 to -0.38] and hypoglycaemia was marginally more frequent in the pioglitazone arms [relative risk (RR) 1.27, 95% CI 0.99 to 1.63]. In most studies, those on pioglitazone gained more weight than those who were not. In terms of annual drug acquisition costs among the non-insulin regimes for a representative patient with a body mass index of around 30 kg/m2, the gliptins were the cheapest of the new drugs, with costs of between 386 pounds and 460 pounds. The glitazone costs were similar, with total annual costs for pioglitazone and for rosiglitazone of around 437 pounds and 482 pounds, respectively. Exenatide was more expensive, with an annual cost of around 830 pounds. Regimens containing insulin fell between the gliptins and exenatide in terms of their direct costs, with a NPH-based regimen having an annual cost of around 468 pounds for the representative patient, whereas the glargine and detemir regimens were more expensive, at around 634 pounds and 716 pounds, respectively. Comparisons of sitagliptin and rosiglitazone, and of vidagliptin and pioglitazone slowed clinical equivalence in terms of quality-adjusted life-years (QALYs), but the gliptins were marginally less costly. Exenatide, when compared with glargine, appeared to be cost-effective. Comparing glargine with NPH showed an additional anticipated cost of around 1800 pounds. Within the comparison of detemir and NPH, the overall treatment costs for detemir were slightly higher, at between 2700 pounds and 2600 pounds.</fragment>
+			</section>
+			<section label="LIMITATIONS" id="CONCLUSIONS">
+				<fragment>The UKPDS Outcomes Model does not directly address aspects of the treatments under consideration, for example the direct utility effects from weight loss or weight gain, severe hypoglycaemic events and the fear of severe hypoglycaemic events. Also, small differences in QALYs among the drugs lead to fluctuations in incremental cost-effectiveness ratios.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Exenatide, the gliptins and detemir were all clinically effective. The long-acting insulin analogues glargine and detemir appeared to have only slight clinical advantages over NPH, but had much higher costs and did not appear to be cost-effective as first-line insulins for type 2 diabetes. Neither did exenatide appear to be cost-effective compared with NPH but, when used as third drug after failure of dual oral combination therapy, exenatide appeared cost-effective relative to glargine in this analysis. The gliptins are similar to the glitazones in glycaemic control and costs, and appeared to have fewer long-term side effects. Therefore, it appears, as supported by recent NICE guidelines, that NPH should be the preferred first-line insulin for the treatment of type 2 diabetes. More economic analysis is required to establish when it becomes cost-effective to switch from NPH to a long-acting analogue. Also, long-term follow-up studies of exenatide and the gliptins, and data on combined insulin and exenatide treatment, would be useful.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3310/hta14360" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.219799995422363" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0021641" scheme="gov.nih.nlm.semanticType.horm" label="Insulin"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C1257987" scheme="gov.nih.nlm.semanticType.phsu" label="Thiazolidinediones"/>
+		<category term="C1579433" scheme="gov.nih.nlm.semanticType.phsu" label="Insulins"/>
+		<category term="C0289313" scheme="gov.nih.nlm.semanticType.orch" label="rosiglitazone"/>
+		<category term="C0167117" scheme="gov.nih.nlm.semanticType.phsu" label="exenatide"/>
+		<category term="C0304870" scheme="gov.nih.nlm.semanticType.aapp" label="Insulin, Long-Acting"/>
+		<category term="C0167117" scheme="gov.nih.nlm.semanticType.aapp" label="exenatide"/>
+		<category term="C0017853" scheme="gov.nih.nlm.semanticType.aapp" label="Hemoglobin, Glycosylated"/>
+		<category term="C0017853" scheme="gov.nih.nlm.semanticType.aapp" label="Hemoglobin, Glycosylated"/>
+		<category term="C0304870" scheme="gov.nih.nlm.semanticType.aapp" label="Insulin, Long-Acting"/>
+		<category term="C0304870" scheme="gov.nih.nlm.semanticType.phsu" label="Insulin, Long-Acting"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>Self-monitoring of blood glucose in type 2 diabetes: systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20226138" title="Self-monitoring of blood glucose in type 2 diabetes: systematic review."/>
+		<id>20226138</id>
+		<updated>2010-03-15</updated>
+		<summary>The evidence suggested that SMBG is of limited clinical effectiveness in improving glycaemic control in people with T2DM on oral agents, or diet alone, and is therefore unlikely to be cost-effective. SMBG may lead to improved glycaemic control only in the context of appropriate education - both for patients and health-care professionals - on how to respond to the data, in terms of lifestyle and treatment adjustment. Also, SMBG may be more effective if patients are able to self-adjust drug treatment. Further research is required on the type of education and feedback that are most helpful, characteristics of patients benefiting most from SMBG, optimal timing and frequency of SMBG, and the circumstances under which SMBG causes anxiety and/or depression.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To examine whether or not self-monitoring of blood glucose (SMBG) is worthwhile, in terms of glycaemic control, hypoglycaemia, quality of life (QoL) and cost per quality-adjusted life-year (QALY), in people with type 2 diabetes (T2DM) who were not treated with insulin or who were on basal insulin in combination with oral agents.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Literature searched included systematic reviews published since 1996, and a systematic review and meta-analyses of randomised controlled trials (RCTs) identified from the reviews, and from searches for more recent trials, along with review of qualitative and economic studies. Search strategies were limited to the English language and to articles published since 1996, and included: databases searched from 1996 to April 2009 - The Cochrane Library, MEDLINE, EMBASE, PsycINFO, Web of Science - limited to meeting abstracts; and websites.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>The intervention was self-testing of blood glucose with a meter and test strips. Studies included adult patients with T2DM on any oral treatment or combination of regimens, including lifestyle, oral agents or once-daily basal insulin. Existing systematic reviews of SMBG were summarised and results compared. Evidence synthesis of all of the studies meeting the inclusion criteria was carried out using a narrative review. Data were analysed by outcome and subgroups. HbA1c data from RCTs were summarised using a meta-analysis. Heterogeneity was calculated using the chi-squared and I2 methods. The following analyses were carried out: SMBG compared to self-monitoring of urine glucose, SMBG versus no SMBG, more intensive SMBG versus less intensive SMBG, and more intensive SMBG versus no SMBG. Available qualitative data gained from in-depth interview studies, repeated interviews, and questionnaire and survey data were summarised.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The review identified 30 RCTs, although few were of high quality. Ten trials comparing SMBG with no SMBG showed statistically significant reduction in HbA1C of 0.21%, which may not be considered clinically significant. A similar, though not statistically significant difference, was shown where SMBG with education was compared to SMBG without education or feedback. RCTs showed no consistent effect on hypoglycaemic episodes and no impact on medication changes. Review of cost-effectiveness studies showed that costs of SMBG per annum vary considerably (10-259 pounds). Although some studies assert that SMBG may lead to savings in health-care costs which may offset the costs of testing, the best analysis to date (DiGEM - Diabetes Glycaemic Education and Monitoring) concluded that SMBG was not cost-effective. Qualitative studies revealed that there was a lack of education in how to interpret and use the data from SMBG, and that failure to act on the results was common.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The evidence suggested that SMBG is of limited clinical effectiveness in improving glycaemic control in people with T2DM on oral agents, or diet alone, and is therefore unlikely to be cost-effective. SMBG may lead to improved glycaemic control only in the context of appropriate education - both for patients and health-care professionals - on how to respond to the data, in terms of lifestyle and treatment adjustment. Also, SMBG may be more effective if patients are able to self-adjust drug treatment. Further research is required on the type of education and feedback that are most helpful, characteristics of patients benefiting most from SMBG, optimal timing and frequency of SMBG, and the circumstances under which SMBG causes anxiety and/or depression.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3310/hta14120" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.0773999989032745" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0021641" scheme="gov.nih.nlm.semanticType.horm" label="Insulin"/>
+		<category term="C0650607" scheme="gov.nih.nlm.semanticType.aapp" label="basal insulin"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>Clinical effectiveness and cost-effectiveness of continuous subcutaneous insulin infusion for diabetes: systematic review and economic evaluation.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20223123" title="Clinical effectiveness and cost-effectiveness of continuous subcutaneous insulin infusion for diabetes: systematic review and economic evaluation."/>
+		<id>20223123</id>
+		<updated>2010-03-12</updated>
+		<summary>The most important weakness of the evidence was the very small number of randomised trials of CSII against the most modern forms of MDI, using analogue insulins.Based on the totality of evidence, using observational studies to supplement the limited data from randomised trials against best MDI, CSII provides some advantages over MDI in T1DM for both children and adults. However, there was no evidence that CSII is better than analogue-based MDI in T2DM or in pregnancy. Further trials with larger numbers and longer durations comparing CSII and optimised MDI in adults, adolescents and children are needed. In addition, there should be a trial of CSII versus MDI with similar provision of structured education in both arms. A trial is also needed for pregnant women with pre-existing diabetes, to investigate using CSII to the best effect.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>The National Institute for Health and Clinical Excellence (NICE) was reviewing its previous guidance on continuous subcutaneous insulin infusion (CSII). The review provided an assessment of evidence which had been published since the previous NICE appraisal (TA 151) in 2007.</fragment>
+			</section>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>To examine the clinical effectiveness and cost-effectiveness of using CSII to treat diabetes. To update the previous assessment report by reviewing evidence that has emerged since the last appraisal, and to take account of developments in alternative therapies, in particular the long-acting analogue insulins, which cause fewer problems with hypoglycaemia.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>A systematic review of the literature and an economic evaluation were carried out. The bibliographic databases used were MEDLINE and EMBASE, 2002 to June 2007. The Cochrane Library (all sections), the Science Citation Index (for meeting abstracts only) and the website of the 2007 American Diabetes Association were also searched.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>The primary focus for type 1 diabetes mellitus (T1DM) was the comparison of CSII with multiple daily injection (MDI), based on the newer insulin analogues, but trials of neutral protamine Hagedorn (NPH)-based MDI that had been published since the last assessment were identified and described in brief. For type 2 diabetes mellitus (T2DM), all trials of MDI versus CSII were included, whether the long-acting insulin was analogue or not, because there was no evidence that analogue-based MDI was better than NPH-based MDI. Trials that were shorter than 12 weeks were excluded. Information on the patients' perspectives was obtained from four sources: the submission from the pump users group--Insulin Pump Therapy (INPUT); interviews with parents of young children who were members of INPUT; some recent studies; and from a summary of findings from the previous assessment report. Economic modelling used the Center for Outcomes Research (CORE) model, through an arrangement with the NICE and the pump manufacturers, whose submission also used the CORE model.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The 74 studies used for analysis included eight randomised controlled trials (RCTs) of CSII versus analogue-based MDI in either T1DM or T2DM, eight new (since the last NICE appraisal) RCTs of CSII versus NPH-based MDI in T1DM, 48 observational studies of CSII, six studies of CSII in pregnancy, and four systematic reviews. The following benefits of CSII were highlighted: better control of blood glucose levels, as reflected by glycated haemoglobin (HbA1c) levels, with the size of improvement depending on the level before starting CSII; reduction in swings in blood glucose levels, and in problems due to the dawn phenomenon; fewer problems with hypoglycaemic episodes; reduction in insulin dose per day, thereby partly off-setting the cost of CSII; improved quality of life, including a reduction in the chronic fear of severe hypoglycaemia; more flexibility of lifestyle--no need to eat at fixed intervals, more freedom of lifestyle and easier participation in social and physical activity; and benefits for the patients' family. The submission from INPUT emphasised the quality of life gains from CSII, as well as improved control and fewer hypoglycaemic episodes. Also, there was a marked discrepancy between the improvement in social quality of life reported by successful pump users, and the lack of convincing health-related quality of life gains reported in the trials. With regard to economic evaluation, the main cost of CSII is for consumables, such as tubing and cannulas, and is about 1800-2000 pounds per year. The cost of the pump, assuming 4-year life, adds another 430-720 pounds per annum. The extra cost compared with analogue-based MDI averages 1700 pounds. Most studies, assuming a reduction in HbA1c level of 1.2%, found CSII to be cost-effective.</fragment>
+			</section>
+			<section label="LIMITATIONS" id="CONCLUSIONS">
+				<fragment>The most important weakness of the evidence was the very small number of randomised trials of CSII against the most modern forms of MDI, using analogue insulins.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Based on the totality of evidence, using observational studies to supplement the limited data from randomised trials against best MDI, CSII provides some advantages over MDI in T1DM for both children and adults. However, there was no evidence that CSII is better than analogue-based MDI in T2DM or in pregnancy. Further trials with larger numbers and longer durations comparing CSII and optimised MDI in adults, adolescents and children are needed. In addition, there should be a trial of CSII versus MDI with similar provision of structured education in both arms. A trial is also needed for pregnant women with pre-existing diabetes, to investigate using CSII to the best effect.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.3310/hta14110" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.0908999964594841" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0017853" scheme="gov.nih.nlm.semanticType.aapp" label="Hemoglobin, Glycosylated"/>
+		<category term="C0304870" scheme="gov.nih.nlm.semanticType.aapp" label="Insulin, Long-Acting"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+	<entry>
+		<title>Statins and risk of incident diabetes: a collaborative meta-analysis of randomised statin trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20167359" title="Statins and risk of incident diabetes: a collaborative meta-analysis of randomised statin trials."/>
+		<id>20167359</id>
+		<updated>2010-03-01</updated>
+		<summary>Statin therapy is associated with a slightly increased risk of development of diabetes, but the risk is low both in absolute terms and when compared with the reduction in coronary events. Clinical practice in patients with moderate or high cardiovascular risk or existing cardiovascular disease should not change.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Trials of statin therapy have had conflicting findings on the risk of development of diabetes mellitus in patients given statins. We aimed to establish by a meta-analysis of published and unpublished data whether any relation exists between statin use and development of diabetes.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We searched Medline, Embase, and the Cochrane Central Register of Controlled Trials from 1994 to 2009, for randomised controlled endpoint trials of statins. We included only trials with more than 1000 patients, with identical follow-up in both groups and duration of more than 1 year. We excluded trials of patients with organ transplants or who needed haemodialysis. We used the I(2) statistic to measure heterogeneity between trials and calculated risk estimates for incident diabetes with random-effect meta-analysis.</fragment>
+			</section>
+			<section label="FINDINGS" id="RESULTS">
+				<fragment>We identified 13 statin trials with 91 140 participants, of whom 4278 (2226 assigned statins and 2052 assigned control treatment) developed diabetes during a mean of 4 years. Statin therapy was associated with a 9% increased risk for incident diabetes (odds ratio [OR] 1.09; 95% CI 1.02-1.17), with little heterogeneity (I(2)=11%) between trials. Meta-regression showed that risk of development of diabetes with statins was highest in trials with older participants, but neither baseline body-mass index nor change in LDL-cholesterol concentrations accounted for residual variation in risk. Treatment of 255 (95% CI 150-852) patients with statins for 4 years resulted in one extra case of diabetes.</fragment>
+			</section>
+			<section label="INTERPRETATION" id="CONCLUSIONS">
+				<fragment>Statin therapy is associated with a slightly increased risk of development of diabetes, but the risk is low both in absolute terms and when compared with the reduction in coronary events. Clinical practice in patients with moderate or high cardiovascular risk or existing cardiovascular disease should not change.</fragment>
+			</section>
+			<section label="FUNDING" id="BACKGROUND">
+				<fragment>None.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/S0140-6736(09)61965-6" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="9" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.364499986171722" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.orch" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<category term="C0360714" scheme="gov.nih.nlm.semanticType.orch" label="Hydroxymethylglutaryl-CoA Reductase Inhibitors"/>
+		<source type="Lancet"/>
+	</entry>
+	<entry>
+		<title>Meta-analysis added power to identify variants in FTO associated with type 2 diabetes and obesity in the Asian population.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20057365" title="Meta-analysis added power to identify variants in FTO associated with type 2 diabetes and obesity in the Asian population."/>
+		<id>20057365</id>
+		<updated>2010-07-28</updated>
+		<summary/>
+		<content>
+			<section>
+				<fragment>Several common variants in the intron 1 of FTO (fat mass and associated obesity) gene have been reliably associated with BMI and obesity in European populations. We analyzed two variants (rs9939609 and rs8050136) in 4,189 Chinese Han individuals and conducted a meta-analysis of published studies in Asian population to investigate whether these variants are associated with type 2 diabetes (T2D) and obesity in Asian population. In this study, both the minor allele A of rs9939609 and the minor allele A of rs805136 were associated with increased risk of T2D, independent of measures of BMI; the odds ratios (ORs) per copy of the risk allele were 1.19 for rs9939609 (95% confidence interval (CI), 1.04-1.37; P = 0.01) and 1.22 for rs8050136 (95% CI, 1.07-1.40; P = 0.004) after adjusting for age, sex, and BMI. Our results also showed association with risk of obesity (rs9939609: OR = 1.39 (95% CI 1.04-1.85), P = 0.02; rs8050136: OR = 1.45 (95% CI 1.09-1.93), P = 0.01) but no association with overweight. These results were consistent with the pooled results from our meta-analysis study (for diabetes, rs8050136, P = 1.3 x 10(-3); rs9939609, P = 9.8 x 10(-4); for obesity, rs8050136, P = 2.2 x 10(-7); rs9939609, P = 9.0 x 10(-9)). Our findings indicate that the two variants (rs9939609 and rs8050136) in the FTO gene contribute to obesity and T2D in the Asian populations.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1038/oby.2009.469" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.200000002980232" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Obesity (Silver Spring)"/>
+	</entry>
+	<entry>
+		<title>Coffee, decaffeinated coffee, and tea consumption in relation to incident type 2 diabetes mellitus: a systematic review with meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20008687" title="Coffee, decaffeinated coffee, and tea consumption in relation to incident type 2 diabetes mellitus: a systematic review with meta-analysis."/>
+		<id>20008687</id>
+		<updated>2009-12-16</updated>
+		<summary>Owing to the presence of small-study bias, our results may represent an overestimate of the true magnitude of the association. Similar significant and inverse associations were observed with decaffeinated coffee and tea and risk of incident diabetes. High intakes of coffee, decaffeinated coffee, and tea are associated with reduced risk of diabetes. The putative protective effects of these beverages warrant further investigation in randomized trials.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Coffee consumption has been reported to be inversely associated with risk of type 2 diabetes mellitus. Similar associations have also been reported for decaffeinated coffee and tea. We report herein the findings of meta-analyses for the association between coffee, decaffeinated coffee, and tea consumption with risk of diabetes.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Relevant studies were identified through search engines using a combined text word and MeSH (Medical Subject Headings) search strategy. Prospective studies that reported an estimate of the association between coffee, decaffeinated coffee, or tea with incident diabetes between 1966 and July 2009.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Data from 18 studies with information on 457 922 participants reported on the association between coffee consumption and diabetes. Six (N = 225 516) and 7 studies (N = 286 701) also reported estimates of the association between decaffeinated coffee and tea with diabetes, respectively. We found an inverse log-linear relationship between coffee consumption and subsequent risk of diabetes such that every additional cup of coffee consumed in a day was associated with a 7% reduction in the excess risk of diabetes relative risk, 0.93 [95% confidence interval, 0.91-0.95]) after adjustment for potential confounders.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Owing to the presence of small-study bias, our results may represent an overestimate of the true magnitude of the association. Similar significant and inverse associations were observed with decaffeinated coffee and tea and risk of incident diabetes. High intakes of coffee, decaffeinated coffee, and tea are associated with reduced risk of diabetes. The putative protective effects of these beverages warrant further investigation in randomized trials.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinternmed.2009.439" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.435799986124039" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>Maternal and fetal outcome in women with type 2 versus type 1 diabetes mellitus: a systematic review and metaanalysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19808847" title="Maternal and fetal outcome in women with type 2 versus type 1 diabetes mellitus: a systematic review and metaanalysis."/>
+		<id>19808847</id>
+		<updated>2009-11-05</updated>
+		<summary>Despite a milder glycemic disturbance, women with type 2 DM had no better perinatal outcomes than those with type 1, indicating that type 2 DM in pregnancy is a serious condition.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Glycemic disturbance is usually less severe in pregnant women with type 2 than in those with type 1 diabetes mellitus (DM). Nevertheless, a worse perinatal outcome in women with type 2 DM has been reported in some studies.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>Our objective was to review maternal and fetal outcomes in pregnant women with type 2 vs. type 1 DM.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>We conducted a systematic review of papers providing original data on pregnancy outcomes in both type 2 and type 1 DM (Medline search of the period January 1, 1987, to June 30, 2008). Two independent investigators considered papers for eligibility, and a third one solved discrepancies.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Metaanalysis tools were used to compare four main outcomes (major congenital malformations, stillbirth, and neonatal and perinatal mortality) and 15 secondary ones (five maternal, 10 fetal). Meta-analysis of Observational Studies in Epidemiology (MOOSE) guidelines were used to assess quality.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>Thirty-three studies qualified for inclusion of 3743 citations retrieved. Women with type 2 DM had lower glycated hemoglobin (HbA1c) at booking and throughout pregnancy but a higher risk of perinatal mortality [odds ratio (OR) 1.50, 95% confidence interval (CI) 1.15-1.96] without significant differences in the rates of major congenital malformations, stillbirth, and neonatal mortality. As to secondary outcomes, women with type 2 DM had less diabetic ketoacidosis (OR 0.09, 95% CI 0.02-0.34) and cesarean section (OR 0.80, 95% CI 0.59-0.94) without differences in other outcomes.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Despite a milder glycemic disturbance, women with type 2 DM had no better perinatal outcomes than those with type 1, indicating that type 2 DM in pregnancy is a serious condition.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1210/jc.2009-1231" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.643599987030029" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Clin. Endocrinol. Metab."/>
+	</entry>
+	<entry>
+		<title>Adiponectin levels and risk of type 2 diabetes: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19584347" title="Adiponectin levels and risk of type 2 diabetes: a systematic review and meta-analysis."/>
+		<id>19584347</id>
+		<updated>2009-07-08</updated>
+		<summary>Higher adiponectin levels are associated with a lower risk of type 2 diabetes across diverse populations, consistent with a dose-response relationship.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>The association of obesity with development of type 2 diabetes may be partly mediated by altered secretion of adipokines by adipose tissue. Greater adiposity down-regulates secretion of adiponectin, an adipokine with anti-inflammatory and insulin-sensitizing properties. The strength and consistency of the relation between plasma adiponectin and risk of type 2 diabetes is unclear.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To systematically review prospective studies of the association of plasma adiponectin levels and risk of type 2 diabetes.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>A systematic search of the MEDLINE, EMBASE, and Science Citation Index Expanded databases using adiponectin and diabetes and various synonyms and reference lists of retrieved articles up to April 10, 2009.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>We included prospective studies with plasma adiponectin levels as the exposure and incidence of type 2 diabetes as the outcome variable.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Two reviewers independently extracted data and assessed study quality. Generalized least-squares trend estimation was used to assess dose-response relationships. Pooled relative risks and 95% confidence intervals were calculated using random-effects models to incorporate between-study variation.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Thirteen prospective studies with a total of 14 598 participants and 2623 incident cases of type 2 diabetes were included in the meta-analysis. Higher adiponectin levels were monotonically associated with a lower risk of type 2 diabetes. The relative risk of type 2 diabetes was 0.72 (95% confidence interval, 0.67-0.78) per 1-log microg/mL increment in adiponectin levels. This inverse association was consistently observed in whites, East Asians, Asian Indians, African Americans, and Native Americans and did not differ by adiponectin assay, method of diabetes ascertainment, duration of follow-up, or proportion of women. The estimated absolute risk difference (cases per 1000 person-years) per 1-log microg/mL increment in adiponectin levels was 3.9 for elderly Americans and 30.8 for Americans with impaired glucose tolerance.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Higher adiponectin levels are associated with a lower risk of type 2 diabetes across diverse populations, consistent with a dose-response relationship.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.2009.976" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.435799986124039" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>Type 2 diabetes mellitus after gestational diabetes: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19465232" title="Type 2 diabetes mellitus after gestational diabetes: a systematic review and meta-analysis."/>
+		<id>19465232</id>
+		<updated>2009-05-25</updated>
+		<summary>Increased awareness of the magnitude and timing of the risk of type 2 diabetes after gestational diabetes among patients and clinicians could provide an opportunity to test and use dietary, lifestyle, and pharmacological interventions that might prevent or delay the onset of type 2 diabetes in affected women.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Women with gestational diabetes are at increased risk of developing type 2 diabetes, but the risk and time of onset have not been fully quantified. We therefore did a comprehensive systematic review and meta-analysis to assess the strength of association between these conditions and the effect of factors that might modify the risk.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We identified cohort studies in which women who had developed type 2 diabetes after gestational diabetes were followed up between Jan 1, 1960, and Jan 31, 2009, from Embase and Medline. 205 relevant reports were hand searched. We selected 20 studies that included 675 455 women and 10 859 type 2 diabetic events. We calculated and pooled unadjusted relative risks (RRs) with 95% CIs for each study using a random-effects model. Subgroups analysed were the number of cases of type 2 diabetes, ethnic origin, duration of follow-up, maternal age, body-mass index, and diagnostic criteria.</fragment>
+			</section>
+			<section label="FINDINGS" id="RESULTS">
+				<fragment>Women with gestational diabetes had an increased risk of developing type 2 diabetes compared with those who had a normoglycaemic pregnancy (RR 7.43, 95% CI 4.79-11.51). Although the largest study (659 164 women; 9502 cases of type 2 diabetes) had the largest RR (12.6, 95% CI 12.15-13.19), RRs were generally consistent among the subgroups assessed.</fragment>
+			</section>
+			<section label="INTERPRETATION" id="CONCLUSIONS">
+				<fragment>Increased awareness of the magnitude and timing of the risk of type 2 diabetes after gestational diabetes among patients and clinicians could provide an opportunity to test and use dietary, lifestyle, and pharmacological interventions that might prevent or delay the onset of type 2 diabetes in affected women.</fragment>
+			</section>
+			<section label="FUNDING" id="BACKGROUND">
+				<fragment>None.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/S0140-6736(09)60731-5" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="2" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.11599999666214" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Lancet"/>
+	</entry>
+	<entry>
+		<title>Effect of intensive control of glucose on cardiovascular outcomes and death in patients with diabetes mellitus: a meta-analysis of randomised controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19465231" title="Effect of intensive control of glucose on cardiovascular outcomes and death in patients with diabetes mellitus: a meta-analysis of randomised controlled trials."/>
+		<id>19465231</id>
+		<updated>2009-05-25</updated>
+		<summary>Overall, intensive compared with standard glycaemic control significantly reduces coronary events without an increased risk of death. However, the optimum mechanism, speed, and extent of HbA(1c) reduction might be different in differing populations.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Whether intensive control of glucose reduces macrovascular events and all-cause mortality in individuals with type 2 diabetes mellitus is unclear. We undertook a meta-analysis of randomised controlled trials to determine whether intensive treatment is beneficial.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We selected five prospective randomised controlled trials of 33 040 participants to assess the effect of an intensive glucose-lowering regimen on death and cardiovascular outcomes compared with a standard regimen. We gathered information about events of non-fatal myocardial infarction, coronary heart disease (fatal and non-fatal myocardial infarction), stroke, and all-cause mortality, and did a random-effects meta-analysis to obtain summary effect estimates for the clinical outcomes with use of odds ratios calculated from the raw data of every trial. Statistical heterogeneity across trials was assessed with the chi(2) and I(2) statistics.</fragment>
+			</section>
+			<section label="FINDINGS" id="RESULTS">
+				<fragment>The five trials provided information on 1497 events of non-fatal myocardial infarction, 2318 of coronary heart disease, 1127 of stroke, and 2892 of all-cause mortality during about 163 000 person-years of follow-up. The mean haemoglobin A(1c) concentration (HbA(1c)) was 0.9% lower for participants given intensive treatment than for those given standard treatment. Intensive glycaemic control resulted in a 17% reduction in events of non-fatal myocardial infarction (odds ratio 0.83, 95% CI 0.75-0.93), and a 15% reduction in events of coronary heart disease (0.85, 0.77-0.93). Intensive glycaemic control had no significant effect on events of stroke (0.93, 0.81-1.06) or all-cause mortality (1.02, 0.87-1.19).</fragment>
+			</section>
+			<section label="INTERPRETATION" id="CONCLUSIONS">
+				<fragment>Overall, intensive compared with standard glycaemic control significantly reduces coronary events without an increased risk of death. However, the optimum mechanism, speed, and extent of HbA(1c) reduction might be different in differing populations.</fragment>
+			</section>
+			<section label="FUNDING" id="BACKGROUND">
+				<fragment>None.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/S0140-6736(09)60697-8" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="8" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.622900009155273" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0017725" scheme="gov.nih.nlm.semanticType.phsu" label="Glucose"/>
+		<category term="C0017725" scheme="gov.nih.nlm.semanticType.phsu" label="Glucose"/>
+		<source type="Lancet"/>
+	</entry>
+	<entry>
+		<title>Tea consumption and risk of type 2 diabetes: a meta-analysis of cohort studies.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19308337" title="Tea consumption and risk of type 2 diabetes: a meta-analysis of cohort studies."/>
+		<id>19308337</id>
+		<updated>2009-04-17</updated>
+		<summary>This meta-analysis indicates that tea consumption &gt; or =4 cups per day may lower the risk of type 2 diabetes.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Tea consumption has been extensively studied in relation to various diseases, several epidemiologic studies have been performed to investigate the association of tea consumption with type 2 diabetes; however, the results of these studies were not entirely consistent.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To conduct a meta-analysis of studies that assessed the association of tea consumption and the risk of type 2 diabetes.</fragment>
+			</section>
+			<section label="RESEARCH DESIGN AND METHODS" id="METHODS">
+				<fragment>We performed a systematic literature search through November 2008 in PUBMED, MEDLINE, EMBASE, and Cochrane Database of Systematic Reviews. The search was limited to English-language studies. Studies were excluded if they were type 1 diabetes, animal studies. Nine cohort studies were identified by two authors, and summary relative risks (RRs) were calculated using a random-effects model.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>We identified nine cohort studies, including 324,141 participants and 11,400 incident cases of type 2 diabetes with follow-up ranging from 5 to 18 years. The summary adjusted RR did not show that tea consumption was associated with a reduced type 2 diabetes risk (RR, 0.96; 95% confidence interval (CI), 0.92-1.01). Evidence from the results of our stratified analyses revealed that tea consumption &gt; or =4 cups per day (RR, 0.8; 95% CI, 0.7-0.93) might play a role in the prevention of type 2 diabetes. However, no statistically significant association was observed for sex and the follow-up durations stratified between tea consumption and type 2 diabetes.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>This meta-analysis indicates that tea consumption &gt; or =4 cups per day may lower the risk of type 2 diabetes.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1007/s11606-009-0929-5" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC2669862" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.275599986314774" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Gen Intern Med"/>
+	</entry>
+	<entry>
+		<title>Birth weight and risk of type 2 diabetes: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19109117" title="Birth weight and risk of type 2 diabetes: a systematic review."/>
+		<id>19109117</id>
+		<updated>2008-12-25</updated>
+		<summary>In most populations studied, birth weight was inversely related to type 2 diabetes risk.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Low birth weight is implicated as a risk factor for type 2 diabetes. However, the strength, consistency, independence, and shape of the association have not been systematically examined.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To conduct a quantitative systematic review examining published evidence on the association of birth weight and type 2 diabetes in adults. Data Sources and</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Relevant studies published by June 2008 were identified through literature searches using EMBASE (from 1980), MEDLINE (from 1950), and Web of Science (from 1980), with a combination of text words and Medical Subject Headings. Studies with either quantitative or qualitative estimates of the association between birth weight and type 2 diabetes were included.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Estimates of association (odds ratio [OR] per kilogram of increase in birth weight) were obtained from authors or from published reports in models that allowed the effects of adjustment (for body mass index and socioeconomic status) and the effects of exclusion (for macrosomia and maternal diabetes) to be examined. Estimates were pooled using random-effects models, allowing for the possibility that true associations differed between populations.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>Of 327 reports identified, 31 were found to be relevant. Data were obtained from 30 of these reports (31 populations; 6090 diabetes cases; 152 084 individuals). Inverse birth weight-type 2 diabetes associations were observed in 23 populations (9 of which were statistically significant) and positive associations were found in 8 (2 of which were statistically significant). Appreciable heterogeneity between populations (I(2) = 66%; 95% confidence interval [CI], 51%-77%) was largely explained by positive associations in 2 native North American populations with high prevalences of maternal diabetes and in 1 other population of young adults. In the remaining 28 populations, the pooled OR of type 2 diabetes, adjusted for age and sex, was 0.75 (95% CI, 0.70-0.81) per kilogram. The shape of the birth weight-type 2 diabetes association was strongly graded, particularly at birth weights of 3 kg or less. Adjustment for current body mass index slightly strengthened the association (OR, 0.76 [95% CI, 0.70-0.82] before adjustment and 0.70 [95% CI, 0.65-0.76] after adjustment). Adjustment for socioeconomic status did not materially affect the association (OR, 0.77 [95% CI, 0.70-0.84] before adjustment and 0.78 [95% CI, 0.72-0.84] after adjustment). There was no strong evidence of publication or small study bias.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>In most populations studied, birth weight was inversely related to type 2 diabetes risk.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.2008.886" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="2" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.511300027370453" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>A systematic review of the efficacy of non-pharmacological treatments for depression on glycaemic control in type 2 diabetics.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18808619" title="A systematic review of the efficacy of non-pharmacological treatments for depression on glycaemic control in type 2 diabetics."/>
+		<id>18808619</id>
+		<updated>2008-09-23</updated>
+		<summary>The available evidence indicated that non-pharmacological treatment of depression had limited effect on glycaemic control in individuals with type 2 diabetes.The depression-focused interventions might not achieve optimal diabetes-related outcomes. The beneficial effect of psychological treatment for glycaemic control may be strengthened by employing treatments tailored to each individual's diabetes self-care needs in addition to depression management.</summary>
+		<content>
+			<section label="AIMS AND OBJECTIVES" id="OBJECTIVE">
+				<fragment>This paper reported a systematic review of three randomised controlled clinical trials evaluating the efficacy of non-pharmacological treatment of depression on glycaemic control in individuals with type 2 diabetes.</fragment>
+			</section>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Depression is associated with poor adherence to self-care regimen in individuals with diabetes. A significant relationship between depression and poor glycaemic control has also been suggested. Hence, the management of depression becomes an important aspect of diabetes care.</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>Systematic review.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Cochrane library, Pubmed, MEDLINE, EBM review, ProQuest Medical Bundle and SCOPUS databases were searched using the following medical subject headings or key words - depression, mood disorder, depressive symptoms, diabetes mellitus, glycaemic control, glycated haemoglobin, glucose, psychological therapy, psychotherapy, non-pharmacological therapy and cognitive behaviour therapy. The publication date was limited from 1996-2007. Studies were selected if they used a randomised controlled trial design, were written in English, used non-pharmacological treatments for treating depression, included individuals with type 2 diabetes mellitus as participants and included depressive symptoms and glycaemic control (determined by haemoglobin A(1)C) as outcomes.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Non-pharmacological treatments of depression reduce depressive symptoms in diabetic patients. However, cognitive behaviour therapy did not improve glycaemic control. The treatment effect sizes for glycaemic control in the two collaborative-care programmes were also small.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The available evidence indicated that non-pharmacological treatment of depression had limited effect on glycaemic control in individuals with type 2 diabetes.</fragment>
+			</section>
+			<section label="RELEVANCE TO CLINICAL PRACTICE" id="CONCLUSIONS">
+				<fragment>The depression-focused interventions might not achieve optimal diabetes-related outcomes. The beneficial effect of psychological treatment for glycaemic control may be strengthened by employing treatments tailored to each individual's diabetes self-care needs in addition to depression management.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1365-2702.2008.02301.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.238999992609024" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J Clin Nurs"/>
+	</entry>
+	<entry>
+		<title>The clinical effectiveness of diabetes education models for Type 2 diabetes: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18405469" title="The clinical effectiveness of diabetes education models for Type 2 diabetes: a systematic review."/>
+		<id>18405469</id>
+		<updated>2008-04-14</updated>
+		<summary>Based on the evidence, it would seem that education delivered by a team of educators, with some degree of reinforcement of that education made at additional points of contact, may provide the best opportunity for improvements in patient outcomes. Educators need to have time and resources to fulfil the needs of any structured educational programme. There is also a need for education to have a clear programme at the outset. From the evidence reported it is unclear what resources would need to be directed at the educators themselves to ensure that they can deliver programmes successfully. Any future research should consider patient education within the context of overall diabetes care and as such follow guidelines for the development and evaluation of complex interventions. Good-quality, longer-term studies would be desirable, but these would require careful consideration around the nature of any control group. Information is needed to clarify the sensitivity of diabetes education programmes to the performance of the diabetes educators, in order to ensure success and cost-effectiveness of education programmes.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To examine the clinical effectiveness of patient education models for adults with Type 2 diabetes.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Electronic databases were searched from 2002 to January 2007.</fragment>
+			</section>
+			<section label="REVIEW METHODS" id="METHODS">
+				<fragment>A systematic review of the literature on educational interventions in diabetes was undertaken. This was an update of a previous systematic review.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Including studies identified in the previous systematic review, there were 13 published studies. Eight studies of education on multiple aspects of diabetes self-management were identified that provided education that was focused on a particular aspect of self-management. The quality of reporting and methodology of the studies was variable. Studies of multi-component educational interventions yielded mixed results. Some trials reported significant improvements on measures of diabetic control but others did not. Positive effects may be attributable to longer-term interventions with a shorter duration between the end of the intervention and the follow-up evaluation point. There may also be an effect of having a multi-professional team delivering the educational programme. Studies of focused educational interventions did not yield consistent results. Some effects were shown on measures of diabetic control in studies that focused on diet or exercise alone. Although the effects shown were generally small, those that were present did appear to be relatively long-lasting. This update review does not substantially alter the conclusions of the previous systematic review; for each outcome, the proportion of studies that demonstrated significant effects of education was similar.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Based on the evidence, it would seem that education delivered by a team of educators, with some degree of reinforcement of that education made at additional points of contact, may provide the best opportunity for improvements in patient outcomes. Educators need to have time and resources to fulfil the needs of any structured educational programme. There is also a need for education to have a clear programme at the outset. From the evidence reported it is unclear what resources would need to be directed at the educators themselves to ensure that they can deliver programmes successfully. Any future research should consider patient education within the context of overall diabetes care and as such follow guidelines for the development and evaluation of complex interventions. Good-quality, longer-term studies would be desirable, but these would require careful consideration around the nature of any control group. Information is needed to clarify the sensitivity of diabetes education programmes to the performance of the diabetes educators, in order to ensure success and cost-effectiveness of education programmes.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.235599994659424" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Health Technol Assess"/>
+	</entry>
+</feed>

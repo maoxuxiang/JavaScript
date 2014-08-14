@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Knowledge Summary - Treatment of Rheumatoid Arthritis</title>
+	<updated>2014-02-14-07:00</updated>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C0401287" scheme="gov.nih.nlm.semanticType.topp" label="Reimplantation of ureter NOS"/>
+	<category term="C0401287" scheme="gov.nih.nlm.semanticType.topp" label="Reimplantation of ureter NOS"/>
+	<category term="C0401287" scheme="gov.nih.nlm.semanticType.topp" label="Reimplantation of ureter NOS"/>
+	<category term="C0401287" scheme="gov.nih.nlm.semanticType.topp" label="Reimplantation of ureter NOS"/>
+	<category term="C0401287" scheme="gov.nih.nlm.semanticType.topp" label="Reimplantation of ureter NOS"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0032912" scheme="gov.nih.nlm.semanticType.orch" label="Prazosin"/>
+	<category term="C0032912" scheme="gov.nih.nlm.semanticType.phsu" label="Prazosin"/>
+	<category term="C0032912" scheme="gov.nih.nlm.semanticType.phsu" label="Prazosin"/>
+	<category term="C0032912" scheme="gov.nih.nlm.semanticType.phsu" label="Prazosin"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0282638" scheme="gov.nih.nlm.semanticType.topp" label="Antibiotic Prophylaxis"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0003232" scheme="gov.nih.nlm.semanticType.antb" label="Antibiotics"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+	<category term="C0003232" scheme="gov.nih.nlm.semanticType.antb" label="Antibiotics"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0282638" scheme="gov.nih.nlm.semanticType.topp" label="Antibiotic Prophylaxis"/>
+	<category term="C0003232" scheme="gov.nih.nlm.semanticType.antb" label="Antibiotics"/>
+	<category term="C0559681" scheme="gov.nih.nlm.semanticType.topp" label="Oral antibiotic therapy"/>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+	<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+	<category term="C0032042" scheme="gov.nih.nlm.semanticType.topp" label="Placebos"/>
+	<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+	<category term="C0041044" scheme="gov.nih.nlm.semanticType.orch" label="Trimethoprim-Sulfamethoxazole Combination"/>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+	<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+	<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+	<entry>
+		<title>The RIVUR trial: profile and baseline clinical associations of children with vesicoureteral reflux.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/23753091" title="The RIVUR trial: profile and baseline clinical associations of children with vesicoureteral reflux."/>
+		<id>23753091</id>
+		<updated>2013-07-03</updated>
+		<summary>RIVUR is the largest prospective, randomized trial for children with primary VUR to date, comparing prophylaxis with placebo. The study sample comprises patients from 19 pediatric clinical sites in the United States, whose demographic and clinical characteristics may differ from those of children enrolled in previous trials from other countries.</summary>
+		<content>
+			<section label="BACKGROUND AND OBJECTIVE" id="OBJECTIVE">
+				<fragment>Vesicoureteral reflux (VUR) is diagnosed in ∼30% to 40% of children who have imaging studies after urinary tract infections (UTIs). Our goal is to characterize children enrolled in the Randomized Intervention for Children with Vesicoureteral Reflux (RIVUR) trial and to compare our study cohort with those from previously published studies.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>RIVUR investigators from 19 pediatric sites in the United States recruited 607 children with grade I through IV VUR. Children were enrolled after a first or second UTI. This cross-sectional report of baseline data includes extensive clinical, parental report, and imaging study results.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>RIVUR recruited 607 children (558 girls, 49 boys) with grade I (11%), II (42%), III (38%), or IV (8%) reflux. The median age was 12 months, and most children (91%) were enrolled after their first UTI. The UTI leading to enrollment was both febrile and symptomatic for 323 children, febrile only in 197 children, and symptomatic only in 86. Renal involvement at baseline as documented by a (99m)Tc dimercaptosuccinic acid scan was uncommon with cortical defects identified in 89 (15%) children. Bladder and bowel dysfunction was identified in 71 (56%) of 126 toilet-trained subjects assessed.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>RIVUR is the largest prospective, randomized trial for children with primary VUR to date, comparing prophylaxis with placebo. The study sample comprises patients from 19 pediatric clinical sites in the United States, whose demographic and clinical characteristics may differ from those of children enrolled in previous trials from other countries.</fragment>
+			</section>
+		</content>
+		<category term="NIH" scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1542/peds.2012-2301" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3691529" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category term="607" scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.745199978351593" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<source type="Pediatrics"/>
+	</entry>
+	<entry>
+		<title>Ureteral advancement in patients undergoing laparoscopic extravesical ureteral reimplantation for treatment of vesicoureteral reflux.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22704095" title="Ureteral advancement in patients undergoing laparoscopic extravesical ureteral reimplantation for treatment of vesicoureteral reflux."/>
+		<id>22704095</id>
+		<updated>2012-07-12</updated>
+		<summary>Ureteral advancement is a simple and feasible procedure in laparoscopic ureteral extravesical reimplantation and may improve the resolution rate of vesicoureteral reflux.</summary>
+		<content>
+			<section label="PURPOSE" id="OBJECTIVE">
+				<fragment>Laparoscopic extravesical ureteral reimplantation for vesicoureteral reflux has gained acceptance as a feasible treatment associated with minimal morbidity. However, ureteral advancement with this technique has not been attempted. We examined the usefulness of ureteral advancement via laparoscopy.</fragment>
+			</section>
+			<section label="MATERIALS AND METHODS" id="METHODS">
+				<fragment>A total of 30 patients with 51 refluxing ureters underwent laparoscopic extravesical ureteral reimplantation for treatment of vesicoureteral reflux between August 2009 and September 2011. Mean ± SD patient age was 60.8 ± 48.6 months. During the procedure 15 patients underwent ureteral advancement (advancement group), while 15 did not (nonadvancement group). We compared operative times and postoperative rates of urinary tract infections and persistent reflux between the groups.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>There was no significant difference in operative times in unilateral (mean ± SD 110 ± 25 vs 125 ± 42 minutes) and bilateral cases (mean ± SD 214 ± 52 vs 203 ± 40 minutes) between the nonadvancement vs advancement groups. All patients underwent voiding cystourethrography 3 to 4 months postoperatively. Reflux resolution rate for ureters was significantly higher in the advancement group (100%) than in the nonadvancement group (85%, p &lt;0.05). No patient in the advancement group had postoperative urinary tract infection. Fixation of the ureter with the bladder muscularis at the proximal limit of the detrusor defect and/or a percutaneous hitch stitch placed in the ventral side of the proximal limit of the detrusor defect facilitated ureteral advancement.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Ureteral advancement is a simple and feasible procedure in laparoscopic ureteral extravesical reimplantation and may improve the resolution rate of vesicoureteral reflux.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.juro.2012.04.018" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.44530001282692" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0401287" scheme="gov.nih.nlm.semanticType.topp" label="Reimplantation of ureter NOS"/>
+		<category term="C0401287" scheme="gov.nih.nlm.semanticType.topp" label="Reimplantation of ureter NOS"/>
+		<category term="C0401287" scheme="gov.nih.nlm.semanticType.topp" label="Reimplantation of ureter NOS"/>
+		<category term="C0401287" scheme="gov.nih.nlm.semanticType.topp" label="Reimplantation of ureter NOS"/>
+		<category term="C0401287" scheme="gov.nih.nlm.semanticType.topp" label="Reimplantation of ureter NOS"/>
+		<source type="J. Urol."/>
+	</entry>
+	<entry>
+		<title>Vesicoureteral reflux and primary bladder neck dysfunction in children: urodynamic evaluation and randomized, double-blind, clinical trial on effect of α-blocker therapy.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20850812" title="Vesicoureteral reflux and primary bladder neck dysfunction in children: urodynamic evaluation and randomized, double-blind, clinical trial on effect of α-blocker therapy."/>
+		<id>20850812</id>
+		<updated>2010-10-11</updated>
+		<summary>Special attention should be given to secondary causes of vesicoureteral reflux (such as primary bladder neck dysfunction, an underdiagnosed entity in children), since conventional treatment will most likely fail if these conditions are not addressed promptly. In this study prazosin was effective therapy for children with vesicoureteral reflux and primary bladder neck dysfunction.</summary>
+		<content>
+			<section label="PURPOSE" id="OBJECTIVE">
+				<fragment>Primary bladder neck dysfunction has been under diagnosed as a treatable cause of vesicoureteral reflux. We evaluated the effect of prazosin administration on vesicoureteral reflux resolution and urodynamic parameters in children with idiopathic primary reflux and primary bladder neck dysfunction.</fragment>
+			</section>
+			<section label="MATERIALS AND METHODS" id="METHODS">
+				<fragment>A total of 62 children (mean ± SD age 7.9 ± 2.4 years) with documented vesicoureteral reflux and urodynamics proved primary bladder neck dysfunction were randomized to receive either 0.025 mg/kg α-blocker (prazosin, 40 patients) or placebo (22) nightly for 1 week with a subsequent increase to 2 divided doses. Patients were followed for 12 months with clinical evaluation and uroflowmetry performed every 2 months, and each patient underwent complete urodynamic study at 6-month intervals.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>In the placebo group no uroflowmetry or urodynamic parameter changed significantly at 1-year followup. A 60% decrease in reflux grade was observed in the treatment group compared to 17% in the placebo group. Mean maximal detrusor pressure, post-void residual and opening time were significantly decreased in both followup sessions in the prazosin group (p &lt;0.05). Average flow rate improved from 4.30 to 12.80 ml per second at 6 months and to 13.10 ml per second at 12 months (both p &lt;0.05).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Special attention should be given to secondary causes of vesicoureteral reflux (such as primary bladder neck dysfunction, an underdiagnosed entity in children), since conventional treatment will most likely fail if these conditions are not addressed promptly. In this study prazosin was effective therapy for children with vesicoureteral reflux and primary bladder neck dysfunction.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.juro.2010.06.132" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="2" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.735099971294403" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0032912" scheme="gov.nih.nlm.semanticType.orch" label="Prazosin"/>
+		<category term="C0032912" scheme="gov.nih.nlm.semanticType.phsu" label="Prazosin"/>
+		<category term="C0032912" scheme="gov.nih.nlm.semanticType.phsu" label="Prazosin"/>
+		<category term="C0032912" scheme="gov.nih.nlm.semanticType.phsu" label="Prazosin"/>
+		<source type="J. Urol."/>
+	</entry>
+	<entry>
+		<title>The Swedish reflux trial in children: IV. Renal damage.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20494369" title="The Swedish reflux trial in children: IV. Renal damage."/>
+		<id>20494369</id>
+		<updated>2010-06-14</updated>
+		<summary>In boys the rate of new renal damage was low. It was significantly higher in girls and most common in the control surveillance group. There was also a strong association between recurrent febrile UTIs and new renal damage in girls.</summary>
+		<content>
+			<section label="PURPOSE" id="OBJECTIVE">
+				<fragment>We compared the development of new renal damage in small children with dilating vesicoureteral reflux randomly allocated to antibiotic prophylaxis, endoscopic treatment or surveillance as the control group.</fragment>
+			</section>
+			<section label="MATERIALS AND METHODS" id="METHODS">
+				<fragment>Included in the study were 128 girls and 75 boys 1 to younger than 2 years with grade III-IV reflux. Voiding cystourethrography and dimercapto-succinic acid scintigraphy were done before randomization and after 2 years. Febrile urinary tract infections were recorded during followup. Data analysis was done by the intent to treat principle.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>New renal damage in a previously unscarred area was seen in 13 girls and 2 boys. Eight of the 13 girls were on surveillance, 5 received endoscopic therapy and none were on prophylaxis (p = 0.0155). New damage was more common in children with than without febrile recurrence (11 of 49 or 22% vs 4 of 152 or 3%, p &lt;0.0001).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>In boys the rate of new renal damage was low. It was significantly higher in girls and most common in the control surveillance group. There was also a strong association between recurrent febrile UTIs and new renal damage in girls.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.juro.2010.01.060" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.405000001192093" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Urol."/>
+	</entry>
+	<entry>
+		<title>The Swedish reflux trial in children: III. Urinary tract infection pattern.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20488494" title="The Swedish reflux trial in children: III. Urinary tract infection pattern."/>
+		<id>20488494</id>
+		<updated>2010-06-14</updated>
+		<summary>In this randomized, controlled trial there was a high rate of recurrent febrile urinary tract infection in girls older than 1 year with dilating vesicoureteral reflux at study entry but not in boys. Antibiotic prophylaxis and endoscopic treatment decreased the infection rate.</summary>
+		<content>
+			<section label="PURPOSE" id="OBJECTIVE">
+				<fragment>We evaluated the difference in the febrile urinary tract infection rate in small children with dilating vesicoureteral reflux randomly allocated to 3 management alternatives, including antibiotic prophylaxis, endoscopic treatment or surveillance only as the control.</fragment>
+			</section>
+			<section label="MATERIALS AND METHODS" id="METHODS">
+				<fragment>At 23 centers a total of 203 children were included in the study, including 128 girls and 75 boys 1 to younger than 2 years. Vesicoureteral reflux grade III in 126 cases and IV in 77 was detected after a febrile urinary tract infection (194) after prenatal screening (9). Voiding cystourethrography and dimercapto-succinic acid scintigraphy were done before randomization and after 2 years. The febrile urinary tract infection rate was analyzed by the intent to treat principle.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>We noted a total of 67 febrile recurrences in 42 girls and a total of 8 in 7 boys (p = 0.0001). There was a difference in the recurrence rate among treatment groups in girls with febrile infection in 8 of 43 (19%) on prophylaxis, 10 of 43 (23%) with endoscopic therapy and 24 of 42 (57%) on surveillance (p = 0.0002). In girls the recurrence rate was associated with persistent reflux after 2 years (p = 0.0095). However, reflux severity (grade III or IV) at study entry did not predict recurrence.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>In this randomized, controlled trial there was a high rate of recurrent febrile urinary tract infection in girls older than 1 year with dilating vesicoureteral reflux at study entry but not in boys. Antibiotic prophylaxis and endoscopic treatment decreased the infection rate.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.juro.2010.01.061" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.534099996089935" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0282638" scheme="gov.nih.nlm.semanticType.topp" label="Antibiotic Prophylaxis"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<source type="J. Urol."/>
+	</entry>
+	<entry>
+		<title>The Swedish reflux trial in children: v. Bladder dysfunction.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20488486" title="The Swedish reflux trial in children: v. Bladder dysfunction."/>
+		<id>20488486</id>
+		<updated>2010-06-14</updated>
+		<summary>After toilet training a third of these children with dilating reflux had lower urinary tract dysfunction, mainly voiding phase problems. Dysfunction was associated with persistent reflux and renal damage while dysfunction at study entry did not predict the 2-year outcome.</summary>
+		<content>
+			<section label="PURPOSE" id="OBJECTIVE">
+				<fragment>We investigated the prevalence and types of lower urinary tract dysfunction in children with vesicoureteral reflux grades III and IV, and related improved dilating reflux, renal damage and recurrent urinary tract infection to dysfunction.</fragment>
+			</section>
+			<section label="MATERIALS AND METHODS" id="METHODS">
+				<fragment>A total of 203 children between ages 1 to less than 2 years with reflux grades III and IV were recruited into this open, randomized, controlled, multicenter study. Voiding cystourethrography and dimercapto-succinic acid scintigraphy were done at study entry and 2-year followup. Lower urinary tract function was investigated by noninvasive methods, at study entry with 4-hour voiding observation in 148 patients and at 2 years by structured questionnaire and post-void residual flow measurement in 161.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>At study entry 20% of patients had lower urinary tract dysfunction, characterized by high bladder capacity and increased post-void residual urine. At 2 years there was dysfunction in 34% of patients. Subdivision into groups characteristic of children after toilet training revealed that 9% had isolated overactive bladder and 24% had voiding phase dysfunction. There was a negative correlation between dysfunction at 2 years and improved dilating reflux (p = 0.002). Renal damage at study entry and followup was associated with lower urinary tract dysfunction at 2 years (p = 0.001). Recurrent urinary tract infections were seen in 33% of children with and in 20% without dysfunction (p = 0.084).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>After toilet training a third of these children with dilating reflux had lower urinary tract dysfunction, mainly voiding phase problems. Dysfunction was associated with persistent reflux and renal damage while dysfunction at study entry did not predict the 2-year outcome.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.juro.2010.03.063" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.560899972915649" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="J. Urol."/>
+	</entry>
+	<entry>
+		<title>The Swedish reflux trial in children: II. Vesicoureteral reflux outcome.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20488469" title="The Swedish reflux trial in children: II. Vesicoureteral reflux outcome."/>
+		<id>20488469</id>
+		<updated>2010-06-14</updated>
+		<summary>Endoscopic treatment resulted in dilating reflux resolution or downgrading in most treated children. After 2 years endoscopic treatment results were significantly better than the spontaneous resolution rate or downgrading in the prophylaxis and surveillance groups. However, of concern is the common reappearance of dilating reflux after 2 years.</summary>
+		<content>
+			<section label="PURPOSE" id="OBJECTIVE">
+				<fragment>We compared reflux status in children with dilating vesicoureteral reflux treated in 3 groups, including low dose antibiotic prophylaxis, endoscopic therapy and a surveillance group on antibiotic treatment only for febrile urinary tract infection.</fragment>
+			</section>
+			<section label="MATERIALS AND METHODS" id="METHODS">
+				<fragment>A total of 203 children 1 to younger than 2 years with grade III-IV reflux were recruited into this open, randomized, controlled trial. Endoscopic treatment was done with dextranomer/hyaluronic acid copolymer. The main end point was reflux status after 2 years. Data were analyzed by the intent to treat principle.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Reflux status improved in all 3 treatment arms. Of patients in the prophylaxis, endoscopic and surveillance groups 39%, 71% and 47%, respectively, had reflux resolution or downgrading to grade I-II after 2 years. This was significantly more common in the endoscopic than in the prophylaxis and surveillance groups (p = 0.0002 and 0.0030, respectively). After 1 or 2 injections 86% of patients in the endoscopic group had no or grade I-II reflux but recurrent dilating reflux was seen in 20% after 2 years.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Endoscopic treatment resulted in dilating reflux resolution or downgrading in most treated children. After 2 years endoscopic treatment results were significantly better than the spontaneous resolution rate or downgrading in the prophylaxis and surveillance groups. However, of concern is the common reappearance of dilating reflux after 2 years.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.juro.2010.01.059" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.583500027656555" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003232" scheme="gov.nih.nlm.semanticType.antb" label="Antibiotics"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+		<source type="J. Urol."/>
+	</entry>
+	<entry>
+		<title>The Swedish reflux trial in children: I. Study design and study population characteristics.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20478580" title="The Swedish reflux trial in children: I. Study design and study population characteristics."/>
+		<id>20478580</id>
+		<updated>2010-06-14</updated>
+		<summary>Recruitment was difficult but a substantial number of children were entered and randomly assigned to 3 groups with similar basic characteristics. Good adherence to the protocol made it possible to address the central study questions.</summary>
+		<content>
+			<section label="PURPOSE" id="OBJECTIVE">
+				<fragment>We compared the rates of febrile urinary tract infection, kidney damage and reflux resolution in children with vesicoureteral reflux treated in 3 ways, including antibiotic prophylaxis, endoscopic therapy and surveillance with antibiotics only for symptomatic urinary tract infection.</fragment>
+			</section>
+			<section label="MATERIALS AND METHODS" id="METHODS">
+				<fragment>Children 1 to younger than 2 years with grade III-IV reflux were recruited into this prospective, open, randomized, controlled, multicenter study and followed for 2 years after randomization. The main study end points were recurrent febrile urinary tract infection, renal status on dimercapto-succinic acid scintigraphy and reflux status. Outcomes were analyzed by the intent to treat principle.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>During a 6-year period 128 girls and 75 boys entered the study. In 96% of cases reflux was detected after urinary tract infection. The randomization procedure was successful and resulted in 3 groups matched for relevant factors. Recruitment was slower than anticipated but after patients were entered adherence to the protocol was good. Of the children 93% were followed for the intended 2 years without a treatment arm change. All except 2 patients completed 2-year followup scintigraphy.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Recruitment was difficult but a substantial number of children were entered and randomly assigned to 3 groups with similar basic characteristics. Good adherence to the protocol made it possible to address the central study questions.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.juro.2010.01.055" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.475800007581711" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003232" scheme="gov.nih.nlm.semanticType.antb" label="Antibiotics"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0282638" scheme="gov.nih.nlm.semanticType.topp" label="Antibiotic Prophylaxis"/>
+		<source type="J. Urol."/>
+	</entry>
+	<entry>
+		<title>Antibiotic prophylaxis and recurrent urinary tract infection in children.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19864673" title="Antibiotic prophylaxis and recurrent urinary tract infection in children."/>
+		<id>19864673</id>
+		<updated>2009-10-29</updated>
+		<summary>Long-term, low-dose trimethoprim-sulfamethoxazole was associated with a decreased number of urinary tract infections in predisposed children. The treatment effect appeared to be consistent but modest across subgroups. (Australian New Zealand Clinical Trials Registry number, ACTRN12608000470392.)</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Antibiotics are widely administered to children with the intention of preventing urinary tract infection, but adequately powered, placebo-controlled trials regarding efficacy are lacking. This study from four Australian centers examined whether low-dose, continuous oral antibiotic therapy prevents urinary tract infection in predisposed children.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We randomly assigned children under the age of 18 years who had had one or more microbiologically proven urinary tract infections to receive either daily trimethoprim-sulfamethoxazole suspension (as 2 mg of trimethoprim plus 10 mg of sulfamethoxazole per kilogram of body weight) or placebo for 12 months. The primary outcome was microbiologically confirmed symptomatic urinary tract infection. Intention-to-treat analyses were performed with the use of time-to-event data.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>From December 1998 to March 2007, a total of 576 children (of 780 planned) underwent randomization. The median age at entry was 14 months; 64% of the patients were girls, 42% had known vesicoureteral reflux (at least grade III in 53% of these patients), and 71% were enrolled after the first diagnosis of urinary tract infection. During the study, urinary tract infection developed in 36 of 288 patients (13%) in the group receiving trimethoprim-sulfamethoxazole (antibiotic group) and in 55 of 288 patients (19%) in the placebo group (hazard ratio in the antibiotic group, 0.61; 95% confidence interval, 0.40 to 0.93; P = 0.02 by the log-rank test). In the antibiotic group, the reduction in the absolute risk of urinary tract infection (6 percentage points) appeared to be consistent across all subgroups of patients (P &gt; or = 0.20 for all interactions).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Long-term, low-dose trimethoprim-sulfamethoxazole was associated with a decreased number of urinary tract infections in predisposed children. The treatment effect appeared to be consistent but modest across subgroups. (Australian New Zealand Clinical Trials Registry number, ACTRN12608000470392.)</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1056/NEJMoa0902295" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="6" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.645399987697601" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003232" scheme="gov.nih.nlm.semanticType.antb" label="Antibiotics"/>
+		<category term="C0559681" scheme="gov.nih.nlm.semanticType.topp" label="Oral antibiotic therapy"/>
+		<source type="N. Engl. J. Med."/>
+	</entry>
+	<entry>
+		<title>Importance of methodology on (99m)technetium dimercapto-succinic acid scintigraphic image quality: imaging pilot study for RIVUR (Randomized Intervention for Children With Vesicoureteral Reflux) multicenter investigation.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19450818" title="Importance of methodology on (99m)technetium dimercapto-succinic acid scintigraphic image quality: imaging pilot study for RIVUR (Randomized Intervention for Children With Vesicoureteral Reflux) multicenter investigation."/>
+		<id>19450818</id>
+		<updated>2009-06-12</updated>
+		<summary>Methodology and image quality for (99m)technetium dimercapto-succinic acid scintigraphy varied more than expected between institutions. The most common reason for poor image quality was inadequate count acquisition with insufficient attention to the tradeoff between administered dose, length of image acquisition, start time of imaging and resulting image quality. Inter-observer core reader agreement was high. The pilot study ensured good diagnostic quality standardized images for the Randomized Intervention for Children With Vesicoureteral Reflux investigation.</summary>
+		<content>
+			<section label="PURPOSE" id="OBJECTIVE">
+				<fragment>We reviewed our experience with (99m)technetium dimercapto-succinic acid scintigraphy obtained during an imaging pilot study for a multicenter investigation (Randomized Intervention for Children With Vesicoureteral Reflux) of the effectiveness of daily antimicrobial prophylaxis for preventing recurrent urinary tract infection and renal scarring. We analyzed imaging methodology and its relation to diagnostic image quality.</fragment>
+			</section>
+			<section label="MATERIALS AND METHODS" id="METHODS">
+				<fragment>(99m)Technetium dimercapto-succinic acid imaging guidelines were provided to participating sites. High-resolution planar imaging with parallel hole or pinhole collimation was required. Two core reviewers evaluated all submitted images. Analysis included appropriate views, presence or lack of patient motion, adequate magnification, sufficient counts and diagnostic image quality. Inter-reader agreement was evaluated.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>We evaluated 70, (99m)technetium dimercapto-succinic acid studies from 14 institutions. Variability was noted in methodology and image quality. Correlation (r value) between dose administered and patient age was 0.780. For parallel hole collimator imaging good correlation was noted between activity administered and counts (r = 0.800). For pinhole imaging the correlation was poor (r = 0.110). A total of 10 studies (17%) were rejected for quality issues of motion, kidney overlap, inadequate magnification, inadequate counts and poor quality images. The submitting institution was informed and provided with recommendations for improving quality, and resubmission of another study was required. Only 4 studies (6%) were judged differently by the 2 reviewers, and the differences were minor.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Methodology and image quality for (99m)technetium dimercapto-succinic acid scintigraphy varied more than expected between institutions. The most common reason for poor image quality was inadequate count acquisition with insufficient attention to the tradeoff between administered dose, length of image acquisition, start time of imaging and resulting image quality. Inter-observer core reader agreement was high. The pilot study ensured good diagnostic quality standardized images for the Randomized Intervention for Children With Vesicoureteral Reflux investigation.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.juro.2009.02.144" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.502600014209747" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+		<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+		<source type="J. Urol."/>
+	</entry>
+	<entry>
+		<title>Rationale and design issues of the Randomized Intervention for Children With Vesicoureteral Reflux (RIVUR) study.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19018048" title="Rationale and design issues of the Randomized Intervention for Children With Vesicoureteral Reflux (RIVUR) study."/>
+		<id>19018048</id>
+		<updated>2008-11-21</updated>
+		<summary>The RIVUR study will provide useful information to clinicians about the risks and benefits of prophylactic antibiotics for children who are diagnosed with vesicoureteral reflux after a first or second urinary tract infection. The data and specimens collected over the course of the study will allow researchers to better understand the pathophysiology of recurrent urinary tract infection and its sequelae.</summary>
+		<content>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>Our goal is to determine if antimicrobial prophylaxis with trimethoprim/sulfamethoxazole prevents recurrent urinary tract infections and renal scarring in children who are found to have vesicoureteral reflux after a first or second urinary tract infection.</fragment>
+			</section>
+			<section label="DESIGN, PARTICIPANTS, AND METHODS" id="METHODS">
+				<fragment>The Randomized Intervention for Children With Vesicoureteral Reflux (RIVUR) study is a double-blind, randomized, placebo-controlled trial. Six hundred children aged 2 to 72 months will be recruited from both primary and subspecialty care settings at clinical trial centers throughout North America. Children who are found to have grades I to IV vesicoureteral reflux after the index febrile or symptomatic urinary tract infection will be randomly assigned to receive daily doses of either trimethoprim/sulfamethoxazole or placebo for 2 years. Scheduled follow-up contacts include in-person study visits every 6 months and telephone interviews every 2 months. Biospecimens (urine and blood) and genetic specimens (blood) will be collected for future studies of the genetic and biochemical determinants of vesicoureteral reflux, recurrent urinary tract infection, renal insufficiency, and renal scarring.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The primary outcome is recurrence of urinary tract infection. Secondary outcomes include time to recurrent urinary tract infection, renal scarring (assessed by dimercaptosuccinic acid scan), treatment failure, renal function, resource utilization, and development of antimicrobial resistance in stool flora.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The RIVUR study will provide useful information to clinicians about the risks and benefits of prophylactic antibiotics for children who are diagnosed with vesicoureteral reflux after a first or second urinary tract infection. The data and specimens collected over the course of the study will allow researchers to better understand the pathophysiology of recurrent urinary tract infection and its sequelae.</fragment>
+			</section>
+		</content>
+		<category term="NIH" scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1542/peds.2008-1285d" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC2842127" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category term="607" scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.869599997997284" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+		<category term="C0032042" scheme="gov.nih.nlm.semanticType.topp" label="Placebos"/>
+		<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+		<category term="C0041044" scheme="gov.nih.nlm.semanticType.orch" label="Trimethoprim-Sulfamethoxazole Combination"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<category term="C1273869" scheme="gov.nih.nlm.semanticType.hlca" label="Intervention regimes"/>
+		<source type="Pediatrics"/>
+	</entry>
+	<entry>
+		<title>Prophylaxis after first febrile urinary tract infection in children? A multicenter, randomized, controlled, noninferiority trial.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18977988" title="Prophylaxis after first febrile urinary tract infection in children? A multicenter, randomized, controlled, noninferiority trial."/>
+		<id>18977988</id>
+		<updated>2008-11-03</updated>
+		<summary>For children with or without primary nonsevere reflux, prophylaxis does not reduce the rate of recurrent febrile urinary tract infections after the first episode.</summary>
+		<content>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>Febrile urinary tract infections are common in children and associated with the risk for renal scarring and long-term complications. Antimicrobial prophylaxis has been used to reduce the risk for recurrence. We performed a study to determine whether no prophylaxis is similar to antimicrobial prophylaxis for 12 months in reducing the recurrence of febrile urinary tract infections in children after a first febrile urinary tract infection.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>The study was a controlled, randomized, open-label, 2-armed, noninferiority trial comparing no prophylaxis with prophylaxis (co-trimoxazole 15 mg/kg per day or co-amoxiclav 15 mg/kg per day) for 12 months. A total of 338 children who were aged 2 months to &lt;7 years and had a first episode of febrile urinary tract infection were enrolled: 309 with a confirmed pyelonephritis on a technetium 99m dimercaptosuccinic acid scan with or without reflux and 27 with a clinical pyelonephritis and reflux. The primary end point was recurrence rate of febrile urinary tract infections during 12 months. Secondary end point was the rate of renal scarring produced by recurrent urinary tract infections on technetium 99m dimercaptosuccinic acid scan after 12 months.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Intention-to-treat analysis showed no significant differences in the primary outcome between no prophylaxis and prophylaxis: 12 (9.45%) of 127 vs 15 (7.11%) of 211. In the subgroup of children with reflux, the recurrence of febrile urinary tract infections was 9 (19.6%) of 46 on no prophylaxis and 10 (12.1%) of 82 on prophylaxis. No significant difference was found in the secondary outcome: 2 (1.9%) of 108 on no prophylaxis versus 2 (1.1%) of 187 on prophylaxis. Bivariate analysis and Cox proportional hazard model showed that grade III reflux was a risk factor for recurrent febrile urinary tract infections. Whereas increasing age was protective, use of no prophylaxis was not a risk factor.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>For children with or without primary nonsevere reflux, prophylaxis does not reduce the rate of recurrent febrile urinary tract infections after the first episode.</fragment>
+			</section>
+		</content>
+		<category term="Other" scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1542/peds.2007-3770" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category term="660" scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.694500029087067" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+		<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prophylactic treatment"/>
+		<source type="Pediatrics"/>
+	</entry>
+</feed>

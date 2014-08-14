@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Knowledge Summary</title>
+	<updated>2014-02-14-07:00</updated>
+	<category term="C0871311" scheme="gov.nih.nlm.semanticType.hlca" label="Screening Tests"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0011900" scheme="gov.nih.nlm.semanticType.hlca" label="Diagnosis"/>
+	<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+	<category term="C0040808" scheme="gov.nih.nlm.semanticType.topp" label="Treatment Protocols"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0040808" scheme="gov.nih.nlm.semanticType.topp" label="Treatment Protocols"/>
+	<category term="C0040808" scheme="gov.nih.nlm.semanticType.topp" label="Treatment Protocols"/>
+	<category term="C0008819" scheme="gov.nih.nlm.semanticType.topp" label="Male Circumcision"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0040808" scheme="gov.nih.nlm.semanticType.topp" label="Treatment Protocols"/>
+	<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0589121" scheme="gov.nih.nlm.semanticType.hlca" label="Follow-up visit"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0003232" scheme="gov.nih.nlm.semanticType.antb" label="Antibiotics"/>
+	<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+	<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+	<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0679698" scheme="gov.nih.nlm.semanticType.topp" label="prevention of disorder"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+	<entry>
+		<title>Improved diagnostics of chronic inflammatory prostatitis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/23288214" title="Improved diagnostics of chronic inflammatory prostatitis."/>
+		<id>23288214</id>
+		<updated>2012-01-04</updated>
+		<summary>Three-glass test as screening test with the option of an additional EPS investigation in those patients the final diagnosis of chronic prostatitis has to be confirmed is more convenient for patients and doctors than the standard M&amp;S 4-glass test and "false-positive" (contaminated with EPS) midstream urine results are avoided thus improving discrimination of urethritis, cystitis and prostatitis. Therefore, we recommend the KE 3-glass test as a new standard for screening patients with signs and symptoms of chronic inflammatory prostatitis.</summary>
+		<content>
+			<section label="AIM" id="OBJECTIVE">
+				<fragment>Prostatitis is a prevalent condition that encompasses a large array of clinical symptoms with significant impacts on men's life. The diagnosis and treatment of this disorder presents numerous challenges for urologists, most notably, a lack of specific and effective diagnostic methods.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>To improve the diagnostics the comparison of classic 4-glass test Meares and Stamey, 2-glass tests and 3-glass test was conducted in 177 men suspicious for chronic prostatitis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Four-glass test is uncomfortable both for patients and doctors, and leads to contamination of urine with prostatic secretion. Two-glass test is insufficiently effective too. Three-glass test (three urine specimens obtained from one continuous micturition stream) gives more adequate results and may be used for screening.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Three-glass test as screening test with the option of an additional EPS investigation in those patients the final diagnosis of chronic prostatitis has to be confirmed is more convenient for patients and doctors than the standard M&amp;S 4-glass test and "false-positive" (contaminated with EPS) midstream urine results are avoided thus improving discrimination of urethritis, cystitis and prostatitis. Therefore, we recommend the KE 3-glass test as a new standard for screening patients with signs and symptoms of chronic inflammatory prostatitis.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.0791999995708466" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0871311" scheme="gov.nih.nlm.semanticType.hlca" label="Screening Tests"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0011900" scheme="gov.nih.nlm.semanticType.hlca" label="Diagnosis"/>
+		<source type="Minerva Urol Nefrol"/>
+	</entry>
+	<entry>
+		<title>Standard treatment regimens for nongonococcal urethritis have similar but declining cure rates: a randomized controlled trial.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/23223595" title="Standard treatment regimens for nongonococcal urethritis have similar but declining cure rates: a randomized controlled trial."/>
+		<id>23223595</id>
+		<updated>2013-03-06</updated>
+		<summary>Clinical and microbiologic cure rates for NGU were somewhat low and there was no significant difference between azithromycin and doxycycline. Mycoplasma genitalium treatment failure was extremely common. Clinical Trials Registration.NCT00358462.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Azithromycin or doxycycline is recommended for nongonococcal urethritis (NGU); recent evidence suggests their efficacy has declined. We compared azithromycin and doxycycline in men with NGU, hypothesizing that azithromycin was more effective than doxycycline.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>From January 2007 to July 2011, English-speaking males ≥16 years, attending a sexually transmitted diseases clinic in Seattle, Washington, with NGU (visible urethral discharge or ≥5 polymorphonuclear leukocytes per high-power field [PMNs/HPF]) were eligible for this double-blind, parallel-group superiority trial. Participants received active azithromycin (1 g) + placebo doxycycline or active doxycycline (100 mg twice daily for 7 days) + placebo azithromycin. Urine was tested for Chlamydia trachomatis (CT), Mycoplasma genitalium (MG), Ureaplasma urealyticum biovar 2 (UU-2), and Trichomonas vaginalis (TV) using nucleic acid amplification tests. Clinical cure (&lt;5 PMNs/HPF with or without urethral symptoms and absence of discharge) and microbiologic cure (negative tests for CT, MG, and/or UU-2) were determined after 3 weeks.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Of 606 men, 304 were randomized to azithromycin and 302 to doxycycline; CT, MG, TV, and UU-2 were detected in 24%, 13%, 2%, and 23%, respectively. In modified intent-to-treat analyses, 172 of 216 (80%; 95% confidence interval [CI], 74%-85%) receiving azithromycin and 157 of 206 (76%; 95% CI, 70%-82%) receiving doxycycline experienced clinical cure (P = .40). In pathogen-specific analyses, clinical cure did not differ by arm, nor did microbiologic cure differ for CT (86% vs 90%, P = .56), MG (40% vs 30%, P = .41), or UU-2 (75% vs 70%, P = .50). No unexpected adverse events occurred.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Clinical and microbiologic cure rates for NGU were somewhat low and there was no significant difference between azithromycin and doxycycline. Mycoplasma genitalium treatment failure was extremely common. Clinical Trials Registration.NCT00358462.</fragment>
+			</section>
+		</content>
+		<category term="Other" scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/cid/cis1022" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3588116" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category term="606" scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.864600002765656" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+		<category term="C0040808" scheme="gov.nih.nlm.semanticType.topp" label="Treatment Protocols"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<source type="Clin. Infect. Dis."/>
+	</entry>
+	<entry>
+		<title>Chlamydia trachomatis, Mycoplasma genitalium, and Trichomonas vaginalis infections in men with nongonococcal urethritis: predictors and persistence after therapy.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22615318" title="Chlamydia trachomatis, Mycoplasma genitalium, and Trichomonas vaginalis infections in men with nongonococcal urethritis: predictors and persistence after therapy."/>
+		<id>22615318</id>
+		<updated>2012-07-10</updated>
+		<summary>Persistent CT and MG after treatment of NGU are common, and were associated with clinical findings and drug regimen.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Chlamydia trachomatis (CT), Mycoplasma genitalium (MG), and Trichomonas vaginalis (TV) are sexually transmitted infections (STIs) associated with nongonococcal urethritis (NGU). We assessed their predictors and persistence after treatment.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We analyzed data from an NGU treatment trial among symptomatic heterosexual men aged 16-45 years from STI clinics. Nucleic acid amplification tests detected CT, MG, and TV at baseline and at 1 and 4 weeks after therapy. Associations between variables and STI detection were investigated.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Among 293 participants, 44% had CT, 31% had MG, and 13% had TV at baseline. In multivariate analysis, CT infection was associated with young age and STI contact. Young age was also associated with MG, and having ≥ 1 new partner was negatively associated with TV. We detected persistent CT in 12% and MG in 44% of participants at 4 weeks after therapy, which were associated with signs and symptoms of NGU. Persistent CT was detected in 23% of participants after azithromycin treatment vs 5% after doxycycline treatment (P = .011); persistent MG was detected in 68% of participants after doxycycline vs 33% after azithromycin (P = .001). All but 1 TV infection cleared after tinidazole.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Persistent CT and MG after treatment of NGU are common, and were associated with clinical findings and drug regimen.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/infdis/jis356" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3490700" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.538800001144409" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0040808" scheme="gov.nih.nlm.semanticType.topp" label="Treatment Protocols"/>
+		<category term="C0040808" scheme="gov.nih.nlm.semanticType.topp" label="Treatment Protocols"/>
+		<source type="J. Infect. Dis."/>
+	</entry>
+	<entry>
+		<title>The effect of medical male circumcision on urogenital Mycoplasma genitalium among men in Kisumu, Kenya.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/22421693" title="The effect of medical male circumcision on urogenital Mycoplasma genitalium among men in Kisumu, Kenya."/>
+		<id>22421693</id>
+		<updated>2012-03-16</updated>
+		<summary>MG infection was reduced among men who were circumcised, adding to the benefits of male circumcision in preventing several sexually transmitted infections.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>We determined the prevalence of urethral Mycoplasma genitalium (MG) infection and whether infection was associated with circumcision status among men enrolled in the randomized trial of medical male circumcision to prevent HIV acquisition in Kisumu, Kenya.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>MG and Trichomonas vaginalis were detected in first void urine by APTIMA transcription-mediated amplification assay. first void urine and urethral swabs were assessed for Neisseria gonorrhoeae (NG) and Chlamydia trachomatis (CT) by polymerase chain reaction assay. Herpes simplex virus type 2 antibodies were detected by IgG ELISA. Multivariable logistic regression identified factors associated with MG infection.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Specimens were collected between July and September 2010, and 52 (9.9%; 95% confidence interval [CI]: 7.3%-12.4%) MG infections were detected among 526 men. N. gonorrhoeae and T. vaginalis were not associated with MG. CT coinfection was 5.8% in MG-infected men, and 0.8% among MG-uninfected men (P = 0.02). MG infection was predominantly asymptomatic (98%). The prevalence of MG was 13.4% in uncircumcised men versus 8.2% in circumcised men (P = 0.06). Being circumcised nearly halved the odds of MG (adjusted odds ratio [aQR] = 0.54; 95% CI: 0.29-0.99), adjusted for other variables significant at the P &lt; 0.05 level: herpes simplex virus type 2 infection (aOR = 2.05; 95% CI: 1.05-4.00), CT infection (aOR = 2.69; 95% CI: 1.44-5.02), and washing the penis ≤1 hour after sex (aOR = 0.47; 95% CI: 0.24-0.95).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>MG infection was reduced among men who were circumcised, adding to the benefits of male circumcision in preventing several sexually transmitted infections.</fragment>
+			</section>
+		</content>
+		<category term="NIH" scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1097/OLQ.0b013e318240189c" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3306596" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category term="2887" scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.248999997973442" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0008819" scheme="gov.nih.nlm.semanticType.topp" label="Male Circumcision"/>
+		<source type="Sex Transm Dis"/>
+	</entry>
+	<entry>
+		<title>Re-evaluating the treatment of nongonococcal urethritis: emphasizing emerging pathogens--a randomized clinical trial.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21288838" title="Re-evaluating the treatment of nongonococcal urethritis: emphasizing emerging pathogens--a randomized clinical trial."/>
+		<id>21288838</id>
+		<updated>2011-02-03</updated>
+		<summary>Addition of tinidazole to the treatment regimen did not result in higher cure rates but effectively eradicated trichomonas. Clinical cure rates were not significantly different between patients treated with doxycycline and those treated with azithromycin; however, doxycycline had significantly better efficacy against Chlamydia, whereas azithromycin was superior to doxycycline for the treatment of M. genitalium.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Nongonococcal urethritis (NGU) is a common chlamydia-associated syndrome in men; however, Trichomonas vaginalis and Mycoplasma genitalium are associated with its etiology and should be considered in approaches to therapy. We sought to determine whether the addition of tinidazole, an anti-trichomonal agent, to the treatment regimen would result in higher cure rates than those achieved with treatment with doxycycline or azithromycin alone. A secondary aim was to compare the efficacy of doxycycline therapy and with that of azithromycin therapy.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Randomized, controlled, double-blinded phase IIB trial of men with NGU. Participants were randomized to receive doxycycline plus or minus tinidazole or azithromycin plus or minus tinidazole and were observed for up to 45 days.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>The prevalences of Chlamydia trachomatis, M. genitalium, and T. vaginalis were 43%, 31%, and 13%, respectively. No pathogens were identified in 29% of participants. Clinical cure rates at the first follow-up visit were 74.5% (111 of 149 patients) for doxycycline-containing regimens and 68.6% (107 of 156 patients) for azithromycin-containing regimens. By the final visit, cure rates were 49% (73 of 149 patients) for doxycycline-containing regimens and 43.6% (68 of 156 patients) for azithromycin-containing regimens. There were no significant differences in clinical response rates among the treatment arms. However, the chlamydia clearance rate was 94.8% (55 of 58 patients) for the doxycycline arm and 77.4% (41 of 53 patients) for the azithromycin arm (P = .011), and the M. genitalium clearance rate was 30.8% (12 of 39 patients) for the doxycycline arm and 66.7% (30 of 45 patients) for the azithromycin arm (P = .002).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Addition of tinidazole to the treatment regimen did not result in higher cure rates but effectively eradicated trichomonas. Clinical cure rates were not significantly different between patients treated with doxycycline and those treated with azithromycin; however, doxycycline had significantly better efficacy against Chlamydia, whereas azithromycin was superior to doxycycline for the treatment of M. genitalium.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1093/cid/ciq074" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3106252" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.845600008964539" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0040808" scheme="gov.nih.nlm.semanticType.topp" label="Treatment Protocols"/>
+		<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0087111" scheme="gov.nih.nlm.semanticType.topp" label="Therapeutic procedure"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0589121" scheme="gov.nih.nlm.semanticType.hlca" label="Follow-up visit"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<source type="Clin. Infect. Dis."/>
+	</entry>
+	<entry>
+		<title>A randomized comparison of azithromycin and doxycycline for the treatment of Mycoplasma genitalium-positive urethritis in men.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19438399" title="A randomized comparison of azithromycin and doxycycline for the treatment of Mycoplasma genitalium-positive urethritis in men."/>
+		<id>19438399</id>
+		<updated>2009-05-28</updated>
+		<summary>A single 1-g dose of azithromycin is more effective than multidose doxycycline for the treatment of M. genitalium-associated urethritis in men. M. genitalium may be an important cause of recurrent nongonococcal urethritis after administration of the treatment regimens currently recommended by the Centers for Disease Control and Prevention.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Several uncontrolled observational studies have suggested that the tetracycline class of antibiotics may not be effective in treating Mycoplasma genitalium infection. The present study compared the efficacy of 1 g of azithromycin given as a single dose with that of 100 mg of doxycycline given twice a day for 7 days in eliminating M. genitalium infection.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Men with signs or symptoms of urethral disease who were attending a New Orleans sexually transmitted disease clinic and who met clinical criteria for nongonococcal urethritis were enrolled in the study. They were randomized to receive either doxycycline (100 mg orally twice a day for 7 days) or azithromycin (1 g orally as a single dose). All participants were asked to return for a follow-up visit 10-17 days after enrollment. M. genitalium-positive men at enrollment were invited to return for a second follow-up visit between 31 and 41 days after enrollment.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Of the 398 men who enrolled, 197 were randomized to receive azithromycin, and 201 were randomized to receive doxycycline. Thirty-six (18%) and 42 (21%) men in these 2 groups, respectively, were infected with M. genitalium. At the early initial follow-up visit, 3 (13%) of 23 azithromycin-treated men were M. genitalium positive, compared with 17 (55%) of 31 doxycycline-treated men (P = .002). Of 15 persistently infected men who were clinically cured at the early initial follow-up visit, 7 (47%) experienced clinical relapse over the subsequent 2-6 weeks.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>A single 1-g dose of azithromycin is more effective than multidose doxycycline for the treatment of M. genitalium-associated urethritis in men. M. genitalium may be an important cause of recurrent nongonococcal urethritis after administration of the treatment regimens currently recommended by the Centers for Disease Control and Prevention.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1086/599033" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.367000013589859" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003232" scheme="gov.nih.nlm.semanticType.antb" label="Antibiotics"/>
+		<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+		<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+		<category term="C0013090" scheme="gov.nih.nlm.semanticType.antb" label="Doxycycline"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0679698" scheme="gov.nih.nlm.semanticType.topp" label="prevention of disorder"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<category term="C0052796" scheme="gov.nih.nlm.semanticType.antb" label="Azithromycin"/>
+		<source type="Clin. Infect. Dis."/>
+	</entry>
+</feed>

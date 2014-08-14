@@ -1,0 +1,3439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aggregateKnowledgeResponse xmlns="http://www.w3.org/2005/Atom">
+	<feed>
+		<title>Urethritis in adult men</title>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+		<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screened"/>
+		<category term="C0142328" scheme="gov.nih.nlm.semanticType.orch" label="simplex"/>
+		<category term="C0635269" scheme="gov.nih.nlm.semanticType.aapp" label="HSV"/>
+		<category term="C0655415" scheme="gov.nih.nlm.semanticType.phsu" label="PMN"/>
+		<category term="C0655415" scheme="gov.nih.nlm.semanticType.phsu" label="PMNs"/>
+		<category term="C0009574" scheme="gov.nih.nlm.semanticType.phsu" label="preparations"/>
+		<category term="C0635269" scheme="gov.nih.nlm.semanticType.aapp" label="HSV"/>
+		<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screening"/>
+		<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C0032042" scheme="gov.nih.nlm.semanticType.topp" label="placebo"/>
+		<category term="C0640640" scheme="gov.nih.nlm.semanticType.orch" label="doses"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+		<category term="C0332293" scheme="gov.nih.nlm.semanticType.topp" label="treated by"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+		<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporin"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+		<category term="C0040263" scheme="gov.nih.nlm.semanticType.phsu" label="tinidazole"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="document"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+		<category term="C0001758" scheme="gov.nih.nlm.semanticType.hlca" label="after treatment"/>
+		<category term="C0142328" scheme="gov.nih.nlm.semanticType.orch" label="simplex"/>
+		<category term="C0655415" scheme="gov.nih.nlm.semanticType.phsu" label="PMNs"/>
+		<category term="C0142328" scheme="gov.nih.nlm.semanticType.orch" label="simplex"/>
+		<category term="C0185047" scheme="gov.nih.nlm.semanticType.topp" label="stripping"/>
+		<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+		<category term="C0332293" scheme="gov.nih.nlm.semanticType.topp" label="treated by"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+		<id>86698</id>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1457979"/>
+			<id>213504</id>
+			<summary>
+				<section label="EPIDEMIOLOGY AND MICROBIOLOGY" id="1457979">
+					<fragment>Infectious urethritis is typically caused by a sexually transmitted pathogen, thus most cases are seen in young, sexually active men.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1457979"/>
+			<id>213505</id>
+			<summary>
+				<section label="EPIDEMIOLOGY AND MICROBIOLOGY" id="1457979">
+					<fragment>Overall, Neisseria gonorrhoeae and Chlamydia trachomatis are the most common organisms identified in cases of urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1457979"/>
+			<id>213506</id>
+			<summary>
+				<section label="EPIDEMIOLOGY AND MICROBIOLOGY" id="1457979">
+					<fragment>Because N. gonorrhoeae is easily visualized on Gram stain, which is classically the primary mode of evaluating urethral discharge in men, urethritis is traditionally classified as gonococcal versus non-gonococcal.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228515"/>
+			<id>213507</id>
+			<summary>
+				<section label="Gonococcal urethritis" id="22228515">
+					<fragment>N. gonorrhoeae is a common cause of urethritis in the United States and Europe, especially in urban areas and sexually transmitted infection (STI) clinics.</fragment>
+				</section>
+			</summary>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228515"/>
+			<id>213508</id>
+			<summary>
+				<section label="Gonococcal urethritis" id="22228515">
+					<fragment>In a study of 768 men screened for sexually transmitted infections at 11 different clinic settings in the United States, the prevalence of N. gonorrhoeae ranged from 21.6 percent among symptomatic to 1.4 percent among asymptomatic men.</fragment>
+				</section>
+			</summary>
+			<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screened"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228515"/>
+			<id>213511</id>
+			<summary>
+				<section label="Gonococcal urethritis" id="22228515">
+					<fragment>As examples, gonorrhea rates were disproportionately higher among black non-Hispanic men (428.3 per 100,000) compared with white non-Hispanic men (21 per 100,000) and were highest in the South (135.5 cases per 100,000 people) compared with other regions in the country.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228515"/>
+			<id>213513</id>
+			<summary>
+				<section label="Gonococcal urethritis" id="22228515">
+					<fragment>As an example, in a study from South Africa, N. gonorrhoeae was detected in 62 percent of men with symptoms of urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228515"/>
+			<id>213514</id>
+			<summary>
+				<section label="Gonococcal urethritis" id="22228515">
+					<fragment>Of note, co-infections with other sexually transmitted pathogens are common.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228515"/>
+			<id>213515</id>
+			<summary>
+				<section label="Gonococcal urethritis" id="22228515">
+					<fragment>As an example, up to 25 to 30 percent of men with gonococcal urethritis also have concurrent chlamydia infection.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228523"/>
+			<id>213523</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="22228523">
+					<fragment>In a study of 329 men in Australia with symptoms of urethritis, C. trachomatis, M. genitalium, adenoviruses, and herpes simplex virus (HSV) were detected in 20, 9, 4, and 3 percent of cases, respectively.</fragment>
+				</section>
+			</summary>
+			<category term="C0142328" scheme="gov.nih.nlm.semanticType.orch" label="simplex"/>
+			<category term="C0635269" scheme="gov.nih.nlm.semanticType.aapp" label="HSV"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228523"/>
+			<id>213525</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="22228523">
+					<fragment>In a trial of 305 men with symptomatic NGU in the United States, much higher prevalences were reported for C. trachomatis, M. genitalium, and T. vaginalis (43, 31, and 13 percent of men, respectively).</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228523"/>
+			<id>213526</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="22228523">
+					<fragment>T. vaginalis is an important cause of NGU in Africa, where the organism has been reported in up to 20 percent of cases and asymptomatic men;</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228523"/>
+			<id>213532</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="22228523">
+					<fragment>Other organisms that can infrequently cause symptoms of urethritis include Treponema pallidum, as an endourethral syphilitic chancre may also lead to clinical urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228523"/>
+			<id>213533</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="22228523">
+					<fragment>Neisseria meningitidis has been rarely reported as a cause of symptomatic urethritis in men.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H22228523"/>
+			<id>213534</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="22228523">
+					<fragment>In such cases, the source of the infection may be from asymptomatic carriage of the organism in the throat of an oral sex partner.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350862"/>
+			<id>213563</id>
+			<summary>
+				<section label="Gram stain of urethral sample" id="350862">
+					<fragment>Gram stains performed on male urethral swabs still play an important role in defining nongonococcal urethritis (NGU) and guiding empiric therapy as a point-of-care test, especially in public sexually transmitted infection clinics in the United States and in resource-poor settings worldwide.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350862"/>
+			<id>213569</id>
+			<summary>
+				<section label="Gram stain of urethral sample" id="350862">
+					<fragment>However, not all patients with symptomatic urethritis have elevated levels of urethral leukocytes.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350862"/>
+			<id>213570</id>
+			<summary>
+				<section label="Gram stain of urethral sample" id="350862">
+					<fragment>As an example, in a prospective study of 491 men with symptoms of urethritis, in which a causative agent was identified in 148 patients (30 percent), the sensitivity and specificity of &gt;=5 PMN/hpf on Gram stain of a urethral swab for a microbial diagnosis of urethritis was 26 and 91 percent, respectively.</fragment>
+				</section>
+			</summary>
+			<category term="C0655415" scheme="gov.nih.nlm.semanticType.phsu" label="PMN"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350862"/>
+			<id>213572</id>
+			<summary>
+				<section label="Gram stain of urethral sample" id="350862">
+					<fragment>The presence of PMNs without any visible organisms is consistent with NGU, whereas gonococcal urethritis may be diagnosed by the demonstration of gram-negative intracellular or extracellular diplococci in the urethral exudate.</fragment>
+				</section>
+			</summary>
+			<category term="C0655415" scheme="gov.nih.nlm.semanticType.phsu" label="PMNs"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213578</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>In the United States, both chlamydia and gonorrhea are reportable diseases, and a specific microbial diagnosis might facilitate treatment of the partner(s).</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213579</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>Testing for other possible pathogens, including T. vaginalis, depends on the local availability of sensitive diagnostic tests and the suspicion for involvement of these additional organisms based on epidemiology or clinical findings.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213580</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>NAAT of a first-catch urine is highly sensitive and specific and is the test of choice for identification of pathogens most commonly associated with urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213581</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>Urine based diagnostic testing also decreases costs and time to test completion and avoids the patient discomfort associated with urethral sampling, thereby potentially improving patient acceptance of diagnostic testing.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213583</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>Because a urethral Gram stain that demonstrates intracellular diplococci is highly specific for gonococcal urethritis, a confirmatory NAAT for N. gonorrhoea is not necessary in men if this finding is present.</fragment>
+				</section>
+			</summary>
+			<category term="4" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213585</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>When intracellular diplococci are not seen on Gram stain or if Gram stain is not performed, testing for both N. gonorrhoeae and C. trachomatis is indicated.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213588</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>If available, NAAT for T. vaginalis is useful when the local prevalence of the organism is high, among men with recurrent or persistent urethritis, and among sexual partners of women with trichomoniasis.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213589</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>However, NAAT is expensive, not FDA-approved in the United States for use on male urine, and may not be widely available, and other diagnostic tests for T. vaginalis are less useful in men.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213590</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>Although wet mount preparations for trichomonads can be useful in women, microscopy is very insensitive in men.</fragment>
+				</section>
+			</summary>
+			<category term="C0009574" scheme="gov.nih.nlm.semanticType.phsu" label="preparations"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213592</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>Similarly, NAAT is the only accurate diagnostic test for M. genitalium infections.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213595</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>If available, NAAT for M. genitalium is useful in the initial evaluation of all men with NGU, given the high rate of detection of this organism reported in several studies among men with urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213596</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>Culture or molecular testing for HSV and serological testing for syphilis is warranted in patients with symptoms of urethritis who also have genital ulcers on exam.</fragment>
+				</section>
+			</summary>
+			<category term="C0635269" scheme="gov.nih.nlm.semanticType.aapp" label="HSV"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213597</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>There have been rare reports of Neisseria meningitidis causing symptomatic urethritis and being initially mistaken for N. gonorrhoeae on Gram stain.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H350775"/>
+			<id>213598</id>
+			<summary>
+				<section label="Determining the microbial etiology" id="350775">
+					<fragment>In such cases, NAAT for N. gonorrhoeae, if performed, is negative despite the presence of intracellular diplococci on Gram stain.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H273834"/>
+			<id>213601</id>
+			<summary>
+				<section label="Evaluation for complications and other sites of infection" id="273834">
+					<fragment>Men with urethritis should be questioned about and evaluated for the presence of fever, testicular pain and swelling, obstructive urinary symptoms (dribbling or hesitancy), perineal or pelvic pain, which may suggest involvement of the epididymis or prostate.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H273834"/>
+			<id>213602</id>
+			<summary>
+				<section label="Evaluation for complications and other sites of infection" id="273834">
+					<fragment>Gentle digital rectal exam is warranted in men who have symptoms suggestive of underlying prostatitis.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H273834"/>
+			<id>213603</id>
+			<summary>
+				<section label="Evaluation for complications and other sites of infection" id="273834">
+					<fragment>Additionally, other anatomical sites, such as the pharynx or rectum, may be affected by sexually transmitted infections, and pharyngitis and proctitis may accompany urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H351012"/>
+			<id>213607</id>
+			<summary>
+				<section label="Screening for other sexually transmitted infections" id="351012">
+					<fragment>Patients presenting with sexually transmitted infections or risk factors should also be routinely be offered screening for syphilis and HIV infection.</fragment>
+				</section>
+			</summary>
+			<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screening"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H351041"/>
+			<id>213614</id>
+			<summary>
+				<section label="Initial therapy" id="351041">
+					<fragment>The initial antimicrobial treatment of urethritis is typically empiric at the point-of-care and should be offered to men with suspected or confirmed urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H351041"/>
+			<id>213615</id>
+			<summary>
+				<section label="Initial therapy" id="351041">
+					<fragment>The regimen depends on the clinical evidence for gonococcal versus nongonococcal urethritis (NGU).</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H243476663"/>
+			<id>213616</id>
+			<summary>
+				<section label="Gonococcal urethritis" id="243476663">
+					<fragment>In men with symptoms of urethritis who have microscopic evidence of gonococcal urethritis (ie, gram-negative intracellular diplococci in the urethral exudate) or high clinical suspicion of gonococcal infection (eg, known or suspected N. gonorrhoeae exposure), treatment for both N. gonorrhoeae and C. trachomatis is indicated.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H243476663"/>
+			<id>213617</id>
+			<summary>
+				<section label="Gonococcal urethritis" id="243476663">
+					<fragment>When microscopic evaluation of urethral specimens is not available, sexually active men with suspected urethritis should be empirically treated for both gonorrhea and chlamydia.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H243476663"/>
+			<id>213618</id>
+			<summary>
+				<section label="Gonococcal urethritis" id="243476663">
+					<fragment>The preferred regimen for gonococcal infections is a single intramuscular dose of ceftriaxone (250 mg) and a single oral dose of azithromycin (1 gram).</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H243476670"/>
+			<id>213623</id>
+			<summary>
+				<section label="gonococcal urethritis" id="243476670">
+					<fragment>Treatment for NGU, in which there is no microscopic, laboratory, or clinical evidence of N. gonorrhea, is usually targeted against C. trachomatis as the most likely pathogen.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H243476670"/>
+			<id>213628</id>
+			<summary>
+				<section label="gonococcal urethritis" id="243476670">
+					<fragment>In one of these trials, 606 men with NGU confirmed by evident urethral discharge on exam or consistent urethral specimen Gram stain findings were randomly assigned to the above doses of azithromycin or doxycycline in addition to placebo for the other agent.</fragment>
+				</section>
+			</summary>
+			<category term="C0032042" scheme="gov.nih.nlm.semanticType.topp" label="placebo"/>
+			<category term="C0640640" scheme="gov.nih.nlm.semanticType.orch" label="doses"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H243476670"/>
+			<id>213632</id>
+			<summary>
+				<section label="gonococcal urethritis" id="243476670">
+					<fragment>In a separate trial of 305 men with NGU, azithromycin-based regimens were less effective than doxycycline-based regimens for microbiologic clearance of C. trachomatis (77 versus 95 percent cure), but more effective for M. genitalium (67 versus 31 percent cure).</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H243476677"/>
+			<id>213634</id>
+			<summary>
+				<section label="Directed therapy" id="243476677">
+					<fragment>However, approximately a third of men with urethritis will have an unidentified etiology despite NAATs.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H273970"/>
+			<id>213636</id>
+			<summary>
+				<section label="Recurrent or persistent symptoms" id="273970">
+					<fragment>Recurrent or persistent symptoms are common following therapy for urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H273970"/>
+			<id>213637</id>
+			<summary>
+				<section label="Recurrent or persistent symptoms" id="273970">
+					<fragment>While it is important to consider poor adherence to the regimen, reinfection, and antimicrobial resistance (particularly in the case of N. gonorrhoeae), the possibility of other organisms inadequately treated by the empiric regimen should be considered.</fragment>
+				</section>
+			</summary>
+			<category term="C0332293" scheme="gov.nih.nlm.semanticType.topp" label="treated by"/>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H273970"/>
+			<id>213638</id>
+			<summary>
+				<section label="Recurrent or persistent symptoms" id="273970">
+					<fragment>In a study of men treated with a cephalosporin or spectinomycin for gonococcal urethritis who had documented eradication of N. gonorrhoeae, 104 of 291 men had evidence of persistent urethritis, which was associated with baseline coinfection with C. trachomatis, M. genitalium, and U.</fragment>
+				</section>
+			</summary>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+			<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporin"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H273970"/>
+			<id>213640</id>
+			<summary>
+				<section label="Recurrent or persistent symptoms" id="273970">
+					<fragment>In an analysis of results from a trial of treatment for NGU, persistent M. genitalium infection was detected following both azithromycin and doxycycline-based regimens.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H273970"/>
+			<id>213642</id>
+			<summary>
+				<section label="Recurrent or persistent symptoms" id="273970">
+					<fragment>Thus, we favor testing men with objective evidence of persistent urethritismetronidazole or tinidazole, each as a 2 gram single oral dose) in addition to a single oral dose of azithromycin 1 gram (if not used for initial therapy) can be given, while awaiting diagnostic results or if testing is not available.</fragment>
+				</section>
+			</summary>
+			<category term="C0040263" scheme="gov.nih.nlm.semanticType.phsu" label="tinidazole"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H273970"/>
+			<id>213643</id>
+			<summary>
+				<section label="Recurrent or persistent symptoms" id="273970">
+					<fragment>Other causes of dysuria and non-infectious etiologies of symptoms of urethritis should also be considered.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H7868149"/>
+			<id>213644</id>
+			<summary>
+				<section label="FOLLOW UP" id="7868149">
+					<fragment>In order to decrease the risk of transmission, men with infectious urethritis should be instructed to refrain from sexual activity for at least seven days following the initiation of therapy and until their symptoms have resolved.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H7868149"/>
+			<id>213645</id>
+			<summary>
+				<section label="FOLLOW UP" id="7868149">
+					<fragment>Recurrent and persistent symptoms should prompt reevaluation for possible reinfection, antimicrobial resistance (in the case of N. gonorrhoeae infection), or the possible involvement of pathogens that were not covered by the empiric regimen.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H7868157"/>
+			<id>213646</id>
+			<summary>
+				<section label="Test of cure" id="7868157">
+					<fragment>A test of cure is a microbial diagnostic test (eg, culture or nucleic acid amplification testing) that is performed one to three weeks following treatment, regardless of symptom resolution, to document eradication of the pathogen.</fragment>
+				</section>
+			</summary>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="document"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H7868157"/>
+			<id>213647</id>
+			<summary>
+				<section label="Test of cure" id="7868157">
+					<fragment>In general, a test of cure is not necessary for men with urethritis treated with first line regimens for N. gonorrhoeae or C. trachomatis.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H7868165"/>
+			<id>213651</id>
+			<summary>
+				<section label="Repeat testing" id="7868165">
+					<fragment>Because of the high rate of reinfection within six months following therapy for chlamydia and gonorrhoea infections in men, repeat testing with NAAT for these pathogens is warranted three to six months after treatment of a confirmed infection, regardless of the presence of symptoms.</fragment>
+				</section>
+			</summary>
+			<category term="C0001758" scheme="gov.nih.nlm.semanticType.hlca" label="after treatment"/>
+			<category term="4" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213663</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>Infectious urethritis is typically caused by a sexually transmitted pathogen, thus most cases are seen in young, sexually active men.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213664</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>Neisseria gonorrhoeae and Chlamydia trachomatis are the most common organisms associated with urethritis, but Mycoplasma genitalium, Trichomonas vaginalis and herpes simplex virus are also recognized causes.(See.</fragment>
+				</section>
+			</summary>
+			<category term="C0142328" scheme="gov.nih.nlm.semanticType.orch" label="simplex"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213665</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>Dysuria, or painful urination, is usually the chief complaint in men with urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213666</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>Other complaints include pruritus, burning, and discharge at the urethral meatus, which can be variable in presentation.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213670</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>&gt;=5 polymorphonuclear cells (PMNs) per oil immersion field from the Gram stain of a urethral swab.</fragment>
+				</section>
+			</summary>
+			<category term="C0655415" scheme="gov.nih.nlm.semanticType.phsu" label="PMNs"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213672</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>If none of these findings are present, a presumptive or suspected diagnosis of urethritis can be made in sexually-active men with suggestive symptoms.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213674</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>In addition to testing for N. gonorrhoeae and C. trachomatis, testing for other possible pathogens, such as T. vaginalis, M. genitalium, herpes simplex virus, and U. ureaplasma, depends on the local availability of diagnostic tests and the suspicion for involvement of these additional organisms based on epidemiology or clinical findings.</fragment>
+				</section>
+			</summary>
+			<category term="C0142328" scheme="gov.nih.nlm.semanticType.orch" label="simplex"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213675</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>Nucleic acid amplification tests performed on first void urine are the most sensitive diagnostic tests for most sexually transmitted pathogens associated with urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213678</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>Noninfectious etiologies that can lead to inflammation of the urethra include chemical irritation and repeated vigorous stripping of the urethra by the patient.</fragment>
+				</section>
+			</summary>
+			<category term="C0185047" scheme="gov.nih.nlm.semanticType.topp" label="stripping"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213679</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>The initial antimicrobial treatment of urethritis is typically empiric at the point-of-care.</fragment>
+				</section>
+			</summary>
+			<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213680</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>In men with symptoms of urethritis who have microscopic evidence of gonococcal urethritis (ie, gram-negative intracellular diplococci in the urethral exudate) or high clinical suspicion of gonococcal infection, treatment is as outlined for uncomplicated gonococcal infections.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213682</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>For patients with nongonococcal urethritis, when there is no microscopic, laboratory, or clinical evidence of N. gonorrhea, we suggest a single oral dose of azithromycin (1 gram).</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213685</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>Recurrent or persistent symptoms are common following therapy for urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213686</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>Possible causes include poor adherence to the regimen, reinfection, antimicrobial resistance (particularly in the case of N. gonorrhoeae), and involvement of other organisms inadequately treated by the empiric regimen (eg, T. vaginalis, M. genitalium, and U. ureaplasma).</fragment>
+				</section>
+			</summary>
+			<category term="C0332293" scheme="gov.nih.nlm.semanticType.topp" label="treated by"/>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213687</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>In order to decrease the risk of transmission, men with infectious urethritis should be instructed to refrain from sexual activity for at least seven days following the initiation of therapy.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213688</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>A test of cure is not necessary for men with urethritis treated with first line regimens for N. gonorrhoeae or C. trachomatis, but is indicated when alternate regimens are used.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/86698#H1458534"/>
+			<id>213689</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="1458534">
+					<fragment>Sexual contacts of patients diagnosed with urethritis warrant evaluation and treatment for sexually transmitted pathogens.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+	</feed>
+	<feed>
+		<title>Treatment of uncomplicated gonococcal infections</title>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+		<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotics"/>
+		<category term="C0628655" scheme="gov.nih.nlm.semanticType.phsu" label="meets"/>
+		<category term="C3540763" scheme="gov.nih.nlm.semanticType.phsu" label="various"/>
+		<category term="C0556895" scheme="gov.nih.nlm.semanticType.topp" label="combination therapy"/>
+		<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotics"/>
+		<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+		<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporins"/>
+		<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+		<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+		<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+		<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+		<category term="C0390068" scheme="gov.nih.nlm.semanticType.orch" label="CDC"/>
+		<category term="C0733511" scheme="gov.nih.nlm.semanticType.hlca" label="surveillance"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+		<category term="C0733511" scheme="gov.nih.nlm.semanticType.hlca" label="surveillance"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+		<category term="C0733511" scheme="gov.nih.nlm.semanticType.hlca" label="surveillance"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drugs"/>
+		<category term="C0358919" scheme="gov.nih.nlm.semanticType.phsu" label="quinolone"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+		<category term="C0358919" scheme="gov.nih.nlm.semanticType.phsu" label="quinolone"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drugs"/>
+		<category term="C0304320" scheme="gov.nih.nlm.semanticType.antb" label="third generation cephalosporins"/>
+		<category term="C0949665" scheme="gov.nih.nlm.semanticType.phsu" label="fluoroquinolones"/>
+		<category term="C0966794" scheme="gov.nih.nlm.semanticType.phsu" label="tetracyclines"/>
+		<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporins"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+		<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+		<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporins"/>
+		<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prevention"/>
+		<category term="C0390068" scheme="gov.nih.nlm.semanticType.orch" label="CDC"/>
+		<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporin"/>
+		<category term="C0640640" scheme="gov.nih.nlm.semanticType.orch" label="doses"/>
+		<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotic"/>
+		<category term="C0048442" scheme="gov.nih.nlm.semanticType.orch" label="meta"/>
+		<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+		<category term="C2354505" scheme="gov.nih.nlm.semanticType.orch" label="CI"/>
+		<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporins"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+		<category term="C0390068" scheme="gov.nih.nlm.semanticType.orch" label="CDC"/>
+		<category term="C0556895" scheme="gov.nih.nlm.semanticType.topp" label="combination therapy"/>
+		<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+		<category term="C1528990" scheme="gov.nih.nlm.semanticType.orch" label="act"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+		<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="Cefixime"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporins"/>
+		<category term="C0292977" scheme="gov.nih.nlm.semanticType.phsu" label="fell"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C0055015" scheme="gov.nih.nlm.semanticType.antb" label="cefuroxime axetil"/>
+		<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+		<category term="C0048442" scheme="gov.nih.nlm.semanticType.orch" label="meta"/>
+		<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+		<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+		<category term="C1572381" scheme="gov.nih.nlm.semanticType.phsu" label="no data"/>
+		<category term="C0002771" scheme="gov.nih.nlm.semanticType.phsu" label="analgesics"/>
+		<category term="C0184967" scheme="gov.nih.nlm.semanticType.topp" label="packs"/>
+		<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotic"/>
+		<category term="C1572381" scheme="gov.nih.nlm.semanticType.phsu" label="no data"/>
+		<category term="C0390068" scheme="gov.nih.nlm.semanticType.orch" label="CDC"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+		<category term="C0001758" scheme="gov.nih.nlm.semanticType.hlca" label="after treatment"/>
+		<category term="C0457454" scheme="gov.nih.nlm.semanticType.hlca" label="discontinuation"/>
+		<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotics"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporin"/>
+		<category term="C0001758" scheme="gov.nih.nlm.semanticType.hlca" label="after treatment"/>
+		<category term="C0376495" scheme="gov.nih.nlm.semanticType.topp" label="Retreatment"/>
+		<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporin"/>
+		<category term="C0001758" scheme="gov.nih.nlm.semanticType.hlca" label="after treatment"/>
+		<category term="C0185026" scheme="gov.nih.nlm.semanticType.topp" label="fold"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+		<category term="C1269815" scheme="gov.nih.nlm.semanticType.hlca" label="identified 23 patients"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STIs"/>
+		<category term="C0025872" scheme="gov.nih.nlm.semanticType.phsu" label="metronidazole"/>
+		<category term="C0040263" scheme="gov.nih.nlm.semanticType.phsu" label="tinidazole"/>
+		<category term="C0039512" scheme="gov.nih.nlm.semanticType.phsu" label="EPT"/>
+		<category term="C0308779" scheme="gov.nih.nlm.semanticType.phsu" label="deliver"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STIs"/>
+		<category term="C0039512" scheme="gov.nih.nlm.semanticType.phsu" label="EPT"/>
+		<category term="C0391422" scheme="gov.nih.nlm.semanticType.orch" label="impact"/>
+		<category term="C0808232" scheme="gov.nih.nlm.semanticType.topp" label="therapeutic interventions"/>
+		<category term="C0422202" scheme="gov.nih.nlm.semanticType.hlca" label="notification"/>
+		<category term="C0039512" scheme="gov.nih.nlm.semanticType.phsu" label="EPT"/>
+		<category term="C0308779" scheme="gov.nih.nlm.semanticType.phsu" label="delivered"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotic"/>
+		<category term="C0039512" scheme="gov.nih.nlm.semanticType.phsu" label="EPT"/>
+		<category term="C0390068" scheme="gov.nih.nlm.semanticType.orch" label="CDC"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STIs"/>
+		<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobials"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+		<id>15892</id>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H1115797"/>
+			<id>209131</id>
+			<summary>
+				<section label="Therapeutic principles" id="1115797">
+					<fragment>Be well tolerated (particularly in patients with recurrent infections).</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H1115797"/>
+			<id>209135</id>
+			<summary>
+				<section label="Therapeutic principles" id="1115797">
+					<fragment>Because of progressive development of drug resistance to various classes of antibiotics, at present, only one drug, ceftriaxone, meets these strict treatment efficacy goals with single-dose therapy, few adverse effects, and relatively low rates of drug resistance.</fragment>
+				</section>
+			</summary>
+			<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+			<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotics"/>
+			<category term="C0628655" scheme="gov.nih.nlm.semanticType.phsu" label="meets"/>
+			<category term="C3540763" scheme="gov.nih.nlm.semanticType.phsu" label="various"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H1115797"/>
+			<id>209136</id>
+			<summary>
+				<section label="Therapeutic principles" id="1115797">
+					<fragment>However, decreasing susceptibility to this agent over time threatens the ability to effectively treat N. gonorrhoeae and has prompted recommendations for use of a combination therapy to treat gonococcal infections.</fragment>
+				</section>
+			</summary>
+			<category term="C0556895" scheme="gov.nih.nlm.semanticType.topp" label="combination therapy"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H1115804"/>
+			<id>209137</id>
+			<summary>
+				<section label="Chlamydia as a copathogen" id="1115804">
+					<fragment>The selection of antibiotics for the treatment of gonorrhea must also include the possibility of copathogens, such as Chlamydia trachomatis, which is often asymptomatic in women.</fragment>
+				</section>
+			</summary>
+			<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotics"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H1115804"/>
+			<id>209138</id>
+			<summary>
+				<section label="Chlamydia as a copathogen" id="1115804">
+					<fragment>Some epidemiologic surveys have shown a coinfection rate up to 46 percent among men and women with gonorrhea.</fragment>
+				</section>
+			</summary>
+			<category term="4" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889004"/>
+			<id>209140</id>
+			<summary>
+				<section label="ANTIBIOTIC RESISTANCE" id="7889004">
+					<fragment>Subsequently, gonococcal infections were treated with penicillins, but by 1989, &gt;5 percent of cases of gonorrhea were caused by strains that produced a plasmid-mediated beta-lactamase and &gt;17 percent were associated with chromosomally-mediated resistance.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889004"/>
+			<id>209141</id>
+			<summary>
+				<section label="ANTIBIOTIC RESISTANCE" id="7889004">
+					<fragment>As a pattern, N. gonorrhoeae has developed increasing minimum inhibitory concentrations (ie, decreasing susceptibility) followed by frank resistance to the antimicrobial class most commonly used for therapy, thus progressively reducing available therapeutic options.</fragment>
+				</section>
+			</summary>
+			<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889004"/>
+			<id>209146</id>
+			<summary>
+				<section label="ANTIBIOTIC RESISTANCE" id="7889004">
+					<fragment>An especially alarming trend in N. gonorrhoeae drug resistance has been the progressive decrease in susceptibility to the cephalosporins.</fragment>
+				</section>
+			</summary>
+			<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+			<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporins"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889004"/>
+			<id>209147</id>
+			<summary>
+				<section label="ANTIBIOTIC RESISTANCE" id="7889004">
+					<fragment>The emerging threat of antimicrobial-resistant gonorrhea appears to be more evident among men who have sex with men (MSM) than among men who have sex exclusively with women (MSW).</fragment>
+				</section>
+			</summary>
+			<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H365932"/>
+			<id>209155</id>
+			<summary>
+				<section label="Cefixime" id="365932">
+					<fragment>Furthermore, in a retrospective study of patients treated for culture-confirmed N. gonorrhoeae infection with a single oral dose of cefixime 400 mg at a Canadian clinic, 13 of 133 patients who returned for a test of cure were again culture positive, and nine (6.8 percent) were considered treatment failures.</fragment>
+				</section>
+			</summary>
+			<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H365932"/>
+			<id>209157</id>
+			<summary>
+				<section label="Cefixime" id="365932">
+					<fragment>Although the possibility that some of these cases represented reinfection instead of treatment failure cannot be definitively excluded, these data highlight the increasing concern of the inadequacy of cefixime for gonococcal infections.</fragment>
+				</section>
+			</summary>
+			<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H365932"/>
+			<id>209158</id>
+			<summary>
+				<section label="Cefixime" id="365932">
+					<fragment>In light of current domestic MIC trends and international treatment failures, we agree with the CDC recommendation that cefixime should not be a preferred agent for the treatment of gonorrhea.</fragment>
+				</section>
+			</summary>
+			<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+			<category term="C0390068" scheme="gov.nih.nlm.semanticType.orch" label="CDC"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H365939"/>
+			<id>209161</id>
+			<summary>
+				<section label="Ceftriaxone" id="365939">
+					<fragment>In Bangladesh, 1.5 percent of the isolates reported in 2000 through a World Health Organization surveillance program demonstrated reduced susceptibility to ceftriaxone.</fragment>
+				</section>
+			</summary>
+			<category term="C0733511" scheme="gov.nih.nlm.semanticType.hlca" label="surveillance"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H365939"/>
+			<id>209162</id>
+			<summary>
+				<section label="Ceftriaxone" id="365939">
+					<fragment>In 2011, the first N. gonorrhoeae strain with high-level resistance to ceftriaxone (MIC 2 to 4 mcg/mL) was isolated from the pharynx of a sex worker in Japan.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H365939"/>
+			<id>209166</id>
+			<summary>
+				<section label="Ceftriaxone" id="365939">
+					<fragment>These developments highlight the pressing need for improving control of the spread of drug resistance in N. gonorrhoeae and clinically investigating other viable therapeutic options.</fragment>
+				</section>
+			</summary>
+			<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H77502541"/>
+			<id>209168</id>
+			<summary>
+				<section label="Azithromycin" id="77502541">
+					<fragment>In the United States, data from the GISP demonstrate increasing MICs for azithromycin since surveillance for the drug's activity against N. gonorrhoeae began in 1992.</fragment>
+				</section>
+			</summary>
+			<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+			<category term="C0733511" scheme="gov.nih.nlm.semanticType.hlca" label="surveillance"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H77502541"/>
+			<id>209175</id>
+			<summary>
+				<section label="Azithromycin" id="77502541">
+					<fragment>These findings emphasize the importance of ongoing drug resistance surveillance for all drugs commonly used in the treatment of gonorrhea.</fragment>
+				</section>
+			</summary>
+			<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+			<category term="C0733511" scheme="gov.nih.nlm.semanticType.hlca" label="surveillance"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H366145"/>
+			<id>209180</id>
+			<summary>
+				<section label="Aminoglycosides" id="366145">
+					<fragment>When it was used more frequently as a single agent, resistance was more common, as illustrated by a study of spectinomycin treatment for urethral gonorrhea in 99 United States military personnel in Korea, among whom spectinomycin monotherapy was the preferred regimen.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H77502534"/>
+			<id>209184</id>
+			<summary>
+				<section label="Fluoroquinolones" id="77502534">
+					<fragment>The prevalence of quinolone-resistant N. gonorrhoeae (QRNG) ranges from 10 to nearly 100 percent of isolates reported throughout the world, and these drugs are no longer recommended for the treatment of gonorrhea.</fragment>
+				</section>
+			</summary>
+			<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drugs"/>
+			<category term="C0358919" scheme="gov.nih.nlm.semanticType.phsu" label="quinolone"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H77502534"/>
+			<id>209185</id>
+			<summary>
+				<section label="Fluoroquinolones" id="77502534">
+					<fragment>In several regions, such as the United States and Europe, the prevalence of quinolone resistance has decreased somewhat compared with previous years, likely reflecting decreased use of the drug.</fragment>
+				</section>
+			</summary>
+			<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+			<category term="C0358919" scheme="gov.nih.nlm.semanticType.phsu" label="quinolone"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H77502534"/>
+			<id>209186</id>
+			<summary>
+				<section label="Fluoroquinolones" id="77502534">
+					<fragment>However, resistance levels remain high elsewhere despite the avoidance of these drugs for treatment of gonorrhea and the resultant decrease in selection pressure.</fragment>
+				</section>
+			</summary>
+			<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drugs"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H1115841"/>
+			<id>209190</id>
+			<summary>
+				<section label="APPROACH TO TREATMENT" id="1115841">
+					<fragment>Due to rising rates of gonococcal resistance to other agents (sulfonamides, penicillins, tetracyclines, and fluoroquinolones), third generation cephalosporins had been considered first-line monotherapy.</fragment>
+				</section>
+			</summary>
+			<category term="C0304320" scheme="gov.nih.nlm.semanticType.antb" label="third generation cephalosporins"/>
+			<category term="C0949665" scheme="gov.nih.nlm.semanticType.phsu" label="fluoroquinolones"/>
+			<category term="C0966794" scheme="gov.nih.nlm.semanticType.phsu" label="tetracyclines"/>
+			<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporins"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H1115841"/>
+			<id>209191</id>
+			<summary>
+				<section label="APPROACH TO TREATMENT" id="1115841">
+					<fragment>Of these, ceftriaxone is favored because drug resistance has been documented less frequently than for other cephalosporins, such as cefixime.</fragment>
+				</section>
+			</summary>
+			<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+			<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+			<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporins"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H1115841"/>
+			<id>209193</id>
+			<summary>
+				<section label="APPROACH TO TREATMENT" id="1115841">
+					<fragment>As a result, several strategies to better manage gonorrhea in the setting of increasing cephalosporin resistance have been variably recommended by organizations such as the United States Centers for Disease Control and Prevention (CDC) and the British Association for Sexual Health and HIV (BASHH).</fragment>
+				</section>
+			</summary>
+			<category term="C0199176" scheme="gov.nih.nlm.semanticType.topp" label="Prevention"/>
+			<category term="C0390068" scheme="gov.nih.nlm.semanticType.orch" label="CDC"/>
+			<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporin"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H278540"/>
+			<id>209195</id>
+			<summary>
+				<section label="Preferred regimen for urogenital infection" id="278540">
+					<fragment>For uncomplicated urogenital gonococcal infections, we suggest using ceftriaxone plus a second agent at the following doses: Ceftriaxone 250 mg intramuscular in a single dose for treatment of gonococcal infection.</fragment>
+				</section>
+			</summary>
+			<category term="C0640640" scheme="gov.nih.nlm.semanticType.orch" label="doses"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H278540"/>
+			<id>209197</id>
+			<summary>
+				<section label="Preferred regimen for urogenital infection" id="278540">
+					<fragment>Azithromycin (1 gram in a single oral dose) for possible additional activity against N. gonorrhoeae and for treatment of potential chlamydia coinfection.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H278540"/>
+			<id>209199</id>
+			<summary>
+				<section label="Preferred regimen for urogenital infection" id="278540">
+					<fragment>Because of the increased prevalence of N. gonorrhoeae resistance to doxycycline compared with azithromycin, we reserve the use of doxycycline for azithromycin-intolerant patients and for cases of epididymitis or proctitis, in which azithromycin has not been studied.</fragment>
+				</section>
+			</summary>
+			<category term="4" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H832751"/>
+			<id>209204</id>
+			<summary>
+				<section label="Efficacy of ceftriaxone" id="832751">
+					<fragment>However, in light of emerging antibiotic resistance data and because treatment failure has significant public health implications related to ongoing transmission of infection, ceftriaxone as a single agent for gonococcal infections is no longer recommended.</fragment>
+				</section>
+			</summary>
+			<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotic"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H832751"/>
+			<id>209207</id>
+			<summary>
+				<section label="Efficacy of ceftriaxone" id="832751">
+					<fragment>In a meta-analysis of trials comparing cephalosporins and other agents for treatment of uncomplicated gonorrhea, higher cure rates were reported with ceftriaxone 250 mg than cefixime 400 mg (OR 1.77, 95% CI 1.11-2.8) with equivalent side effects.</fragment>
+				</section>
+			</summary>
+			<category term="C0048442" scheme="gov.nih.nlm.semanticType.orch" label="meta"/>
+			<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+			<category term="C2354505" scheme="gov.nih.nlm.semanticType.orch" label="CI"/>
+			<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporins"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H832751"/>
+			<id>209208</id>
+			<summary>
+				<section label="Efficacy of ceftriaxone" id="832751">
+					<fragment>There was also a trend towards higher cure rates with ceftriaxone compared with spectinomycin.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H832751"/>
+			<id>209209</id>
+			<summary>
+				<section label="Efficacy of ceftriaxone" id="832751">
+					<fragment>Thus, extensive data and clinical experience indicate that ceftriaxone is safe and effective for the treatment of uncomplicated gonorrhea at urogenital and anorectal sites and support its use as the preferred agent despite the need for parenteral administration.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H1116052"/>
+			<id>209213</id>
+			<summary>
+				<section label="Changes in dosing of ceftriaxone" id="1116052">
+					<fragment>However, a 98 percent cure rate has been documented among patients with pharyngeal gonorrhea who received a 250 mg dose of ceftriaxone, thus supporting the use of this dose.</fragment>
+				</section>
+			</summary>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H1115932"/>
+			<id>209219</id>
+			<summary>
+				<section label="Rationale for dual therapy" id="1115932">
+					<fragment>However, because of trends in antimicrobial resistance and the lack of new, effective antimicrobials in advanced product development for use in the treatment of gonorrhea, we agree with the CDC recommendation for combination therapy for suspected or documented gonorrhea with ceftriaxone plus either azithromycin or doxycycline, regardless of chlamydial coinfection status.</fragment>
+				</section>
+			</summary>
+			<category term="C0390068" scheme="gov.nih.nlm.semanticType.orch" label="CDC"/>
+			<category term="C0556895" scheme="gov.nih.nlm.semanticType.topp" label="combination therapy"/>
+			<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H1115932"/>
+			<id>209223</id>
+			<summary>
+				<section label="Rationale for dual therapy" id="1115932">
+					<fragment>Although there are no clinical data to suggest that dual therapy with ceftriaxone and azithromycin decreases the emergence of resistance, some experts have suggested that a theoretical basis for dual therapy against N. gonorrhoeae could be extrapolated from evidence from other pathogens that demonstrates lower rates of resistance with the use of agents that act upon different molecular targets.</fragment>
+				</section>
+			</summary>
+			<category term="C1528990" scheme="gov.nih.nlm.semanticType.orch" label="act"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H195635372"/>
+			<id>209230</id>
+			<summary>
+				<section label="Other cephalosporins" id="195635372">
+					<fragment>These single-dose regimens are only recommended for uncomplicated urogenital and anorectal gonorrhea and should be combined with azithromycin or doxycycline.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H195635372"/>
+			<id>209233</id>
+			<summary>
+				<section label="Other cephalosporins" id="195635372">
+					<fragment>Cefixime (400 mg orally in a single dose or 400 mg by suspension) was shown to lead to microbiologic cure in 96 percent of patients with uncomplicated gonorrhea.</fragment>
+				</section>
+			</summary>
+			<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="Cefixime"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H195635372"/>
+			<id>209236</id>
+			<summary>
+				<section label="Other cephalosporins" id="195635372">
+					<fragment>Thus, if oral cephalosporins are used in a combination regimen with azithromycin or doxycycline, patients should be advised to return in one week for a microbiological test of cure.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporins"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H195635379"/>
+			<id>209239</id>
+			<summary>
+				<section label="Azithromycin monotherapy" id="195635379">
+					<fragment>In a systematic review of studies in which azithromycin was used for treatment of uncomplicated urogenital infection, the aggregate cure rate for the 1 g dose fell just below the 95 percent cure rate, the efficacy threshold for gonorrhea.</fragment>
+				</section>
+			</summary>
+			<category term="C0292977" scheme="gov.nih.nlm.semanticType.phsu" label="fell"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H195635386"/>
+			<id>209245</id>
+			<summary>
+				<section label="Spectinomycin" id="195635386">
+					<fragment>Spectinomycin serves as an alternate therapy for patients with a history of severe penicillin allergy.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H195635386"/>
+			<id>209246</id>
+			<summary>
+				<section label="Spectinomycin" id="195635386">
+					<fragment>However, spectinomycin should not be used for treatment of pharyngeal infection as it is associated with low cure rates at this site.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889046"/>
+			<id>209248</id>
+			<summary>
+				<section label="Pharyngeal infection" id="7889046">
+					<fragment>Treatment of pharyngeal infection follows the same principles outlined for the approach to therapy of uncomplicated urogenital gonococcal infections, with a preferred regimen of intramuscular ceftriaxone (250 mg) and azithromycin as a second agent, as above.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889046"/>
+			<id>209250</id>
+			<summary>
+				<section label="Pharyngeal infection" id="7889046">
+					<fragment>Of note, alternate regimens like spectinomycin, cefixime, cefpodoxime, and cefuroxime axetil are associated with low rates of gonococcal eradication in the pharynx and should not be used.</fragment>
+				</section>
+			</summary>
+			<category term="C0055015" scheme="gov.nih.nlm.semanticType.antb" label="cefuroxime axetil"/>
+			<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimens"/>
+			<category term="4" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889046"/>
+			<id>209252</id>
+			<summary>
+				<section label="Pharyngeal infection" id="7889046">
+					<fragment>This issue was well illustrated in a meta-analysis of 144 controlled and uncontrolled trials, which found that standard antimicrobial therapy led to cure rates of 79 percent for pharyngeal infections in men compared with 98 and 95 percent for urethral and rectal infections, respectively.</fragment>
+				</section>
+			</summary>
+			<category term="C0048442" scheme="gov.nih.nlm.semanticType.orch" label="meta"/>
+			<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobial"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889074"/>
+			<id>209259</id>
+			<summary>
+				<section label="Epididymitis" id="7889074">
+					<fragment>Epididymitis is most likely to be caused by N. gonorrhoeae or C. trachomatis in men younger than age 35.</fragment>
+				</section>
+			</summary>
+			<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889074"/>
+			<id>209260</id>
+			<summary>
+				<section label="Epididymitis" id="7889074">
+					<fragment>Ceftriaxone (250 mg intramuscularly) and doxycycline (100 mg orally twice for 10 days) is indicated in these patients.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889074"/>
+			<id>209261</id>
+			<summary>
+				<section label="Epididymitis" id="7889074">
+					<fragment>There are no data on the use of azithromycin for chlamydia in patients with epididymitis.</fragment>
+				</section>
+			</summary>
+			<category term="C1572381" scheme="gov.nih.nlm.semanticType.phsu" label="no data"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889074"/>
+			<id>209262</id>
+			<summary>
+				<section label="Epididymitis" id="7889074">
+					<fragment>Azithromycin may be considered an alternative agent in patients with a history of intolerance/allergy to doxycycline, but follow-up to evaluate for symptom resolution should be conducted.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889074"/>
+			<id>209264</id>
+			<summary>
+				<section label="Epididymitis" id="7889074">
+					<fragment>Ofloxacin (300 mg orally twice daily for 10 days) or levofloxacin (500 mg orally once daily for 10 days) is the recommended treatment, unless N. gonorrhoeae infection is suspected.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889074"/>
+			<id>209265</id>
+			<summary>
+				<section label="Epididymitis" id="7889074">
+					<fragment>In addition to antibiotic treatment, analgesics, scrotal elevation, limitation of activity and use of cold packs can be helpful.</fragment>
+				</section>
+			</summary>
+			<category term="C0002771" scheme="gov.nih.nlm.semanticType.phsu" label="analgesics"/>
+			<category term="C0184967" scheme="gov.nih.nlm.semanticType.topp" label="packs"/>
+			<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotic"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889081"/>
+			<id>209266</id>
+			<summary>
+				<section label="Proctitis" id="7889081">
+					<fragment>Patients with acute proctitis should be evaluated by anoscopy or sigmoidoscopy.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889081"/>
+			<id>209267</id>
+			<summary>
+				<section label="Proctitis" id="7889081">
+					<fragment>If polymorphonuclear leukocytes are detected on a Gram-stained smear of anorectal secretions of a patient who has engaged in anoreceptive intercourse, the cause is usually sexually transmitted.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889081"/>
+			<id>209268</id>
+			<summary>
+				<section label="Proctitis" id="7889081">
+					<fragment>Empiric therapy for both gonorrhea and chlamydia with ceftriaxone (250 mg intramuscularly in a single dose) and doxycycline (100 mg orally twice a day for seven days) is indicated for the treatment of patients with acute proctitis.</fragment>
+				</section>
+			</summary>
+			<category term="6" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889081"/>
+			<id>209269</id>
+			<summary>
+				<section label="Proctitis" id="7889081">
+					<fragment>There are no data on the use of azithromycin in patients with proctitis.</fragment>
+				</section>
+			</summary>
+			<category term="C1572381" scheme="gov.nih.nlm.semanticType.phsu" label="no data"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889081"/>
+			<id>209270</id>
+			<summary>
+				<section label="Proctitis" id="7889081">
+					<fragment>Azithromycin may be considered an alternative agent in patients with a history of intolerance/allergy to doxycycline, but patient follow-up to evaluate for symptom resolution is advised.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889081"/>
+			<id>209272</id>
+			<summary>
+				<section label="Proctitis" id="7889081">
+					<fragment>Nonsexually transmitted causes of proctitis include Shigella spp, Campylobacter spp, and Entamoeba histolytica in immunocompetent patients and cytomegalovirus or other opportunistic pathogens in immunosuppressed HIV-positive patients.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H14405271"/>
+			<id>209277</id>
+			<summary>
+				<section label="Disseminated gonococcal infection" id="14405271">
+					<fragment>The management of septic arthritis due to N. gonorrhoeae and other manifestations of disseminated gonococcal infection is discussed in detail elsewhere.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H279612"/>
+			<id>209279</id>
+			<summary>
+				<section label="Penicillin allergic patients" id="279612">
+					<fragment>We agree with the CDC recommendation of treatment with ceftriaxone if the patient has only a history of rash without IgE manifestations.</fragment>
+				</section>
+			</summary>
+			<category term="C0390068" scheme="gov.nih.nlm.semanticType.orch" label="CDC"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H279612"/>
+			<id>209286</id>
+			<summary>
+				<section label="Penicillin allergic patients" id="279612">
+					<fragment>Alternate treatment choices among patients with a history of IgE-mediated drug reactions include spectinomycin (where available) or azithromycin (2 g as a single oral dose).</fragment>
+				</section>
+			</summary>
+			<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H279612"/>
+			<id>209288</id>
+			<summary>
+				<section label="Penicillin allergic patients" id="279612">
+					<fragment>If spectinomycin is used for pharyngeal gonorrhea, patients should have a culture of the oropharynx performed three to five days after treatment to verify eradication of infection, since eradication rates in this site are typically lower than other sites.</fragment>
+				</section>
+			</summary>
+			<category term="C0001758" scheme="gov.nih.nlm.semanticType.hlca" label="after treatment"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H279639"/>
+			<id>209289</id>
+			<summary>
+				<section label="Pregnant women" id="279639">
+					<fragment>Pregnant women with uncomplicated gonorrheal infection should be treated with dual therapy with ceftriaxone plus azithromycin;</fragment>
+				</section>
+			</summary>
+			<category term="6" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H279639"/>
+			<id>209292</id>
+			<summary>
+				<section label="Pregnant women" id="279639">
+					<fragment>Since the discontinuation of production of spectinomycin in January 2006 in the United States, the only other acceptable treatment alternative is azithromycin monotherapy (2 g orally) for both gonorrhea and chlamydia.</fragment>
+				</section>
+			</summary>
+			<category term="C0457454" scheme="gov.nih.nlm.semanticType.hlca" label="discontinuation"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H279639"/>
+			<id>209294</id>
+			<summary>
+				<section label="Pregnant women" id="279639">
+					<fragment>All pregnant women with pelvic inflammatory disease should be hospitalized and given parenteral antibiotics, due to the potential complications of infection resulting in adverse pregnancy outcomes.</fragment>
+				</section>
+			</summary>
+			<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotics"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H4144118"/>
+			<id>209297</id>
+			<summary>
+				<section label="HIV counseling and testing" id="4144118">
+					<fragment>Persons diagnosed with a sexually transmitted infection are at high risk for HIV infection and should be routinely tested.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H4144118"/>
+			<id>209298</id>
+			<summary>
+				<section label="HIV counseling and testing" id="4144118">
+					<fragment>One study demonstrated that 27 percent of persons who had recently acquired HIV infection (n = 191) were diagnosed with gonorrhea in the 12 months preceding HIV acquisition.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H4144362"/>
+			<id>209300</id>
+			<summary>
+				<section label="Pregnancy testing" id="4144362">
+					<fragment>Women with reproductive potential and urogenital gonococcal infection should undergo pregnancy testing.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H22560034"/>
+			<id>209301</id>
+			<summary>
+				<section label="Test of cure" id="22560034">
+					<fragment>Patients who finish a recommended regimen for treatment of uncomplicated gonorrheal infections (specifically, a combination regimen containing ceftriaxone) and have no further symptoms do not need to return for a test of cure.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="4" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H22560034"/>
+			<id>209302</id>
+			<summary>
+				<section label="Test of cure" id="22560034">
+					<fragment>However, we perform a test of cure seven days following therapy for any patient who receives an alternate regimen (eg, azithromycin monotherapy or a regimen based on an oral cephalosporin such as cefixime), regardless of the initial anatomic site of infection.</fragment>
+				</section>
+			</summary>
+			<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporin"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H22560034"/>
+			<id>209304</id>
+			<summary>
+				<section label="Test of cure" id="22560034">
+					<fragment>We favor culture for test of cure as it also allows for susceptibility testing, and it is unknown if NAAT performed less than three weeks following therapy will result in false positive results due to detection of nonviable organisms after treatment (rather than persistent infection).</fragment>
+				</section>
+			</summary>
+			<category term="C0001758" scheme="gov.nih.nlm.semanticType.hlca" label="after treatment"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H2836827"/>
+			<id>209310</id>
+			<summary>
+				<section label="Monitoring for treatment failure" id="2836827">
+					<fragment>Any case of suspected treatment failure (isolation of N. gonorrhoeae following therapy and low suspicion for repeat infection) or resistant gonococcal isolates should be reported to governmental public health agencies.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H2836827"/>
+			<id>209312</id>
+			<summary>
+				<section label="Monitoring for treatment failure" id="2836827">
+					<fragment>Retreatment with a higher dose of ceftriaxone (eg, 500 mg), in combination with azithromycin, is a reasonable approach for patients who experience treatment failure following the recommended dose of ceftriaxone at 250 mg intramuscularly.</fragment>
+				</section>
+			</summary>
+			<category term="C0376495" scheme="gov.nih.nlm.semanticType.topp" label="Retreatment"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H22560061"/>
+			<id>209313</id>
+			<summary>
+				<section label="Retesting" id="22560061">
+					<fragment>Patients diagnosed with gonorrhea are at risk for repeat infection as well as infections with other sexually transmitted infections, including HIV.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889102"/>
+			<id>209316</id>
+			<summary>
+				<section label="POSTGONOCOCCAL URETHRITIS" id="7889102">
+					<fragment>Postgonococcal urethritis may be related to other copathogens, such as chlamydia, trichomonas, or Mycoplasma genitalia.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889102"/>
+			<id>209318</id>
+			<summary>
+				<section label="POSTGONOCOCCAL URETHRITIS" id="7889102">
+					<fragment>One study in Japan evaluated the incidence of postgonococcal urethritis in 390 men with culture-proven N. gonorrhoeae who were initially treated with either a cephalosporin or spectinomycin.</fragment>
+				</section>
+			</summary>
+			<category term="C3536856" scheme="gov.nih.nlm.semanticType.antb" label="cephalosporin"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889102"/>
+			<id>209320</id>
+			<summary>
+				<section label="POSTGONOCOCCAL URETHRITIS" id="7889102">
+					<fragment>Three hundred twenty-seven patients (84 percent) returned to clinic after treatment for gonorrhea;</fragment>
+				</section>
+			</summary>
+			<category term="C0001758" scheme="gov.nih.nlm.semanticType.hlca" label="after treatment"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889102"/>
+			<id>209322</id>
+			<summary>
+				<section label="POSTGONOCOCCAL URETHRITIS" id="7889102">
+					<fragment>The study was significant for the following results: One hundred four patients (36 percent) had persistent urethritis, as diagnosed by the presence of &gt;=5 polymorphonuclear leukocytes;</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889102"/>
+			<id>209324</id>
+			<summary>
+				<section label="POSTGONOCOCCAL URETHRITIS" id="7889102">
+					<fragment>In a multivariate analysis, C. trachomatis coinfection was associated with an 11-fold greater risk of postgonococcal urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="C0185026" scheme="gov.nih.nlm.semanticType.topp" label="fold"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889102"/>
+			<id>209325</id>
+			<summary>
+				<section label="POSTGONOCOCCAL URETHRITIS" id="7889102">
+					<fragment>When 66 patients with chlamydial infection were excluded, coinfection with M. genitalium or U. urealyticum biovar 2 was independently associated with an increased risk of postgonococcal urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889102"/>
+			<id>209326</id>
+			<summary>
+				<section label="POSTGONOCOCCAL URETHRITIS" id="7889102">
+					<fragment>This study supports concurrent treatment of chlamydia infection in patients with a diagnosis of gonorrhea.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889102"/>
+			<id>209328</id>
+			<summary>
+				<section label="POSTGONOCOCCAL URETHRITIS" id="7889102">
+					<fragment>A prevalence study conducted in 381 women attending a sexually transmitted infection (STI) clinic in North Carolina identified 23 patients with gonorrhea using nucleic acid amplification tests (NAATs);</fragment>
+				</section>
+			</summary>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+			<category term="C1269815" scheme="gov.nih.nlm.semanticType.hlca" label="identified 23 patients"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889102"/>
+			<id>209331</id>
+			<summary>
+				<section label="POSTGONOCOCCAL URETHRITIS" id="7889102">
+					<fragment>Clinical trials comparing doxycycline with azithromycin suggest significantly higher rates of eradication of M. genitalia with azithromycin, although overall cure rates are low (66 to 89 percent) compared with the desired cure rate for most STIs of 95 percent.</fragment>
+				</section>
+			</summary>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STIs"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889102"/>
+			<id>209333</id>
+			<summary>
+				<section label="POSTGONOCOCCAL URETHRITIS" id="7889102">
+					<fragment>Trichomonas vaginalis is also known to cause urethritis in men, and empiric treatment with metronidazole or tinidazole should be provided if culture or NAATs for detection cannot be performed.</fragment>
+				</section>
+			</summary>
+			<category term="C0025872" scheme="gov.nih.nlm.semanticType.phsu" label="metronidazole"/>
+			<category term="C0040263" scheme="gov.nih.nlm.semanticType.phsu" label="tinidazole"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H4146309"/>
+			<id>209342</id>
+			<summary>
+				<section label="Expedited partner therapy" id="4146309">
+					<fragment>Expedited partner therapy (EPT) is the clinical practice of treating the sex partners of patients diagnosed with sexually transmitted infections (STIs) without formal evaluation of the partner(s), by providing prescriptions or medications to the patient to deliver to the partner(s).</fragment>
+				</section>
+			</summary>
+			<category term="C0039512" scheme="gov.nih.nlm.semanticType.phsu" label="EPT"/>
+			<category term="C0308779" scheme="gov.nih.nlm.semanticType.phsu" label="deliver"/>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STIs"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H4146309"/>
+			<id>209343</id>
+			<summary>
+				<section label="Expedited partner therapy" id="4146309">
+					<fragment>Advocates for EPT cite its overall positive impact on reducing rates of reinfection and increasing the proportion of patients receiving therapeutic interventions.</fragment>
+				</section>
+			</summary>
+			<category term="C0039512" scheme="gov.nih.nlm.semanticType.phsu" label="EPT"/>
+			<category term="C0391422" scheme="gov.nih.nlm.semanticType.orch" label="impact"/>
+			<category term="C0808232" scheme="gov.nih.nlm.semanticType.topp" label="therapeutic interventions"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H4146309"/>
+			<id>209344</id>
+			<summary>
+				<section label="Expedited partner therapy" id="4146309">
+					<fragment>In randomized trials, expedited partner therapy was more effective than traditional notification programs (ie, the patient notifies the partner of the need for evaluation and treatment) in reducing persistent or recurrent urogenital gonococcal infection among index patients.</fragment>
+				</section>
+			</summary>
+			<category term="C0422202" scheme="gov.nih.nlm.semanticType.hlca" label="notification"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H4146309"/>
+			<id>209346</id>
+			<summary>
+				<section label="Expedited partner therapy" id="4146309">
+					<fragment>Furthermore, the preferred treatment regimen for gonorrhea is a parenteral and oral antibiotic combination that cannot be delivered using EPT.</fragment>
+				</section>
+			</summary>
+			<category term="C0039512" scheme="gov.nih.nlm.semanticType.phsu" label="EPT"/>
+			<category term="C0308779" scheme="gov.nih.nlm.semanticType.phsu" label="delivered"/>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotic"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H4146309"/>
+			<id>209347</id>
+			<summary>
+				<section label="Expedited partner therapy" id="4146309">
+					<fragment>Given emerging resistance among gonococcal isolates, we are in agreement with the CDC which recommends avoiding EPT for gonorrhea, particularly among MSM since this group is at increased risk for coinfection with other STIs including undiagnosed HIV.</fragment>
+				</section>
+			</summary>
+			<category term="C0039512" scheme="gov.nih.nlm.semanticType.phsu" label="EPT"/>
+			<category term="C0390068" scheme="gov.nih.nlm.semanticType.orch" label="CDC"/>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STIs"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889919"/>
+			<id>209358</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="7889919">
+					<fragment>Gonococcal infections, including urethritis, cervicitis, epididymitis, and proctitis, are a significant cause of morbidity among sexually active men and women.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889919"/>
+			<id>209366</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="7889919">
+					<fragment>Because of this trend and the lack of new, effective antimicrobials in advanced product development, we suggest dual rather than monotherapy for the treatment of gonococcal infections.</fragment>
+				</section>
+			</summary>
+			<category term="C1136254" scheme="gov.nih.nlm.semanticType.phsu" label="antimicrobials"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889919"/>
+			<id>209374</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="7889919">
+					<fragment>Pregnant women with uncomplicated gonorrheal infection should be treated with dual therapy with ceftriaxone plus azithromycin since doxycycline should be avoided during pregnancy.</fragment>
+				</section>
+			</summary>
+			<category term="6" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889919"/>
+			<id>209376</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="7889919">
+					<fragment>Persons diagnosed with a sexually transmitted infection are at high risk for HIV infection and should be offered testing.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889919"/>
+			<id>209377</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="7889919">
+					<fragment>Patients who finish a recommended regimen for treatment of uncomplicated gonorrheal infections do not need to return for a test of cure.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889919"/>
+			<id>209378</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="7889919">
+					<fragment>We perform a test of cure with culture, if available, seven days following therapy for any patient who receives an alternate regimen (eg, azithromycin monotherapy or cefixime-based regimen).</fragment>
+				</section>
+			</summary>
+			<category term="C0060400" scheme="gov.nih.nlm.semanticType.antb" label="cefixime"/>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/15892#H7889919"/>
+			<id>209381</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="7889919">
+					<fragment>For sex partners of patients with documented gonococcal infection, we suggest not routinely employing expedited partner therapy.</fragment>
+				</section>
+			</summary>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+	</feed>
+	<feed>
+		<title>Mycoplasma genitalium infection in men and women</title>
+		<category term="C0313589" scheme="gov.nih.nlm.semanticType.imft" label="CO2"/>
+		<category term="C0048442" scheme="gov.nih.nlm.semanticType.orch" label="meta"/>
+		<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+		<category term="C2354505" scheme="gov.nih.nlm.semanticType.orch" label="CI"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+		<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+		<category term="C0655415" scheme="gov.nih.nlm.semanticType.phsu" label="PMNs"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STIs"/>
+		<category term="C0655415" scheme="gov.nih.nlm.semanticType.phsu" label="PMNs"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+		<category term="C2354505" scheme="gov.nih.nlm.semanticType.orch" label="CI"/>
+		<category term="C0278293" scheme="gov.nih.nlm.semanticType.topp" label="procedure"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+		<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STIs"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+		<category term="C0185047" scheme="gov.nih.nlm.semanticType.topp" label="stripping"/>
+		<category term="C1171956" scheme="gov.nih.nlm.semanticType.phsu" label="bp"/>
+		<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+		<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+		<category term="C0022914" scheme="gov.nih.nlm.semanticType.antb" label="lactams"/>
+		<category term="C0282215" scheme="gov.nih.nlm.semanticType.antb" label="beta-lactams"/>
+		<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotics"/>
+		<category term="C0003240" scheme="gov.nih.nlm.semanticType.antb" label="macrolides"/>
+		<category term="C0309022" scheme="gov.nih.nlm.semanticType.phsu" label="erythromycin"/>
+		<category term="C0949665" scheme="gov.nih.nlm.semanticType.phsu" label="fluoroquinolones"/>
+		<category term="C0966794" scheme="gov.nih.nlm.semanticType.phsu" label="tetracyclines"/>
+		<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotic"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+		<category term="C1512346" scheme="gov.nih.nlm.semanticType.hlca" label="encounter"/>
+		<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screening"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+		<category term="C0635269" scheme="gov.nih.nlm.semanticType.aapp" label="HSV"/>
+		<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+		<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+		<category term="C0628370" scheme="gov.nih.nlm.semanticType.orch" label="TMA"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+		<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+		<id>83202</id>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966210"/>
+			<id>212863</id>
+			<summary>
+				<section label="MICROBIOLOGY" id="11966210">
+					<fragment>M. genitalium was first described in 1981 after being isolated from the urethral specimens of two men diagnosed with nongonococcal urethritis (NGU).</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966210"/>
+			<id>212867</id>
+			<summary>
+				<section label="MICROBIOLOGY" id="11966210">
+					<fragment>Its genomic structure is similar to the larger and more well-known pathogen Mycoplasma pneumoniae, a cause of atypical bacterial pneumonia.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966210"/>
+			<id>212869</id>
+			<summary>
+				<section label="MICROBIOLOGY" id="11966210">
+					<fragment>Growth is optimal at 37o Celsius in an anaerobic atmosphere of nitrogen with 5 percent CO2.</fragment>
+				</section>
+			</summary>
+			<category term="C0313589" scheme="gov.nih.nlm.semanticType.imft" label="CO2"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H860473"/>
+			<id>212879</id>
+			<summary>
+				<section label="Disease associations" id="860473">
+					<fragment>Epidemiological studies have linked M. genitalium infection with urethritis in men and, to a lesser extent, cervicitis and pelvic inflammatory disease (PID) in women.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966254"/>
+			<id>212880</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="11966254">
+					<fragment>Infection with M. genitalium has been strongly associated with acute nongonococcal urethritis (NGU).</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966254"/>
+			<id>212881</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="11966254">
+					<fragment>In a meta-analysis of 19 observational studies that evaluated M. genitalium infection using polymerase chain reaction (PCR) assays, 436 of 2069 patients with NGU (21.1 percent) had M. genitalium detected compared with 121 of 1810 controls (6.7 percent, pooled odds ratio [OR] 3.8, 95% CI 3.0-4.9).</fragment>
+				</section>
+			</summary>
+			<category term="C0048442" scheme="gov.nih.nlm.semanticType.orch" label="meta"/>
+			<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+			<category term="C2354505" scheme="gov.nih.nlm.semanticType.orch" label="CI"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966254"/>
+			<id>212883</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="11966254">
+					<fragment>M. genitalium infection accounts for 15 to 25 percent of NGU cases reported per year among men in the United States.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966254"/>
+			<id>212884</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="11966254">
+					<fragment>Among men with NCNGU, M. genitalium has been detected in 18 to 46 percent of cases.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966254"/>
+			<id>212885</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="11966254">
+					<fragment>Similarly, M. genitalium detection is frequent in men with persistent or recurrent urethritis following empiric therapy, particularly when doxycycline instead of azithromycin was used.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966254"/>
+			<id>212886</id>
+			<summary>
+				<section label="Nongonococcal urethritis" id="11966254">
+					<fragment>M. genitalium may also be associated with urethritis in women, although data are too limited to draw clear conclusions.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966261"/>
+			<id>212887</id>
+			<summary>
+				<section label="Cervicitis" id="11966261">
+					<fragment>M. genitalium is a newly recognized sexually transmitted infection (STI) in women, although its role in cervicitis is not fully established as epidemiological studies are conflicting.</fragment>
+				</section>
+			</summary>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966261"/>
+			<id>212889</id>
+			<summary>
+				<section label="Cervicitis" id="11966261">
+					<fragment>As an example, in a study of 719 women who had cervical specimens obtained at an STI clinic, women with M. genitalium detected by PCR were more likely to have mucopurulent cervicitis (defined by the presence of either visible purulent discharge or &gt;=30 polymorphonuclear cells [PMNs] per high power field on Gram stain of cervical smear) compared with those without detectable M. genitalium (48 versus 28.6 percent).</fragment>
+				</section>
+			</summary>
+			<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+			<category term="C0655415" scheme="gov.nih.nlm.semanticType.phsu" label="PMNs"/>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966261"/>
+			<id>212890</id>
+			<summary>
+				<section label="Cervicitis" id="11966261">
+					<fragment>After controlling for infections with other STIs that cause cervicitis, the study observed a threefold increased risk of mucopurulent cervicitis in women infected with M. genitalium.</fragment>
+				</section>
+			</summary>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STIs"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966261"/>
+			<id>212892</id>
+			<summary>
+				<section label="Cervicitis" id="11966261">
+					<fragment>In one prospective study of 170 women who presented to an STI clinic in France with abnormal vaginal discharge, the prevalence of M. genitalium was 38 percent, but its detection was not associated with signs (erythematous cervix, mucopurulent discharge, or &gt;=10 PMNs per high power field in the cervical smear) or symptoms of cervicitis.</fragment>
+				</section>
+			</summary>
+			<category term="C0655415" scheme="gov.nih.nlm.semanticType.phsu" label="PMNs"/>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966261"/>
+			<id>212893</id>
+			<summary>
+				<section label="Cervicitis" id="11966261">
+					<fragment>Similarly, in a study of 331 adolescent women presenting with genitourinary symptoms or STI risk factors to an urban health center in the United States, M. genitalium was detected in 22.4 percent but was not associated with vaginal symptoms or signs (purulent cervical discharge or cervical friability) of cervicitis.</fragment>
+				</section>
+			</summary>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966268"/>
+			<id>212898</id>
+			<summary>
+				<section label="Pelvic inflammatory disease" id="11966268">
+					<fragment>The following studies illustrate the range of findings: In a study of 50 women with nongonococcal, nonchlamydial PID, M. genitalium was present in 14 percent of endometrial biopsies.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966268"/>
+			<id>212899</id>
+			<summary>
+				<section label="Pelvic inflammatory disease" id="11966268">
+					<fragment>In a study of women presenting to a Kenyan STI clinic with pelvic pain, M. genitalium was detected from cervical and/or endometrial samples more frequently in the 58 women with histologically diagnosed endometritis than in the 57 without (16 versus 2 percent).</fragment>
+				</section>
+			</summary>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966268"/>
+			<id>212900</id>
+			<summary>
+				<section label="Pelvic inflammatory disease" id="11966268">
+					<fragment>In a prospective study of 2246 sexually active female college students, the baseline prevalence of M. genitalium in self-collected vaginal specimens was low (3.3 percent), and there was a nonsignificant increase in incidence of PID over a 12-month period among women with detectable M. genitalium compared with those in whom it was not detected (risk ratio 2.35, 95% CI 0.74-7.46).</fragment>
+				</section>
+			</summary>
+			<category term="C2354505" scheme="gov.nih.nlm.semanticType.orch" label="CI"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966268"/>
+			<id>212901</id>
+			<summary>
+				<section label="Pelvic inflammatory disease" id="11966268">
+					<fragment>In a smaller prospective study of women undergoing termination of pregnancy in Sweden, the incidence of postprocedure PID was higher among the 49 women who tested positive for M. genitalium at baseline than among the 168 STI-negative controls matched for age and procedure (12.2 versus 2.4 percent).</fragment>
+				</section>
+			</summary>
+			<category term="C0278293" scheme="gov.nih.nlm.semanticType.topp" label="procedure"/>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+			<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966268"/>
+			<id>212903</id>
+			<summary>
+				<section label="Pelvic inflammatory disease" id="11966268">
+					<fragment>Although PID in general is associated with infertility, it is unclear whether M. genitalium leads to tubal factor infertility, with different studies showing conflicting results.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H23914721"/>
+			<id>212908</id>
+			<summary>
+				<section label="Risk factors for infection" id="23914721">
+					<fragment>Risk factors associated with M. genitalium infection appear to be similar to those associated with C. trachomatis infection.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H23914721"/>
+			<id>212911</id>
+			<summary>
+				<section label="Risk factors for infection" id="23914721">
+					<fragment>In a study of female sex workers in Uganda, the prevalence of M. genitalium was higher in HIV-positive women than in HIV-negative women.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H23915541"/>
+			<id>212917</id>
+			<summary>
+				<section label="infection with other sexually transmitted infections" id="23915541">
+					<fragment>Co-infections with M. genitalium and other STIs have frequently been reported among high-risk men and women.</fragment>
+				</section>
+			</summary>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STIs"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H23915541"/>
+			<id>212918</id>
+			<summary>
+				<section label="infection with other sexually transmitted infections" id="23915541">
+					<fragment>As an example, in a study of men with urethritis, 35 percent of those with C. trachomatis, 14 percent of those with N. gonorrhoeae, and 19 percent with both infections were also infected with M. genitalium.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H23915541"/>
+			<id>212920</id>
+			<summary>
+				<section label="infection with other sexually transmitted infections" id="23915541">
+					<fragment>The high frequency of STI co-infections in M. genitalium-positive individuals suggests the possibility of shared epidemiologic characteristics.</fragment>
+				</section>
+			</summary>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966290"/>
+			<id>212924</id>
+			<summary>
+				<section label="Urethritis in men" id="11966290">
+					<fragment>When present, the typical symptoms of urethritis caused by M. genitalium are similar to those reported in urethritis from other causes and include dysuria, urethral pruritus, and purulent or mucopurulent urethral discharge.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966290"/>
+			<id>212925</id>
+			<summary>
+				<section label="Urethritis in men" id="11966290">
+					<fragment>Although up to 42 percent of nongonococcal urethritis (NGU) cases are asymptomatic, NGU due to M. genitalium infection is more frequently associated with symptomatic urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="4" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966290"/>
+			<id>212926</id>
+			<summary>
+				<section label="Urethritis in men" id="11966290">
+					<fragment>As an example, in one study of 30 men with M. genitalium infection, 70 percent reported symptoms.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966290"/>
+			<id>212928</id>
+			<summary>
+				<section label="Urethritis in men" id="11966290">
+					<fragment>However, the discharge may not be grossly evident, and urethral stripping, or milking, may be necessary for detection, in contrast with gonococcal urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="C0185047" scheme="gov.nih.nlm.semanticType.topp" label="stripping"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966290"/>
+			<id>212930</id>
+			<summary>
+				<section label="Urethritis in men" id="11966290">
+					<fragment>M. genitalium infection may also be associated with balanitis (inflammation of the glans penis) and posthitis (inflammation of the foreskin).</fragment>
+				</section>
+			</summary>
+			<category term="5" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966297"/>
+			<id>212931</id>
+			<summary>
+				<section label="Cervicitis" id="11966297">
+					<fragment>Women with cervicitis due to M. genitalium frequently have no symptoms at all, similar to those with cervicitis due to C. trachomatis.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966297"/>
+			<id>212932</id>
+			<summary>
+				<section label="Cervicitis" id="11966297">
+					<fragment>When present, symptoms associated with M. genitalium infection are usually nonspecific, with the most commonly reported symptom being vaginal discharge.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966297"/>
+			<id>212934</id>
+			<summary>
+				<section label="Cervicitis" id="11966297">
+					<fragment>Cervical inflammation is the most common manifestation of M. genitalium infection in women and is usually described as mucopurulent cervicitis (MPC).</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966297"/>
+			<id>212935</id>
+			<summary>
+				<section label="Cervicitis" id="11966297">
+					<fragment>A multitude of examination and microscopic findings of cervical inflammation have been associated with M. genitalium infection, including the presence of purulent or mucopurulent cervical discharge, cervical friability, and elevated numbers of polymorphonuclear leukocytes cells on vaginal wet smear or cervical fluid Gram stain.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966304"/>
+			<id>212938</id>
+			<summary>
+				<section label="Pelvic inflammatory disease" id="11966304">
+					<fragment>In a study of women with clinically suspected PID, women with M. genitalium-associated PID were less likely to have elevated systemic inflammatory markers or elevated leukocyte count and were less likely to present with mucopurulent cervicitis or report high pain scores when compared with women with N. gonorrhoeae infection.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966304"/>
+			<id>212939</id>
+			<summary>
+				<section label="Pelvic inflammatory disease" id="11966304">
+					<fragment>Women with PID due to M. genitalium and C. trachomatis reported similar symptoms.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H99103136"/>
+			<id>212953</id>
+			<summary>
+				<section label="Diagnostic tests" id="99103136">
+					<fragment>The two most common DNA targets for NAATs are a 78 base pair (bp) region of the M. genitalium adhesion protein and a 517 bp region of the 16S rRNA gene.</fragment>
+				</section>
+			</summary>
+			<category term="C1171956" scheme="gov.nih.nlm.semanticType.phsu" label="bp"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H99103136"/>
+			<id>212954</id>
+			<summary>
+				<section label="Diagnostic tests" id="99103136">
+					<fragment>Assays amplifying these two genomic targets are able to detect as few as 25 copies of DNA per reaction in vitro and demonstrate comparable sensitivity for M. genitalium detection from vaginal specimens.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966318"/>
+			<id>212958</id>
+			<summary>
+				<section label="Optimal urogenital specimen" id="11966318">
+					<fragment>The optimal genital specimens for M. genitalium detection with NAATs in men and women are unclear.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966318"/>
+			<id>212962</id>
+			<summary>
+				<section label="Optimal urogenital specimen" id="11966318">
+					<fragment>Among men, the diagnostic performance of first-void urine specimens in detecting M. genitalium is higher than that of urethral smear specimens.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966318"/>
+			<id>212965</id>
+			<summary>
+				<section label="Optimal urogenital specimen" id="11966318">
+					<fragment>In one study of 400 women presenting to a STI clinic, the relative sensitivity of PCR for M. genitalium was 86 percent with vaginal swabs, 73 percent with endocervical material, and 61 percent with first-void urine.</fragment>
+				</section>
+			</summary>
+			<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+			<category term="C0906802" scheme="gov.nih.nlm.semanticType.phsu" label="STI"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966318"/>
+			<id>212967</id>
+			<summary>
+				<section label="Optimal urogenital specimen" id="11966318">
+					<fragment>Other studies have reported higher sensitivity using first-void urine specimens compared with cervical swabs.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H111028269"/>
+			<id>212970</id>
+			<summary>
+				<section label="Whom to test" id="111028269">
+					<fragment>Additionally, we suggest testing patients with persistent symptoms of these conditions despite completion of appropriate therapy, regardless of initial cause, as M. genitalium infection is frequent in such settings.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854426"/>
+			<id>212973</id>
+			<summary>
+				<section label="Antimicrobial susceptibility" id="11854426">
+					<fragment>The lack of a cell wall renders M. genitalium resistant to antibiotics which target cell wall synthesis, such as penicillins and other beta-lactams.</fragment>
+				</section>
+			</summary>
+			<category term="C0022914" scheme="gov.nih.nlm.semanticType.antb" label="lactams"/>
+			<category term="C0282215" scheme="gov.nih.nlm.semanticType.antb" label="beta-lactams"/>
+			<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotics"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854426"/>
+			<id>212974</id>
+			<summary>
+				<section label="Antimicrobial susceptibility" id="11854426">
+					<fragment>M. genitalium is generally susceptible in vitro to the macrolides (azithromycin &gt; erythromycin and clarithromycin), fluoroquinolones, tetracyclines, and clindamycin.</fragment>
+				</section>
+			</summary>
+			<category term="C0003240" scheme="gov.nih.nlm.semanticType.antb" label="macrolides"/>
+			<category term="C0309022" scheme="gov.nih.nlm.semanticType.phsu" label="erythromycin"/>
+			<category term="C0949665" scheme="gov.nih.nlm.semanticType.phsu" label="fluoroquinolones"/>
+			<category term="C0966794" scheme="gov.nih.nlm.semanticType.phsu" label="tetracyclines"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854426"/>
+			<id>212976</id>
+			<summary>
+				<section label="Antimicrobial susceptibility" id="11854426">
+					<fragment>However, strains of M. genitalium with resistance to azithromycin have been reported following azithromycin treatment failure in patients with nongonococcal urethritis (NGU).</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854426"/>
+			<id>212977</id>
+			<summary>
+				<section label="Antimicrobial susceptibility" id="11854426">
+					<fragment>Resistance to azithromycin was mediated by mutations in the 23S rRNA gene that developed following antibiotic exposure, suggesting antibiotic-induced resistance.</fragment>
+				</section>
+			</summary>
+			<category term="C0603045" scheme="gov.nih.nlm.semanticType.aapp" label="antibiotic"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H1297537"/>
+			<id>212980</id>
+			<summary>
+				<section label="Empiric therapy" id="1297537">
+					<fragment>Empiric treatment for urethritis, cervicitis, and pelvic inflammatory disease includes therapy for C. trachomatis with either azithromycin or doxycycline.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H1297537"/>
+			<id>212981</id>
+			<summary>
+				<section label="Empiric therapy" id="1297537">
+					<fragment>Both agents have activity against M. genitalium, although clinical evidence suggests that azithromycin is superior to doxycycline.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H111028205"/>
+			<id>212983</id>
+			<summary>
+				<section label="Directed therapy" id="111028205">
+					<fragment>For men and women with documented M. genitalium infection who have not yet received empiric therapy, we suggest treatment with azithromycin.</fragment>
+				</section>
+			</summary>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+			<category term="5" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854546"/>
+			<id>212984</id>
+			<summary>
+				<section label="Urethritis" id="11854546">
+					<fragment>The superiority of azithromycin over doxycycline in men with urethritis due to M. genitalium has been demonstrated in several studies.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854546"/>
+			<id>212985</id>
+			<summary>
+				<section label="Urethritis" id="11854546">
+					<fragment>In a systematic review of observational studies and randomized trials of M. genitalium treatment, the pooled microbiologic cure rate was 371 of 466 (80 percent) in men treated with azithromycin compared with 88 of 212 (42 percent) in those treated with doxycycline.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854546"/>
+			<id>212986</id>
+			<summary>
+				<section label="Urethritis" id="11854546">
+					<fragment>In the two trials that were included, the following findings were noted: In a trial of men with NGU, 31 percent of participants tested positive for M. genitalium.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854546"/>
+			<id>212987</id>
+			<summary>
+				<section label="Urethritis" id="11854546">
+					<fragment>Clearance of M. genitalium occurred more frequently among the 45 men randomly assigned to receive azithromycin than the 39 who received doxycycline (67 versus 31 percent).</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854546"/>
+			<id>212988</id>
+			<summary>
+				<section label="Urethritis" id="11854546">
+					<fragment>In a separate trial of men with NGU, 20 percent of participants tested positive for M. genitalium.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854546"/>
+			<id>212989</id>
+			<summary>
+				<section label="Urethritis" id="11854546">
+					<fragment>Within 21 days posttreatment, more of the 23 men randomly assigned to receive azithromycin experienced bacteriologic cure than the 31 who received doxycycline (87 versus 45 percent).</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854546"/>
+			<id>212990</id>
+			<summary>
+				<section label="Urethritis" id="11854546">
+					<fragment>Four patients in each treatment group continued to have symptoms, regardless of M. genitalium eradication.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854546"/>
+			<id>212993</id>
+			<summary>
+				<section label="Urethritis" id="11854546">
+					<fragment>In an observational study of men with M. genitalium urethritis, 33 of 39 men (85 percent) treated with a single dose of azithromycin had a negative follow-up M. genitalium test compared with 45 of 47 men (96 percent) who received the five-day azithromycin course after having initially failed a course of doxycycline.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854836"/>
+			<id>212997</id>
+			<summary>
+				<section label="Cervicitis and pelvic inflammatory disease" id="11854836">
+					<fragment>As in men, azithromycin has been associated with higher rates of microbiologic cure than doxycycline in observational studies of M. genitalium urogenital disease.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854836"/>
+			<id>212998</id>
+			<summary>
+				<section label="Cervicitis and pelvic inflammatory disease" id="11854836">
+					<fragment>In a study of women with clinically suspected pelvic inflammatory disease (PID) treated with cefoxitin and doxycycline, M. genitalium infection was associated with a high treatment failure rate.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854836"/>
+			<id>212999</id>
+			<summary>
+				<section label="Cervicitis and pelvic inflammatory disease" id="11854836">
+					<fragment>Of 56 women with M. genitalium detected in the cervix or endometrium at baseline, 23 (41 percent) had persistent infection at 30 days.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H65928965"/>
+			<id>213001</id>
+			<summary>
+				<section label="Asymptomatic disease" id="65928965">
+					<fragment>Because of the limited availability of accurate diagnostic methods and the absence of screening guidelines for M. genitalium, it would be unlikely to encounter a patient with laboratory-confirmed M. genitalium infection who did not have signs, symptoms, or other suspicion for a urogenital tract infection.</fragment>
+				</section>
+			</summary>
+			<category term="C1512346" scheme="gov.nih.nlm.semanticType.hlca" label="encounter"/>
+			<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screening"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854719"/>
+			<id>213003</id>
+			<summary>
+				<section label="Persistent or recurrent disease" id="11854719">
+					<fragment>Persistent or recurrent signs or symptoms of urethritis, cervicitis, or PID following empiric treatment may be associated with suboptimally treated M. genitalium infection.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854719"/>
+			<id>213004</id>
+			<summary>
+				<section label="Persistent or recurrent disease" id="11854719">
+					<fragment>If the initial empiric regimen did not include azithromycin, we suggest treating for M. genitalium infection with azithromycin.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854719"/>
+			<id>213005</id>
+			<summary>
+				<section label="Persistent or recurrent disease" id="11854719">
+					<fragment>Treatment for other possible co-infections that were not initially targeted (eg, Trichomonas vaginalis) may also be warranted.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854719"/>
+			<id>213007</id>
+			<summary>
+				<section label="Persistent or recurrent disease" id="11854719">
+					<fragment>Treatment failure with the use of azithromycin may be mediated by the selection of drug resistance mutations during therapy.</fragment>
+				</section>
+			</summary>
+			<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="drug"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854719"/>
+			<id>213008</id>
+			<summary>
+				<section label="Persistent or recurrent disease" id="11854719">
+					<fragment>If the initial empiric regimen did include azithromycin, we favor testing for M. genitalium with nucleic acid amplification tests (NAATs) if available: For patients with documented M. genitalium infection as determined by NAAT, either on initial presentation or at follow-up, who fail azithromycin therapy, we suggest treatment with moxifloxacin.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11854719"/>
+			<id>213009</id>
+			<summary>
+				<section label="Persistent or recurrent disease" id="11854719">
+					<fragment>In the absence of M. genitalium NAAT availability, empiric treatment with moxifloxacin is reasonable for patients with persistent symptoms who were unresponsive to previous azithromycin treatment for nongonococcal urethritis or cervicitis and have no alternate identified etiological agent on repeat testing for other sexually transmitted infections (eg, N. gonorrhoeae, C. trachomatis, HSV, or, in women, T. vaginalis).</fragment>
+				</section>
+			</summary>
+			<category term="C0635269" scheme="gov.nih.nlm.semanticType.aapp" label="HSV"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H8890831"/>
+			<id>213014</id>
+			<summary>
+				<section label="PARTNER MANAGEMENT" id="8890831">
+					<fragment>Treatment for partners of patients with confirmed M. genitalium infection is the same as for patients.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966339"/>
+			<id>213015</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="11966339">
+					<fragment>Mycoplasma genitalium is an important cause of nongonococcal urethritis (NGU) in men, and there is growing evidence to support an association with cervicitis and pelvic inflammatory disease (PID) in women.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966339"/>
+			<id>213020</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="11966339">
+					<fragment>The risk factors for M. genitalium infection are similar to those associated with Chlamydia trachomatis infection, and include young age, nonwhite race, and an increasing number of recent sexual partners.</fragment>
+				</section>
+			</summary>
+			<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966339"/>
+			<id>213021</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="11966339">
+					<fragment>The clinical manifestations of M. genitalium urogenital infection are similar to those caused by C. trachomatis infection in both men and women.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966339"/>
+			<id>213024</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="11966339">
+					<fragment>However, if locally available, the diagnosis of M. genitalium infection can be made through detection of the organism using nucleic acid amplification tests (NAATs), such as polymerase chain reaction (PCR) and transcription-mediated amplification (TMA), on urogenital specimens such as first-void urine in men and a vaginal or cervical swab in women.</fragment>
+				</section>
+			</summary>
+			<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+			<category term="C0628370" scheme="gov.nih.nlm.semanticType.orch" label="TMA"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966339"/>
+			<id>213028</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="11966339">
+					<fragment>For men with urethritis and documented M. genitalium infection who have not yet received empiric therapy, we suggest treatment with a regimen that contains azithromycin.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966339"/>
+			<id>213029</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="11966339">
+					<fragment>For women with cervicitis or PID and documented M. genitalium infection who have not yet received empiric therapy, we suggest treatment with a regimen that contains azithromycin.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966339"/>
+			<id>213030</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="11966339">
+					<fragment>For patients with persistent signs or symptoms of urethritis, cervicitis, or PID whose initial regimen did not include azithromycin, we suggest treating with azithromycin.</fragment>
+				</section>
+			</summary>
+			<category term="C0386586" scheme="gov.nih.nlm.semanticType.topp" label="regimen"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966339"/>
+			<id>213031</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="11966339">
+					<fragment>For patients with persistent signs or symptoms of urethritis, cervicitis, or PID following azithromycin therapy who had documented M. genitalium infection at either the initial or follow-up presentation, we suggest treatment with moxifloxacin rather than an additional or longer course of azithromycin.</fragment>
+				</section>
+			</summary>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/83202#H11966339"/>
+			<id>213032</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="11966339">
+					<fragment>In the absence of M. genitalium NAAT availability, treatment with moxifloxacin is also reasonable for patients who have persistent symptoms despite azithromycin therapy and no alternate identified cause after repeat testing for other sexually transmitted infections.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+	</feed>
+	<feed>
+		<title>Genital Chlamydia trachomatis infections in men</title>
+		<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+		<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screening"/>
+		<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="aged"/>
+		<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="Screening"/>
+		<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="aged"/>
+		<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+		<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screening"/>
+		<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+		<category term="C0635269" scheme="gov.nih.nlm.semanticType.aapp" label="HSV"/>
+		<category term="C0644813" scheme="gov.nih.nlm.semanticType.orch" label="spectrum"/>
+		<category term="C0635269" scheme="gov.nih.nlm.semanticType.aapp" label="HSV"/>
+		<category term="C0185026" scheme="gov.nih.nlm.semanticType.topp" label="fold"/>
+		<category term="C0009574" scheme="gov.nih.nlm.semanticType.phsu" label="preparation"/>
+		<category term="C0728811" scheme="gov.nih.nlm.semanticType.phsu" label="masses"/>
+		<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screening"/>
+		<category term="C0142328" scheme="gov.nih.nlm.semanticType.orch" label="simplex"/>
+		<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+		<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+		<category term="C0882608" scheme="gov.nih.nlm.semanticType.imft" label="antigen"/>
+		<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+		<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screen"/>
+		<category term="C0728811" scheme="gov.nih.nlm.semanticType.phsu" label="masses"/>
+		<id>7590</id>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H4"/>
+			<id>212219</id>
+			<summary>
+				<section label="Prevalence" id="4">
+					<fragment>The prevalence of C. trachomatis infections in men is difficult to determine.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H4"/>
+			<id>212221</id>
+			<summary>
+				<section label="Prevalence" id="4">
+					<fragment>Although most chlamydia-associated morbidity is in women, infections in men provide the reservoir for new and recurrent infections in women.</fragment>
+				</section>
+			</summary>
+			<category term="4" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5"/>
+			<id>212224</id>
+			<summary>
+				<section label="United States" id="5">
+					<fragment>A number of studies have shown chlamydia infection to be frequent, especially in younger age groups, racial/ethnic minorities, MSM, and incarcerated populations: In one prospective cohort study from North Carolina, the rate of chlamydia infection in women was 662 cases per 100,000 person-years compared to 449 cases per 100,000 person-years in men.</fragment>
+				</section>
+			</summary>
+			<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5"/>
+			<id>212227</id>
+			<summary>
+				<section label="United States" id="5">
+					<fragment>Urine-based screening with NAAT of 1434 asymptomatic high school students in Baltimore and Denver found an overall prevalence of 6.8 percent for chlamydia infection.</fragment>
+				</section>
+			</summary>
+			<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screening"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5"/>
+			<id>212229</id>
+			<summary>
+				<section label="United States" id="5">
+					<fragment>A review of published data from national sources that included surveys of adolescents, MSM, correctional facilities and data from the National Health and Nutrition Examination Survey (NHANES 1999 to 2002), found that the burden of chlamydia infection was greatest among young men aged 20 to 24 years.</fragment>
+				</section>
+			</summary>
+			<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="aged"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5"/>
+			<id>212230</id>
+			<summary>
+				<section label="United States" id="5">
+					<fragment>With the exception of MSM, chlamydia infections were disproportionately higher in black and Hispanic men when compared to white men.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5"/>
+			<id>212233</id>
+			<summary>
+				<section label="United States" id="5">
+					<fragment>Screening 1338 asymptomatic men and women at four United States military sites, the overall prevalence of chlamydia infection was 4.2 percent, 4.1 percent in 1024 men and 4.4 percent in 314 women.</fragment>
+				</section>
+			</summary>
+			<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="Screening"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H6"/>
+			<id>212240</id>
+			<summary>
+				<section label="Outside the United States" id="6">
+					<fragment>unprotected sex with a commercial sex worker was a significant risk factor for infection among men aged 20 to 44 years.</fragment>
+				</section>
+			</summary>
+			<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="aged"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H7"/>
+			<id>212241</id>
+			<summary>
+				<section label="Risk factors" id="7">
+					<fragment>Less is known about the risk factors for Chlamydia infection in men than in women.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H7"/>
+			<id>212244</id>
+			<summary>
+				<section label="Risk factors" id="7">
+					<fragment>Infection was associated with young age, multiple sex partners, low/intermediate education, low condom use, and complaints of frequent urination in men.</fragment>
+				</section>
+			</summary>
+			<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H7"/>
+			<id>212245</id>
+			<summary>
+				<section label="Risk factors" id="7">
+					<fragment>Since asymptomatic infection is common in men, screening should be offered to those patients who have risk factors, even if they do not complain of symptoms consistent with urethritis or proctitis.</fragment>
+				</section>
+			</summary>
+			<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screening"/>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H8"/>
+			<id>212247</id>
+			<summary>
+				<section label="Transmission" id="8">
+					<fragment>Several reports suggest that asymptomatic partners facilitate the transmission of this pathogen.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H8"/>
+			<id>212248</id>
+			<summary>
+				<section label="Transmission" id="8">
+					<fragment>As an example, 20 of 31 women (65 percent) exposed to male sexual partners with chlamydia infection acquired the pathogen compared to 33 of 45 (73 percent) exposed to a partner with gonorrhea.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H9"/>
+			<id>212249</id>
+			<summary>
+				<section label="GONOCOCCAL) URETHRITIS" id="9">
+					<fragment>Urethritis in men has traditionally been classified as gonococcal and non-gonococcal.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H9"/>
+			<id>212253</id>
+			<summary>
+				<section label="GONOCOCCAL) URETHRITIS" id="9">
+					<fragment>Thus, it is safe to assume that the number of NGU cases is at least double that of diagnosed chlamydial infections in women.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H10"/>
+			<id>212255</id>
+			<summary>
+				<section label="Definition and clinical manifestations" id="10">
+					<fragment>Urethral inflammation documented by the presence of a mucopurulent discharge or leukocytes on Gram stain.</fragment>
+				</section>
+			</summary>
+			<category term="C1301725" scheme="gov.nih.nlm.semanticType.hlca" label="documented"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H10"/>
+			<id>212256</id>
+			<summary>
+				<section label="Definition and clinical manifestations" id="10">
+					<fragment>However, not all patients with symptomatic urethritis have elevated levels of urethral leukocytes.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H10"/>
+			<id>212257</id>
+			<summary>
+				<section label="Definition and clinical manifestations" id="10">
+					<fragment>Patients with NGU typically present with a mucoid or watery discharge, and dysuria is often a prominent complaint.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H11"/>
+			<id>212265</id>
+			<summary>
+				<section label="Differential diagnosis of urethritis" id="11">
+					<fragment>The most comprehensive study to evaluate the etiologic spectrum of nongonococcal urethritis tested 329 symptomatic men and 307 asymptomatic controls for C. trachomatis, M. genitalium, HSV types 1 and 2, T. vaginalis, U. urealyticum, U. parvum, Gardnerella vaginalis, and adenoviruses.</fragment>
+				</section>
+			</summary>
+			<category term="C0635269" scheme="gov.nih.nlm.semanticType.aapp" label="HSV"/>
+			<category term="C0644813" scheme="gov.nih.nlm.semanticType.orch" label="spectrum"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H11"/>
+			<id>212269</id>
+			<summary>
+				<section label="Differential diagnosis of urethritis" id="11">
+					<fragment>Furthermore, most of the herpetic cases were related to HSV-1 in the absence of any visible ulcerative lesions.</fragment>
+				</section>
+			</summary>
+			<category term="C0635269" scheme="gov.nih.nlm.semanticType.aapp" label="HSV"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H11"/>
+			<id>212274</id>
+			<summary>
+				<section label="Differential diagnosis of urethritis" id="11">
+					<fragment>A case-control study in heterosexual men visiting an urban STD clinic found that isolation of M. genitalium carried a 6.5-fold increased risk of NGU, while U. urealyticum was not associated with these symptoms.</fragment>
+				</section>
+			</summary>
+			<category term="C0185026" scheme="gov.nih.nlm.semanticType.topp" label="fold"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H11"/>
+			<id>212275</id>
+			<summary>
+				<section label="Differential diagnosis of urethritis" id="11">
+					<fragment>Lack of association of U. urealyticum with NGU urethritis was also demonstrated in the above study.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H11"/>
+			<id>212277</id>
+			<summary>
+				<section label="Differential diagnosis of urethritis" id="11">
+					<fragment>In men, a wet preparation is insensitive, and culture testing of an urethral swab, urine, and semen is required for optimal sensitivity.</fragment>
+				</section>
+			</summary>
+			<category term="C0009574" scheme="gov.nih.nlm.semanticType.phsu" label="preparation"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H16"/>
+			<id>212298</id>
+			<summary>
+				<section label="OTHER CHLAMYDIAL SYNDROMES" id="16">
+					<fragment>C. trachomatis can cause other syndromes in men including proctitis, epididymitis, some cases of prostatitis, and reactive arthritis (formerly Reiter syndrome).</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H16"/>
+			<id>212299</id>
+			<summary>
+				<section label="OTHER CHLAMYDIAL SYNDROMES" id="16">
+					<fragment>Unlike in women, asymptomatic chlamydial infection has not been associated with infertility in men.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H17"/>
+			<id>212300</id>
+			<summary>
+				<section label="Chlamydial proctitis" id="17">
+					<fragment>Chlamydial proctitis, defined as inflammation of the distal rectal mucosa, is relatively uncommon and occurs almost exclusively in men who have sex with men (MSM) who have had receptive rectal intercourse.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H17"/>
+			<id>212301</id>
+			<summary>
+				<section label="Chlamydial proctitis" id="17">
+					<fragment>Symptoms include anal rectal pain, discharge, tenesmus, and constipation.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H17"/>
+			<id>212302</id>
+			<summary>
+				<section label="Chlamydial proctitis" id="17">
+					<fragment>Some individuals with chlamydial proctitis are asymptomatic or minimally symptomatic.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H17"/>
+			<id>212303</id>
+			<summary>
+				<section label="Chlamydial proctitis" id="17">
+					<fragment>An anoscopic exam is often useful to demonstrate mucosal friability, internal lesions, masses or polyps and to obtain rectal discharge for diagnostic specimens.</fragment>
+				</section>
+			</summary>
+			<category term="C0728811" scheme="gov.nih.nlm.semanticType.phsu" label="masses"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H17"/>
+			<id>212304</id>
+			<summary>
+				<section label="Chlamydial proctitis" id="17">
+					<fragment>Of 316 diagnosed rectal chlamydial infections in MSM who underwent screening for sexually transmitted diseases, 86 percent were asymptomatic.</fragment>
+				</section>
+			</summary>
+			<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screening"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H17"/>
+			<id>212306</id>
+			<summary>
+				<section label="Chlamydial proctitis" id="17">
+					<fragment>The differential diagnosis of proctitis in MSM includes N. gonorrhoeae, herpes simplex virus, and Treponema pallidum infections.</fragment>
+				</section>
+			</summary>
+			<category term="C0142328" scheme="gov.nih.nlm.semanticType.orch" label="simplex"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H19"/>
+			<id>212318</id>
+			<summary>
+				<section label="Epididymitis" id="19">
+					<fragment>N. gonorrhoeae or C. trachomatis are the most frequent pathogens in epididymitis among sexually active men &lt;35 years of age.</fragment>
+				</section>
+			</summary>
+			<category term="C0910022" scheme="gov.nih.nlm.semanticType.topp" label="age"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H19"/>
+			<id>212320</id>
+			<summary>
+				<section label="Epididymitis" id="19">
+					<fragment>In another study of 11 young men with epididymitis, PCR was positive for C. trachomatis in nine.</fragment>
+				</section>
+			</summary>
+			<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H19"/>
+			<id>212321</id>
+			<summary>
+				<section label="Epididymitis" id="19">
+					<fragment>Escherichia coli has also been implicated in epididymitis in homosexual men who are the insertive partners during anal intercourse.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H19"/>
+			<id>212322</id>
+			<summary>
+				<section label="Epididymitis" id="19">
+					<fragment>Asymptomatic urethritis frequently accompanies sexually transmitted epididymitis.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H24"/>
+			<id>212335</id>
+			<summary>
+				<section label="Prostatitis" id="24">
+					<fragment>As an example, chlamydia antigen was detected significantly more frequently in urine and prostate secretions from 55 patients with chronic prostatitis compared to 35 controls (25 versus 6 percent).</fragment>
+				</section>
+			</summary>
+			<category term="C0882608" scheme="gov.nih.nlm.semanticType.imft" label="antigen"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H25"/>
+			<id>212338</id>
+			<summary>
+				<section label="Reactive arthritis" id="25">
+					<fragment>Approximately 1 percent of men with urethritis develop reactive arthritis, and approximately one-third of these patients have the complete manifestations formerly referred to as Reiter syndrome (arthritis, uveitis, and urethritis).</fragment>
+				</section>
+			</summary>
+			<category term="4" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H25"/>
+			<id>212340</id>
+			<summary>
+				<section label="Reactive arthritis" id="25">
+					<fragment>In one series of 113 patients with Reiter syndrome, urethral cultures were positive for chlamydia in 39 percent overall and 69 percent of patients with signs of urethral inflammation.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H25"/>
+			<id>212341</id>
+			<summary>
+				<section label="Reactive arthritis" id="25">
+					<fragment>Newer diagnostic techniques have facilitated the detection of chlamydial DNA and RNA in synovial tissue, although the interpretation of these results is not clear.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H25"/>
+			<id>212342</id>
+			<summary>
+				<section label="Reactive arthritis" id="25">
+					<fragment>As an example, seven of nine patients with Reiter syndrome had a positive in situ hybridization test for chlamydial RNA from samples of synovial tissue compared to three of 13 patients without Reiter syndrome (the cause of the arthritis in these three patients was not otherwise defined).</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H25"/>
+			<id>212343</id>
+			<summary>
+				<section label="Reactive arthritis" id="25">
+					<fragment>In another study, PCR detected chlamydial DNA on stored synovial tissue biopsies from five of eight patients with sexually-acquired reactive arthritis and one control patient with another form of arthritis.</fragment>
+				</section>
+			</summary>
+			<category term="C0623757" scheme="gov.nih.nlm.semanticType.orch" label="PCR"/>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212354</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>Chlamydia trachomatis is the most common cause of bacterial sexually transmitted disease (STD) in both men and women.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212356</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>The prevalence of C. trachomatis infections in men is difficult to determine because it is common practice to screen women for chlamydia and to empirically treat men.</fragment>
+				</section>
+			</summary>
+			<category term="C3263684" scheme="gov.nih.nlm.semanticType.topp" label="screen"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212357</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>Although most chlamydia-associated morbidity is seen in women, infections in men provide the reservoir for new and recurrent infections in women.</fragment>
+				</section>
+			</summary>
+			<category term="4" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212358</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>Urethritis in men has traditionally been classified as gonococcal and non-gonococcal in etiology.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212359</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>C. trachomatis is the most commonly identified cause of non-gonococcal urethritis (NGU), Patients with NGU typically present with a mucoid or watery discharge with complain of dysuria.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212361</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>The diagnosis of urethritis is based on a Gram stain of penile discharge demonstrating &gt;5 WBCs/high power field or a positive leukocyte esterase test on first-void urine or a positive microscopic examination of urinary sediment demonstrating &gt;10 WBCs/high power field.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212364</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>The most sensitive and specific diagnostic method for either pathogen is nucleic acid amplification testing, which can be performed on urethral or urine specimens.</fragment>
+				</section>
+			</summary>
+			<category term="3" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212365</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>C. trachomatis can cause other syndromes in men including proctitis, epididymitis, and reactive arthritis.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212366</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>Symptoms of chlamydial proctitis include anal rectal pain, discharge, tenesmus, and constipation.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212367</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>Some individuals with chlamydial proctitis are asymptomatic or minimally symptomatic.</fragment>
+				</section>
+			</summary>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212368</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>An anoscopic exam is often useful to demonstrate mucosal friability, internal lesions, masses or polyps and to obtain diagnostic specimens.</fragment>
+				</section>
+			</summary>
+			<category term="C0728811" scheme="gov.nih.nlm.semanticType.phsu" label="masses"/>
+			<category term="1" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212369</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>Men with acute epididymitis typically have unilateral testicular pain and tenderness, hydrocele, and palpable swelling of the epididymis.</fragment>
+				</section>
+			</summary>
+			<category term="7" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212370</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>Radionuclide scanning of the scrotum is the preferred diagnostic test over ultrasound, where available.</fragment>
+				</section>
+			</summary>
+			<category term="2" scheme="org.openInfobutton.score"/>
+		</entry>
+		<entry>
+			<link href="http://www.uptodate.com/contents/7590#H5336137"/>
+			<id>212371</id>
+			<summary>
+				<section label="SUMMARY AND RECOMMENDATIONS" id="5336137">
+					<fragment>Approximately 1 percent of men with urethritis develop an inflammatory syndrome characterized by reactive arthritis, uveitis and urethritis.</fragment>
+				</section>
+			</summary>
+			<category term="4" scheme="org.openInfobutton.score"/>
+		</entry>
+	</feed>
+</aggregateKnowledgeResponse>

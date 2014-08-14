@@ -1,0 +1,84 @@
+<feed>
+	<category count="45" label="Adrenergic beta-Antagonists" term="C0001645"
+		scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="6" label="Metoprolol" term="C0025859"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="0" label="Pindolol" term="C0031937"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="0" label="Acebutolol" term="C0000946"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="2" label="Bisoprolol" term="C0053799"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="7" label="carvedilol" term="C0054836"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="2" label="nebivolol" term="C0068475"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+	</category>
+	<category count="41" label="Angiotensin-Converting Enzyme Inhibitors"
+		term="C0003015" scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="2" label="Enalapril" term="C0014025"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="3" label="Enalaprilat" term="C0014027"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="2" label="Perindopril" term="C0136123"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+	</category>
+	<category count="21" label="Aldosterone Antagonists" term="C0002007"
+		scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="9" label="Spironolactone" term="C0037982"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="8" label="eplerenone" term="C0961485"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+	</category>
+	<category count="23" label="Inotropic agent" term="C0304509"
+		scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="1" label="Inamrinone" term="C0002697"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="9" label="Digoxin" term="C0012265"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="5" label="Milrinone" term="C0128513"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+	</category>
+	<category count="10" label="Vasodilators" term="C2010769"
+		scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="5" label="Nitroglycerin" term="C0017887"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="3" label="Hydralazine" term="C0020223"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="6" label="Nitroprusside" term="C0028193"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+	</category>
+	<category count="3" label="Calcium channel blocker" term="C2757014"
+		scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="1" label="Verapamil" term="C0042523"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="2" label="Amlodipine" term="C0051696"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+	</category>
+	<category count="6" label="Angiotensin II receptor antagonist" term="C0521942"
+		scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="3" label="candesartan" term="C0717550"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+	</category>
+	<category count="31" label="Other" term="0" scheme="gov.nih.nlm.semanticType.phsu">
+		<category count="4" label="sildenafil " term="C0529793"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="0" label="Heparin" term="C0019134"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="3" label="Oxygen" term="C0030054" scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="2" label="Metformin" term="C0025598"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="2" label="Morphine Sulfate" term="C0066814"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="5" label="Aspirin" term="C0004057"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="1" label="tolvaptan" term="C1176308"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="1" label="Felodipine" term="C0015772"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="7" label="Furosemide" term="C0016860"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+		<category count="6" label="Dobutamine" term="C0012963"
+			scheme="gov.nih.nlm.semanticType.phsu" />
+	</category>
+</feed>

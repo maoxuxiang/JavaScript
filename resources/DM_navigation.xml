@@ -1,0 +1,45 @@
+<feed>
+	<category label = "Dipeptidyl peptidase-4 (DPP-4) inhibitors" term="C2917254" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label = "Sitagliptin" term="C1565750" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category term="C1611934" scheme="gov.nih.nlm.semanticType.phsu" label="saxagliptin"/>
+		<category term="C1958126" scheme="gov.nih.nlm.semanticType.phsu" label="alogliptin"/>
+		<category term="C2746078" scheme="gov.nih.nlm.semanticType.phsu" label="linagliptin"/>
+	</category>
+
+	<category label = "GLP-1 agonist" term= "C2916791" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label = "Liraglutide" term="C1456408" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Exenatide" term="C0167117" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+
+	<category label = "Sulfonylurea Compounds" term="C0038766" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label = "Gliclazide" term="C0017631" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Glimepiride" term="C0061323" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Glipizide" term="C0017642" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Glyburide" term="C0017628" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+
+	<category label = "Antidiabetics" term="C0935929" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label = "Amylin" term="C0063684" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Colesevelam" term="C0541155" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Metformin" term="C0025598" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Pramlintide" term="C0537551" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<!--<category label = "ezetimibe" term="C1142985" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "nateglinide" term="C0903898" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Perindopril+indapamide" term="C1273169" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Bromocriptine" term="C0006230" scheme="gov.nih.nlm.semanticType.phsu"/>-->
+		<category label = "Repaglinide" term="C0246689" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+	
+	<category label = "Thiazolidinediones" term="C1257987" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label = "Pioglitazone" term="C0071097" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Rosiglitazone" term="C0289313" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+
+	<category label = "Insulins" term="C1579433" scheme="gov.nih.nlm.semanticType.phsu">
+		<category label = "Insulin" term="C0021641" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Insulin, Isophane" term="C0021658" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Insulin, Lispro, Human" term="C0293359" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Insulin, Long-Acting" term="C0304870" scheme="gov.nih.nlm.semanticType.phsu"/>
+		<category label = "Insulin, Glargine, Human" term="C0907402" scheme="gov.nih.nlm.semanticType.phsu"/>
+	</category>
+</feed>

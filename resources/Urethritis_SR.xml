@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Knowledge Summary</title>
+	<updated>2014-02-14-07:00</updated>
+	<entry>
+		<title>Is asymptomatic non-chlamydial non-gonococcal urethritis associated with significant clinical consequences in men and their sexual partners: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21680671" title="Is asymptomatic non-chlamydial non-gonococcal urethritis associated with significant clinical consequences in men and their sexual partners: a systematic review."/>
+		<id>21680671</id>
+		<updated>2011-06-17</updated>
+		<summary/>
+		<content>
+			<section>
+				<fragment>Opinions are divided on whether to screen asymptomatic men for non-chlamydial non-gonococcal urethritis (NCNGU). We systematically reviewed the literature to determine whether male asymptomatic NCNGU is associated with significant clinical outcomes for men and/or their sexual partners. We searched electronic databases and reference lists from retrieved articles and reviews. No studies reporting clinical outcomes in men with asymptomatic NCNGU were identified. Two eligible studies report rates of sexually transmitted infections (STIs) in female partners of men with asymptomatic NCNGU; Chlamydia trachomatis was detected in 2.4% and 8.3% of these women. The evidence available is insufficient in quality and breadth to enable us to conclude whether asymptomatic NCNGU is associated with significant health consequences for men or their sexual partners; however, clinical consequences of asymptomatic NCNGU are poorly investigated. Clinicians should be aware of the limitations of the evidence on which current screening guidelines for asymptomatic men are based.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1258/ijsa.2011.010338" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.408100008964539" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Int J STD AIDS"/>
+	</entry>
+	<entry>
+		<title>Genital ulcerative disease and sexually transmitted urethritis and circumcision: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18073009" title="Genital ulcerative disease and sexually transmitted urethritis and circumcision: a meta-analysis."/>
+		<id>18073009</id>
+		<updated>2007-12-12</updated>
+		<summary/>
+		<content>
+			<section>
+				<fragment>The objective of the study was to determine the relationship of circumcision status to the risk for genital ulcerative disease (GUD) and sexually transmitted urethritis. A MEDLINE search and a review of references in published articles identified studies addressing the risk of sexually transmitted urethritis or GUD based on circumcision status. Meta-analyses, sensitivity analysis, and exploration for publication bias were performed. Thirty articles fulfilled the inclusion criteria. The data from one study were published twice. GUD showed a trend towards being more common in genitally intact men (random-effects summary odds ratio [OR] = 1.34, 95% confidence interval [CI] = 0.98-1.82). When comparing men with GUD to men with 'genital discharge syndrome' (GDS), genitally intact men were more likely to have GUD (OR = 2.31, 95% CI = 1.70-3.15). There was no difference in the risk for chancroid based on circumcision status (OR = 0.91, 95% CI = 0.40-2.05), gonorrhoea (OR = 1.03, 95% CI = 0.82-1.29), or Chlamydia trachomatis infections (OR = 0.62, 95% CI = 0.32-1.19). Genitally intact men were less likely to be diagnosed with 'GDS' (OR = 0.83, 95% CI = 0.67-1.01) or non-specific urethritis (OR = 0.80, 95% CI = 0.64-1.01). Adjustment for publication bias in the literature that applies to chlamydial infections gave a summary OR of 0.46 (95% CI = 0.22-0.97). Significant between-study heterogeneity was a consistent finding. In conclusion, genitally intact men may be at greater risk for GUD, whereas circumcised men may be at greater risk for acquiring sexually transmitted urethritis in general, but there is no statistically significant difference in risk of gonococcal infection. Significant between-study heterogeneity and evidence of publication bias exclude the possibility of reaching a definitive conclusion regarding the association of circumcision status and these sexually transmitted infections.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1258/095646207782717045" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="1" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.448100000619888" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Int J STD AIDS"/>
+	</entry>
+</feed>

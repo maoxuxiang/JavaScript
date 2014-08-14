@@ -1,0 +1,293 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	background: #f1f2f0;	
+}
+
+header {
+	background: #258dc8; /* Old browsers */
+	background: -moz-linear-gradient(top,  #258dc8 0%, #258dc8 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#258dc8), color-stop(100%,#258dc8)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #258dc8 0%,#258dc8 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #258dc8 0%,#258dc8 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #258dc8 0%,#258dc8 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #258dc8 0%,#258dc8 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#258dc8', endColorstr='#258dc8',GradientType=0 ); /* IE6-9 */
+	
+	text-align: center;
+	color: white;
+}
+
+a {
+	color: #5F9CDF;	
+}
+
+div#launch h1 {
+	text-align: center;
+}
+
+div#launch span.diseasetext {
+	text-decoration: underline;	
+}
+
+div#launch span.diseasetext:hover {
+	cursor: pointer;
+	color: blue;
+}
+
+div#main h1 {
+	text-align: center;	
+	font-size: 1.3em;
+	margin-bottom: -15px;
+}
+
+div#main h1 span.backtohome {
+	text-decoration: underline;
+	font-size: 1.0em;	
+}
+
+div#main h1 span.backtohome:hover {
+	cursor: pointer;
+}
+
+div#topTab {
+	color: #a4a59d;
+	border-bottom: 3px solid #d1d2d3;
+}
+
+div#topTab ul li {
+	font-weight: bold;
+	font-size: 15px;
+	margin-left: 19%;
+}
+
+div#topTab ul li.current {
+	border: 1px solid #d1d2d3;
+	border-bottom: 1px solid white;
+	border-radius: 5px 5px 0 0;
+	background: white;
+}
+
+div#topTab ul li:hover {
+	background: #e2e2e2; /* Old browsers */
+	background: -moz-linear-gradient(top,  #e2e2e2 0%, #dbdbdb 50%, #d1d1d1 51%, #fefefe 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e2e2e2), color-stop(50%,#dbdbdb), color-stop(51%,#d1d1d1), color-stop(100%,#fefefe)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=0 ); /* IE6-9 */
+
+	cursor: pointer;
+}
+/*
+div#content {
+	border-radius: 4px;
+	border: 1px solid #d1d2d3; 
+	box-shadow: 0 0 2px #dadada;
+	color: #a4a59d;
+}
+*/
+
+div#frontliner {
+	border-bottom: 3px solid #d1d2d3;
+	color: black;
+}
+
+div#problemList div.title, div#medication div.title {
+	border-bottom: 1px solid #d1d2d3;
+}
+
+div#problemList ul, div#medication ul {
+	margin-top: 10px;
+}
+
+div#problemList ul li, div#medication ul li {
+	font-size: 0.8em;	
+	line-height: 1.5em;
+	padding: 3px;
+}
+
+div#problemList ul li:hover {
+	cursor: pointer;
+	color: #58595B;
+}
+
+div#medication ul li div.upperlevel *:hover, div#medication ul li div.sublevel *:hover {
+	cursor: pointer;
+	color: #58595B;
+	text-decoration: none;
+}
+
+div#medication div.upperlevel div.filterOptionOnly, div#medication div.sublevel div.filterOptionOnly {
+	padding-left: 2px;
+	color: -webkit-link;
+}
+
+div#medication div.upperlevel div.filterOptionOnly:hover, div#medication div.sublevel div.filterOptionOnly:hover {
+	color: -webkit-link !important;
+}
+
+div#medication span.filterOptionNone {
+	cursor: pointer;
+	color: #1d6dcf;
+	font-size: 0.9em;	
+	font-weight: normal;
+	margin-left: 5px;
+}
+
+div#medication span.filterOptionNone:hover {
+	text-decoration: underline;	
+}
+
+div#medication li ul {
+	margin-left: 15px;	
+}
+
+div#medication div.content div.text {
+	display: inline;	
+}
+
+div#medication div.text {
+	margin-right: 3px;
+}
+
+div#medication div.filterOptionOnly {
+	display: none;
+	float: right;	
+}
+
+div#medication div.filterOptionOnly.show {
+	display: inline !important;
+	z-index: 10;
+}
+
+div#medication div.currentmed.text {
+	font-weight: bold;
+}
+
+div#summary div.fullscreenicon, div.closectfullscreen {
+	float: right;	
+	width: 10%;
+}
+
+div#summary div.ksummary {
+	color: #80817d;	
+}
+
+div#summary div.fullscreenicon img {
+	float: right;
+	height: 40%;
+	width: 40%;	
+	margin-top: -5px;
+}
+
+div.showfullscreen div.fullscreenicon img {
+	width: 20%;
+}
+
+div#upToDate div.fullscreenicon img {
+	width: 20%;
+}
+
+div#systematicReview div.ksummary span.tunecontent, div#clinicalTrial div.ksummary span.tunecontent {
+	color: #5F9CDF;	
+	margin-left: 5px;
+	text-decoration: underline;	
+}
+
+div#systematicReview div.ksummary span.tunecontent:hover, div#clinicalTrial div.ksummary span.tunecontent:hover {
+	cursor: pointer;
+}
+
+div#systematicReview div.ksummary span.relSentence span.results, div#clinicalTrial div.ksummary span.relSentence span.results  {
+	display: none;	
+}
+
+div#upToDate div.ksummary div.feedtitle:hover {
+	cursor: pointer;	
+}
+
+div#upToDate div.ksummary div.feed div.feedcontent div.sentence span.tunecontent {
+	color: #5F9CDF;	
+	margin-left: 5px;
+	text-decoration: underline;
+}
+
+div#upToDate div.ksummary div.feed div.feedcontent div.sentence span.tunecontent:hover {
+	cursor: pointer;	
+}
+
+div#upToDate div.ksummary div.feed div.feedcontent div.sentence span.previous, div#upToDate div.ksummary div.feed div.feedcontent div.sentence span.next{
+	display: none;	
+}
+
+div#flexcontent div#upToDate div.ksummary div.sentence a {
+	text-decoration: none;	
+}
+
+div#flexcontent div#upToDate div.ksummary div.sentence a:hover {
+	
+}
+
+div#systematicReview.showfullscreen div.header img, div#clinicalTrial.showfullscreen div.header img {
+	width: 25% !important;
+	height: 25% !important;	
+}
+
+div#summary div.fullscreenicon img:hover {
+	cursor: pointer;
+}
+
+div#summary div.title {
+	float: left;	
+	font-size: 80%;
+}
+
+div#summary .ksummary {
+	display: inline-block;
+	font-size: 0.8em;	
+}
+
+.ksummary div.feed {
+	/*border: 1px dotted #d1d2d3;*/
+}
+
+.ksummary div.feed.withmorebutton {
+	padding-bottom: 45px;
+}
+	
+div#summary .ksummary ul li {
+	margin-top: 15px;
+}
+
+div#patienthome div#patientinfo {
+	padding: 10px;
+}
+
+div.title {
+	font-weight: bold;	
+}
+
+span.highlight {
+	color: #5F9CDF;
+}
+
+span.bold {
+	font-weight: bold;	
+}
+span.selectedMedsMatch {
+	background-color: yellow;	
+}
+
+span.italic {
+	font-style: italic;	
+}
+
+button.more, button.utdmore {
+	float: right;
+	display: none;	
+}
+
+button.more {
+	margin-top: 10px;
+}

@@ -1,0 +1,82 @@
+@CHARSET "ISO-8859-1";
+
+/* Tool tip style */
+.ui-tooltip,.arrow:after {
+	background: white;
+	border: 2px solid #258DC8;
+}
+
+.ui-tooltip {
+	padding: 5px 10px;
+	color: black;
+	border-radius: 10px;
+	font: 0.8em "Helvetica Neue", Helvetica, Arial, "Lucida Grande",
+		sans-serif;
+	/*	text-transform: uppercase; */
+	box-shadow: 0 0 3px #e2e2e2;
+	max-width: 900px !important;
+}
+
+.arrow {
+	width: 70px;
+	height: 16px;
+	overflow: hidden;
+	position: absolute;
+	left: 50%;
+	margin-left: -35px;
+	bottom: -16px;
+}
+
+.arrow.top {
+	top: -16px;
+	bottom: auto;
+}
+
+.arrow.left {
+	left: 20%;
+}
+
+.arrow:after {
+	content: "";
+	position: absolute;
+	left: 20px;
+	top: -20px;
+	width: 25px;
+	height: 25px;
+	box-shadow: 6px 5px 9px -9px black;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	tranform: rotate(45deg);
+}
+
+.arrow.top:after {
+	bottom: -20px;
+	top: auto;
+}
+
+/* ajax loading */
+.modal {
+	display: none;
+	position: fixed;
+	z-index: 1000;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: rgba(255, 255, 255, .8)
+		url('/ksvis/images/loader.gif') 50% 50% no-repeat;
+}
+
+/* When the body has the loading class, we turn
+   the scrollbar off with overflow:hidden */
+body.loading {
+	overflow: hidden;
+}
+
+/* Anytime the body has the loading class, our
+   modal element will be visible */
+body.loading .modal {
+	display: block;
+}

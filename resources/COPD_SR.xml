@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Knowledge Summary - Treatment of Rheumatoid Arthritis</title>
+	<updated>2014-01-13-07:00</updated>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+	<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+	<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+	<category term="C0082607" scheme="gov.nih.nlm.semanticType.phsu" label="fluticasone"/>
+	<category term="C0082607" scheme="gov.nih.nlm.semanticType.phsu" label="fluticasone"/>
+	<category term="C0082607" scheme="gov.nih.nlm.semanticType.phsu" label="fluticasone"/>
+	<category term="C1276807" scheme="gov.nih.nlm.semanticType.phsu" label="Budesonide + formoterol"/>
+	<category term="C1276807" scheme="gov.nih.nlm.semanticType.orch" label="Budesonide + formoterol"/>
+	<category term="C1276807" scheme="gov.nih.nlm.semanticType.orch" label="Budesonide + formoterol"/>
+	<category term="C1276807" scheme="gov.nih.nlm.semanticType.orch" label="Budesonide + formoterol"/>
+	<category term="C1276807" scheme="gov.nih.nlm.semanticType.orch" label="Budesonide + formoterol"/>
+	<category term="C1276807" scheme="gov.nih.nlm.semanticType.orch" label="Budesonide + formoterol"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0082607" scheme="gov.nih.nlm.semanticType.phsu" label="fluticasone"/>
+	<category term="C0054201" scheme="gov.nih.nlm.semanticType.phsu" label="Budesonide"/>
+	<category term="C0060657" scheme="gov.nih.nlm.semanticType.phsu" label="formoterol"/>
+	<category term="C0060657" scheme="gov.nih.nlm.semanticType.orch" label="formoterol"/>
+	<category term="C0060657" scheme="gov.nih.nlm.semanticType.phsu" label="formoterol"/>
+	<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+	<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+	<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+	<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+	<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+	<category term="C0700580" scheme="gov.nih.nlm.semanticType.orch" label="Ipratropium Bromide"/>
+	<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+	<category term="C0700580" scheme="gov.nih.nlm.semanticType.orch" label="Ipratropium Bromide"/>
+	<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+	<category term="C1306772" scheme="gov.nih.nlm.semanticType.orch" label="tiotropium bromide"/>
+	<category term="C1306772" scheme="gov.nih.nlm.semanticType.orch" label="tiotropium bromide"/>
+	<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+	<category term="C0003402" scheme="gov.nih.nlm.semanticType.phsu" label="Antioxidants"/>
+	<category term="C0003402" scheme="gov.nih.nlm.semanticType.phsu" label="Antioxidants"/>
+	<category term="C0003402" scheme="gov.nih.nlm.semanticType.phsu" label="Antioxidants"/>
+	<category term="C0003402" scheme="gov.nih.nlm.semanticType.phsu" label="Antioxidants"/>
+	<category term="C0069590" scheme="gov.nih.nlm.semanticType.phsu" label="ORALIT"/>
+	<entry>
+		<title>Comparative safety of inhaled medications in patients with chronic obstructive pulmonary disease: systematic review and mixed treatment comparison meta-analysis of randomised controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/23042705" title="Comparative safety of inhaled medications in patients with chronic obstructive pulmonary disease: systematic review and mixed treatment comparison meta-analysis of randomised controlled trials."/>
+		<id>23042705</id>
+		<updated>2013-12-11</updated>
+		<summary>Our study provided a comparative safety spectrum for each category of inhaled medications. Tiotropium Soft Mist Inhaler had a higher risk of mortality and should be used with caution.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>The active-treatment comparative safety information for all inhaled medications in patients with chronic obstructive pulmonary disease (COPD) is limited. We aimed to compare the risk of overall and cardiovascular death for inhaled medications in patients with COPD.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Through systematic database searching, we identified randomised controlled trials of tiotropium Soft Mist Inhaler, tiotropium HandiHaler, long-acting β2 agonists (LABAs), inhaled corticosteroids (ICS), and LABA-ICS combination with at least a 6-month treatment duration. Direct comparison and mixed treatment comparison (MTC) meta-analyses were conducted to estimate the pooled ORs of death for each comparison.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>42 trials with 52 516 subjects were included. The MTC meta-analysis with the fixed effect model indicated tiotropium Soft Mist Inhaler was associated with an universally increased risk of overall death compared with placebo (OR 1.51; 95% CI 1.06 to 2.19), tiotropium HandiHaler (OR 1.65; 95% CI 1.13 to 2.43), LABA (OR 1.63; 95% CI 1.10 to 2.44) and LABA-ICS (OR 1.90; 95% CI 1.28 to 2.86). The risk was more evident for cardiovascular death, in patients with severe COPD, and at a higher daily dose. LABA-ICS was associated with the lowest risk of death among all treatments. No excess risk was noted for tiotropium HandiHaler or LABA. The results were similar for MTC and direct comparison meta-analyses, with less precision in the random effects model.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Our study provided a comparative safety spectrum for each category of inhaled medications. Tiotropium Soft Mist Inhaler had a higher risk of mortality and should be used with caution.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/thoraxjnl-2012-201926" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.889800012111664" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0013227" scheme="gov.nih.nlm.semanticType.phsu" label="Pharmaceutical Preparations"/>
+		<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+		<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+		<source type="Thorax"/>
+	</entry>
+	<entry>
+		<title>Computerized clinical decision support systems for chronic disease management: a decision-maker-researcher partnership systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21824386" title="Computerized clinical decision support systems for chronic disease management: a decision-maker-researcher partnership systematic review."/>
+		<id>21824386</id>
+		<updated>2011-09-12</updated>
+		<summary>A small majority (just over half) of CCDSSs improved care processes in chronic disease management and some improved patient health. Policy makers, healthcare administrators, and practitioners should be aware that the evidence of CCDSS effectiveness is limited, especially with respect to the small number and size of studies measuring patient outcomes.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>The use of computerized clinical decision support systems (CCDSSs) may improve chronic disease management, which requires recurrent visits to multiple health professionals, ongoing disease and treatment monitoring, and patient behavior modification. The objective of this review was to determine if CCDSSs improve the processes of chronic care (such as diagnosis, treatment, and monitoring of disease) and associated patient outcomes (such as effects on biomarkers and clinical exacerbations).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We conducted a decision-maker-researcher partnership systematic review. We searched MEDLINE, EMBASE, Ovid's EBM Reviews database, Inspec, and reference lists for potentially eligible articles published up to January 2010. We included randomized controlled trials that compared the use of CCDSSs to usual practice or non-CCDSS controls. Trials were eligible if at least one component of the CCDSS was designed to support chronic disease management. We considered studies 'positive' if they showed a statistically significant improvement in at least 50% of relevant outcomes.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Of 55 included trials, 87% (n = 48) measured system impact on the process of care and 52% (n = 25) of those demonstrated statistically significant improvements. Sixty-five percent (36/55) of trials measured impact on, typically, non-major (surrogate) patient outcomes, and 31% (n = 11) of those demonstrated benefits. Factors of interest to decision makers, such as cost, user satisfaction, system interface and feature sets, unique design and deployment characteristics, and effects on user workflow were rarely investigated or reported.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>A small majority (just over half) of CCDSSs improved care processes in chronic disease management and some improved patient health. Policy makers, healthcare administrators, and practitioners should be aware that the evidence of CCDSS effectiveness is limited, especially with respect to the small number and size of studies measuring patient outcomes.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1186/1748-5908-6-92" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3170626" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.116300001740456" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Implement Sci"/>
+	</entry>
+	<entry>
+		<title>Impact of care pathways for in-hospital management of COPD exacerbation: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21798538" title="Impact of care pathways for in-hospital management of COPD exacerbation: a systematic review."/>
+		<id>21798538</id>
+		<updated>2011-10-25</updated>
+		<summary>Research on COPD care pathways is very limited. The studies described few positive effects of the care pathways on diagnostic processes and on clinical outcomes. Though due to limited statistical analysis and weak design of the studies, the internal validity of results is limited. Therefore, based on these studies the impact of care pathways on COPD exacerbation is inconclusive. These findings indicate the need for properly designed research like a cluster randomized controlled trial to evaluate the impact of COPD care pathways on performance of care processes, clinical outcomes, and teamwork.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>In-hospital management of COPD exacerbation is suboptimal, and outcomes are poor. Care pathways are a possible strategy for optimizing care processes and outcomes.</fragment>
+			</section>
+			<section label="OBJECTIVES" id="OBJECTIVE">
+				<fragment>The aim of the literature review was to explore characteristics of existing care pathways for in-hospital management of COPD exacerbations and to address their impact on performance of care processes, clinical outcomes, and team functioning.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A literature search was conducted for articles published between 1990 and 2010 in the electronic databases of Medline, CINAHL, EMBASE, and Cochrane Library. Main inclusion criteria were (I) patients hospitalized for a COPD exacerbation; (II) implementation and evaluation of a care pathway; (III) report of original research, including experimental and quasi experimental designs, variance analysis, and interviews of professionals and patients about their perception on pathway effectiveness.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Four studies with a quasi experimental design were included. Three studies used a pre-post test design; the fourth study was a non randomized controlled trial comparing an experimental group where patients were treated according to a care pathway with a control group where usual care was provided. The four studied care pathways were multidisciplinary structured care plans, outlining time-specific clinical interventions and responsibilities by discipline. Statistic analyses were rarely performed, and the trials used very divergent indicators to evaluate the impact of the care pathways. The studies described positive effects on blood sampling, daily weight measurement, arterial blood gas measurement, referral to rehabilitation, feelings of anxiety, length of stay, readmission, and in-hospital mortality.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Research on COPD care pathways is very limited. The studies described few positive effects of the care pathways on diagnostic processes and on clinical outcomes. Though due to limited statistical analysis and weak design of the studies, the internal validity of results is limited. Therefore, based on these studies the impact of care pathways on COPD exacerbation is inconclusive. These findings indicate the need for properly designed research like a cluster randomized controlled trial to evaluate the impact of COPD care pathways on performance of care processes, clinical outcomes, and teamwork.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/j.ijnurstu.2011.06.006" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.250200003385544" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Int J Nurs Stud"/>
+	</entry>
+	<entry>
+		<title>Budesonide/formoterol vs. salmeterol/fluticasone in COPD: a systematic review and adjusted indirect comparison of pneumonia in randomised controlled trials.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21676119" title="Budesonide/formoterol vs. salmeterol/fluticasone in COPD: a systematic review and adjusted indirect comparison of pneumonia in randomised controlled trials."/>
+		<id>21676119</id>
+		<updated>2011-06-16</updated>
+		<summary>The results of the indirect comparison support the hypothesis that budesonide/formoterol is associated with fewer pneumonia events than salmeterol/fluticasone in chronic obstructive pulmonary disease. The limitations of the analysis are that the results from a single study, TORCH, have a large bearing on the overall findings of the analysis, and that there is heterogeneity in the length and the dosing of the included studies, although it does not appear that heterogeneity affected the reported results. Another important limitation is the lack of predefined diagnostic standards for pneumonia in these studies.</summary>
+		<content>
+			<section label="AIMS" id="OBJECTIVE">
+				<fragment>This analysis was designed to provide a comparison between budesonide/formoterol and salmeterol/fluticasone for the relative incidence of pneumonia adverse events, pneumonia serious adverse events and pneumonia-related mortality in patients being treated for chronic obstructive pulmonary disease.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>An initial literature search revealed no suitable head-to-head trials between budesonide/formoterol and salmeterol/fluticasone and therefore a systematic review was conducted to find randomised controlled trials providing data for input into an adjusted indirect comparison of the two combination treatments using placebo as a common comparator. The Bucher adjusted indirect comparison method was used to calculate odds ratios and 95% confidence intervals.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eight salmeterol/fluticasone trials and four budesonide/formoterol trials were identified as being relevant for the analyses. The proportion of patients experiencing a pneumonia adverse event was significantly lower with budesonide/formoterol than salmeterol/fluticasone (odds ratio, 0.47; 95% confidence interval, 0.28-0.80). The proportion of patients experiencing a pneumonia serious adverse event was also significantly lower with budesonide/formoterol than salmeterol/fluticasone (odds ratio, 0.41; 95% confidence interval, 0.19-0.86). However, there were too few events to draw any firm conclusions on pneumonia-related mortality.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The results of the indirect comparison support the hypothesis that budesonide/formoterol is associated with fewer pneumonia events than salmeterol/fluticasone in chronic obstructive pulmonary disease. The limitations of the analysis are that the results from a single study, TORCH, have a large bearing on the overall findings of the analysis, and that there is heterogeneity in the length and the dosing of the included studies, although it does not appear that heterogeneity affected the reported results. Another important limitation is the lack of predefined diagnostic standards for pneumonia in these studies.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1111/j.1742-1241.2011.02685.x" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="1" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.869300007820129" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0082607" scheme="gov.nih.nlm.semanticType.phsu" label="fluticasone"/>
+		<category term="C0082607" scheme="gov.nih.nlm.semanticType.phsu" label="fluticasone"/>
+		<category term="C0082607" scheme="gov.nih.nlm.semanticType.phsu" label="fluticasone"/>
+		<category term="C1276807" scheme="gov.nih.nlm.semanticType.phsu" label="Budesonide + formoterol"/>
+		<category term="C1276807" scheme="gov.nih.nlm.semanticType.orch" label="Budesonide + formoterol"/>
+		<category term="C1276807" scheme="gov.nih.nlm.semanticType.orch" label="Budesonide + formoterol"/>
+		<category term="C1276807" scheme="gov.nih.nlm.semanticType.orch" label="Budesonide + formoterol"/>
+		<category term="C1276807" scheme="gov.nih.nlm.semanticType.orch" label="Budesonide + formoterol"/>
+		<category term="C1276807" scheme="gov.nih.nlm.semanticType.orch" label="Budesonide + formoterol"/>
+		<source type="Int. J. Clin. Pract."/>
+	</entry>
+	<entry>
+		<title>Risk of fractures with inhaled corticosteroids in COPD: systematic review and meta-analysis of randomised controlled trials and observational studies.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/21602540" title="Risk of fractures with inhaled corticosteroids in COPD: systematic review and meta-analysis of randomised controlled trials and observational studies."/>
+		<id>21602540</id>
+		<updated>2011-07-21</updated>
+		<summary>Among patients with COPD, long-term exposure to fluticasone and budesonide is consistently associated with a modest but statistically significant increased likelihood of fractures.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>The effect of inhaled corticosteroids (ICS) on fracture risk in patients with chronic obstructive pulmonary disease (COPD) remains uncertain. The aim of this study was to evaluate the association between ICS and fractures in COPD.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>MEDLINE, EMBASE, regulatory documents and company registries were searched up to August 2010. Randomised controlled trials (RCTs) of budesonide or fluticasone versus control treatment for COPD (≥24 weeks duration) and controlled observational studies reporting on fracture risk with ICS exposure vs no exposure in COPD were included. Peto OR meta-analysis was used for fracture risk from RCTs while ORs from observational studies were pooled using the fixed effect inverse variance method. Dose-response analysis was conducted using variance-weighted least squares regression in the observational studies. Heterogeneity was assessed using the I(2) statistic.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Sixteen RCTs (14 fluticasone, 2 budesonide) with 17,513 participants, and seven observational studies (n=69,000 participants) were included in the meta-analysis. ICSs were associated with a significantly increased risk of fractures (Peto OR 1.27; 95% CI 1.01 to 1.58; p=0.04; I(2)=0%) in the RCTs. In the observational studies, ICS exposure was associated with a significantly increased risk of fractures (OR 1.21; 95% CI 1.12 to 1.32; p&lt;0.001; I(2)=37%), with each 500 μg increase in beclomethasone dose equivalents associated with a 9% increased risk of fractures, OR 1.09 (95% CI 1.06 to 1.12; p&lt;0.001).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Among patients with COPD, long-term exposure to fluticasone and budesonide is consistently associated with a modest but statistically significant increased likelihood of fractures.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/thx.2011.160028" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="2" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.82480001449585" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<category term="C0082607" scheme="gov.nih.nlm.semanticType.phsu" label="fluticasone"/>
+		<category term="C0054201" scheme="gov.nih.nlm.semanticType.phsu" label="Budesonide"/>
+		<source type="Thorax"/>
+	</entry>
+	<entry>
+		<title>COPD and chronic bronchitis risk of indoor air pollution from solid fuel: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/20335290" title="COPD and chronic bronchitis risk of indoor air pollution from solid fuel: a systematic review and meta-analysis."/>
+		<id>20335290</id>
+		<updated>2010-03-25</updated>
+		<summary>Despite heterogeneity across the selected studies, exposure to solid fuel smoke is consistently associated with COPD and chronic bronchitis. Efforts should be made to reduce exposure to solid fuel by using either cleaner fuel or relatively cleaner technology while performing domestic work.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Over half the world is exposed daily to the smoke from combustion of solid fuels. Chronic obstructive pulmonary disease (COPD) is one of the main contributors to the global burden of disease and can be caused by biomass smoke exposure. However, studies of biomass exposure and COPD show a wide range of effect sizes. The aim of this systematic review was to quantify the impact of biomass smoke on the development of COPD and define reasons for differences in the reported effect sizes.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>A systematic review was conducted of studies with sufficient statistical power to calculate the health risk of COPD from the use of solid fuel, which followed standardised criteria for the diagnosis of COPD and which dealt with confounding factors. The results were pooled by fuel type and country to produce summary estimates using a random effects model. Publication bias was also estimated.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>There were positive associations between the use of solid fuels and COPD (OR=2.80, 95% CI 1.85 to 4.0) and chronic bronchitis (OR=2.32, 95% CI 1.92 to 2.80). Pooled estimates for different types of fuel show that exposure to wood smoke while performing domestic work presents a greater risk of development of COPD and chronic bronchitis than other fuels.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Despite heterogeneity across the selected studies, exposure to solid fuel smoke is consistently associated with COPD and chronic bronchitis. Efforts should be made to reduce exposure to solid fuel by using either cleaner fuel or relatively cleaner technology while performing domestic work.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/thx.2009.124644" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.435799986124039" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Thorax"/>
+	</entry>
+	<entry>
+		<title>Interval versus continuous training in individuals with chronic obstructive pulmonary disease--a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19996334" title="Interval versus continuous training in individuals with chronic obstructive pulmonary disease--a systematic review."/>
+		<id>19996334</id>
+		<updated>2010-02-11</updated>
+		<summary>Interval and continuous training modalities did not differ in their effect on measures of exercise capacity or health-related quality of life. Interval training may be considered as an alternative to continuous training in patients with varying degrees of COPD severity.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>In patients with chronic obstructive pulmonary disease (COPD), interval exercise has gained recent attention as a possible means of achieving greater physiological training effects compared with continuous exercise. The primary aim of this systematic review was to compare the effects of interval versus continuous training on peak oxygen uptake, peak power, 6 minute walk test (6MWT) distance and health-related quality of life in individuals with COPD.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Randomised controlled trials comparing the effects of interval versus continuous training in patients with COPD were identified after searches of six databases and reference lists of appropriate studies in May 2009. Two reviewers independently assessed study quality. Weighted mean differences (WMD) with 95% CIs were calculated using a random effects model for measures of exercise capacity and health-related quality of life.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eight randomised controlled trials, with a total of 388 patients with COPD, met the inclusion criteria. No significant differences were found for peak power (WMD 1 W, 95% CI -1 to 3) or peak oxygen uptake (WMD -0.04 l/min, 95% CI -0.13 to 0.05) between interval and continuous training. The WMD for the Chronic Respiratory Questionnaire dyspnoea score was -0.2 units (95% CI -0.5 to 0.0). There was no difference in 6MWT distance between groups (WMD 4 m, 95% CI -15 to 23).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Interval and continuous training modalities did not differ in their effect on measures of exercise capacity or health-related quality of life. Interval training may be considered as an alternative to continuous training in patients with varying degrees of COPD severity.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/thx.2009.123000" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.638999998569489" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Thorax"/>
+	</entry>
+	<entry>
+		<title>Budesonide and the risk of pneumonia: a meta-analysis of individual patient data.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19716963" title="Budesonide and the risk of pneumonia: a meta-analysis of individual patient data."/>
+		<id>19716963</id>
+		<updated>2009-08-31</updated>
+		<summary>Budesonide treatment for 12 months does not increase the risk of pneumonia in patients with COPD during that time and therefore is safe for clinical use in such patients.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Concern is continuing about increased risk of pneumonia in patients with chronic obstructive pulmonary disease (COPD) who use inhaled corticosteroids. We aimed to establish the effects of inhaled budesonide on the risk of pneumonia in such patients.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We pooled patient data from seven large clinical trials of inhaled budesonide (320-1280 mug/day), with or without formoterol, versus control regimen (placebo or formoterol alone) in patients with stable COPD and at least 6 months of follow-up. The primary analysis compared treatment groups for the risk of pneumonia as an adverse event or serious adverse event during the trial or within 15 days of the trial end. Cox proportional hazards regression was used to analyse the data on an intention-to-treat basis. Data were adjusted for patients' age, sex, smoking status, body-mass index, and postbronchodilator percent of predicted forced expiratory volume in 1 s (FEV(1)).</fragment>
+			</section>
+			<section label="FINDINGS" id="RESULTS">
+				<fragment>We analysed data from 7042 patients, of whom 3801 were on inhaled budesonide and 3241 were on control treatment, with 5212 patient-years of exposure to treatment. We recorded no significant difference between treatment groups for the occurrence of pneumonia as an adverse event (3% [n=122 patients] vs 3% [n=103]; adjusted hazard ratio 1.05, 95% CI 0.81-1.37) or a serious adverse event (1% [n=53] vs 2% [n=50]; 0.92, 0.62-1.35), or for time to pneumonia as an adverse event (log-rank test 0.94) or a serious adverse event (0.61). Increasing age and decreasing percent of predicted FEV(1) were the only two variables that were significantly associated with occurrence of pneumonia as an adverse event or a serious adverse event.</fragment>
+			</section>
+			<section label="INTERPRETATION" id="CONCLUSIONS">
+				<fragment>Budesonide treatment for 12 months does not increase the risk of pneumonia in patients with COPD during that time and therefore is safe for clinical use in such patients.</fragment>
+			</section>
+			<section label="FUNDING" id="BACKGROUND">
+				<fragment>Michael Smith Foundation for Health Research.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1016/S0140-6736(09)61250-2" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="4" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.690199971199036" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0060657" scheme="gov.nih.nlm.semanticType.phsu" label="formoterol"/>
+		<category term="C0060657" scheme="gov.nih.nlm.semanticType.orch" label="formoterol"/>
+		<category term="C0060657" scheme="gov.nih.nlm.semanticType.phsu" label="formoterol"/>
+		<source type="Lancet"/>
+	</entry>
+	<entry>
+		<title>Pharmacologic treatments for chronic obstructive pulmonary disease: a mixed-treatment comparison meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19637942" title="Pharmacologic treatments for chronic obstructive pulmonary disease: a mixed-treatment comparison meta-analysis."/>
+		<id>19637942</id>
+		<updated>2009-07-29</updated>
+		<summary>Combination inhaled corticosteroid-long-acting beta(2)-agonist therapy was associated with the greatest positive effect on outcomes in patients with COPD. Of the bronchodilator monotherapies, tiotropium was associated with lower odds of having a COPD exacerbation or withdrawal from a study compared with long-acting beta(2)-agonists.</summary>
+		<content>
+			<section label="STUDY OBJECTIVE" id="OBJECTIVE">
+				<fragment>To assess the comparative efficacy of pharmacologic agents for the maintenance treatment of chronic obstructive pulmonary disease (COPD).</fragment>
+			</section>
+			<section label="DESIGN" id="METHODS">
+				<fragment>Traditional and mixed-treatment comparison (MTC) meta-analyses of randomized controlled trials.</fragment>
+			</section>
+			<section label="PATIENTS" id="METHODS">
+				<fragment>A total of 31,020 patients with COPD from 43 trials.</fragment>
+			</section>
+			<section label="MEASUREMENTS AND MAIN RESULTS" id="RESULTS">
+				<fragment>A systematic literature search of various databases (through October 2007) was performed to identify randomized controlled trials of long-acting beta(2)-agonists, tiotropium, inhaled corticosteroids, and/or combination therapy with an inhaled corticosteroid and a long-acting beta(2)-agonist in patients with COPD. Forty-three trials were included. Both meta-analyses were used to evaluate the occurrence of one or more episodes of COPD exacerbation, overall mortality, and patient withdrawal rates. With MTC analysis, long-acting beta(2)-agonists, tiotropium, inhaled corticosteroids, and combination inhaled corticosteroid-long-acting beta(2)-agonist therapy each decreased the odds of having an exacerbation by 16%, 31%, 15%, and 24%, respectively, compared with placebo. Moreover, tiotropium use reduced the odds of having at least one exacerbation by 18% compared with long-acting beta(2)-agonists and by 19% compared with inhaled corticosteroids alone. Each of the four drug classes was associated with significant odds reductions in patient withdrawals (26-41%) compared with placebo, and both tiotropium and combination therapy significantly decreased the odds of patient withdrawals compared with long-acting beta(2)-agonists or inhaled corticosteroids alone. Only combination therapy was associated with a mortality benefit, showing a 29% reduction compared with placebo and a 25% reduction compared with long-acting beta(2)-agonists alone. Compared with combination therapy, tiotropium use reduced exacerbations by 9% and increased mortality by only 4%. These findings did not demonstrate significant changes in the sensitivity or subgroup analyses, which were performed to evaluate the effect of heterogeneity among the included studies.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Combination inhaled corticosteroid-long-acting beta(2)-agonist therapy was associated with the greatest positive effect on outcomes in patients with COPD. Of the bronchodilator monotherapies, tiotropium was associated with lower odds of having a COPD exacerbation or withdrawal from a study compared with long-acting beta(2)-agonists.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1592/phco.29.8.891" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.982400000095367" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+		<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+		<source type="Pharmacotherapy"/>
+	</entry>
+	<entry>
+		<title>Short-term efficacy of upper-extremity exercise training in patients with chronic airway obstruction: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19282362" title="Short-term efficacy of upper-extremity exercise training in patients with chronic airway obstruction: a systematic review."/>
+		<id>19282362</id>
+		<updated>2009-05-04</updated>
+		<summary>The limited methodological quality of the studies retrieved prevented us from performing a meta-analysis, the results of which could be misleading. This systematic review shows that there is limited evidence examining UEET and that the evidence available is of poor quality. Therefore, a recommendation for the inclusion or exclusion of UEET in pulmonary rehabilitation programs for individuals with CAO is not possible. Further research is needed to definitively ascertain the effects of this training modality on patient-centered outcomes.</summary>
+		<content>
+			<section label="UNLABELLED">
+				<fragment>BACKGROUND, OBJECTIVES, AND MEASUREMENTS: Patients with chronic airway obstruction (CAO) frequently experience dyspnea and fatigue during activities performed by accessory muscles of ventilation, which competitively participate in arm elevation. This systematic review of randomized controlled trials (RCTs) concerning patients with CAO addresses the effects of upper-extremity exercise training (UEET), added to lower-extremity training or comprehensive pulmonary rehabilitation, on the following patient-centered outcomes: exercise capacity, symptoms, ability to perform daily activities, and health-related quality of life.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Studies were retrieved using comprehensive database and hand-search strategies. Two independent reviewers determined study eligibility based on inclusion criteria. A detailed description of treatments was mandatory. Reviewers rated study quality and extracted information on study methods, design, intervention, and results.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Forty publications were evaluated. Four RCTs met the inclusion criteria but had serious methodological limitations, which introduce possible biases that reduce their internal validity. The outcomes measured were heterogeneous, and the results were inconsistent regarding maximal exercise capacity, dyspnea, and health-related quality of life. No effect of UEET was demonstrated for measures of arm fatigue.</fragment>
+			</section>
+			<section label="LIMITATIONS AND CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>The limited methodological quality of the studies retrieved prevented us from performing a meta-analysis, the results of which could be misleading. This systematic review shows that there is limited evidence examining UEET and that the evidence available is of poor quality. Therefore, a recommendation for the inclusion or exclusion of UEET in pulmonary rehabilitation programs for individuals with CAO is not possible. Further research is needed to definitively ascertain the effects of this training modality on patient-centered outcomes.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.2522/ptj.20070368" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.555400013923645" scheme="org.openinfobutton.qualityProbability"/>
+		<source type="Phys Ther"/>
+	</entry>
+	<entry>
+		<title>Long-term use of inhaled corticosteroids and the risk of pneumonia in chronic obstructive pulmonary disease: a meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19204211" title="Long-term use of inhaled corticosteroids and the risk of pneumonia in chronic obstructive pulmonary disease: a meta-analysis."/>
+		<id>19204211</id>
+		<updated>2009-02-10</updated>
+		<summary>Among patients with COPD, inhaled corticosteroid use for at least 24 weeks is associated with a significantly increased risk of serious pneumonia, without a significantly increased risk of death.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Recent studies have suggested a possible association between pneumonia and the use of inhaled corticosteroids. We aimed to ascertain the risk of pneumonia with long-term inhaled corticosteroid use among patients with chronic obstructive pulmonary disease (COPD).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>We performed systematic searches with no date restrictions through June 30, 2008, of MEDLINE, EMBASE, the Cochrane Database of Systematic Reviews, regulatory documents, and trial registries. We included randomized controlled trials of any inhaled corticosteroid vs a control treatment for COPD, with at least 24 weeks of follow-up and reporting of pneumonia as an adverse event. Outcomes evaluated included any pneumonia, serious pneumonia, pneumonia-related mortality, and overall mortality.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eighteen randomized controlled trials (n = 16 996) with 24 to 156 weeks of follow-up were included after a detailed screening of 97 articles. Inhaled corticosteroids were associated with a significantly increased risk of any pneumonia (relative risk [RR], 1.60; 95% confidence interval [CI], 1.33-1.92 [P &lt; .001]; I(2) = 16%) and serious pneumonia (1.71; 1.46-1.99 [P &lt; .001]; I(2) = 0%) but without a significantly increased risk of pneumonia-related mortality (1.27; 0.80-2.03 [P = .31]; I(2) = 0%) or overall mortality (0.96; 0.86-1.08 [P = .51]; I(2) = 0%). Inhaled corticosteroids were associated with a significantly increased risk of serious pneumonia when compared with placebo (RR, 1.81; 95% CI, 1.44-2.29 [P &lt; .001]) or when the combination of inhaled corticosteroids and long-acting beta-agonists was compared with long-acting beta-agonists (1.68; 1.20-2.34 [P = .002]).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Among patients with COPD, inhaled corticosteroid use for at least 24 weeks is associated with a significantly increased risk of serious pneumonia, without a significantly increased risk of death.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/archinternmed.2008.550" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.653599977493286" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<category term="C0243192" scheme="gov.nih.nlm.semanticType.phsu" label="agonists"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<source type="Arch. Intern. Med."/>
+	</entry>
+	<entry>
+		<title>Inhaled corticosteroids in patients with stable chronic obstructive pulmonary disease: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/19033591" title="Inhaled corticosteroids in patients with stable chronic obstructive pulmonary disease: a systematic review and meta-analysis."/>
+		<id>19033591</id>
+		<updated>2008-11-26</updated>
+		<summary>Among patients with COPD, ICS therapy does not affect 1-year all-cause mortality. ICS therapy is associated with a higher risk of pneumonia. Future studies should determine whether specific subsets of patients with COPD benefit from ICS therapy.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Recent studies of inhaled corticosteroid (ICS) therapy for managing stable chronic obstructive pulmonary disease (COPD) have yielded conflicting results regarding survival and risk of adverse events.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To systematically review and quantitatively synthesize the effects of ICS therapy on mortality and adverse events in patients with stable COPD.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Search of MEDLINE, CENTRAL, EMBASE, CINAHL, Web of Science, and PsychInfo through February 9, 2008.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Eligible studies were double-blind, randomized controlled trials comparing ICS therapy for 6 or more months with nonsteroid inhaled therapy in patients with COPD.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>Two authors independently abstracted data including study characteristics, all-cause mortality, pneumonia, and bone fractures. The I(2) statistic was used to assess heterogeneity. Study-level data were pooled using a random-effects model (when I(2) &gt; or = 50%) or a fixed-effects model (when I(2) &lt; 50%). For the primary outcome of all-cause mortality at 1 year, our meta-analysis was powered to detect a 1.0% absolute difference in mortality, assuming a 2-sided alpha of .05 and power of 0.80.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>Eleven eligible randomized controlled trials (14,426 participants) were included. In trials with mortality data, no difference was observed in 1-year all-cause mortality (128 deaths among 4636 patients in the treatment group and 148 deaths among 4597 patients in the control group; relative risk [RR], 0.86; 95% confidence interval [CI], 0.68-1.09; P = .20; I(2) = 0%). In the trials with data on pneumonia, ICS therapy was associated with a significantly higher incidence of pneumonia (777 cases among 5405 patients in the treatment group and 561 cases among 5371 patients in the control group; RR, 1.34; 95% CI, 1.03-1.75; P = .03; I(2) = 72%). Subgroup analyses indicated an increased risk of pneumonia in the following subgroups: highest ICS dose (RR, 1.46; 95% CI, 1.10-1.92; P = .008; I(2) = 78%), shorter duration of ICS use (RR, 2.12; 95% CI, 1.47-3.05; P &lt; .001; I(2) = 0%), lowest baseline forced expiratory volume in the first second of expiration (RR, 1.90; 95% CI, 1.26-2.85; P = .002; I(2) = 0%), and combined ICS and bronchodilator therapy (RR, 1.57; 95% CI, 1.35-1.82; P &lt; .001; I(2) = 24%).</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>Among patients with COPD, ICS therapy does not affect 1-year all-cause mortality. ICS therapy is associated with a higher risk of pneumonia. Future studies should determine whether specific subsets of patients with COPD benefit from ICS therapy.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.2008.717" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="6" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.905099987983704" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<category term="C0001617" scheme="gov.nih.nlm.semanticType.horm" label="Adrenal Cortex Hormones"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>Inhaled anticholinergics and risk of major adverse cardiovascular events in patients with chronic obstructive pulmonary disease: a systematic review and meta-analysis.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18812535" title="Inhaled anticholinergics and risk of major adverse cardiovascular events in patients with chronic obstructive pulmonary disease: a systematic review and meta-analysis."/>
+		<id>18812535</id>
+		<updated>2008-09-24</updated>
+		<summary>Inhaled anticholinergics are associated with a significantly increased risk of cardiovascular death, MI, or stroke among patients with COPD.</summary>
+		<content>
+			<section label="CONTEXT" id="BACKGROUND">
+				<fragment>Inhaled anticholinergics (ipratropium bromide or tiotropium bromide) are widely used in patients with chronic obstructive pulmonary disease (COPD) but their effect on the risk of cardiovascular outcomes is unknown.</fragment>
+			</section>
+			<section label="OBJECTIVE" id="OBJECTIVE">
+				<fragment>To ascertain the cardiovascular risks of inhaled anticholinergics, including cardiovascular death, myocardial infarction (MI), and stroke.</fragment>
+			</section>
+			<section label="DATA SOURCES" id="METHODS">
+				<fragment>Systematic searches were conducted on March 19, 2008, of relevant articles in MEDLINE, the Cochrane Database of systematic reviews, regulatory authority Web sites in the United States and the United Kingdom, and manufacturers' trial registries with no date restrictions.</fragment>
+			</section>
+			<section label="STUDY SELECTION" id="METHODS">
+				<fragment>Randomized controlled trials of any inhaled anticholinergic for treatment of COPD that had at least 30 days of treatment and reported on cardiovascular events.</fragment>
+			</section>
+			<section label="DATA EXTRACTION" id="METHODS">
+				<fragment>The primary outcome was a composite of cardiovascular death, MI, or stroke. The secondary outcome was all-cause mortality. Relative risks (RRs) were estimated using fixed-effects models and statistical heterogeneity was estimated with the I(2) statistic.</fragment>
+			</section>
+			<section label="DATA SYNTHESIS" id="RESULTS">
+				<fragment>After a detailed screening of 103 articles, 17 trials enrolling 13,645 [corrected] patients were analyzed. Follow-up duration ranged from 6 weeks to 5 years. Cardiovascular death, MI, or stroke occurred in 134 of 6984 [corrected] patients (1.9%) [corrected] receiving inhaled anticholinergics and 83 of 6661 [corrected] patients (1.2%) receiving control therapy (RR, 1.60 [corrected] [95% confidence interval {CI}, 1.22-2.10]; [corrected] P &lt; .001, I(2) = 0%). Among individual components of the primary end point, inhaled anticholinergics significantly increased the risk of MI (RR, 1.52 [95% CI 1.04-2.22]; [corrected] P = .03, I(2) = 0%) and cardiovascular death (RR, 1.92 [95% CI, 1.23-3.00]; P = .004, [corrected] I(2) = 0%) without a statistically significant increase in the risk of stroke (RR, 1.46 [95% CI, 0.81-2.62]; P = .20, I(2) = 0%). All-cause mortality was reported in 146 [corrected] of the patients treated with inhaled anticholinergics (2.1%) and 108 [corrected] of the control patients (1.6%) (RR, 1.29 [95% CI, 1.00-1.65]; P = .05, I(2) = 0%) [corrected] A sensitivity analysis restricted to 6 [corrected] long-term trials (&gt;6 months) confirmed the significantly increased risk of cardiovascular death, MI, or stroke (2.9% of patients treated with anticholinergics vs 1.8% of the control patients; RR, 1.73 [95% CI, 1.27-2.35]; [corrected] P &lt; .001, I(2) = 0%).</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Inhaled anticholinergics are associated with a significantly increased risk of cardiovascular death, MI, or stroke among patients with COPD.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1001/jama.300.12.1439" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="7" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.6807000041008" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+		<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+		<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+		<category term="C0700580" scheme="gov.nih.nlm.semanticType.orch" label="Ipratropium Bromide"/>
+		<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+		<category term="C0700580" scheme="gov.nih.nlm.semanticType.orch" label="Ipratropium Bromide"/>
+		<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+		<category term="C1306772" scheme="gov.nih.nlm.semanticType.orch" label="tiotropium bromide"/>
+		<category term="C1306772" scheme="gov.nih.nlm.semanticType.orch" label="tiotropium bromide"/>
+		<category term="C0242896" scheme="gov.nih.nlm.semanticType.phsu" label="Anticholinergic Agents"/>
+		<source type="JAMA"/>
+	</entry>
+	<entry>
+		<title>Genetic variation and gene expression in antioxidant related enzymes and risk of COPD: a systematic review.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18566111" title="Genetic variation and gene expression in antioxidant related enzymes and risk of COPD: a systematic review."/>
+		<id>18566111</id>
+		<updated>2008-11-05</updated>
+		<summary>Network driven approaches that consider potential interaction between and among genes, smoke exposure and antioxidant intake are needed to fully characterise the role of oxidant/antioxidant balance in pathogenesis.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>Observational epidemiological studies of dietary antioxidant intake, serum antioxidant concentration and lung outcomes suggest that lower levels of antioxidant defences are associated with decreased lung function. Another approach to understanding the role of oxidant/antioxidant imbalance in the risk of chronic obstructive pulmonary disease (COPD) is to investigate the role of genetic variation in antioxidant enzymes, and indeed family based studies suggest a heritable component to lung disease. Many studies of the genes encoding antioxidant enzymes have considered COPD or COPD related outcomes, and a systematic review is needed to summarise the evidence to date, and to provide insights for further research.</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>Genetic association studies of antioxidant enzymes and COPD/COPD related traits, and comparative gene expression studies with disease or smoking as the exposure were systematically identified and reviewed. Antioxidant enzymes considered included enzymes involved in glutathione metabolism, in the thioredoxin system, superoxide dismutases (SOD) and catalase.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>A total of 29 genetic association and 15 comparative gene expression studies met the inclusion criteria. The strongest and most consistent effects were in the genes GCL, GSTM1, GSTP1 and SOD3. This review also highlights the lack of studies for genes of interest, particularly GSR, GGT and those related to TXN. There were limited opportunities to evaluate the contribution of a gene to disease risk through synthesis of results from different study designs, as the majority of studies considered either association of sequence variants with disease or effect of disease on gene expression.</fragment>
+			</section>
+			<section label="CONCLUSION" id="CONCLUSIONS">
+				<fragment>Network driven approaches that consider potential interaction between and among genes, smoke exposure and antioxidant intake are needed to fully characterise the role of oxidant/antioxidant balance in pathogenesis.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/thx.2007.086199" scheme="org.openInfobutton.DOI"/>
+		<category term="PMC3032799" scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="0" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.0898000001907349" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0003402" scheme="gov.nih.nlm.semanticType.phsu" label="Antioxidants"/>
+		<category term="C0003402" scheme="gov.nih.nlm.semanticType.phsu" label="Antioxidants"/>
+		<category term="C0003402" scheme="gov.nih.nlm.semanticType.phsu" label="Antioxidants"/>
+		<category term="C0003402" scheme="gov.nih.nlm.semanticType.phsu" label="Antioxidants"/>
+		<source type="Thorax"/>
+	</entry>
+	<entry>
+		<title>Short-course antibiotic treatment in acute exacerbations of chronic bronchitis and COPD: a meta-analysis of double-blind studies.</title>
+		<link href="http://www.ncbi.nlm.nih.gov/pubmed/18234905" title="Short-course antibiotic treatment in acute exacerbations of chronic bronchitis and COPD: a meta-analysis of double-blind studies."/>
+		<id>18234905</id>
+		<updated>2008-04-29</updated>
+		<summary>A short course of antibiotic treatment is as effective as the traditional longer treatment in patients with mild to moderate exacerbations of chronic bronchitis and COPD.</summary>
+		<content>
+			<section label="BACKGROUND" id="BACKGROUND">
+				<fragment>A study was undertaken to determine whether a short course of antibiotic treatment (&lt; or = 5 days) is as effective as the conventional longer treatment in acute exacerbations of chronic bronchitis and chronic obstructive pulmonary disease (COPD).</fragment>
+			</section>
+			<section label="METHODS" id="METHODS">
+				<fragment>MEDLINE, EMBASE and the Cochrane central register of controlled trials were searched to July 2006. Studies considered eligible were double-blind randomised clinical trials including adult patients &gt; or = 18 years of age with a clinical diagnosis of exacerbation of COPD or chronic bronchitis, no antimicrobial therapy at the time of diagnosis and random assignment to antibiotic treatment for &lt; or = 5 days versus &gt; 5 days. The primary outcome measure was clinical cure at early follow-up on an intention-to-treat basis.</fragment>
+			</section>
+			<section label="RESULTS" id="RESULTS">
+				<fragment>21 studies with a total of 10 698 patients were included. The average quality of the studies was high: the mean (SD) Jadad score was 3.9 (0.9). At early follow-up (&lt; 25 days), the summary odds ratio (OR) for clinical cure with short treatment versus conventional treatment was 0.99 (95% CI 0.90 to 1.08). At late follow-up the summary OR was 1.0 (95% CI 0.91 to 1.10) and the summary OR for bacteriological cure was 1.05 (95% CI 0.87 to 1.26). Similar summary ORs were observed for early cure in trials with the same antibiotic in both arms and in studies grouped by the antibiotic class used in the short-course arm.</fragment>
+			</section>
+			<section label="CONCLUSIONS" id="CONCLUSIONS">
+				<fragment>A short course of antibiotic treatment is as effective as the traditional longer treatment in patients with mild to moderate exacerbations of chronic bronchitis and COPD.</fragment>
+			</section>
+		</content>
+		<category scheme="org.openinfobutton.fundingSourceType"/>
+		<category term="10.1136/thx.2007.090613" scheme="org.openInfobutton.DOI"/>
+		<category scheme="org.openInfobutton.pubmedCentralID"/>
+		<category term="2" scheme="org.openInfobutton.editorialComments"/>
+		<category scheme="org.openinfobutton.actualSample"/>
+		<category term="0" scheme="org.openinfobutton.comparativeStudy"/>
+		<category term="0.717700004577637" scheme="org.openinfobutton.qualityProbability"/>
+		<category term="C0069590" scheme="gov.nih.nlm.semanticType.phsu" label="ORALIT"/>
+		<source type="Thorax"/>
+	</entry>
+</feed>
